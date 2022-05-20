@@ -9,12 +9,12 @@
 
 ### Two recent submissions from Eric S.
 
-## A Delta 14 inch Bandsaw
-# New tires and blocks
+### A Delta 14 inch Bandsaw
+#### New tires and blocks
 
 ![AppleWood-Pointe](Eric-S/Band-Saw.png)
 
-## A Rigid Drill Press
-# With internal and external lights
+### A Rigid Drill Press
+#### With internal and external lights
 
 ![AppleWood-Pointe](Eric-S/Drill-Press.png)
