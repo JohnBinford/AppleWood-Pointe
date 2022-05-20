@@ -8,7 +8,8 @@
 
 ## Recent Tools and Information
 
-### Two recent submissions from Eric S.
+
+### Two submissions from Eric S.
 
 ### A Delta 14 inch Bandsaw
 #### New tires and blocks
