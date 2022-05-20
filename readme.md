@@ -13,9 +13,9 @@
 ### A Delta 14 inch Bandsaw
 #### New tires and blocks
 
-![AppleWood-Pointe](Eric-S/Band-Saw.png)
+![AppleWood-Pointe](Eric-S/Band-Saw.jpg)
 
 ### A Rigid Drill Press
 #### With internal and external lights
 
-![AppleWood-Pointe](Eric-S/Drill-Press.png)
+![AppleWood-Pointe](Eric-S/Drill-Press.jpg)
