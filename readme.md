@@ -7,7 +7,7 @@
 - The table above shows recent activity, you can click the folders or activity to see the information.
   - Verbiage next to each folder indicates the most recent activity for that folder.
 ## Some Pictures from the Eden Prarie Shop!
-![AppleWood-Pointe](Other-shops/EP-Shop-1.jpg)
+![AppleWood-Pointe](Other-Shops/EP-Shop-1.jpg)
 
 
 
