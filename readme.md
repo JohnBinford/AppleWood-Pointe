@@ -8,7 +8,8 @@
 - Verbiage next to each folder indicates the most recent activity for that folder.
 - There is plumbing in place for a vent and some other service, and a "vault" near the door.
   - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
-  -  
+
+
 ## Some Pictures from the Eden Prarie Shop!
 
 ### From the Door. (Is that an exaust system in the background?)
@@ -23,6 +24,10 @@
 ![AppleWood-Pointe](Other-Shops/EP-Shop-5.jpg)
 ### A nice band saw.  At least one resident has a much newer one almost like it.
 ![AppleWood-Pointe](Other-Shops/EP-SHop-6.jpg)
+
+
+- I noted a nice air compressor in the "vault" near the door.  (There is a hose real on teh ceiling.)
+
 
 ## Submissions from residents!
 
