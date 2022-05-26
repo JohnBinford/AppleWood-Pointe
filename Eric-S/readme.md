@@ -1,43 +1,23 @@
-#  Apple Wood Pointe Hobby Shop
+#  Possible offering from Eric S.
 
-## This repository is a simple place to share ideas and pictures in order to prepair our hobbyshop at AWP.
+## Some samples until I take pictures of some potentially worthy tools
 
-- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
-- A folder will be created for each resident, and a master page will showplace various tools and ideas.
-- The table above shows recent activity, you can click the folders or activity to see the information.
-- Verbiage next to each folder indicates the most recent activity for that folder.
-- There is plumbing in place for a vent and some other service, and a "vault" near the door.
-  - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
-
-
-## Some Pictures from the Eden Prarie Shop!
-
-### From the Door. (Is that an exaust system in the background?)
-![AppleWood-Pointe](Other-Shops/EP-Shop-1.jpg)
-### From the center looking to the door's left.
-![AppleWood-Pointe](Other-Shops/Ep-Shop-2.jpg)
-### From a back corner.
-![AppleWood-Pointe](Other-Shops/EP-Shop-3.jpg)
-### The other way from the center.
-![AppleWood-Pointe](Other-Shops/EP-Shop-4.jpg)
-### A nice table saw!
-![AppleWood-Pointe](Other-Shops/EP-Shop-5.jpg)
-### A nice band saw.  At least one resident has a much newer one almost like it.
-![AppleWood-Pointe](Other-Shops/EP-SHop-6.jpg)
+- Besides the two samples pictured so far, I have a nice portable 10 inch table saw.
+- I'm sure someone has a better one!
+- Like all of us, I have a small collection of handheld power tools, and various have tools.
+  - Hand tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)
+- The mechanics tools will most likely go to a nephew :-)
+- Also have a Prusa 3DMK3S 3D printer, which I may keep upstairs.
+  - It would be nice to know if anyone shares this interest.  
 
 
-- I noted a nice air compressor in the "vault" near the door.  (There is a hose real on teh ceiling.)
-
-
-## Submissions from residents!
-
-
-### Two sample tool submissions from Eric S.
+### A couple of sample tool submissions from Eric S.
+#### Since we have a couple of years yet,  I will update this page as I sort things out.
 
 ### A Delta 14 inch Bandsaw
 #### New tires and blocks
 
-![AppleWood-Pointe](Eric-S/Band-Saw.jpg)
+!(Eric-S/Band-Saw.jpg)
 
 ### A Ridgid Drill Press
 #### With internal and external lights
