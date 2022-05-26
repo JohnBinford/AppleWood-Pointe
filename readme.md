@@ -6,13 +6,15 @@
 - A folder will be created for each resident, and a master page will showplace various tools and ideas.
 - The table above shows recent activity, you can click the folders or activity to see the information.
   - Verbiage next to each folder indicates the most recent activity for that folder.
+## Some Pictures from the Eden Prarie Shop!
+![AppleWood-Pointe](Other-shops/EP-Shop-1.jpg)
 
 
 
-## Recent Tools and Information
 
 
-### Two submissions from Eric S.
+
+### Two sample tool submissions from Eric S.
 
 ### A Delta 14 inch Bandsaw
 #### New tires and blocks
