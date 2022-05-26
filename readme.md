@@ -19,7 +19,7 @@
 
 ![AppleWood-Pointe](Eric-S/Band-Saw.jpg)
 
-### A Rigid Drill Press
+### A Ridgid Drill Press
 #### With internal and external lights
 
 ![AppleWood-Pointe](Eric-S/Drill-Press.jpg)
