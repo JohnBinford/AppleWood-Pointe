@@ -11,7 +11,7 @@
 
 
 ## Some Pictures from the Eden Prarie Shop!
-### Click the Picture for a High Definition Version!
+#### (Click the Picture for a High Definition Version!)
 <table>
   <tr>
     <td>From the Door</td>
