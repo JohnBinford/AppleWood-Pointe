@@ -54,7 +54,7 @@
     <td>Band Saw (New Tires and Blocks)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./Eric-S/Thumbnails/Band-Saw-T.jpg"></td>
     <td valign="top"><img src="./Eric-S/Thumbnails/Drill-Press-T.jpg"></td>
+    <td valign="top"><img src="./Eric-S/Thumbnails/Band-Saw-T.jpg"></td>
   </tr>
  </table>
