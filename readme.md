@@ -20,9 +20,9 @@
      <td>From the Back Corner</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-1-T.jpg"></td>
-    <td valign="top"><img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg"></td>
-    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-3-T.jpg"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-1-T.jpg" width = "32%"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg" width = "32%"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-3-T.jpg" width = "32%"></td>
   </tr>
  </table>
 
