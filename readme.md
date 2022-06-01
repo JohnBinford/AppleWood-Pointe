@@ -46,5 +46,5 @@
  |  Click the text below the thumbnails for large !!! images  | |
  | :---  | :--- |
  | ![Rigid Drill Press](./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
- | [Rigid Drill Press (High Def)](./Eric-S/Drill-Press.jpg) | [Delta Band Saw (High Def)](./Eric-S/Band-Saw.jpg)
+ | [Rigid Drill Press (High Definition)](./Eric-S/Drill-Press.jpg) | [Delta Band Saw (High Definition)](./Eric-S/Band-Saw.jpg)
  
