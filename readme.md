@@ -13,9 +13,18 @@
 ## Some Pictures from the Eden Prarie Shop!
 
 
-
-
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-1-T.jpg "From the Door") ![Eden Prarie Shop](./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg "From the Center")
+<table>
+  <tr>
+    <td>From the Door</td>
+     <td>From the Center</td>
+     <td>From the Back Corner</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-1-T.jpg"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-3-T.jpg"></td>
+  </tr>
+ </table>
 
 
 
