@@ -25,12 +25,12 @@
       </td>
     <td valign="top">
       <a href="./Other-Shops/Ep-Shop-2.jpg">
-      <img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg">
+      <img src="./Other-Shops/Thumbnails/EP-Shop-2-T.jpg">
       </a>
       </td>
     <td <valign="top">
       <a href="./Other-Shops/EP-Shop-3.jpg">
-      <img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg">
+      <img src="./Other-Shops/Thumbnails/EP-Shop-3-T.jpg">
       </a>
       </td>
   </tr>
