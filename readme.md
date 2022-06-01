@@ -65,7 +65,7 @@
 
 
 ## Submissions from residents!
-#### Two sample tool submissions from Eric S.
+#### Two sample tool submissions from Eric S  CLick the Pictiures for High Definition!.
 <table>
   <tr>
     <td>From the Door</td>
