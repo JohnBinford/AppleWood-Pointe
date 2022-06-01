@@ -20,11 +20,10 @@
 
 
 
-- I noted a nice air compressor in the "vault" near the door.  (There is a hose real on teh ceiling.)
+- I noted a nice air compressor in the "vault" near the door.  (There is a hose real on the ceiling.)
 
 
 ## Submissions from residents!
-
 
 ### Two sample tool submissions from Eric S.
 
