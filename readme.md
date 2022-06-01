@@ -57,5 +57,12 @@
     <td valign="top"><img src="./Eric-S/Thumbnails/Drill-Press-T.jpg"></td>
     <td valign="top"><img src="./Eric-S/Thumbnails/Band-Saw-T.jpg"></td>
   </tr>
-
+ <tr>
+    <td 
+    <a href="./Eric-S/Drill-Press.jpg">A larger Image </a>
+    </td>
+    <td
+    <a href"./Eric-S/Band-Saw.jpg"> A large Image </a>
+    </td>
+  </tr>
  </table>
