@@ -13,7 +13,7 @@
 ## Some Pictures from the Eden Prarie Shop!
 
 ### From the Door. (Is that an exaust system in the background?)
-![AppleWood-Pointe](Other-Shops/Thumbnails/EP-Shop-1-T.jpg)
+![AppleWood-Pointe](./Other-Shops/Thumbnails/EP-Shop-1-T.jpg)
 ### From the center looking to the door's left.
 ![AppleWood-Pointe](Other-Shops/Thumbnails/Ep-Shop-2-T.jpg)
 ### From a back corner.
