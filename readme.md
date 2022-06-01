@@ -48,21 +48,13 @@
 
 ### Two sample tool submissions from Eric S.
 
-### A Delta 14 inch Bandsaw
-#### New tires and blocks
-### A Ridgid Drill Press
-#### With internal and external lights
-
-
-
-
 <table>
   <tr>
     <td>Rigid Drill Press (low milage)</td>
-    <td>Band Saw (New Tires and Blocks</td>
+    <td>Band Saw (New Tires and Blocks)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./Eric-S/Band-Saw.jpg"></td>
-    <td valign="top"><img src="./Eric-S/Drill-Press.jpg"></td>
+    <td valign="top"><img src="./Eric-S/Thumbnails/Band-Saw-T.jpg"></td>
+    <td valign="top"><img src="./Eric-S/Thumbnails/Drill-Press-T.jpg"></td>
   </tr>
  </table>
