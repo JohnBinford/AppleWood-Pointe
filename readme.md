@@ -68,7 +68,7 @@
  
  ### testing
  
- |  Rigid Drill Press  | Delta Band Saw |
+ |  Click for Larger Images  | |
  | :---  | :--- |
  | [Rigid Drill Press](./Eric-S/Drill-Press.jpg) | [Delta Band Saw] | (./Eric-s/Band-Saw.jpg)
  
