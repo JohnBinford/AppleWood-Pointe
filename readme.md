@@ -59,10 +59,10 @@
   </tr>
  <tr>
     <td 
-    <a href="./Eric-S/Drill-Press.jpg">A larger Image </a>
+    <a href="./Eric-S/Drill-Press.jpg">Click for larger Image </a>
     </td>
     <td
-    <a href"./Eric-S/Band-Saw.jpg"> A large Image </a>
+    <a href="./Eric-S/Band-Saw.jpg"> Click for larger Image </a>
     </td>
   </tr>
  </table>
