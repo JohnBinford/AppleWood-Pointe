@@ -70,5 +70,5 @@
  
  |  Click for Larger Images  | |
  | :---  | :--- |
- | [Rigid Drill Press](./Eric-S/Drill-Press.jpg) | [Delta Band Saw] | (./Eric-S/Drill-Press.jpg
+ | [Rigid Drill Press](./Eric-S/Drill-Press.jpg) | [Delta Band Saw](./Eric-S/Band-Saw.jpg
  
