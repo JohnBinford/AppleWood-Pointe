@@ -47,27 +47,7 @@
 ## Submissions from residents!
 
 ### Two sample tool submissions from Eric S.
-<table>
-  <tr>
-    <td>Rigid Drill Press (low milage)</td>
-    <td>Band Saw (New Tires and Blocks)</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="./Eric-S/Thumbnails/Drill-Press-T.jpg"></td>
-    <td valign="top"><img src="./Eric-S/Thumbnails/Band-Saw-T.jpg"></td>
-  </tr>
- <tr>
-    <td 
-    <a href="./Eric-S/Drill-Press.jpg">Click for larger Image </a>
-    </td>
-    <td
-    <a href="./Eric-S/Band-Saw.jpg"> Click for larger Image </a>
-    </td>
-  </tr>
- </table>
- 
- ### testing
- 
+
  |  Click text below thumbnails for Larger Images  | |
  | :---  | :--- |
  | ![Rigid Drill Press](./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
