@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td>Other Way from Center</td>
-     <td>A Nice Table Saq</td>
+     <td>A Nice Table Saw</td>
      <td>A Bandsaw</td>
   </tr>
   <tr>
