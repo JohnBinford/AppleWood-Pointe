@@ -57,3 +57,16 @@
 #### With internal and external lights
 
 ![AppleWood-Pointe](Eric-S/Drill-Press.jpg)
+
+
+<table>
+  <tr>
+    <td>Rigid Drill Press (low milage)</td>
+     <td></td>
+     <td>Band Saw (New Tires and Blocks</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./Eric-S/Band-Saw.jpg"></td>
+    <td valign="top"><img src="./Eric-S/Drill-Press.jpg"></td>
+  </tr>
+ </table>
