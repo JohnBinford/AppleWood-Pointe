@@ -65,14 +65,7 @@
 
 
 ## Submissions from residents!
-
-### Two sample tool submissions from Eric S.
-
- |  Click the text below the thumbnails for large !!! images  | |
- | :---  | :--- |
- | ![Rigid Drill Press](./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
- | [Rigid Drill Press (High Definition)](./Eric-S/Drill-Press.jpg) | [Delta Band Saw (High Definition)](./Eric-S/Band-Saw.jpg)
- 
+#### Two sample tool submissions from Eric S.
 <table>
   <tr>
     <td>From the Door</td>
