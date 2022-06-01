@@ -23,13 +23,11 @@
       <img src="./Other-Shops/Thumbnails/EP-Shop-1-T.jpg">
       </a>
       </td>
-    
     <td valign="top">
       <a href="./Other-Shops/Ep-Shop-2.jpg">
       <img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg">
       </a>
       </td>
-    
     <td <valign="top">
       <a href="./Other-Shops/EP-Shop-3.jpg">
       <img src="./Other-Shops/Thumbnails/EP-Shop-3-T.jpg">
@@ -45,9 +43,21 @@
      <td>A Bandsaw</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-4-T.jpg"></td>
-    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-5-T.jpg"></td>
-    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-6-T.jpg"></td>
+    <td valign="top">
+      <a href="./Other-Shops/EP-Shop-4.jpg">
+      <img src="./Other-Shops/Thumbnails/EP-Shop-4-T.jpg">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="./Other-Shops/EP-Shop-5.jpg">
+      <img src="./Other-Shops/Thumbnails/EP-Shop-5-T.jpg">
+      </a>
+    </td>
+    <td valign="top">
+      <a href="./Other-Shops/EP-Shop-6.jpg">
+      <img src="./Other-Shops/Thumbnails/EP-Shop-6-T.jpg">
+      </a>
+    </td>
   </tr>
  </table>
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
