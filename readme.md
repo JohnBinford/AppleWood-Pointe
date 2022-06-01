@@ -47,7 +47,6 @@
 ## Submissions from residents!
 
 ### Two sample tool submissions from Eric S.
-
 <table>
   <tr>
     <td>Rigid Drill Press (low milage)</td>
@@ -66,3 +65,10 @@
     </td>
   </tr>
  </table>
+ 
+ ### testing
+ 
+ |  Rigid Drill Press  | Delta Band Saw |
+ | :---  | :--- |
+ | [Rigid Drill Press](./Eric-S/Drill-Press.jpg) | [Delta Band Saw] | (./Eric-s/Band-Saw.jpg)
+ 
