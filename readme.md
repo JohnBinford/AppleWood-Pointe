@@ -54,7 +54,11 @@
     <td>Band Saw (New Tires and Blocks)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="./Eric-S/Thumbnails/Drill-Press-T.jpg"></td>
+    <td valign="top"><img src="./Eric-S/Thumbnails/Drill-Press-T.jpg" longdes ="./Eric-S/Drill-Press.jpg"></td>
     <td valign="top"><img src="./Eric-S/Thumbnails/Band-Saw-T.jpg"></td>
+  </tr>
+  <tr>
+    <a href="./Eric-S/Drill-Press.jpg"></td>
+    <td valign="top"><img src="./Eric-S/Band-Saw.jpg"></td>
   </tr>
  </table>
