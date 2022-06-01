@@ -28,9 +28,9 @@
       <img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg">
       </a>
         </td>
-    <a href="./Other-Shops/EP-Shop-3.jpg
+    <a href="./Other-Shops/EP-Shop-3.jpg"
     <td valign="top">
-    <img src="./Other-Shops/Thumbnails/EP-Shop-3.jpg">
+    <img src="./Other-Shops/Thumbnails/EP-Shop-3-T.jpg">
     </a>
     </td>
   </tr>
