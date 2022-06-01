@@ -26,6 +26,18 @@
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td>Other Way from Center</td>
+     <td>A Nice Table Saq</td>
+     <td>A Bandsaw</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-4-T.jpg"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/Ep-Shop-5-T.jpg"></td>
+    <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-6-T.jpg"></td>
+  </tr>
+ </table>
 
 
 
