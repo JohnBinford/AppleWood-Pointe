@@ -13,17 +13,17 @@
 ## Some Pictures from the Eden Prarie Shop!
 
 ### From the Door. (Is that an exaust system in the background?)
-![AppleWood-Pointe](Other-Shops/EP-Shop-1.jpg)
+![AppleWood-Pointe](Other-Shops/Thumbnail/EP-Shop-1-T.jpg)
 ### From the center looking to the door's left.
-![AppleWood-Pointe](Other-Shops/Ep-Shop-2.jpg)
+![AppleWood-Pointe](Other-Shops/Thumbnails/Ep-Shop-2-T.jpg)
 ### From a back corner.
-![AppleWood-Pointe](Other-Shops/EP-Shop-3.jpg)
+![AppleWood-Pointe](Other-Shops/Thumbnails/EP-Shop-3-T.jpg)
 ### The other way from the center.
-![AppleWood-Pointe](Other-Shops/EP-Shop-4.jpg)
+![AppleWood-Pointe](Other-Shops/Thumbnails/EP-Shop-4-T.jpg)
 ### A nice table saw!
-![AppleWood-Pointe](Other-Shops/EP-Shop-5.jpg)
+![AppleWood-Pointe](Other-Shops/Thumbnails/EP-Shop-5.jpg-T)
 ### A nice band saw.  At least one resident has a much newer one almost like it.
-![AppleWood-Pointe](Other-Shops/EP-SHop-6.jpg)
+![AppleWood-Pointe](Other-Shops/Thumbnails/EP-SHop-6-T.jpg)
 
 
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose real on teh ceiling.)
