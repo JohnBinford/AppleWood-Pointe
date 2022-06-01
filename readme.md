@@ -11,8 +11,6 @@
 
 
 ## Some Pictures from the Eden Prarie Shop!
-
-
 <table>
   <tr>
     <td>From the Door</td>
@@ -38,9 +36,6 @@
     <td valign="top"><img src="./Other-Shops/Thumbnails/EP-Shop-6-T.jpg"></td>
   </tr>
  </table>
-
-
-
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
 
 
