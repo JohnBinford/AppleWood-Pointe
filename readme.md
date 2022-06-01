@@ -73,3 +73,22 @@
  | ![Rigid Drill Press](./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
  | [Rigid Drill Press (High Definition)](./Eric-S/Drill-Press.jpg) | [Delta Band Saw (High Definition)](./Eric-S/Band-Saw.jpg)
  
+<table>
+  <tr>
+    <td>From the Door</td>
+     <td>From the Center</td>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Eric-S/Drill-Press.jpg">
+      <img src="./Eric-S/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Eric-S/Band-Saw.jpg">
+      <img src="./Eric-S/Thumbnails/Band-Saw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
