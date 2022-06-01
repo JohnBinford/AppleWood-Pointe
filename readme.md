@@ -24,7 +24,7 @@
       </a>
       </td>
     <td valign="top">
-      <a href-"./Other-Shops/Ep-Shop-2.jpg">
+      <a href="./Other-Shops/Ep-Shop-2.jpg">
       <img src="./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg">
       </a>
         </td>
