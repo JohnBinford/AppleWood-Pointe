@@ -68,8 +68,8 @@
  
  ### testing
  
- |  Click below thumgnails for Larger Images  | |
+ |  Click text below thumbnails for Larger Images  | |
  | :---  | :--- |
- | ![Rigid Drill Press] (./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
+ | ![Rigid Drill Press](./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
  | [Rigid Drill Press](./Eric-S/Drill-Press.jpg) | [Delta Band Saw](./Eric-S/Band-Saw.jpg)
  
