@@ -15,7 +15,7 @@
 
 
 
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-1-T.jpg "From the Door") ![Eden Prarie Shop](./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg "From the Center)
+![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-1-T.jpg "From the Door") ![Eden Prarie Shop](./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg "From the Center")
 
 
 
