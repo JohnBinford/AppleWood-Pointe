@@ -12,18 +12,12 @@
 
 ## Some Pictures from the Eden Prarie Shop!
 
-### From the Door. (Is that an exaust system in the background?)
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-1-T.jpg)
-### From the center looking to the door's left.
-![Eden Prarie Shop](./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg)
-### From a back corner.
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-3-T.jpg)
-### The other way from the center.
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-4-T.jpg)
-### A nice table saw!
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-5-T.jpg)
-### A nice band saw.  At least one resident has a much newer one almost like it.
-![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-6-T.jpg)
+
+
+
+![Eden Prarie Shop](./Other-Shops/Thumbnails/EP-Shop-1-T.jpg "From the Door") ![Eden Prarie Shop](./Other-Shops/Thumbnails/Ep-Shop-2-T.jpg "From the Center)
+
+
 
 
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose real on teh ceiling.)
