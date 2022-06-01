@@ -48,7 +48,7 @@
 
 ### Two sample tool submissions from Eric S.
 
- |  Click text below thumbnails for Large!!! Images  | |
+ |  Click text below thumbnails for large!!! Images  | |
  | :---  | :--- |
  | ![Rigid Drill Press](./Eric-S/Thumbnails/Drill-Press-T.jpg) | ![Delta Band Saw](./Eric-S/Thumbnails/Band-Saw-T.jpg)
  | [Rigid Drill Press](./Eric-S/Drill-Press.jpg) | [Delta Band Saw](./Eric-S/Band-Saw.jpg)
