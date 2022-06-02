@@ -64,10 +64,10 @@
  </table>
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
 
-
-### Submissions from Residents!
-- Two Sample Tool Submissions from Eric S 
 #### (Click the Pictiures for High Definition!)
+- **Submissions from Residents!
+    - Two Sample Tool Submissions from Eric S 
+
 <table>
   <tr>
     <td>From the Door</td>
