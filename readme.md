@@ -9,8 +9,9 @@
 
 ## Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
 **(Alternately,  estrandjord@gmail.com works too! )**
-<br>
-<br>
+
+* * *
+
 ### Some Pictures from the Eden Prarie Shop!
 *(Click a Picture for a High Definition Version!)*
 <table>
@@ -63,9 +64,8 @@
   </tr>
  </table>
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
-- 
-<br>
-<br>
+
+* * *
 
 ### Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)*
