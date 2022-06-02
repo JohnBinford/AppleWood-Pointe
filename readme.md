@@ -66,12 +66,15 @@
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
 
 * * *
+* * *
 
-### Submissions from Residents!
-*(Click a Pictiure for a High Definition Version!)*
+#### Submissions from Residents!
+*(Click a Pictiure for a High Definition Version!)* 
+<pre>
 
-**Two Sample Tool Submissions from Eric S** 
 
+</pre>
+**Two Sample Tool Submissions from Eric S**
 <table>
   <tr>
     <td>From the Door</td>
