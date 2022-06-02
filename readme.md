@@ -1,7 +1,6 @@
 #  Apple Wood Pointe Hobby Shop
 
 ## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
-
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
 - A folder will be created for each resident, and a master page will showplace various tools and ideas.
 - The table above shows recent activity, you can click the folders or activity to see the information.
@@ -10,11 +9,11 @@
   - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
 
 ## Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
-#### (Alternately,  estrandjord@gmail.com works too! )
+- (Alternately,  estrandjord@gmail.com works too! )
 
 
 ## Some Pictures from the Eden Prarie Shop!
-#### (Click the Picture for a High Definition Version!)
+- (Click the Picture for a High Definition Version!)
 <table>
   <tr>
     <td>From the Door</td>
