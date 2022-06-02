@@ -12,7 +12,7 @@
 
 
 ### Some Pictures from the Eden Prarie Shop!
-- (Click the Picture for a High Definition Version!)
+*(Click a Picture for a High Definition Version!)*
 <table>
   <tr>
     <td>From the Door</td>
@@ -64,9 +64,11 @@
  </table>
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
 
-#### (Click the Pictiures for High Definition!)
-- **Submissions from Residents!
-    - Two Sample Tool Submissions from Eric S 
+
+### Submissions from Residents!
+*(Click a Pictiure for a High Definition Version!)*
+
+**Two Sample Tool Submissions from Eric S** 
 
 <table>
   <tr>
