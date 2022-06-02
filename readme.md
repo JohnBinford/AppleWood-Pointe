@@ -11,7 +11,7 @@
 - (Alternately,  estrandjord@gmail.com works too! )
 
 
-## Some Pictures from the Eden Prarie Shop!
+### Some Pictures from the Eden Prarie Shop!
 - (Click the Picture for a High Definition Version!)
 <table>
   <tr>
@@ -65,9 +65,8 @@
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
 
 
-## Submissions from Residents!
-
-### Two Sample Tool Submissions from Eric S 
+### Submissions from Residents!
+- Two Sample Tool Submissions from Eric S 
 #### (Click the Pictiures for High Definition!)
 <table>
   <tr>
