@@ -9,6 +9,9 @@
 - There is plumbing in place for a vent and some other service, and a "vault" near the door.
   - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
 
+## Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
+#### (Alternately,  estrandjord@gmail.com works too! )
+
 
 ## Some Pictures from the Eden Prarie Shop!
 #### (Click the Picture for a High Definition Version!)
