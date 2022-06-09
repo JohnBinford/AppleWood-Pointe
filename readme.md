@@ -77,8 +77,8 @@
 **Two Sample Tool Submissions from Eric S**
 <table>
   <tr>
-    <td>From the Door</td>
-     <td>From the Center</td>
+    <td>Rigid Drill Press</td>
+     <td>14" Delta Bandsaw</td>
     <td>Other Tools</td>
   </tr>
   <tr>
