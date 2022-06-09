@@ -13,13 +13,25 @@
 
 ### A couple of sample tool submissions from Eric S.
 #### Since we have a couple of years yet,  I will update this page as I sort things out.
-
-### A Delta 14 inch Bandsaw
-#### New tires and blocks
-
-![AppleWood-Pointe](/Eric-S/Band-Saw.jpg)
-
-### A Ridgid Drill Press
-#### With internal and external lights
-
-![AppleWood-Pointe](/Eric-S/Drill-Press.jpg)
+<table>
+  <tr>
+    <th>Rigid Drill Press</th>
+     <th>14" Delta Bandsaw</th>
+    <th>Other Tools</th>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Drill-Press.jpg">
+      <img src="./Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Band-Saw.jpg">
+      <img src="./Thumbnails/Band-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+        <table>
+  <tr>
+  </tr>
+ </table>
