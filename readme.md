@@ -92,7 +92,8 @@
       <img src="./Eric-S/Thumbnails/Band-Saw-T.jpg">
       </a>
       </td>
-      <td> - Porter Cable Circular Saw (New) <br>
+      <td valign="top">
+       - Porter Cable Circular Saw (New) <br>
        - Two Metal Tool Cabinets (Drawers) <br>
        - Various Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
