@@ -15,9 +15,9 @@
 #### Since we have a couple of years yet,  I will update this page as I sort things out.
 <table>
   <tr>
-    <th>Rigid Drill Press</th>
-     <th>14" Delta Bandsaw</th>
-    <th>Other Tools</th>
+    <td>Rigid Drill Press</td>
+     <td>14" Delta Bandsaw</td>
+    <td>Other Tools</td>
   </tr>
   <tr>
       <td valign="top">
@@ -31,7 +31,12 @@
       </a>
       </td>
       <td valign="top">
-        <table>
-  <tr>
+       - Porter Cable Circular Saw (New) <br>
+       - Two Metal Tool Cabinets (Drawers) <br>
+       - Various Mechanic's Tools <br>
+       - Cheap Square Pad Sander<br>
+       - Hitachi 18" Belt Sander with Bench Mount <br>
+       - (Pictures comming - link will be here!)
+      </td>
   </tr>
  </table>
