@@ -36,7 +36,7 @@
        - Various Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
        - Hitachi 18" Belt Sander with Bench Mount <br>
-       - (Pictures comming - link will be here!)
+       - Click Above for Pictuires)
       </td>
   </tr>
  </table>
