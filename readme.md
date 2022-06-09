@@ -79,17 +79,23 @@
   <tr>
     <td>From the Door</td>
      <td>From the Center</td>
+    <td>Other Tools</td>
   </tr>
   <tr>
-    <td valign="top">
-    <a href="./Eric-S/Drill-Press.jpg">
+      <td valign="top">
+      <a href="./Eric-S/Drill-Press.jpg">
       <img src="./Eric-S/Thumbnails/Drill-Press-T.jpg">
       </a>
       </td>
-    <td valign="top">
+      <td valign="top">
       <a href="./Eric-S/Band-Saw.jpg">
       <img src="./Eric-S/Thumbnails/Band-Saw-T.jpg">
       </a>
+      </td>
+      <td> - Porter Cable Circular Saw (new) <br>
+       - Two Metal Tool Cabinetes <br>
+       - Various Mechanic's Tools <br>
+       - Sanders (Square Pad, 18" Belt)>                             
       </td>
   </tr>
  </table>
