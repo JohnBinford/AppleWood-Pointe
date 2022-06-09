@@ -92,10 +92,12 @@
       <img src="./Eric-S/Thumbnails/Band-Saw-T.jpg">
       </a>
       </td>
-      <td> - Porter Cable Circular Saw (new) <br>
-       - Two Metal Tool Cabinetes <br>
+      <td> - Porter Cable Circular Saw (New) <br>
+       - Two Metal Tool Cabinets (Drawers) <br>
        - Various Mechanic's Tools <br>
-       - Sanders (Square Pad, 18" Belt)>                             
+       - Cheap Square Pad Sander<br>
+       - Hitachi 18" Belt Sander with Bench Mount <br>
+       - (Pictures comming - link will be here!)
       </td>
   </tr>
  </table>
