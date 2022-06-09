@@ -16,9 +16,9 @@
 *(Click a Picture for a High Definition Version!)*
 <table>
   <tr>
-    <td>From the Door</td>
-     <td>From the Center</td>
-     <td>From the Back Corner</td>
+    <th>From the Door</th>
+     <th>From the Center</th>
+     <th>From the Back Corner</th>
   </tr>
   <tr>
     <td valign="top">
