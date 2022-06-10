@@ -35,7 +35,7 @@
        - Two Metal Tool Cabinets (Drawers) <br>
        - Various Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
-       - Ryobi 18" Belt Sander with Bench Mount <br>
+        - Ryobi 18" Belt Sander with Bench Mount <br> </br> </br>
        - Click Above for Pictuires)
       </td>
   </tr>
