@@ -37,7 +37,7 @@
 <table>
   <th>
     <td>Rigid Drill Press</td>
-     <td>14" Delta Bandsaw</td>
+    <td>14" Delta Bandsaw</td>
     <td>Other Tools</td>
   </th>
   <tr>
@@ -56,8 +56,8 @@
        - Two Metal Tool Cabinets (Drawers) <br>
        - Various Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
-        - Ryobi 18" Belt Sander with Bench Mount <br> </br> </br>
-       - Click Above for Pictuires)
+       - Ryobi 18" Belt Sander with Bench Mount <br> </br> </br>
+       - Click thumbnails for Hi Def Pictuires)
       </td>
   </tr>
  </table>
