@@ -35,11 +35,11 @@
 #### A couple of sample tool submissions from Eric S.
 ##### Since we have a couple of years yet,  I will update this page as I sort things out.
 <table>
-  <th>
-    <td>Rigid Drill Press</td>
-    <td>14" Delta Bandsaw</td>
-    <td>Other Tools</td>
-  </th>
+  <tr>
+    <th>Rigid Drill Press</td>
+    <th>14" Delta Bandsaw</td>
+    <th>Other Tools</td>
+  </tr>
   <tr>
       <td valign="top">
       <a href="./Drill-Press.jpg">
