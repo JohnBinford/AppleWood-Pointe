@@ -1,4 +1,5 @@
 #  Possible offering from Eric S.
+![Eric S](./collateral/Eric-Black-256-AWP-T.jpg)
 
 ## Some samples until I take pictures of some potentially worthy tools
 
