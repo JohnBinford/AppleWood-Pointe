@@ -13,7 +13,7 @@
       </td
   <tr>
       <td valign="top">
-        - IBM engineer 20 years, Technology Consultant 10 years, Lefgal IT director 13 Years</br>
+        - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years</br>
         - Retired 2019.</br>
         - Hobbies:     Aviation, Ham Radio, Electronics, Maker. 3D Printing.</br>
         - Interests:     CNC, Laser Cutting / Engraving, Mini Mill?</br></br>
