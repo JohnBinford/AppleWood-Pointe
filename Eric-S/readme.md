@@ -1,7 +1,27 @@
-#  Possible offering from Eric S.
-![Eric S](./collateral/Eric-Black-256-AWP-T.jpg)
-
-## Some samples until I take pictures of some potentially worthy tools
+## Eric's Profile
+<table>
+  <tr>
+    <th></td>
+    <th>Profile and Interests</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./collateral/Eric-Black-1024-AWP.jpg">
+      <img src="./collateral/Eric-Black-256-AWP-T.jpg">
+      </a>
+      </td
+  <tr>
+      <td valign="top">
+        - IBM engineer 20 years, Technology Consultant 10 years, Lefgal IT director 13 Years</br>
+        - Retired 2019.</br>
+        - Hobbies:     Aviation, Ham Radio, Electronics, Maker. 3D Printing.</br>
+        - Interests:     CNC, Laser Cutting / Engraving, Mini Mill?
+      </td>
+  </tr>
+ </table>
+ 
+## Possible offerings from Eric S.
+### Some samples until I take pictures of some potentially worthy tools
 
 - Besides the two samples pictured so far, I have a nice portable 10 inch table saw.
 - I'm sure someone has a better one!
@@ -12,14 +32,14 @@
   - It would be nice to know if anyone shares this interest.  
 
 
-### A couple of sample tool submissions from Eric S.
-#### Since we have a couple of years yet,  I will update this page as I sort things out.
+#### A couple of sample tool submissions from Eric S.
+##### Since we have a couple of years yet,  I will update this page as I sort things out.
 <table>
-  <tr>
+  <th>
     <td>Rigid Drill Press</td>
      <td>14" Delta Bandsaw</td>
     <td>Other Tools</td>
-  </tr>
+  </th>
   <tr>
       <td valign="top">
       <a href="./Drill-Press.jpg">
