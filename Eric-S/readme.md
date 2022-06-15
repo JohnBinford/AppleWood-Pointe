@@ -15,25 +15,20 @@
         - IBM engineer 20 years, Technology Consultant 10 years, Lefgal IT director 13 Years</br>
         - Retired 2019.</br>
         - Hobbies:     Aviation, Ham Radio, Electronics, Maker. 3D Printing.</br>
-        - Interests:     CNC, Laser Cutting / Engraving, Mini Mill?
+        - Interests:     CNC, Laser Cutting / Engraving, Mini Mill?</br></br>
+        - Besides the two samples pictured so far, I have a nice portable 10 inch table saw.</br>
+        - I'm sure someone has a better one!</br>
+      - Like all of us, I have a small collection of handheld power tools, and various hand tools.</br> 
+      - Specialty tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)</br>
+      - The mechanics tools will most likely go to a nephew :-)</br>
+      - Also have a Prusa 3DMK3S 3D printer, which I may keep upstairs.</br>
+      - It would be nice to know if anyone shares this interest.  </br>
       </td>
   </tr>
  </table>
  
-## Possible offerings from Eric S.
-### Some samples until I take pictures of some potentially worthy tools
-
-- Besides the two samples pictured so far, I have a nice portable 10 inch table saw.
-- I'm sure someone has a better one!
-- Like all of us, I have a small collection of handheld power tools, and various have tools.
-  - Hand tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)
-- The mechanics tools will most likely go to a nephew :-)
-- Also have a Prusa 3DMK3S 3D printer, which I may keep upstairs.
-  - It would be nice to know if anyone shares this interest.  
-
-
-#### A couple of sample tool submissions from Eric S.
-##### Since we have a couple of years yet,  I will update this page as I sort things out.
+### Possible offerings from Eric S.
+#### Since we have a couple of years yet,  I will update this page as I sort things out.
 <table>
   <tr>
     <th>Rigid Drill Press</td>
