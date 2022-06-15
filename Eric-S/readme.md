@@ -1,7 +1,8 @@
-## Eric's Profile
+####  Eric's Profile
+
 <table>
   <tr>
-    <th></td>
+    <th>Eric</td>
     <th>Profile and Interests</td>
   </tr>
   <tr>
@@ -49,9 +50,9 @@
       <td valign="top">
        - Porter Cable Circular Saw (New) <br>
        - Two Metal Tool Cabinets (Drawers) <br>
-       - Various Mechanic's Tools <br>
+       - Lots of Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
-       - Ryobi 18" Belt Sander with Bench Mount <br> </br> </br>
+       - Ryobi 18" Belt Sander with Bench Mount <br> </br>
        - Click thumbnails for Hi Def Pictuires)
       </td>
   </tr>
