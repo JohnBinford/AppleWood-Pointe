@@ -1,3 +1,5 @@
+[Link to email lst](./Collateral/email-list.md)
+
 #  Apple Wood Pointe Hobby Shop
 ## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
