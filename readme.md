@@ -75,6 +75,8 @@
 
 </pre>
 **Two Sample Tool Submissions from Eric S**
+
+[Link to Eric's Profile](./Eric-S/readme.md)
 <table>
   <tr>
     <td>Rigid Drill Press</td>
