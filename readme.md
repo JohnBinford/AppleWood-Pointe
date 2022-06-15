@@ -68,7 +68,7 @@
 * * *
 * * *
 
-### Submissions from Residents!
+### Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
 <pre>
 
