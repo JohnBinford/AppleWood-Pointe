@@ -8,7 +8,7 @@ From:
 
 Eric Strandjord # 309
 
-<ad0mz@centurylink.net>
+<johnathan.binford@gmail.com>
 
 Subject:
 
