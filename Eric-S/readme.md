@@ -33,7 +33,7 @@
 <table>
   <tr>
     <th>Rigid Drill Press</td>
-    <th>14" Delta Bandsaw</td>
+    <th>14" Delta Bandsa (New tires & BLocks)</td>
     <th>Other Tools</td>
   </tr>
   <tr>
