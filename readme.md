@@ -7,7 +7,7 @@
 ## Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
 **(Alternately,  estrandjord@gmail.com works too! )**
 ### Use the email list to create email threads for discussing things.  
-[Click here for the Email List](./Collateral/Email-List.md)
+[Click here for the Email List](./Collateral/email-list.md)
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
 - A folder will be created for each resident, and a master page will showplace various tools and ideas.
 - The table above shows recent activity, you can click the folders or activity to see the information.
