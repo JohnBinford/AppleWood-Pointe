@@ -1,4 +1,4 @@
-| LastName | FirstName | Email | Phone |
+| LastName | FirstName | Fullname | Email |
 | --- | --- | --- | --- |
 | Bierlein|Len|Len Berlein|len.bierlein@gmail.com|952-240-7533 |
 | Ernst|Jim|Jim Ernst|jrernst85@gmail.com|612-816-9885 }
