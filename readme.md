@@ -72,7 +72,7 @@
 * * *
 
 ##  Suggestions for your own submissions and optional information for your personal profile.
-###  Send via email to Johnathan.binford@gmail.com
+**  Send via email to Johnathan.binford@gmail.com
 
 ## At least!    Pictures and descriptive information about tools you might donate.
 ### Information for your own personal profile. (If you wish  - See the link to Eric-S)
