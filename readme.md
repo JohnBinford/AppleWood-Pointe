@@ -1,6 +1,6 @@
 [Link to email lst](./Collateral/email-list.md)
 
-[Link to Letter from Luncheon](,/Collateral/JohnBinford-1.md)
+[Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
 #  Apple Wood Pointe Hobby Shop
 ## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
