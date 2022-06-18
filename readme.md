@@ -74,17 +74,17 @@
 * * *
 
 ##  Suggestions for your own submissions and optional information for your personal profile.
-**  Send via email to Johnathan.binford@gmail.com
-
-## At least!    Pictures and descriptive information about tools you might donate.
-### Information for your own personal profile. (If you wish  - See the link to Eric-S)
+#### At least!    Pictures and descriptive information about tools you might donate.
+- Suggestions for Shop.
+- Pictures of noteworthy tools, or any you might wish to be in the shop.
+#### Information for your own personal profile. (If you wish  - See the link to Eric-S)
 - A picture of you, or a well known avator for workmanship.
 - Some background information. 
   - Career milstones and interests.
   - Interests, Hobbies, Skills, etc.
   - Potential things to learn.
-- Suggestions for Shop.
-- Pictures of noteworthy tools, or any you might wish to be in the shop.
+
+**  Send via email to Johnathan.binford@gmail.com
 
 * * *
 
