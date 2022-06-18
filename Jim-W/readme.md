@@ -20,7 +20,7 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./Dust collector 2.jpg">
+      <a href="./Dust dollector 2.jpg">
       <img src="./Thumbnails/Dust dollector 2-T.jpg">
       </a>
       </td>
