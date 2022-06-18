@@ -1,5 +1,5 @@
 ####  Eric's Profile
-
+{{./test.md}}
 <table>
   <tr>
     <th>Eric</td>
