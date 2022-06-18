@@ -166,8 +166,10 @@
       </td>
   </tr>
  </table>
-
- #### Jim also has a large collection of power hand tools! 
+ 
+##### Jim has a nice Biscuit Joiner and a Dovetail Jig
+##### Jim also has a large collection of power hand tools! 
+ 
 
 * * *
 
