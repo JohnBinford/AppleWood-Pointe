@@ -169,12 +169,8 @@
 
  #### Jim also has a large collection of power hand tools! 
 
+* * *
 
-
-<pre>
-
-
-</pre>
 **Two Sample Tool Submissions from Eric S**
 
 [Link to Eric's Profile](./Eric-S/readme.md)
