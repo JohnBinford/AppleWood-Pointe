@@ -14,12 +14,12 @@
       </td>
       <td valign="top">
       <a href="./Dust collector 1.jog">
-      <img src="./Dust collector 1-T.jpg">
+      <img src="./Thumbnails/Dust collector 1-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Dust collector 2.jog">
-      <img src="./Dust collector 2-T.jpg">
+      <img src="./Thumbnails/Dust collector 2-T.jpg">
       </a>
       </td>
   </tr>
