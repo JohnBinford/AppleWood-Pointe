@@ -87,6 +87,90 @@
 
 ### Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
+
+#### John-W's Submissions
+[Link to Jim's Pictures](./Jim-W/readme.md)
+
+
+<table>
+  <tr>
+    <th>Air Filter 1</td>
+    <th>Dust Collector 1</td>
+    <th>Dust Collector 2</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Jim-W/Air Filter 1.jpg">
+      <img src="./Jim-W/Thumbnails/Air Filter 1-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Jim-W/Dust collector 1.jpg">
+      <img src="./Jim-W/Thumbnails/Dust collector 1-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Jim-W/Dust dollector 2.jpg">
+      <img src="./Jim-W/Thumbnails/Dust dollector 2-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Air Filter 2</td>
+    <th>Miter</td>
+    <th>Oscillating Sander</td>
+  </tr>
+  <tr>
+ <td valign="top">
+      <a href="./Jim-W/Air filter 2.jpg">
+      <img src="./Jim-W/Thumbnails/Air filter 2-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="./Jim-W/Miter.jpg">
+      <img src="./Jim-W/Thumbnails/Miter-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Jim-W/Oscillating sander.jpg">
+      <img src="./Jim-W/Thumbnails/Oscillating sander-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>Router Table</td>
+    <th>Planer</td>
+    <th>Radial Arm Saw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Jim-W/Router Table.jpg">
+      <img src="./Jim-W/Thumbnails/Router Table-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Jim-W/Planer.jpg">
+      <img src="./Jim-W/Thumbnails/Planer-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Jim-W/Radial Arm 1.jpg">
+      <img src="./Jim-W/Thumbnails/Radial Arm 1-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ #### Jim also has a large collection of power hand tools! 
+
+
+
 <pre>
 
 
