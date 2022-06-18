@@ -14,7 +14,19 @@
 ### Use the email list to create email threads for general discussions.  
 [Click here for the Email List](./Collateral/email-list.md)
 * * *
+##  Suggestions for your own submissions and optional information for your personal profile.
+#### At least!    Pictures and descriptive information about tools you might donate.
+- Suggestions for Shop.
+- Pictures of noteworthy tools, or any you might wish to be in the shop.
+#### Information for your own personal profile. (If you wish  - See the link to Eric-S)
+- A picture of you, or a well known avator for workmanship.
+- Some background information. 
+  - Career milstones and interests.
+  - Interests, Hobbies, Skills, etc.
+  - Potential things to learn.
 
+**  Send via email to Johnathan.binford@gmail.com
+* * * 
 ### Some Pictures from the Eden Prarie Shop!
 - There is plumbing in place for a vent and some other service, and a "vault" near the door.
   - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
@@ -71,21 +83,6 @@
 - I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
 
 * * *
-* * *
-
-##  Suggestions for your own submissions and optional information for your personal profile.
-#### At least!    Pictures and descriptive information about tools you might donate.
-- Suggestions for Shop.
-- Pictures of noteworthy tools, or any you might wish to be in the shop.
-#### Information for your own personal profile. (If you wish  - See the link to Eric-S)
-- A picture of you, or a well known avator for workmanship.
-- Some background information. 
-  - Career milstones and interests.
-  - Interests, Hobbies, Skills, etc.
-  - Potential things to learn.
-
-**  Send via email to Johnathan.binford@gmail.com
-
 * * *
 
 ### Recent Submissions from Residents!
