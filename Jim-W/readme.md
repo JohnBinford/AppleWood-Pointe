@@ -1,5 +1,3 @@
-#### Jim W's Nice Tools!
-
 #### John-W's Submissions
 
 <table>
