@@ -75,4 +75,4 @@
   </tr>
  </table>
 
- #### John also has a large collection of power hand tools! 
+ #### Jim also has a large collection of power hand tools! 
