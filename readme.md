@@ -1,4 +1,4 @@
-[Link to email lst](./Collateral/email-list.md)
+[Link to Email lst](./Collateral/email-list.md)
 
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
