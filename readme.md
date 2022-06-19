@@ -2,6 +2,8 @@
 
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
+[link to Aplle Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
+
 #  AppleWood Pointe Hobby Shop
 ## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
 ### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
@@ -26,7 +28,10 @@
   - Potential things to learn.
 
 **  Send via email to Johnathan.binford@gmail.com
-* * * 
+* * *
+
+[Link to schematic of garage] (./Collateral/AWP-Parking.jpg)
+
 ### Some Pictures from the Eden Prarie Shop!
 - There is plumbing in place for a vent and some other service, and a "vault" near the door.
   - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
