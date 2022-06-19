@@ -28,9 +28,10 @@
   - Potential things to learn.
 
 **  Send via email to Johnathan.binford@gmail.com
-* * *
 
 [Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
+
+* * *
 
 ### Some Pictures from the Eden Prarie Shop!
 - There is plumbing in place for a vent and some other service, and a "vault" near the door.
