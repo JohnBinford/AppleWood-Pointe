@@ -13,8 +13,9 @@
 - A folder will be created for each resident, and a master page will showplace various tools and ideas.
 - The table above shows recent activity, you can click the folders or activity to see the information.
 - Verbiage next to each folder indicates the most recent activity for that folder.
-### Use the email list to create email threads for general discussions.  
-[Click here for the Email List](./Collateral/email-list.md)
+### Use the email list to create email threads for general discussions. 
+
+## To keep our emails more private, please email johnathan.binford@gmail.com for a copy!
 * * *
 ##  Suggestions for your own submissions and optional information for your personal profile.
 #### At least!    Pictures and descriptive information about tools you might donate.
@@ -27,7 +28,7 @@
   - Interests, Hobbies, Skills, etc.
   - Potential things to learn.
 
-**  Send via email to Johnathan.binford@gmail.com
+**  Send via email to johnathan.binford@gmail.com
 
 [Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
 
