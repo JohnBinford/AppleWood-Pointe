@@ -1,4 +1,5 @@
-[Link to Email lst](./Collateral/email-list.md)
+## Emal List
+#### To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
 
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
@@ -15,7 +16,7 @@
 - Verbiage next to each folder indicates the most recent activity for that folder.
 ### Use the email list to create email threads for general discussions. 
 
-## To keep our emails more private, please email johnathan.binford@gmail.com for a copy!
+
 * * *
 ##  Suggestions for your own submissions and optional information for your personal profile.
 #### At least!    Pictures and descriptive information about tools you might donate.
