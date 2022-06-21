@@ -31,6 +31,8 @@
 
 [Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
 
+[Link to Dimentioned Drawing (Pretty Close)](./collateral/AWP-Shop-Dimentioned.jpg)
+
 * * *
 
 ### Some Pictures from the Eden Prarie Shop!
