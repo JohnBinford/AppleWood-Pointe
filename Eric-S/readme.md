@@ -52,7 +52,7 @@
        - Lots of Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
        - Ryobi 18" Belt Sander with Bench Mount <br> </br>
-       - Click thumbnails for Hi Def Pictuires)
+       - Click thumbnails for Hi Def Pictures)
       </td>
   </tr>
  </table>
