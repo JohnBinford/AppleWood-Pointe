@@ -1,15 +1,17 @@
-## News
+# News
 #### Email List
 - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
 #### Links
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
+
+[Link to Aplle Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 #### About the site.
-- Offerings from Eric-S moved to "CraftsMen" folder.
-  - In order to keep the main page fresh and simple, old offerings will be moved to "CraftsMen" as new offerings come in!
+  - Offerings from Eric-S have been moved to "CraftsMen" folder.
+  - In order to keep the main page fresh and simple, old offerings will be moved to "CraftsMen" as new offerings come in.
   - The newest offerings will be here.
   - You can find older offerings by clicking the "CraftsMen" folder and then their name.
 
-[Link to Aplle Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
+* * *
 
 #  AppleWood Pointe Hobby Shop
 ## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
@@ -21,7 +23,6 @@
 - The table above shows recent activity, you can click the folders or activity to see the information.
 - Verbiage next to each folder indicates the most recent activity for that folder.
 ### Use the email list to create email threads for general discussions. 
-
 
 * * *
 ##  Suggestions for your own submissions and optional information for your personal profile.
