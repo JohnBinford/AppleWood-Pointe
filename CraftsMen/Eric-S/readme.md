@@ -55,9 +55,10 @@
  </table>
  
   #### Some other tools...
-       - Porter Cable Circular Saw (New) <br>
-       - Two Metal Tool Cabinets (Drawers) <br>
-       - Lots of Mechanic's Tools <br>
-       - Cheap Square Pad Sander<br>
-       - Ryobi 18" Belt Sander with Bench Mount <br> </br>
+       - Porter Cable Circular Saw (New)
+       - Two Metal Tool Cabinets (Drawers)
+       - Lots of Mechanic's Tools
+       - Cheap Square Pad Sander
+       - Ryobi 18" Belt Sander with Bench Mount
+       
        - Click thumbnails for Hi Def Pictures)
