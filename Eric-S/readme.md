@@ -33,7 +33,7 @@
   <tr>
     <th>Rigid Drill Press</td>
     <th>14" Delta Bandsa (New tires & Blocks)</td>
-    <th>Other Tools</td>
+    <th>Very Clean Tool Chest</td>
   </tr>
   <tr>
       <td valign="top">
@@ -47,12 +47,16 @@
       </a>
       </td>
       <td valign="top">
+       <a href="./Band-Saw.jpg">
+      <img src="./Thumbnails/Band-Saw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+ 
        - Porter Cable Circular Saw (New) <br>
        - Two Metal Tool Cabinets (Drawers) <br>
        - Lots of Mechanic's Tools <br>
        - Cheap Square Pad Sander<br>
        - Ryobi 18" Belt Sander with Bench Mount <br> </br>
        - Click thumbnails for Hi Def Pictures)
-      </td>
-  </tr>
- </table>
