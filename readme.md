@@ -185,7 +185,7 @@
 
 **Two Sample Tool Submissions from Eric S**
 
-[Link to Eric's Profile](./Craftsmen/Eric-S/readme.md)
+[Link to Eric's Profile](./CraftsMen/Eric-S/readme.md)
 <table>
   <tr>
     <td>Rigid Drill Press</td>
@@ -194,13 +194,13 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Craftsmen/Eric-S/Drill-Press.jpg">
-      <img src="./Craftsmen/Eric-S/Thumbnails/Drill-Press-T.jpg">
+      <a href="./CraftsMen/Eric-S/Drill-Press.jpg">
+      <img src="./CraftsMen/Eric-S/Thumbnails/Drill-Press-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Craftsmen/Eric-S/Band-Saw.jpg">
-      <img src="./Craftsmen/Eric-S/Thumbnails/Band-Saw-T.jpg">
+      <a href="./CraftsMen/Eric-S/Band-Saw.jpg">
+      <img src="./CraftsMen/Eric-S/Thumbnails/Band-Saw-T.jpg">
       </a>
       </td>
       <td valign="top">
