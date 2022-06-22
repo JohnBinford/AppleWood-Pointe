@@ -6,8 +6,8 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./collateral/Eric-Black-1024-AWP.jpg">
-      <img src="./collateral/Eric-Black-256-AWP-T.jpg">
+      <a href="./Collateral/Eric-Black-1024-AWP.jpg">
+      <img src="./Collateral/Eric-Black-256-AWP-T.jpg">
       </a>
       </td
   <tr>
