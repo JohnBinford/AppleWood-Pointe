@@ -204,13 +204,21 @@
       </a>
       </td>
       <td valign="top">
-       - Porter Cable Circular Saw (New) <br>
-       - Two Metal Tool Cabinets (Drawers) <br>
-       - Various Mechanic's Tools <br>
-       - Cheap Square Pad Sander<br>
-       - Hitachi 18" Belt Sander with Bench Mount <br>
-       - (Pictures comming - link will be here!)
+       <a href="./CraftsMen/Eric-S/Tool-Cabinet-1.jpg">
+      <img src="./CraftsMen/Eric-S/Thumbnails/Tool-Cabinet-1-T.jpg">
+      </a>
       </td>
   </tr>
  </table>
+ 
+ 
+  #### Some other tools...
+       - Porter Cable Circular Saw (New)
+       - Two Metal Tool Cabinets (Drawers)
+       - Lots of Mechanic's Tools
+       - Cheap Square Pad Sander
+       - Ryobi 18" Belt Sander with Bench Mount
+       
+       - Click thumbnails for Hi Def Pictures)
+
 
