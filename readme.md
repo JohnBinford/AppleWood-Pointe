@@ -177,7 +177,7 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./CraftsMenJim-W/Radial Arm 1.jpg">
+      <a href="./CraftsMen/Jim-W/Radial Arm 1.jpg">
       <img src="./CraftsMen/Jim-W/Thumbnails/Radial Arm 1-T.jpg">
       </a>
       </td>
