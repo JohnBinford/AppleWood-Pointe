@@ -117,18 +117,18 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Jim-W/Air Filter 1.jpg">
-      <img src="./Jim-W/Thumbnails/Air Filter 1-T.jpg">
+      <a href="./CraftsMen/Jim-W/Air Filter 1.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Air Filter 1-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Jim-W/Dust collector 1.jpg">
-      <img src="./Jim-W/Thumbnails/Dust collector 1-T.jpg">
+      <a href="./CraftsMen/Jim-W/Dust collector 1.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Dust collector 1-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Jim-W/Dust dollector 2.jpg">
-      <img src="./Jim-W/Thumbnails/Dust dollector 2-T.jpg">
+      <a href="./CraftsMen/Jim-W/Dust dollector 2.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Dust dollector 2-T.jpg">
       </a>
       </td>
   </tr>
@@ -142,18 +142,18 @@
   </tr>
   <tr>
  <td valign="top">
-      <a href="./Jim-W/Air filter 2.jpg">
-      <img src="./Jim-W/Thumbnails/Air filter 2-T.jpg">
+      <a href="./CraftsMen/Jim-W/Air filter 2.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Air filter 2-T.jpg">
       </a>
       </td>      
       <td valign="top">
-      <a href="./Jim-W/Miter.jpg">
-      <img src="./Jim-W/Thumbnails/Miter-T.jpg">
+      <a href="./CraftsMen/Jim-W/Miter.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Miter-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Jim-W/Oscillating sander.jpg">
-      <img src="./Jim-W/Thumbnails/Oscillating sander-T.jpg">
+      <a href="./CraftsMen/Jim-W/Oscillating sander.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Oscillating sander-T.jpg">
       </a>
       </td>
   </tr>
@@ -167,18 +167,18 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Jim-W/Router Table.jpg">
-      <img src="./Jim-W/Thumbnails/Router Table-T.jpg">
+      <a href="./CraftsMen/Jim-W/Router Table.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Router Table-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Jim-W/Planer.jpg">
-      <img src="./Jim-W/Thumbnails/Planer-T.jpg">
+      <a href="./CraftsMen/Jim-W/Planer.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Planer-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Jim-W/Radial Arm 1.jpg">
-      <img src="./Jim-W/Thumbnails/Radial Arm 1-T.jpg">
+      <a href="./CraftsMenJim-W/Radial Arm 1.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Radial Arm 1-T.jpg">
       </a>
       </td>
   </tr>
