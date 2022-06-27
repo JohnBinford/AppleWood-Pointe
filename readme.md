@@ -26,7 +26,8 @@
 
 * * *
 ##  Suggestions for your own submissions and optional information for your personal profile.
-#### At least!    Pictures and descriptive information about tools you might donate.
+#### At least!    
+- Pictures and descriptive information about tools you might donate.
 - Suggestions for Shop.
 - Pictures of noteworthy tools, or any you might wish to be in the shop.
 #### Information for your own personal profile. (If you wish  - See the link to Eric-S)
