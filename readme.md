@@ -9,7 +9,7 @@
   - Offerings from Eric-S have been moved to "CraftsMen" folder.
   - In order to keep the main page fresh and simple, old offerings will be moved to "CraftsMen" as new offerings come in.
   - The newest offerings will be here.
-  - You can find older offerings by clicking the "CraftsMen" folder and then their name.
+  - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
 
 * * *
 
