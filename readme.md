@@ -106,7 +106,7 @@
 ### Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
 
-#### John-W's Submissions
+#### Jim-W's Submissions
 [Link to Jim's Pictures](./Jim-W/readme.md)
 
 
