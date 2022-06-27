@@ -1,7 +1,7 @@
-| LastName | FirstName | Fullname | Email |
-| --- | --- | --- | --- |
+| LastName | FirstName | Fullname | Email | Phone # |
+| --- | --- | --- | --- | --- |
 | Bierlein|Len|Len Berlein|len.bierlein@gmail.com|952-240-7533 |
-| Ernst|Jim|Jim Ernst|jrernst85@gmail.com|612-816-9885 }
+| Ernst|Jim|Jim Ernst|jrernst85@gmail.com|612-816-9885 |
 | Johnson|Linelle|Linelle Johnson|linelleRjohnson@gmal.com|512-220-0824 |
 | Josephson|David|David Josephson|dacl.josephson@netzero.net|651-436-5388 |
 | Lorenz|Gary|Gary Lorenz|garyjlorenz@gmail.com|612-328-4425 |
@@ -14,3 +14,5 @@
 | Weidenbach|Jack|Jack Weidenbach|gsjack@charter.net|952-221-3649 |
 | Wittich|Jim|Jim Wittich|jim.wittich@yahoo.com|952-451-2053 |
 | Zerr|Dave|Dave Zerr|dzipper2@gmail.com|612-859-6328 |
+| Vikla|Marv|Marv Vikla|marvvikla@yahoo.com|Unknown |
+| Lavansky|Ralph|Ralph Lavansky|ralphlavansky@yahoo.com|Unknown |
