@@ -107,7 +107,7 @@
 *(Click a Pictiure for a High Definition Version!)* 
 
 #### Jim-W's Submissions
-[Link to Jim's Pictures](./Jim-W/readme.md)
+[Link to Jim's Pictures (Duplicates of those below)](./Jim-W/readme.md)
 
 
 <table>
