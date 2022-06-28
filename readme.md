@@ -4,6 +4,10 @@
 #### Links
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
+[Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
+
+[Link to Dimentioned Drawing (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
+
 [Link to Aplle Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 #### About the site.
   - Offerings from Eric-S have been moved to "CraftsMen" folder.
@@ -38,10 +42,6 @@
   - Potential things to learn.
 
 **  Send via email to johnathan.binford@gmail.com
-
-[Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
-
-[Link to Dimentioned Drawing (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
 * * *
 
