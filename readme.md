@@ -8,7 +8,7 @@
 
 [Link to Dimentioned Drawing (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
-[Link to Aplle Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
+[Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 #### About the site.
   - Offerings from Eric-S have been moved to "CraftsMen" folder.
   - In order to keep the main page fresh and simple, old offerings will be moved to "CraftsMen" as new offerings come in.
