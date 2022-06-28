@@ -10,22 +10,22 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./image1.jpg">
+      <a href="./image1.jpeg">
       <img src="./Thumbnails/image1-t.jpg">
       </a>
       </td>
          <td valign="top">
-      <a href="./image-2.jpg">
+      <a href="./image-2.jpeg">
       <img src="./Thumbnails/image2-t.jpg">
       </a>
       </td>
         <td valign="top">
-      <a href="./image3.jpg">
+      <a href="./image3.jpeg">
       <img src="./Thumbnails/image3-t.jpg">
       </a>
       </td>
         <td valign="top">
-      <a href="./image4.jpg">
+      <a href="./image4.jpeg">
       <img src="./Thumbnails/image4-t.jpg">
       </a>
       </td>
