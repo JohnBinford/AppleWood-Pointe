@@ -6,7 +6,7 @@ Applewood Pointe Hobby Shop
 
 From:
 
-Eric Strandjord # 309
+Eric S. # 309
 
 <johnathan.binford@gmail.com>
 
@@ -62,7 +62,7 @@ simple. Alternative suggestions welcome!)
 
 ***If you wish to be included in this organizational effort, please email***
 
-<Johnathan.binford@gmail.com>[ ](mailto:Johnathan.binford@gmail.com). (Backup - <ad0mz@centurylink.net>[ ](mailto:ad0mz@centurylink.net))
+<Johnathan.binford@gmail.com>[ ](mailto:Johnathan.binford@gmail.com). 
 
 I will coordinate (until / if) we find someone better. ☺
 
