@@ -14,5 +14,5 @@
 | Weidenbach|Jack|Jack Weidenbach|gsjack@charter.net|952-221-3649 |
 | Wittich|Jim|Jim Wittich|jim.wittich@yahoo.com|952-451-2053 |
 | Zerr|Dave|Dave Zerr|dzipper2@gmail.com|612-859-6328 |
-| Vikla|Marv|Marv Vikla|marvvikla@yahoo.com|Unknown |
+| Vikla|Marv|Marv Vikla|marvvikla@yahoo.com|612-490-4484 |
 | Lavansky|Ralph|Ralph Lavansky|ralphlavansky@yahoo.com|Unknown |
