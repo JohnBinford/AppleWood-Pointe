@@ -114,22 +114,22 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./CraftsMen/Ralph-L/image1.jpg">
+      <a href="./CraftsMen/Ralph-L/image1.jpeg">
       <img src="./CraftsMen/Ralph-L/Thumbnails/image1-t.jpg">
       </a>
       </td>
         <td valign="top">
-      <a href="./CraftsMen/Ralph-L/image2.jpg">
+      <a href="./CraftsMen/Ralph-L/image2.jpeg">
       <img src="./CraftsMen/Ralph-L/Thumbnails/image2-t.jpg">
       </a>
       </td>
         <td valign="top">
-      <a href="./CraftsMen/Ralph-L/image3.jpg">
+      <a href="./CraftsMen/Ralph-L/image3.jpeg">
       <img src="./CraftsMen/Ralph-L/Thumbnails/image3-t.jpg">
       </a>
       </td>
         <td valign="top">
-      <a href="./CraftsMen/Ralph-L/image4.jpg">
+      <a href="./CraftsMen/Ralph-L/image4.jpeg">
       <img src="./CraftsMen/Ralph-L/Thumbnails/image4-t.jpg">
       </a>
       </td>
