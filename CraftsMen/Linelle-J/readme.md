@@ -27,14 +27,14 @@
 
 <table>
   <tr>
-    <th>Dust-Collector/td>
+    <th>Dust-Collector</td>
     <th>Jig-Saw</td>
     <th>Miter-Saw</td>
   </tr>
   <tr>
- <td valign="top">
+      <td valign="top">
       <a href="./Dust-Collector.jpg">
-      <img src="./Dust-Collector-T.jpg">
+      <img src="./Thumbnails/Dust-Collector-T.jpg">
       </a>
       </td>      
       <td valign="top">
@@ -78,22 +78,11 @@
 <table>
   <tr>
     <th>Table-Saw</td>
-    <th> </td>
-    <th> </td>
   </tr>
   <tr>
       <td valign="top">
       <a href="./Table-Saw.jpg">
       <img src="./Thumbnails/Table-Saw-T.jpg">
       </a>
-      </td>
-      <td valign="top">
-      <a 
-      </a>
-      </td>
-      <td valign="top">
-      <a 
-      </a>
-      </td>
   </tr>
  </table>
