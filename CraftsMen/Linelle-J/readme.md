@@ -8,7 +8,7 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Band-saw.jpg">
+      <a href="./Band-Saw.jpg">
       <img src="./Thumbnails/Band-Saw-T.jpg">
       </a>
       </td>
