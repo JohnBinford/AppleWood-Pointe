@@ -1,5 +1,6 @@
 # News
 #### Email List
+- The list has been updated!  (Two typos, and two new participants.)
 - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
 #### Links
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
@@ -9,7 +10,7 @@
 [Link to Dimentioned Drawing (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
-#### About the site.
+#### Recent updates to this website.
   - Linelle-J submitted 10 nice tools!
   - Ralph-L submitted a few nice tools!
   - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
