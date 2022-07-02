@@ -103,6 +103,105 @@
 ## Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
 
+#### Linelle-J's Submissions
+
+<table>
+  <tr>
+    <th>Band-Saw</td>
+    <th>Belt-Sander</td>
+    <th>Drill-Press</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Band-Saw.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Band-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Belt-Sander.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Belt-Sander-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Drill-Press.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Dust-Collector</td>
+    <th>Jig-Saw</td>
+    <th>Miter-Saw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Dust-Collector.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Dust-Collector-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Jig-Saw.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Jig-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Miter-Saw.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Miter-Saw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>Planer-1</td>
+    <th>Planer-2</td>
+    <th>Router-Table</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Planer-1.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Planer-1-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Planer-2.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Planer-2-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Router-Table.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Router-Table-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Table-Saw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Table-Saw.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Table-Saw-T.jpg">
+      </a>
+  </tr>
+ </table>
+
+
+
+
+
+
+
+
+
+* * *
+
 #### Ralph-L's Submissions
 <table>
   <tr>
