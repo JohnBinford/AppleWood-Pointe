@@ -10,8 +10,9 @@
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 #### About the site.
+  - Linelle-J submitted 10 nice tools!
   - Ralph-L submitted a few nice tools!
-  - In order to keep the main page fresh and simple, old offerings will be moved to "CraftsMen" as new offerings come in.
+  - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
   - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
 
 * * *
