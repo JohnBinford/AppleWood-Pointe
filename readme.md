@@ -1,7 +1,11 @@
 # News
 #### Email List
-- The list has been updated!  (Two typos, and two new participants.)
-- To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
+- Note about the use of "John Binford" for this website and email.
+  - To make this contect "portable" in case someone else wishes to take over,
+    - Eric-S can simply give the password to the new person, and it's done.
+    - Otherwise, if Eric's email was used,  a whole new setup would be required.
+- The email list has been updated!  (Two typos, and two new participants.)
+  - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
 #### Links
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
