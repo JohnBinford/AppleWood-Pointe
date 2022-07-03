@@ -14,7 +14,7 @@
       <td valign="top">
         - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years</br>
         - Retired 2019.</br>
-        - Hobbies:     Aviation, Ham Radio, Electronics, Maker. 3D Printing.</br>
+        - Hobbies:     Aviation, Ham Radio, Electronics, Maker, 3D Printing, CAD/CAM.</br>
         - Interests:     CNC, Laser Cutting / Engraving, Mini Mill?</br></br>
         - Besides the two samples pictured so far, I have a nice portable 10 inch table saw.</br>
         - I'm sure someone has a better one!</br>
