@@ -1,4 +1,26 @@
 
+<table>
+  <tr>
+    <th>Ralph-L</td>
+    <th>Profile and Interests</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <img src="./Collateral/Ralph-L-T.png">
+      </a>
+      </td
+  <tr>
+      <td valign="top">
+        - Director of Human Resources </br>
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Minnesota Public Radio to 1988</br>
+  	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Metropolitan Transit Commission to 1994 </br>
+	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Northland Aluminum Products (Nordic Ware) to 2017 </br>
+        - Retired 2019.</br>
+        - Hobbies:     Carpentry, Soduku, Pool and BIllards, Fishing, Hunting, Shooting Range.</br>
+	- Crafts:      Fly Typing, Leather Work, Net Making, Macrame
+        - Interests:     Reading, Music, Eating out, Enjoying Retirement (no Guilt)</br></br>
+</table/
+
 ### Possible offerings from Ralph L.
 
 <table>
