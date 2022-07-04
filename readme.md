@@ -252,7 +252,7 @@
 
 
 #### Jim-W's Submissions
-[Link to Jim's Pictures (Duplicates of those below)](./Jim-W/readme.md)
+[Link to Jim's Pictures (Duplicates of those below)](./CraftsMen/Jim-W/readme.md)
 
 
 <table>
