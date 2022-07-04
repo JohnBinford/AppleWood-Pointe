@@ -1,4 +1,8 @@
 # News
+#### New Suggestions:
+- It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the meail list.
+- AWP won't furnish much for the space,  benches, cabinets, chests, and storage can shoiuld be included in our "donor list".
+
 #### Email List
 - Note about the use of "John Binford" for this website and email.
   - To make this contect "portable" in case someone else wishes to take over,
