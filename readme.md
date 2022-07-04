@@ -196,18 +196,12 @@
       </a>
   </tr>
  </table>
-
-
-
-
-
-
-
-
-
+ 
 * * *
 
 #### Ralph-L's Submissions
+
+[Link to Ralph-L's Profile](./CraftsMen/Ralph-L/readme.md)
 <table>
   <tr>
     <th>Rigid Work Support</td>
