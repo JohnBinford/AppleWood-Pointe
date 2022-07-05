@@ -54,6 +54,7 @@
   - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
 
 * * *
+* * *
 
 #  AppleWood Pointe Hobby Shop
 ## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
