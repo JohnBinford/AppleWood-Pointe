@@ -1,7 +1,27 @@
 # News
 #### New Suggestions:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the meail list.
-- AWP won't furnish much for the space,  benches, cabinets, chests, and storage can shoiuld be included in our "donor list".
+- AWP won't furnish much for the space;  benches, cabinets, chests, and storage need consideration.
+
+<table>
+  <tr>
+    <th>An Ugly but Straight Bench</th>
+     <th>24 by 448 Wire Rack Shelf</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Collateral/USB-Bench.jpg">
+      <img src="./Collateral/Thumbnails/USB-Bench.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Collateral/24x48-Shelf.jpg">
+      <img src="./Collateral/Thumbnails/24x48-Shelf-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
 
 #### Email List
 - Note about the use of "John Binford" for this website and email.
