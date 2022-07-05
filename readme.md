@@ -2,6 +2,7 @@
 #### New Suggestions:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the meail list.
 - AWP won't furnish much for the space;  benches, cabinets, chests, and storage need consideration.
+- Examples below - I bet someone has better!
 
 <table>
   <tr>
@@ -10,8 +11,8 @@
   </tr>
   <tr>
     <td valign="top">
-    <a href="./Collateral/USB-Bench.jpg">
-      <img src="./Collateral/Thumbnails/USB-Bench.jpg">
+    <a href="./Collateral/UBS-Bench.jpg">
+      <img src="./Collateral/Thumbnails/UBS-Bench-T.jpg">
       </a>
       </td>
     <td valign="top">
@@ -22,6 +23,7 @@
   </tr>
  </table>
 
+* * *
 
 #### Email List
 - Note about the use of "John Binford" for this website and email.
@@ -31,6 +33,9 @@
     - https://homeimprovement.fandom.com/wiki/Binford_Tools
 - The email list has been updated!  (Two typos, and two new participants.)
   - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
+  
+  * * *
+  
 #### Links
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
@@ -39,6 +44,9 @@
 [Link to Dimentioned Drawing (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
+
+* * *
+
 #### Recent updates to this website.
   - Linelle-J submitted 10 nice tools!
   - Ralph-L submitted a few nice tools!
