@@ -1,6 +1,6 @@
 # News
 #### New Suggestions:
-- It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the meail list.
+- It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
 - AWP won't furnish much for the space;  benches, cabinets, chests, and storage need consideration.
 - Examples below - I bet someone has better!
 
