@@ -45,7 +45,8 @@
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
-[Link to Experimental Time Lapse of Construction (Click Download on Next Page...)](./Collateral/eric.mp4)
+[Link to Experimental Construction Time Lapse Click Download on Next Page...)](./Collateral/eric.mp4)
+- The camera's timestamp is wrong...
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 * * *
