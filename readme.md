@@ -46,7 +46,7 @@
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
 [Link to Experimental Time Lapse of Construction (Click Download on Next Page...)](./Collateral/eric.mp4)
-- The "Back" button on your browser is the best wasy to backup.  The blue links after "AppleWood-Point" also work!)
+- The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 * * *
 
