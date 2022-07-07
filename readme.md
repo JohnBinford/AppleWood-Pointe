@@ -45,6 +45,8 @@
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
+[Line to Experimental Time Lapse of Construction](./Collateral/eric.mp4)
+
 * * *
 
 #### Recent updates to this website.
