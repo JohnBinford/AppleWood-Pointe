@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th>An Ugly but Straight Bench</th>
-     <th>24 by 448 Wire Rack Shelf</th>
+     <th>24 by 48 Wire Rack Shelf</th>
   </tr>
   <tr>
     <td valign="top">
