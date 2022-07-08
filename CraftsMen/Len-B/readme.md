@@ -7,12 +7,12 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./drill-press.jpg">
+      <a href="./drill-press.jpeg">
       <img src="./Thumbnails/drill-press-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./planer.jpg">
+      <a href="./planer.jpeg">
       <img src="./Thumbnails/planer-T.jpg">
       </a>
       </td>
@@ -26,12 +26,12 @@
   </tr>
   <tr>
       <td valign="top">
-       <a href="./router-jigsaw.jpg">
+       <a href="./router-jigsaw.jpeg">
       <img src="./Thumbnails/router-jigsaw-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./scrollsaw.jpg">
+      <a href="./scrollsaw.jpeg">
       <img src="./Thumbnails/scrollsaw-T.jpg">
       </a>
       </td>
