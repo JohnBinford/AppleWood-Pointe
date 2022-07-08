@@ -8,6 +8,7 @@
   <tr>
     <th>An Ugly but Straight Bench</th>
      <th>24 by 48 Wire Rack Shelf</th>
+     <th>Tool Chest (Refurbished - Like New!)
   </tr>
   <tr>
     <td valign="top">
@@ -18,6 +19,11 @@
     <td valign="top">
       <a href="./Collateral/24x48-Shelf.jpg">
       <img src="./Collateral/Thumbnails/24x48-Shelf-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Eric-S/Tool-Cabinet-1.jpg">
+      <img src="./CraftsMen/Eric-S/Thumbnails/Tool-Cabinet-1-T.jpg">
       </a>
       </td>
   </tr>
