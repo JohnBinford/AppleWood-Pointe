@@ -47,7 +47,7 @@
 
 [Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
 
-[Link to Dimentioned Drawing (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
+[Link to Dimentioned Drawing of Shop (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
