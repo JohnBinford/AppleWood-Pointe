@@ -16,7 +16,6 @@
       <img src="./Thumbnails/planer-T.jpg">
       </a>
       </td>
-
   </tr>
  </table>
 
@@ -36,6 +35,5 @@
       <img src="./Thumbnails/scrollsaw-T.jpg">
       </a>
       </td>
-
   </tr>
  </table>
