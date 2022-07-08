@@ -1,5 +1,11 @@
 # News
-#### New Suggestions:
+#### Recent updates to this website.
+  - Linelle-J submitted 10 nice tools!
+  - Ralph-L submitted a few nice tools!
+  - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
+  - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
+
+#### Suggestions:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
 - AWP won't furnish much for the space;  benches, cabinets, chests, and storage need consideration.
   - Examples below - I bet someone has better!
@@ -8,7 +14,7 @@
   <tr>
     <th>An Ugly but Straight Bench</th>
      <th>24 by 48 Wire Rack Shelf</th>
-     <th>Tool Chest (Refurbished - Like New!)
+     <th>Tool Chest (Clean - Refurbished)
   </tr>
   <tr>
     <td valign="top">
@@ -40,7 +46,7 @@
 - The email list has been updated!  (Two typos, and two new participants.)
   - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
   
-  * * *
+* * *
   
 #### Links
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
@@ -54,14 +60,6 @@
 [Link to Experimental Construction Time Lapse Click Download on Next Page...)](./Collateral/eric.mp4)
 - The camera's timestamp is wrong...
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
-
-* * *
-
-#### Recent updates to this website.
-  - Linelle-J submitted 10 nice tools!
-  - Ralph-L submitted a few nice tools!
-  - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
-  - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
 
 * * *
 * * *
@@ -151,6 +149,48 @@
 
 ## Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
+
+####  Len-B's Offerings
+
+<table>
+  <tr>
+    <th>Drill Press</td>
+    <th>Planer</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Len-B/drill-press.jpeg">
+      <img src="./CraftsMen/Len-B/Thumbnails/drill-press-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Len-B/planer.jpeg">
+      <img src="./CraftsMen/Len-B/Thumbnails/planer-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Router-Jigsaw</td>
+    <th>Scrollsaw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+       <a href="./CraftsMen/Len-B/router-jigsaw.jpeg">
+      <img src="./CraftsMen/Len-B/Thumbnails/router-jigsaw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Len-Bscrollsaw.jpeg">
+      <img src="./CraftsMen/Len-B/Thumbnails/scrollsaw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+ 
+* * *
 
 #### Linelle-J's Submissions
 
