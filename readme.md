@@ -1,5 +1,6 @@
 # News
 #### Recent updates to this website.
+  - Jack-W just submitted some nice tools!
   - Linelle-J submitted 10 nice tools!
   - Ralph-L submitted a few nice tools!
   - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
@@ -149,6 +150,87 @@
 
 ## Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
+
+#### Jack-W's Submissions
+
+<table>
+  <tr>
+    <th>Dewalt Planer</td>
+    <th>PowerMatic Band Saw</td>
+    <th>Some Nice Clamps, etc.</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/image0.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/image0-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/iamge1.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/image1-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/iamge3.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/image3-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Dust Collector</td>
+    <th>Rikon Wet Sharpener</td>
+    <th>Nice Dust Filer</td>
+  </tr>
+  <tr>
+ <td valign="top">
+      <a href="./CraftsMen/Jack-W/image4.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/image4-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/image5.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/image5-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/image6.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/image6-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>Other Tools</td>
+    <th>(More Tools)</td>
+  </tr>
+  <tr>
+     	<td valign="top">
+	- Milwaukee 4x24 belt sander</br>
+	- Bosch random orbit sander</br>
+	- Makita random orbit sander</br>
+	- Ryobi biscuit joiner</br>
+	- Makita power plane</br>
+      	</td>
+      	<td valign="top">
+	- Makita water stone power sharpener</br>
+	- Porter Cable detail sander</br>
+	- Porter Cable Brad nailers (2)</br>
+	- Drills and bits. Some Forster, brad point, twist bit, etc</br>
+	- Various other shop items and supplies.</br>	</td>	
+  </tr>
+ </table>
+
+
+
+
+
+
+* * *
 
 ####  Len-B's Offerings
 
