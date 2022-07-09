@@ -79,13 +79,15 @@
 - Pictures and descriptive information about tools you might donate.
 - Suggestions for Shop.
 #### Information for your own personal profile. (If you wish  - See the link to Eric-S)
-- A picture of you, or a well known avator for workmanship.
+- A picture of you, or a well known avatar for workmanship.
 - Some background information. 
   - Career milstones and interests.
   - Interests, Hobbies, Skills, etc.
   - Potential things to learn.
 
 **  Send via email to johnathan.binford@gmail.com
+
+* * * 
 
 #### About John Binford
 - Note about the use of "John Binford" for this website and email.
