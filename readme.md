@@ -1,8 +1,9 @@
 # News
 #### Recent updates to this website.
   - Jack-W just submitted some nice tools!
-  - Linelle-J submitted 10 nice tools!
-  - Ralph-L submitted a few nice tools!
+  - Linelle-J recently submitted 10 nice tools!
+  - Ralph-L recently submitted a few nice tools!
+  - THe pictures of the Eden Prarie shop have move to their own page - see link below.
   - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
   - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
 
@@ -50,6 +51,9 @@
 * * *
   
 #### Links
+
+[Link to Pictures from Eden Prarie Shop](./Other-Shops/readme.md)
+
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
 [Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
@@ -87,11 +91,6 @@
   - Potential things to learn.
 
 **  Send via email to johnathan.binford@gmail.com
-
-* * *
-
-### Some Pictures from the Eden Prarie Shop!
-- Insert link here.
 
 * * *
 * * *
