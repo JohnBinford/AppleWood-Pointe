@@ -53,7 +53,7 @@
  <table>
   <tr>
     <th>Other Tools</td>
-    <th>(Not Shown)</td>
+    <th>(More Tools)</td>
   </tr>
   <tr>
      	<td valign="top">
