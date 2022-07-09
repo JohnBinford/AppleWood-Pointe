@@ -5,12 +5,12 @@
   - Ralph-L recently submitted a few nice tools!
   - THe pictures of the Eden Prarie shop have move to their own page - see link below.
   - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
-  - You can find older offerings by clicking the "CraftsMen" folder (above) and then their name.
 
 #### Suggestions:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
-- AWP won't furnish much for the space;  benches, cabinets, chests, and storage need consideration.
-  - Examples below - I bet someone has better!
+- AWP won't furnish much for the space.
+  - Benches, cabinets, chests, and storage need consideration.
+    - Examples below - I bet someone has better!
 
 <table>
   <tr>
@@ -449,7 +449,7 @@
 
 * * *
 
-**Two Sample Tool Submissions from Eric S**
+#### Submissions from Eric S
 
 [Link to Eric's Profile](./CraftsMen/Eric-S/readme.md)
 <table>
