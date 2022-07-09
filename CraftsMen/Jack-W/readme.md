@@ -8,17 +8,17 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./image0.jpg">
+      <a href="./image0.jpeg">
       <img src="./Thumbnails/image0-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./iamge1.jpg">
+      <a href="./iamge1.jpeg">
       <img src="./Thumbnails/image1-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./iamge3.jpg">
+      <a href="./iamge3.jpeg">
       <img src="./Thumbnails/image3-T.jpg">
       </a>
       </td>
@@ -33,17 +33,17 @@
   </tr>
   <tr>
  <td valign="top">
-      <a href="./image4.jpg">
+      <a href="./image4.jpeg">
       <img src="./Thumbnails/image4-T.jpg">
       </a>
       </td>      
       <td valign="top">
-      <a href="./image5.jpg">
+      <a href="./image5.jpeg">
       <img src="./Thumbnails/image5-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./image6.jpg">
+      <a href="./image6.jpeg">
       <img src="./Thumbnails/image6-T.jpg">
       </a>
       </td>
