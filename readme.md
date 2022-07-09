@@ -115,12 +115,12 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./CraftsMen/Jack-W/iamge1.jpeg">
+      <a href="./CraftsMen/Jack-W/image1.jpeg">
       <img src="./CraftsMen/Jack-W/Thumbnails/image1-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./CraftsMen/Jack-W/iamge3.jpeg">
+      <a href="./CraftsMen/Jack-W/image3.jpeg">
       <img src="./CraftsMen/Jack-W/Thumbnails/image3-T.jpg">
       </a>
       </td>
