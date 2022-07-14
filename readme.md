@@ -5,7 +5,7 @@
   - Jack-W just submitted some nice tools!
   - Linelle-J recently submitted 10 nice tools!
   - Ralph-L recently submitted a few nice tools!
-  - THe pictures of the Eden Prarie shop have move to their own page - see link below.
+  - The pictures of the Eden Prarie shop have moved to their own page - see link below.
   - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
 
 #### Suggestions:
@@ -42,7 +42,7 @@
 * * *
 
 #### Email List
-- The email list is up to date! 
+- The email list is up to date! (Thanks to Ralph and others for their suggested corrections!)
   - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
   
 * * *
@@ -59,7 +59,7 @@
 
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
-[Link to Experimental Construction Time Lapse Click Download on Next Page...)](./Collateral/eric.mp4)
+[Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
 - The camera's timestamp is wrong...
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
