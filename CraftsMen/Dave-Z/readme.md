@@ -3,6 +3,7 @@
 
 -  Dave has more to come.
 -  This picture suggests some tools that we all need to consider!
+-  Click the picture to get Hi-Def!
 <table>
   <tr>
     <th>Dave's Assorment of Useful items</td>
