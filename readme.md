@@ -1,5 +1,7 @@
 # News
 #### Recent updates to this website.
+  - Dave-Z just submitted some nice handheld power tools for our list.
+    -  We need a good variety of such tiools to fill the lrage cabinetes we will have.  :-)
   - Jack-W just submitted some nice tools!
   - Linelle-J recently submitted 10 nice tools!
   - Ralph-L recently submitted a few nice tools!
@@ -102,6 +104,25 @@
 ## Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
 
+### Some interesting offerings from Dave Z.
+-  Dave has more to come.
+-  This picture suggests some tools that we all need to consider!
+-  Click the picture to get Hi-Def!
+<table>
+  <tr>
+    <th>Dave's Assorment of Useful items</td>
+
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Dave-Z/tools.jpg">
+      <img src="./CraftsMen/Dave-Z/Thumbnails/tools-T.jpg">
+      </a>
+      </td>
+ </table>
+ 
+ * * *
+ 
 #### Jack-W's Submissions
 
 <table>
@@ -175,10 +196,6 @@
 	- Various other shop items and supplies.</br>	</td>	
   </tr>
  </table>
-
-
-
-
 
 
 * * *
