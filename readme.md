@@ -48,6 +48,7 @@
 * * *
   
 #### Links
+- The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 [Link to Pictures from Eden Prarie Shop](./Other-Shops/readme.md)
 
@@ -60,8 +61,6 @@
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
-- The camera's timestamp is wrong...
-- The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 * * *
 * * *
