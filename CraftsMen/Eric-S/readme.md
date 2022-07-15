@@ -15,9 +15,9 @@
         - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years</br>
         - Retired 2019.</br>
         - Hobbies:     Computers and Technology, Aviation, Ham Radio, Electronics, Maker, 3D Printing.</br>
-        - A receent Project 
-        [- Link to AD0MZ Antenna](www.github.com/ad0mz) </br>
-        - Interests:     CNC, Laser Cutting / Engraving, Mini Mill?</br></br>
+        - A receent Project </br>
+https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br>
+        - Interests:  CNC, Laser Cutting / Engraving, Mini Mill?</br></br>
         - Besides the two samples pictured so far, I have a nice portable 10 inch table saw.</br>
         - I'm sure someone has a better one!</br>
       - Like all of us, I have a small collection of handheld power tools, and various hand tools.</br> 
