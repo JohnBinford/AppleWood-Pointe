@@ -14,7 +14,7 @@
       </td>
       <td valign="top">
       <a href="./EP-Shop-2.jpg">
-      <img src=".//Thumbnails/EP-Shop-2-T.jpg">
+      <img src="./Thumbnails/EP-Shop-2-T.jpg">
       </a>
       </td>
       <td valign="top">
