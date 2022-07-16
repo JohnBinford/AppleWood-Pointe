@@ -62,6 +62,11 @@
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
 
+[Link to Pictures from Eden Prarie Shop](./Other-Shops/Eden-Prarie/readme.md)
+
+[Link to Pictures from Eden Prarie Shop](./Other-Shops/GreenHouse/readme.md)
+
+
 * * *
 * * *
 
