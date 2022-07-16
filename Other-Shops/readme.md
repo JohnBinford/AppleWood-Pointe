@@ -1,54 +1,104 @@
-### Some Pictures from the Eden Prarie Shop!
-- There is plumbing in place for a vent and some other service, and a "vault" near the door.
-  - To-do number 1 is to get a list of what's provided.  (Not much it seems :-)  )
-*(Click a Picture for a High Definition Version!)*
+#### From the Greenhouse Coop on Larpenteur
+
 <table>
   <tr>
-    <th>From the Door</th>
-     <th>From the Center</th>
-     <th>From the Back Corner</th>
+    <th>Just Inside (right)  of Door</td>
+    <th>RIght Wall (From Door)</td>
+    <th>Left Wall (From Door)</td>
   </tr>
   <tr>
-    <td valign="top">
-    <a href="./EP-Shop-1.jpg">
-      <img src="./Thumbnails/EP-Shop-1-T.jpg">
+      <td valign="top">
+      <a href="./GH-1.jpg">
+      <img src="./Thumbnails/GH-1-T.jpg">
       </a>
       </td>
-    <td valign="top">
-      <a href="./Ep-Shop-2.jpg">
-      <img src="./Thumbnails/Ep-Shop-2-T.jpg">
+      <td valign="top">
+      <a href="./GH-3.jpg">
+      <img src="./Thumbnails/GH-3-T.jpg">
       </a>
       </td>
-    <td <valign="top">
-      <a href="./EP-Shop-3.jpg">
-      <img src="./Thumbnails/EP-Shop-3-T.jpg">
+      <td valign="top">
+      <a href="./GH-4.jpg">
+      <img src="./Thumbnails/GH-4-T.jpg">
       </a>
       </td>
   </tr>
  </table>
 
+
 <table>
   <tr>
-    <td>Other Way from Center</td>
-     <td>A Nice Table Saw</td>
-     <td>A Bandsaw</td>
+    <th>Far Left Corner</td>
+    <th>Back Wall</td>
+    <th>Far Right Corner</td>
   </tr>
   <tr>
-    <td valign="top">
-      <a href="./EP-Shop-4.jpg">
-      <img src="./Thumbnails/EP-Shop-4-T.jpg">
+      <td valign="top.>
+      <a href="./GH-5.jpg">
+      <img src="./Thumbnails/GH-5-T.jpg">
       </a>
-    </td>
-    <td valign="top">
-      <a href="./EP-Shop-5.jpg">
-      <img src="./Thumbnails/EP-Shop-5-T.jpg">
+      </td>
+      <td valign="top">
+      <a href="./GH-6.jpg">
+      <img src="./Thumbnails/GH-6-T.jpg">
       </a>
-    </td>
-    <td valign="top">
-      <a href="./EP-Shop-6.jpg">
-      <img src="./Thumbnails/EP-Shop-6-T.jpg">
+      </td>
+      <td valign="top">
+      <a href="./GH-7.jpg">
+      <img src="./Thumbnails/GH-7-T.jpg">
       </a>
-    </td>
+      </td>
   </tr>
  </table>
-- I noted a nice air compressor in the "vault" near the door.  (There is a hose reel on the ceiling.)
+ 
+
+ <table>
+   <tr>
+     <th>Right Wall</td>
+     <th>Paint Hood + Misc.</td>
+     <th>From Back Corner Towards Door</td>
+   </tr>
+   <tr>
+       <td valign="top">
+       <a href="./GH-8.jpg">
+       <img src="./Thumbnails/GH-8-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./GH-9.jpg">
+       <img src="./Thumbnails/GH-9-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./GH-10.jpg">
+       <img src="./Thumbnails/GH-10-T.jpg">
+       </a>
+       </td>
+   </tr>
+  </table>
+  
+
+  <table>
+    <tr>
+      <th>Small WorkArea Against Wall</td>
+      <th>Central Bench (14 Feet)</td>
+      <th>Exhaust Hood and Blower</td>
+    </tr>
+    <tr>
+        <td valign="top">
+        <a href="./GH-11.jpg">
+        <img src="./Thumbnails/GH-11-T.jpg">
+        </a>
+        </td>
+        <td valign="top">
+        <a href="./GH-13.jpg">
+        <img src="./Thumbnails/GH-13-T.jpg">
+        </a>
+        </td>
+        <td valign="top">
+        <a href="./GH-14.jpg">
+        <img src="./Thumbnails/GH-14-T.jpg">
+        </a>
+        </td>
+    </tr>
+   </table>
