@@ -1,7 +1,7 @@
 # News
 #### Recent updates to this website.
   - John Binford (AKA ric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
-  [Link to Pictures from Eden Prarie Shop](./Other-Shops/GreenHouse/readme.md)
+  [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
   - Dave-Z just submitted some nice handheld power tools for our list.
     -  We need a good variety of such tiools to fill the lrage cabinetes we will have.  :-)
   - Jack-W just submitted some nice tools!
@@ -62,9 +62,9 @@
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
 
-[Link to Pictures from Eden Prarie Shop](./Other-Shops/Eden-Prarie/readme.md)
+[Link to Pictures from the Eden Prarie Shop](./Other-Shops/Eden-Prarie/readme.md)
 
-[Link to Pictures from Eden Prarie Shop](./Other-Shops/GreenHouse/readme.md)
+[Link to Pictures from the GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
 
 
 * * *
