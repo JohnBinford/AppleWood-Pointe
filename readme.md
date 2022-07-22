@@ -3,7 +3,7 @@
   - John Binford (AKA ric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
   [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
   - Dave-Z just submitted some nice handheld power tools for our list.
-    -  We need a good variety of such tiools to fill the lrage cabinetes we will have.  :-)
+    -  We need a good variety of such tiools to fill the large cabinetes we will have.  :-)
   - Jack-W just submitted some nice tools!
   - Linelle-J recently submitted 10 nice tools!
   - Ralph-L recently submitted a few nice tools!
