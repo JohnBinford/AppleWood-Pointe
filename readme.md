@@ -1,5 +1,8 @@
 # News
 #### Recent updates to this website.
+  - A scaled drawing of the shop has been placed in the Colateral folder above.  (3/16 scale)
+    - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF".
+      - (This website does not do hyperlinks to PDF's well.)
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
   [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
   - Dave-Z just submitted some nice handheld power tools for our list.
