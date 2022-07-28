@@ -1,17 +1,11 @@
-# News
+# AppleWood Pointe Workshop News
 #### Recent updates to this website.
   - A scaled drawing of the shop has been placed in the Colateral folder above.  (3/16 scale)
     - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF" and choose download.
       - (This website does not do hyperlinks to PDF's well.)
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
-  [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
-  - Dave-Z just submitted some nice handheld power tools for our list.
-    -  We need a good variety of such tiools to fill the large cabinetes we will have.  :-)
-  - Jack-W just submitted some nice tools!
-  - Linelle-J recently submitted 10 nice tools!
-  - Ralph-L recently submitted a few nice tools!
-  - The pictures of the Eden Prarie shop have moved to their own page - see link below.
-  - Eventually, to keep the main page fresh and simple, older offerings will be moved to "CraftsMen" as new offerings come in.
+  - [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
+
 
 #### Suggestions:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
