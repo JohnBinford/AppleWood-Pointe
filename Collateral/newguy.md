@@ -3,7 +3,7 @@
 ### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
 - A folder will be created for each resident, and a master page will showplace various tools and ideas.
-- The table above shows recent activity, you can click the folders or activity to see the information.
+- The table at the top of the main page shows recent activity, you can click the folders or activity to see the information.
 - Verbiage next to each folder indicates the most recent activity for that folder.
 ### Use the email list to create email threads for general discussions. 
 
