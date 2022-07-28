@@ -1,42 +1,30 @@
-# AppleWood Pointe Workshop News
+# AppleWood Pointe Workshop</br>
+## News
+### If you are new the the Apple Valley Workshop Group, or this is your first time here...
+- Use the link below to see some introductory information.</br>
+[Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website.
   - A scaled drawing of the shop has been placed in the Colateral folder above.  (3/16 scale)
     - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF" and choose download.
       - (This website does not do hyperlinks to PDF's well.)
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
   - [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
-
-
-#### Suggestions:
+#### Recent Member Suggestions and things to think about:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
 - AWP won't furnish much for the space.
   - Benches, cabinets, chests, and storage need consideration.
-    - Examples below - I bet someone has better!
-
-<table>
-  <tr>
-    <th>An Ugly but Straight Bench</th>
-     <th>24 by 48 Wire Rack Shelf</th>
-     <th>Tool Chest (Clean - Refurbished)
-  </tr>
-  <tr>
-    <td valign="top">
-    <a href="./Collateral/UBS-Bench.jpg">
-      <img src="./Collateral/Thumbnails/UBS-Bench-T.jpg">
-      </a>
-      </td>
-    <td valign="top">
-      <a href="./Collateral/24x48-Shelf.jpg">
-      <img src="./Collateral/Thumbnails/24x48-Shelf-T.jpg">
-      </a>
-      </td>
-      <td valign="top">
-      <a href="./CraftsMen/Eric-S/Tool-Cabinet-1.jpg">
-      <img src="./CraftsMen/Eric-S/Thumbnails/Tool-Cabinet-1-T.jpg">
-      </a>
-      </td>
-  </tr>
- </table>
+  - [Click here to see Sample accessories.](./Collateral/accessories.md)
+- Three fellows have been gathering suggestions from other shops and have started other "Deep Thoughts".
+  - Electing Tools:  
+   - We need to decide how many of each we want.
+   - The best doesn't just mean heavy duty permanent placement equipment, but should include best portable equipment (table saws. miter saws, etc.) which can be easily set up when needed, placed where they can best be used with material being cut, and then easily taken down (folded) and be placed out of the way to provide more room in the Shop for other projects to be worked on at the time.
+  - As yet unconsidered tools:   
+    - Lathes, - vices, - panel saw, - metal working machines (milling machine) which no one has submitted so fa
+  - What will our policies be?
+    - Who getes a key?  
+      - AWP will  give shop keys to every resident who signs a waiver. Not just wood shop members.  
+	  Does this mean that they are O.K. with any individual wood shop member entering the shop at any time, even if they are alone? 
+  - Should we have a Workshop Manual?  One of the guys is working on a sample. 
 
 * * *
 
@@ -63,42 +51,6 @@
 
 [Link to Pictures from the GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
 
-
-* * *
-* * *
-
-#  AppleWood Pointe Hobby Shop
-## This repository is a simple place to share ideas and pictures in order to prepare our hobby shop at AWP.
-### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
-- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
-- A folder will be created for each resident, and a master page will showplace various tools and ideas.
-- The table above shows recent activity, you can click the folders or activity to see the information.
-- Verbiage next to each folder indicates the most recent activity for that folder.
-### Use the email list to create email threads for general discussions. 
-
-* * *
-##  Suggestions for your own submissions and optional information for your personal profile.
-#### At least!    
-- Pictures and descriptive information about tools you might donate.
-- Suggestions for Shop.
-#### Information for your own personal profile. (If you wish  - See the link to Eric-S)
-- A picture of you, or a well known avatar for workmanship.
-- Some background information. 
-  - Career milstones and interests.
-  - Interests, Hobbies, Skills, etc.
-  - Potential things to learn.
-
-**  Send via email to johnathan.binford@gmail.com
-
-* * * 
-
-#### About John Binford
-- Note about the use of "John Binford" for this website and email.
-  - To make this contect "portable" in case someone else wishes to take over,
-    - Eric-S can simply give the password to the new person, and it's done.
-    - Otherwise, if Eric's email was used,  a whole new setup would be required.
-    - https://homeimprovement.fandom.com/wiki/Binford_Tools
- 
 * * *
 * * *
 
