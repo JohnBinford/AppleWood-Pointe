@@ -16,15 +16,15 @@
   - [Click here to see Sample accessories.](./Collateral/accessories.md)
 - Three fellows have been gathering suggestions from other shops and have started other "Deep Thoughts".
   - Electing Tools:  
-   - We need to decide how many of each we want.
-   - The best doesn't just mean heavy duty permanent placement equipment, but should include best portable equipment (table saws. miter saws, etc.) which can be easily set up when needed, placed where they can best be used with material being cut, and then easily taken down (folded) and be placed out of the way to provide more room in the Shop for other projects to be worked on at the time.
+    - We need to decide how many of each we want.
+    - The best doesn't just mean heavy duty permanent placement equipment, but should include best portable equipment (table saws. miter saws, etc.) which can be easily set up when needed, placed where they can best be used with material being cut, and then easily taken down (folded) and be placed out of the way to provide more room in the Shop for other projects to be worked on at the time.
   - As yet unconsidered tools:   
-    - Lathes, - vices, - panel saw, - metal working machines (milling machine) which no one has submitted so fa
+    - Lathes, - vices, - panel saw, - metal working machines (milling machine) which no one has submitted so far.
   - What will our policies be?
     - Who getes a key?  
       - AWP will  give shop keys to every resident who signs a waiver. Not just wood shop members.  
 	  Does this mean that they are O.K. with any individual wood shop member entering the shop at any time, even if they are alone? 
-  - Should we have a Workshop Manual?  One of the guys is working on a sample. 
+    - Should we have a Workshop Manual?  One of the guys is working on a sample. 
 
 * * *
 
