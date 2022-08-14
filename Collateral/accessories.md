@@ -30,7 +30,7 @@
   <tr>
     <th>A proper Oxy/Aceteline Torch Setup</th>
      <th>Useful Accessories</th>
-    <th>Sorted Srews (Picture Soon)</th>
+    <th>Sorted Hardware (Picture Soon)</th>
   </tr>
   <tr>
     <td valign="top">
@@ -40,7 +40,7 @@
       </td>
     <td valign="top">
       <a href="./Torch-Parts.jpg">
-      <img src="./Torch-Parts-T.jpg">
+      <img src="./Thumbnails/Torch-Parts-T.jpg">
       </a>
       </td>
       <td valign="top">
