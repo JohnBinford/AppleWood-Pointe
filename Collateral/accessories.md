@@ -24,3 +24,29 @@
       </td>
   </tr>
  </table>
+ 
+ 
+ <table>
+  <tr>
+    <th>A proper Oxy/Aceteline Torch Setup</th>
+     <th>Useful Accessories</th>
+    <th>Sorted Srews (Picture Soon)</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Torch.jpg">
+      <img src="./Thumbnails/Torch-T.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Torch-Parts.jpg">
+      <img src="./Torch-Parts-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/Eric-S/Tool-Cabinet-1.jpg">
+      <img src="../CraftsMen/Eric-S/Thumbnails/Tool-Cabinet-1-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
