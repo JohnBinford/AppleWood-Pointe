@@ -7,8 +7,8 @@
   - A scaled drawing of the shop has been placed in the Colateral folder above.  (3/16 scale)
     - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF" and choose download.
       - (This website does not do hyperlinks to PDF's well.)
-      - A link to a JPG of the drawing follows.  Remember that JPG's may not print to scale like a PDF.
-      - [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)
+      - A link to a JPG of the drawing follows.  Remember that JPG's may not print to scale like a PDF. </br>
+[Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
 [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
