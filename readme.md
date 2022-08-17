@@ -11,8 +11,7 @@
       - [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
-    - [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
-  -
+[Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
 #### Recent Member Suggestions and things to think about:
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
 - AWP won't furnish much for the space.
