@@ -1,4 +1,4 @@
-#### From the Eden Prairie Coop
+#### From the Eagan Prairie Coop
 
 <table>
   <tr>
