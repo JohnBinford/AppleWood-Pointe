@@ -83,7 +83,7 @@
     <th>Little-Corner</td>
   </tr>
   <tr>
-      <td valign="top.">
+      <td valign="top">
       <a href="./Good-Saw.jpg">
       <img src="./Thumbnails/Good-Saw-T.jpg">
       </a>
