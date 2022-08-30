@@ -94,8 +94,8 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./Right-I-Door.jpg">
-      <img src="./Thumbnails/Right-I-Door-T.jpg">
+      <a href="./RIght-I-Door.jpg">
+      <img src="./Thumbnails/RIght-I-Door-T.jpg">
       </a>
       </td>
   </tr>
