@@ -35,7 +35,7 @@
 
 * * *
 
-#### Email List
+#### Applewood Pointe of Apple Valley Workshop Email List
 - The email list is up to date! (Thanks to Ralph and others for their suggested corrections!)
   - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
   
