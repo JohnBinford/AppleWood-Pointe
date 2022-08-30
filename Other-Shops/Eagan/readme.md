@@ -1,4 +1,4 @@
-#### From the Eagan SHop
+#### From the Eagan Shop
 
 <table>
   <tr>
