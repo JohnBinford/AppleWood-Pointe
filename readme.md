@@ -6,8 +6,8 @@
 #### Recent updates to this website
   - Ralph, Eric, Linelle, and Dave recently toured the Eagan Shop!
     -  We were able to talk to some residents and got a few good ideas.  
-    -  More to come!
-    [Link to Pictures from the Eden Eagan Shop](./Other-Shops/Eden-Prarie/readme.md)</br>
+    -  More to come! </br>
+    [Link to Pictures from the Eagan Shop](./Other-Shops/Eden-Prarie/readme.md)</br>
   - A scaled drawing of the shop has been placed in the Colateral folder above.  (3/16 scale)
     - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF" and choose download.
       - (This website does not do hyperlinks to PDF's well.)
@@ -53,6 +53,8 @@
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
+
+[Link to Pictures from the Eagan Shop](./Other-Shops/Eden-Prarie/readme.md)
 
 [Link to Pictures from the Eden Prarie Shop](./Other-Shops/Eden-Prarie/readme.md)
 
