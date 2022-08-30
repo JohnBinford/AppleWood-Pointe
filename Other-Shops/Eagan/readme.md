@@ -1,4 +1,4 @@
-#### From the Eagan Prairie Coop
+#### From the Eagan SHop
 
 <table>
   <tr>
