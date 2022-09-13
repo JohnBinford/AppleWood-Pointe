@@ -56,7 +56,22 @@
  </table>
  
 - Click thumbnails for Hi Def Pictures)
-- 
+
+<table>
+  <tr>
+    <th>Ralph recently purchased this 2 Axis Cross Table for his Drill Press</td>
+
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Cross-Table.png">
+      <img src="./Thumbnails/Cross-Table-T.png">
+      </a>
+      </td>
+ </table>
+
+
+
   #### Some other tools...
 - 7 1/4" Circular Saw (Rockwell)
 - 4.5 Amp Variable Speed Jigsaw (Black & Decker)
