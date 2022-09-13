@@ -4,6 +4,7 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website
+  - Ralph-L recently sent in a picture of his new Cross Table!  (See Below)
   - Ralph, Eric, Linelle, and Dave recently toured the Eagan Shop!
     -  We were able to talk to some residents and got a few good ideas.  
     -  More to come! </br>
