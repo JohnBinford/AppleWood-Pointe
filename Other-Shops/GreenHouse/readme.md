@@ -33,8 +33,8 @@
     <th>Far Right Corner</td>
   </tr>
   <tr>
-      <td valign="top.>
-      <a href="./GH-4.jpg">
+      <td valign="top>
+      <a href="./GH-5.jpg">
       <img src="./Thumbnails/GH-5-T.jpg">
       </a>
       </td>
