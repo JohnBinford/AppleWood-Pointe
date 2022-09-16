@@ -4,6 +4,10 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website
+  - John Binford recentlhy added a few screenshots from teh City Planning Document.</br>
+[Link to Aerial View.](./Collateral/Aerial-1.png)</br>
+[Link to Topographical View.](./Collateral/Aerial-Topo.png)</br>
+[Link to Building Elevations.](./Collateral/Building-Elevations.png)</br>
   - Ralph-L recently sent in a picture of his new Cross Feed Table!  (See Below)
   - Ralph, Eric, Linelle, and Dave recently toured the Eagan Shop!
     -  We were able to talk to some residents and got a few good ideas.  
