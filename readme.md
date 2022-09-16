@@ -9,7 +9,7 @@
     -  We were able to talk to some residents and got a few good ideas.  
     -  More to come! </br>
     [Link to Pictures from the Eagan Shop](./Other-Shops/Eagan/readme.md)</br>
-  - A scaled drawing of the shop has been placed in the Colateral folder above.  (3/16 scale)
+  - A scaled drawing of the shop has been placed in the Collateral folder above.  (3/16 scale)
     - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF" and choose download.
       - (This website does not do hyperlinks to PDF's well.)
       - A link to a JPG of the drawing follows.  Remember that JPG's may not print to scale like a PDF. </br>
