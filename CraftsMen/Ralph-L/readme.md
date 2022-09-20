@@ -60,7 +60,8 @@
 <table>
   <tr>
     <th>Ralph recently purchased this 2 Axis Cross Table for his Drill Press</td>
-
+    <th>Mounted on his 1946 Drill Press!</td>
+    <th>Another View</td>
   </tr>
   <tr>
       <td valign="top">
@@ -68,9 +69,17 @@
       <img src="./Thumbnails/Cross-Table-T.png">
       </a>
       </td>
- </table>
-
-
+      <td valign="top">
+      <a href="./Drill-With-Table.jpeg">
+      <img src="./Thumbnails/Drill-With-Table-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Table-Mounted.jpeg">
+      <img src="./Thumbnails/Table-Mounted-T.jpg">
+      </a>
+      </td>      
+      </table>
 
   #### Some other tools...
 - 7 1/4" Circular Saw (Rockwell)
