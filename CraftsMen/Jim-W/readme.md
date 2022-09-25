@@ -75,4 +75,48 @@
   </tr>
  </table>
 
+ <table>
+  <tr>
+    <th>Grizzley Bandsaw</td>
+    <th>Jointer</td>
+    <th>HVLP Spray Outfit</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Bandsaw.jpg">
+      <img src="./Thumbnails/Bandsaw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Jointer.jpg">
+      <img src="./Thumbnails/JointerT.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Spray-Gun.jpg">
+      <img src="./Thumbnails/Spray-Gun-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>Workbench</td>
+    <th>Workbench</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Workbench1.jpg">
+      <img src="./Thumbnails/Workbench1-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Workbench2.jpg">
+      <img src="./Thumbnails/Workbench2-T.jpg">
+      </a>
+  </tr>
+ </table>
+
+
  #### Jim also has a large collection of power hand tools! 
