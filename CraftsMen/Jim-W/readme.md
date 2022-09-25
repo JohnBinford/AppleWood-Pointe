@@ -89,7 +89,7 @@
       </td>
       <td valign="top">
       <a href="./Jointer.jpg">
-      <img src="./Thumbnails/JointerT.jpg">
+      <img src="./Thumbnails/Jointer-T.jpg">
       </a>
       </td>
       <td valign="top">
