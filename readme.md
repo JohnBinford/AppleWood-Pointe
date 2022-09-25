@@ -4,6 +4,7 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website
+  - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
 [Link to Aerial View.](./Collateral/Aerial-1.png)</br>
 [Link to Topographical View.](./Collateral/Aerial-Topo.png)</br>
@@ -26,7 +27,7 @@
 - AWP won't furnish much for the space.
   - Benches, cabinets, chests, and storage need consideration.
   - [Click here to see Sample accessories.](./Collateral/accessories.md)
-- Three fellows have been gathering suggestions from other shops and have started other "Deep Thoughts".
+- Four fellows have been gathering suggestions from other shops and have started other "Deep Thoughts".
   - Electing Tools:  
     - We need to decide how many of each we want.
     - The best doesn't just mean heavy duty permanent placement equipment, but should include best portable equipment (table saws. miter saws, etc.) which can be easily set up when needed, placed where they can best be used with material being cut, and then easily taken down (folded) and be placed out of the way to provide more room in the Shop for other projects to be worked on at the time.
