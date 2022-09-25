@@ -443,6 +443,49 @@
   </tr>
  </table>
  
+  <table>
+  <tr>
+    <th>Grizzley Bandsaw</td>
+    <th>Jointer</td>
+    <th>HVLP Spray Outfit</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Jim-W/Bandsaw.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Bandsaw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jim-W/Jointer.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Jointer-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jim-W/Spray-Gun.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Spray-Gun-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>Workbench</td>
+    <th>Workbench</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Jim-W/Workbench1.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Workbench1-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jim-W/Workbench2.jpg">
+      <img src="./CraftsMen/Jim-W/Thumbnails/Workbench2-T.jpg">
+      </a>
+  </tr>
+ </table>
+ 
 ##### Jim has a nice Biscuit Joiner and a Dovetail Jig
 ##### Jim also has a large collection of power hand tools! 
  
