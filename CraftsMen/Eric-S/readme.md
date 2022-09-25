@@ -15,7 +15,7 @@
         - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years</br>
         - Retired 2019.</br>
         - Hobbies:     Computers and Technology, Aviation, Ham Radio, Electronics, Maker, 3D Printing.</br>
-        - A receent Project </br>
+        - A recent Project </br>
 https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br>
         - Interests:  CNC, Laser Cutting / Engraving, Mini Mill?</br></br>
         - Besides the two samples pictured so far, I have a nice portable 10 inch table saw.</br>
@@ -30,7 +30,6 @@ https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br>
  </table>
  
 ### Possible offerings from Eric S.
-#### Since we have a couple of years yet,  I will update this page as I sort things out.
 <table>
   <tr>
     <th>Rigid Drill Press</td>
