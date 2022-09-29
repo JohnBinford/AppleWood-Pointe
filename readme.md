@@ -4,6 +4,7 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website
+  - Dave-P recently offered a few pictures of his major tools, he has a ton that are not picture too!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
 [Link to Aerial View.](./Collateral/Aerial-1.png)</br>
@@ -23,6 +24,9 @@
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
 [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
 #### Recent Member Suggestions and things to think about:
+- During the Fall Luncheon, John B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
+  - The storage area next to the shop has HVAC in it, so we can't use it right away.
+  - John B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
 - AWP won't furnish much for the space.
   - Benches, cabinets, chests, and storage need consideration.
