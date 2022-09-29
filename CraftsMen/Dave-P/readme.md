@@ -1,6 +1,26 @@
-#### Dave-P's Submissions
 
 <table>
+  <tr>
+    <th>Dave</td>
+    <th>Profile and Interests</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./Collateral/Dave.jpg">
+      <img src="./Collateral/Dave-T.jpg">
+      </a>
+      </td
+<table>
+  <tr>
+      <td valign="top">
+        - Career Insurance CLU, 30 Years</br>
+        - Hobbies:     Woodworking, Reading, Travel</br>
+      </td>
+  </tr>
+ </table>	
+ 
+ #### Dave-P's Submissions
+ 
   <tr>
     <th>Table Saw</td>
     <th>Band-Saw</td>
