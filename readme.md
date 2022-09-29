@@ -119,7 +119,8 @@
  </table>
  #### Dave also has a large collection of hand tools and portable power tools! 
 
-
+ * * *
+ 
 ### Some interesting offerings from Dave Z.
 -  Dave has more to come.
 -  This picture suggests some tools that we all need to consider!
