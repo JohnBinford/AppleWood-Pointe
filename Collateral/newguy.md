@@ -12,7 +12,7 @@
 #### At least!    
 - Pictures and descriptive information about tools you might donate.
 - Suggestions for Shop.
-#### Information for your own personal profile. (If you wish  - See the link to Eric-S)
+#### Information for your own personal profile. See [Link to Eric's Profile](./CraftsMen/Eric-S/readme.md) for examples.
 - A picture of you, or a well known avatar for workmanship.
 - Some background information. 
   - Career milstones and interests.
