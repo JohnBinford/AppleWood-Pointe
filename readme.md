@@ -71,6 +71,54 @@
 
 ## Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
+ 
+ #### Dave-P's Submissions
+ [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
+ 
+ <table>
+  <tr>
+    <th>Table Saw</td>
+    <th>Band-Saw</td>
+    <th>Jointer</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Dave-P/Table-Saw.jpg">
+      <img src="./CraftsMen/Dave-P/Thumbnails/Table-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Dave-P/Band-Saw.jpg">
+      <img src="./CraftsMen/Dave-P/Thumbnails/Band-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Dave-P/Jointer.jpg">
+      <img src="./CraftsMen/Dave-P/Thumbnails/Jointer-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Drill Press</td>
+    <th>Dust-Collector</td>
+  </tr>
+  <tr>
+ <td valign="top">
+      <a href="./CraftsMen/Dave-P/Drill-Press.jpg">
+      <img src="./CraftsMen/Dave-P/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="./CraftsMen/Dave-P/Dust-Collector.jpg">
+      <img src="./CraftsMen/Dave-P/Thumbnails/Dust-Collector-T.jpg">
+      </a>
+  </tr>
+ </table>
+ #### Dave also has a large collection of hand tools and portable power tools! 
+
 
 ### Some interesting offerings from Dave Z.
 -  Dave has more to come.
