@@ -4,7 +4,7 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website
-  - Dave-P recently offered a few pictures of his major tools, he has a ton that are not picture too!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
+  - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
 [Link to Aerial View.](./Collateral/Aerial-1.png)</br>
