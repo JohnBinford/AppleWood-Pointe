@@ -6,11 +6,10 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Collateral/Dave.jpg">
-      <img src="./Collateral/Dave-T.jpg">
+      <a href="./Collateral/Dave-P.jpg">
+      <img src="./Collateral/Dave-P-T.jpg">
       </a>
       </td
-<table>
   <tr>
       <td valign="top">
         - Career Insurance CLU, 30 Years</br>
@@ -20,7 +19,7 @@
  </table>	
  
  #### Dave-P's Submissions
- 
+ <table>
   <tr>
     <th>Table Saw</td>
     <th>Band-Saw</td>
