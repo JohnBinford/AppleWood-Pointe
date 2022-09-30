@@ -1,3 +1,3 @@
- <a href="./CraftsMen/Dave-P/Table-Saw.jpg">
-      <img src="./Documents/Documents.zip">
+ <a href="./Documents/Documents.pdf">
+      <img src="./CraftsMen/Dave-P/Thumbnails/Table-Saw-T.jpg">
       </a>
