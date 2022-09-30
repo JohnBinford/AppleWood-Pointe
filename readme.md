@@ -5,8 +5,7 @@
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 #### Recent updates to this website
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
-    Click the Documents link (Just Below), and then the Download "box" on the right side fo the next page to get a ZIP of them all! </br>
- <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip" download> Documents </a> </br>
+ <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip" download> Documents (Right Click to Download - no online viewer!) </a> </br>
  ( The extra step is a quirk of the FREE web hosting site we are using - Working to streamline! )
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
