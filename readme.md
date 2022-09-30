@@ -3,21 +3,28 @@
 ### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
+
 #### Recent updates to this website
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
+  [Link to the Documents Page.](./Documents/Download.md)</br>
+    - You can also download all current documents with the following link. </br>
  <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip" download> Documents (Right Click to Download ZIP of them all - no online viewer!) </a> </br>
  ( The extra step is a quirk of the FREE web hosting site we are using - Working to streamline! )
+ 
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
+  
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
 [Link to Aerial View.](./Collateral/Aerial-1.png)</br>
 [Link to Topographical View.](./Collateral/Aerial-Topo.png)</br>
 [Link to Building Elevations.](./Collateral/Building-Elevations.png)</br>
+
   - Ralph-L recently sent in a picture of his new Cross Feed Table!  (See Below)
+  
   - Ralph, Eric, Linelle, and Dave recently toured the Eagan Shop!
     -  We were able to talk to some residents and got a few good ideas.  
-    -  More to come! </br>
     [Link to Pictures from the Eagan Shop](./Other-Shops/Eagan/readme.md)</br>
+    
   - A scaled drawing of the shop has been placed in the Collateral folder above.  (3/16 scale)
     - Click "Collateral" above, and then ***Right Click*** "AWP-Shop-Dimentioned.PDF" and choose download.
       - (This website does not do hyperlinks to PDF's well.)
