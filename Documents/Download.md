@@ -2,7 +2,7 @@
 #### Note!
 - This free website has no ONLINE viewer for Documents, so you must download them.
   - Right-Clicking (Using the Right Mouse button) is the traditional way to download something.
-  - (No harm is done if you click "normally", just "Back up" and try the right button :-)   )
+  - (No harm is done if you click "normally", just "Back up" and try the othre button :-)   )
 #### The Draft documents become effective after the Resident Board is established, etc.
 </br>
 </br>
