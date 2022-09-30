@@ -1,4 +1,7 @@
-<a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf" download>
+<table>
+  <tr>
+    <td valign = "top">
+<a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf">
 Safety Rules and Waiver ---------- (Right-Click to Download - No online viewer) </a>
 </br>
 <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUseApp%26Waiver.pdf" download>
