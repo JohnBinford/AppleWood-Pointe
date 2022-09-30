@@ -1,6 +1,6 @@
 ### Documentation.
 
-<a id="raw-url" href="https://raw.github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/APAV100122ShopSafetyRules%26Waiver.pdf">Download FILE</a>
+<a id="raw-url" href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/APAV100122ShopSafetyRules%26Waiver.pdf">Download FILE</a>
 
 https://raw.github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/APAV100122ShopSafetyRules%26Waiver.pdf </a>
 
