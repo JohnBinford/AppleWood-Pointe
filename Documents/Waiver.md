@@ -1,4 +1,4 @@
-##Applewood Pointe of Apple Valley
+## Applewood Pointe of Apple Valley 
 
 SHOP SAFETY RULES
 
