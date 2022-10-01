@@ -31,6 +31,8 @@
     
   - A scaled drawing of the shop has been placed in the Collateral folder above. </br>
     [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)
+    - A PDF of the drawing is available on the documents page. </br>
+    [Link to Documents Collection.](./Documents/Download.md)
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
 [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
