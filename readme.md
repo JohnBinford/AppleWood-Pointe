@@ -29,7 +29,7 @@
     -  We were able to talk to some residents and got a few good ideas.  
     [Link to Pictures from the Eagan Shop](./Other-Shops/Eagan/readme.md)</br>
     
-  - A scaled drawing of the shop has been placed in the Collateral folder above. </br>
+  - A scaled drawing of the shop has been created. </br>
     [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)
     - A PDF of the drawing is available on the documents page. </br>
     [Link to Documents Collection.](./Documents/Download.md)
