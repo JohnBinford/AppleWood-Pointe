@@ -5,9 +5,12 @@
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
 #### Recent updates to this website
-  - Ralph recently sumitted our Draft Manual and other documentation.
-    - Shoot!  John thought he had a download link working, but it failed suring the second test an hour later ! ?????
-    - Now trying another method.  (I guess we get what we pay for, when we use free hosting services!)
+  - Ralph recently sumitted our Draft Manual and other documentation. </br>
+    [Link Online Manual.](./Documents/Manual.md)</br>
+    [Link Online Waiver.](./Documents/Waiver.md)</br>
+    - Shoot!  John thought he had download links for the PDF Versions working, but the download links for them were broken after a second test an hour later !  
+    - (Still Trying - John is new to Web Design!)
+
  
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
