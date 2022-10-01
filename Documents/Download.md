@@ -1,11 +1,9 @@
-
-https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip
-
 ## Documentation for the Workshop
 #### Note!
 - This free website has no ONLINE viewer for Documents, so you must download them.
-  - Right-Clicking (Using the Right Mouse button) is the traditional way to download something.
-  - (No harm is done if you click "normally", just "Back up" and try the othre button :-)   )
+  - Just click the links below.
+  - You will see a mostly blank page, but there is a DOWNLOAD "box" on the right.
+  - Just click that, wait for the documents, and then use your browser's "back" arrow to return to this page.
 #### The Draft documents become effective after the Resident Board is established, etc.
 </br>
 </br>
