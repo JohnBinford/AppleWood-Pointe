@@ -1,9 +1,10 @@
 ## Documentation for the Workshop
 #### Note!
 - This free website has no ONLINE viewer for Documents, so you must download them.
-  - Just click the links below.
-  - You will see a mostly blank page, but there is a DOWNLOAD "box" on the right.
-  - Just click that, wait for the documents, and then use your browser's "back" arrow to return to this page.
+  - Just click one of the links below.
+  - You will see a NEW (mostly blank) page (Ignore the "spinning" circle in the middle).
+  - Find the DOWNLOAD "box" on the right.
+  - Just click the appropriate one, wait for the documents to download, and then use your browser's "back" arrow to return to this page when your are done downloading.
 #### The Draft documents become effective after the Resident Board is established, etc.
 </br>
 </br>
