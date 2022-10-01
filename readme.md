@@ -9,11 +9,12 @@
     [Link to Online Manual.](./Documents/Manual.md)</br>
     [Link to Online Waiver.](./Documents/Waiver.md)
     - You can also download more nicely formatted PDF versions of each document here.</br>
-    [Link to Documents Collection.](./Documents/Download.md)
+    [Link to the Documents Collection.](./Documents/Download.md)
 
  
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well! </br>
   [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
+  
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
   
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
@@ -30,9 +31,9 @@
     [Link to Pictures from the Eagan Shop](./Other-Shops/Eagan/readme.md)</br>
     
   - A scaled drawing of the shop has been created. </br>
-    [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)
-    - A PDF of the drawing is available on the documents page. </br>
-    [Link to Documents Collection.](./Documents/Download.md)
+    [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)</br>
+    A PDF of the drawing is available on the documents page. </br>
+    [Link to the Documents Collection.](./Documents/Download.md)
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
 [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
