@@ -1,3 +1,6 @@
+
+https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf
+
 ## Documentation for the Workshop
 #### Note!
 - This free website has no ONLINE viewer for Documents, so you must download them.
