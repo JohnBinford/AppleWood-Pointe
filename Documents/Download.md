@@ -1,5 +1,5 @@
 
-https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Docuemnts.zip
+https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip
 
 ## Documentation for the Workshop
 #### Note!
