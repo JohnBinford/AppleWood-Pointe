@@ -1,7 +1,8 @@
 ## Documentation for the Workshop
 #### Note!
-- This free website has no ONLINE viewer for PDF Documents, so you must download them.
-  - Just click one of the links below.
+- Some Browsers have  NO INLINE viewer for PDF Documents, or have "security settings" that prevent inline viewing (in your browser's window) - from certain websites. So you must download them blind sometimes.  
+  - John B. has three computers that show the PDF, but his favorite does not!
+- Just click one of the links below.
   - You will see a new preview page. 
     - If you see a "spinning" circle in the middle of the page or an empty looking page instead of a preview, ignore it and continue.
   - Click the DOWNLOAD "box" on the right.
