@@ -6,13 +6,14 @@
 
 #### Recent updates to this website
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
-    [Link Online Manual.](./Documents/Manual.md)</br>
-    [Link Online Waiver.](./Documents/Waiver.md)</br>
-    - Shoot!  John thought he had download links for the PDF Versions working, but the download links for them were broken after a second test an hour later !  
-    - (Still Trying - John is new to Web Design!)
+    [Link to Online Manual.](./Documents/Manual.md)</br>
+    [Link to Online Waiver.](./Documents/Waiver.md)
+  - You can also download more nicely formatted PDF versions of each document here.</br>
+    [Link to Documents Collection.](./Documents/Download.md)
 
  
-  - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well!    [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
+  - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well! </br>
+  [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
   
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
@@ -20,7 +21,9 @@
 [Link to Topographical View.](./Collateral/Aerial-Topo.png)</br>
 [Link to Building Elevations.](./Collateral/Building-Elevations.png)</br>
 
-  - Ralph-L recently sent in a picture of his new Cross Feed Table!  (See Below)
+  - Ralph-L recently sent in a picture of his new Cross Feed Table!</br>
+    Check his profile (or his section below) to check it out!</br>
+    [Link to Ralph-L's Profile](./CraftsMen/Ralph-L/readme.md)
   
   - Ralph, Eric, Linelle, and Dave recently toured the Eagan Shop!
     -  We were able to talk to some residents and got a few good ideas.  
