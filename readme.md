@@ -32,7 +32,7 @@
     
   - A scaled drawing of the shop has been created. </br>
     [Link to a JPG of the drawing.](./Collateral/AWP-Shop-Dimentioned.JPG)</br>
-    A PDF of the drawing is available on the documents page. </br>
+    A PDF of the drawing is available on the documents page.  Pdf's can print accurately, jpg's sometimes don't. </br>
     [Link to the Documents Collection.](./Documents/Download.md)
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
