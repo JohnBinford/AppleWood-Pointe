@@ -1,6 +1,6 @@
 ## Documentation for the Workshop
 #### Note!
-- This free website has no ONLINE viewer for Documents, so you must download them.
+- This free website has no ONLINE viewer for PDF Documents, so you must download them.
   - Just click one of the links below.
   - You will see a NEW (mostly blank) page (Ignore the "spinning" circle in the middle).
   - Click the DOWNLOAD "box" on the right.
