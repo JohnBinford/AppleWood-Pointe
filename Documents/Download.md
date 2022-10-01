@@ -60,7 +60,7 @@
   <td>
   PDF of the Scaled Drawing of the Shop 
   </td>
-  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/AWP-Shop-Dimentioned.pdf"> 
+  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/AWP-Shop-Dimentioned.zip"> 
     Click to Download the AWP Provided Application and Waiver
     </td>
     </td>
