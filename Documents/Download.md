@@ -2,8 +2,8 @@
 #### Note!
 - This free website has no ONLINE viewer for PDF Documents, so you must download them.
   - Just click one of the links below.
-  - You will see a NEW (mostly blank) page. 
-    - Ignore the "spinning" circle in the middle of the page.
+  - You will see a new preview page. 
+    - If you see a "spinning" circle in the middle of the page instead of a preview, Ignore it.
   - Click the DOWNLOAD "box" on the right.
     - Wait for the documents to download (you won't get a message, just pay attention please).
     - Use your browser's "back" arrow to return to this page when your are done downloading.
