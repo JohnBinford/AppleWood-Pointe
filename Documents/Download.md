@@ -1,5 +1,5 @@
 
-https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf
+https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Docuemnts.zip
 
 ## Documentation for the Workshop
 #### Note!
