@@ -8,7 +8,7 @@
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
     [Link to Online Manual.](./Documents/Manual.md)</br>
     [Link to Online Waiver.](./Documents/Waiver.md)
-  - You can also download more nicely formatted PDF versions of each document here.</br>
+    - You can also download more nicely formatted PDF versions of each document here.</br>
     [Link to Documents Collection.](./Documents/Download.md)
 
  
