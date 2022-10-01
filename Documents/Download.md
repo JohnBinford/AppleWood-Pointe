@@ -30,23 +30,23 @@
      Click to Download the Draft Shop Users Manual
     </td>
   </tr>
-      <tr>
-  <td>
-  Draft Safety Rules and Waiver
-  </td>
-  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf"> 
+  <tr>
+   <td>
+     Draft Safety Rules and Waiver
+   </td>
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf"> 
      Click to Download the Draft Safety Rules and Waiver
-    </td>
+   </td>
   </tr>
-    <tr>
-  <td>
-  Workshop Documentation Guide
-  </td>
-  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDocGuide.pdf"> 
+  <tr>
+   <td>
+   Workshop Documentation Guide
+   </td>
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDocGuide.pdf"> 
      Click to Download the Workshop Documentation Guide
-    </td>
+     </td>
   </tr>
-      <tr>
+  <tr>
   <td>
   Workshop Users Application and Waiver </br>
   (Only Official Document until Handover!)
@@ -56,13 +56,12 @@
     </td>
     </td>
   </tr>
-
-    <tr>
-  <td>
-  PDF of the Scaled Drawing of the Shop 
-  </td>
-  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/AWP-Shop-Dimentioned.pdf"> 
+  <tr>
+   <td>
+   PDF of the Scaled Drawing of the Shop 
+   </td>
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/AWP-Shop-Dimentioned.pdf"> 
     Click to Download the Dimentioned AWP Shop Drawing with Dimentions
-    </td>
-    </td>
+   </td>
+  </tr>
 
