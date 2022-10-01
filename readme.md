@@ -9,7 +9,7 @@
     [Link to Online Manual.](./Documents/Manual.md)</br>
     [Link to Online Waiver.](./Documents/Waiver.md)
     - You can also download more nicely formatted PDF versions of each document here.</br>
-    [Link to the Documents Collection.](./Documents/Download.md)
+    [Link to the PDF Documents Collection.](./Documents/Download.md)
 
  
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well! </br>
@@ -83,6 +83,12 @@
 [Link to Pictures from the Eden Prarie Shop](./Other-Shops/Eden-Prarie/readme.md)
 
 [Link to Pictures from the GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
+
+[Link to Online Manual.](./Documents/Manual.md)</br>
+
+[Link to Online Waiver.](./Documents/Waiver.md)
+    
+[Link to the PDF Documents Collection.](./Documents/Download.md)
 
 * * *
 * * *
