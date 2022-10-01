@@ -12,7 +12,7 @@
     <td>
       Draft Shop Users Manual
     </td>
-    <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDft.pdf"> 
+    <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDft.pdf" download> 
      Right Click to Download the Draft Shop Users Manual
     </td>
   </tr>
