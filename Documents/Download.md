@@ -11,12 +11,20 @@ https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zi
 </br>
 
 <table>
+   <tr>
+    <td>
+      All Shop Documents in one ZIP file.
+    </td>
+    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip"> 
+     Click to Download the entire Draft Shop Users Manual Collection
+    </td>
+  </tr>
   <tr>
     <td>
       Draft Shop Users Manual
     </td>
     <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDft.pdf"> 
-     Right Click to Download the Draft Shop Users Manual
+     Click to Download the Draft Shop Users Manual
     </td>
   </tr>
       <tr>
@@ -24,7 +32,7 @@ https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zi
   Draft Safety Rules and Waiver
   </td>
   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf"> 
-     Right Click to Download the Draft Safety Rules and Waiver
+     Click to Download the Draft Safety Rules and Waiver
     </td>
   </tr>
     <tr>
@@ -32,7 +40,7 @@ https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zi
   Workshop Documentation Guide
   </td>
   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDocGuide.pdf"> 
-     Right Click to Download the Workshop Documentation Guide
+     Click to Download the Workshop Documentation Guide
     </td>
   </tr>
       <tr>
@@ -41,7 +49,7 @@ https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zi
   (Only Official Document until Handover!)
   </td>
   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUseApp%26Waiver.pdf"> 
-     Right Click to Download the AWP Provided Application and Waiver
+    Click to Download the AWP Provided Application and Waiver
     </td>
     </td>
   </tr>
