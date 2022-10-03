@@ -57,8 +57,8 @@ https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br>
  
  <table>
    <tr>
-     <th>Ryobi Belt Sander</td>
-     <th>Semi-Portable Table Saw</td>
+     <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw </br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</td>
      <th>Compressor</td>
    </tr>
    <tr>
@@ -79,6 +79,7 @@ https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br>
        </td>
    </tr>
   </table>
+  
   #### Some other tools...
        - Porter Cable Circular Saw (New)
        - Two Metal Tool Cabinets (Drawers)
