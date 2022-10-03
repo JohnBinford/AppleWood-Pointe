@@ -11,8 +11,9 @@
     - You can also download more nicely formatted PDF versions of each document here.</br>
     [Link to the PDF Documents Collection.](./Documents/Download.md)
     - If you have trouble downloading anything, please email jphnathan.binford@gmail.com or Ralph L.
-      - We don't publish email addresses, so you have to look up Ralph's addres on your member list. 
-   - Eric S. Sent in pictures of three more tools.  Mostly as suggestions of tools no so far mentioned.
+      - We don't publish email addresses, so you have to look up Ralph's addres on your member list.
+</br> 
+   - Eric S. Sent in pictures of three more tools.  As suggestions of two tools not mentioned so far.
  <table>
    <tr>
      <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
@@ -37,7 +38,7 @@
        </td>
    </tr>
   </table>
-  
+  </br>
   
   
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well! </br>
