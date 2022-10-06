@@ -99,7 +99,7 @@
 
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
-[Link to Schematic of Garage](./Collateral/AWP-Parking.jpg)
+[Link to Schematic of Garage](./Collateral/Garage-H.jpg)
 
 [Link to Dimentioned Drawing of Shop (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
