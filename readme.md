@@ -12,34 +12,6 @@
     [Link to the PDF Documents Collection.](./Documents/Download.md)
     - If you have trouble downloading anything, please email jphnathan.binford@gmail.com or Ralph L.
       - We don't publish email addresses, so you have to look up Ralph's addres on your member list.
-</br> 
-   - Eric S. Sent in pictures of three more tools.  As suggestions of two tools not mentioned so far.
- <table>
-   <tr>
-     <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</br> Naval Jelly Purchased :-) </td>
-     <th>Compressor</td>
-   </tr>
-   <tr>
-       <td valign="top">
-       <a href="./CraftsMen/Eric-S/Ryobi-Sander.jpg">
-       <img src="./CraftsMen/Eric-S/Thumbnails/Ryobi-Sander-T.jpg">
-       </a>
-       </td>
-       <td valign="top">
-       <a href="./CraftsMen/Eric-S/Table-Saw.jpg">
-       <img src="./CraftsMen/Eric-S/Thumbnails/Table-Saw-T.jpg">
-       </a>
-       </td>
-       <td valign="top">
-        <a href="./CraftsMen/Eric-S/Compressor.jpg">
-       <img src="./CraftsMen/Eric-S/Thumbnails/Compressor-T.jpg">
-       </a>
-       </td>
-   </tr>
-  </table>
-  </br>
-  
   
   - Dave-P recently offered a few pictures of his major tools, he has a ton that are not pictured as well! </br>
   [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
@@ -621,7 +593,32 @@
       </td>
   </tr>
  </table>
- 
+   
+ <table>
+   <tr>
+     <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw </br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</br> Naval Jelly Purchased :-) </td>
+     <th>Compressor</td>
+   </tr>
+   <tr>
+       <td valign="top">
+       <a href="./CraftsMen/Eric-S/Ryobi-Sander.jpg">
+       <img src="./CraftsMen/Eric-S/Thumbnails/Ryobi-Sander-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./CraftsMen/Eric-S/Table-Saw.jpg">
+       <img src="./CraftsMen/Eric-S/Thumbnails/Table-Saw-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+        <a href="./CraftsMen/Eric-S/Compressor.jpg">
+       <img src="./CraftsMen/Eric-S/Thumbnails/Compressor-T.jpg">
+       </a>
+       </td>
+   </tr>
+  </table>
+  </br>
  
   #### Some other tools...
        - Porter Cable Circular Saw (New)
