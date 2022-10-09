@@ -5,6 +5,11 @@
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
 #### Recent updates to this website
+  - There are questions abouit whether the builder has moved the entry.  
+    - Here are a couple of pictures.  John-B speculates that the apparrent new entry is just protective gravel over the footing for construciton traffic.  See what you think!</br>
+    [Link to aerial of footings.](./Collateral/Footings.jpeg)</br>
+    [Link to telephoto shot of suspected "real" entry in block wall.](./Collateral/Garage-Entry.JPG)
+
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
     [Link to Online Manual.](./Documents/Manual.md)</br>
     [Link to Online Waiver.](./Documents/Waiver.md)
