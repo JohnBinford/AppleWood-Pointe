@@ -633,5 +633,7 @@
        - Ryobi 18" Belt Sander with Bench Mount
        
        - Click thumbnails for Hi Def Pictures)
-
-
+       
+<a href="./CraftsMen/Eric-S/Compressor.jpg">
+       <img src="https://github.com/JohnBinford/JohnBinford/blob/main/John.jpeg">
+</a>
