@@ -634,6 +634,6 @@
        
        - Click thumbnails for Hi Def Pictures)
        
-<a href="./CraftsMen/Eric-S/Compressor.jpg">
+<a href="https://github.com/JohnBinford/JohnBinford/blob/main/John.jpeg">
        <img src="https://github.com/JohnBinford/JohnBinford/blob/main/John.jpeg">
 </a>
