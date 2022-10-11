@@ -29,8 +29,8 @@
  <table>
   <tr>
     <th>A proper Oxy/Aceteline Torch Setup</th>
-     <th>Useful Accessories</th>
-    <th>Sorted Hardware (Picture Soon)</th>
+     <th>Useful Torch Accessories</th>
+    <th>An Eexample Shop Vac (Handy to Have Two?)</th>
   </tr>
   <tr>
     <td valign="top">
@@ -44,8 +44,8 @@
       </a>
       </td>
       <td valign="top">
-      <a href="../CraftsMen/Eric-S/Tool-Cabinet-1.jpg">
-      <img src="../CraftsMen/Eric-S/Thumbnails/Tool-Cabinet-1-T.jpg">
+      <a href="./Shop-Vac.jpg">
+      <img src="./Thumbnails/Shop-Vac-T.jpg">
       </a>
       </td>
   </tr>
