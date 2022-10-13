@@ -18,8 +18,8 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./MG-Back-RIght.jpg">
-      <img src="./Thumbnails/MG-Back-RIght-T.jpg">
+      <a href="./MG-Back-Right.jpg">
+      <img src="./Thumbnails/MG-Back-Right-T.jpg">
       </a>
       </td>
   </tr>
