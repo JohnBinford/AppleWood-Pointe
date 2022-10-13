@@ -5,11 +5,12 @@
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
 #### Recent updates to this website
-  - There are questions abouit whether the builder has moved the entry.  
+  - There are questions abouit whether the builder has moved the entry.  A telephoto lens suggests not!
     - Here are a couple of pictures.  John-B speculates that the apparrent new entry is just protective gravel over the footing for construciton traffic.  See what you think!</br>
     [Link to aerial of footings.](./Collateral/Footings.jpeg)</br>
-    [Link to telephoto shot of suspected "real" entry in block wall.](./Collateral/Garage-Entry.JPG)
-
+    [Link to telephoto shot of suspected "real" entry in block wall.  As shown in the sales kit.](./Collateral/Garage-Entry.JPG)
+  -  John Binford recently visited an older Applewood Pointe shop.  It's about 2/3 the size ours will be.  They have a good variety of basic power tools.  Nothing at Professional level though. </br>
+    [Link to Pictures from the Maple Grove Shop](./Other-Shops/Maple-Grove/readme.md)
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
     [Link to Online Manual.](./Documents/Manual.md)</br>
     [Link to Online Waiver.](./Documents/Waiver.md)
@@ -43,7 +44,7 @@
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
 [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
-#### Recent Member Suggestions and things to think about:
+## Recent Member Suggestions and things to think about:
 - During the Fall Luncheon, John B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
   - The storage area next to the shop has HVAC in it, so we can't use it right away.
   - John B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
@@ -83,6 +84,8 @@
 [Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
+
+[Link to Pictures from the Maple Grove Shop](./Other-Shops/Maple-Grove/readme.md)
 
 [Link to Pictures from the Eagan Shop](./Other-Shops/Eden-Prarie/readme.md)
 
