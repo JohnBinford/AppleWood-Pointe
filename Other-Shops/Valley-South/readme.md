@@ -24,8 +24,6 @@
       </td>
   </tr>
  </table>
-
-
 <table>
   <tr>
     <th>SouthTown 4</td>
@@ -63,8 +61,6 @@
        </td>
    </tr>
   </table>
-  
-
   <table>
     <tr>
       <th>Valley West 4</td>
