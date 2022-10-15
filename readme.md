@@ -5,6 +5,10 @@
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
 #### Recent updates to this website
+  - Ralph recently toured the SouthTown and Valley West Shops. </br>
+    [Link to Pictures from those Shops](./Other-Shops/Valley-South/readme.md)</br>
+
+
   - There are questions abouit whether the builder has moved the entry.  A telephoto lens suggests not!
     - Here are a couple of pictures.  John-B speculates that the apparrent new entry is just protective gravel over the footing for construciton traffic.  See what you think!</br>
     [Link to aerial of footings.](./Collateral/Footings.jpeg)</br>
