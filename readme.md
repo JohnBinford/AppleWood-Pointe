@@ -97,6 +97,8 @@
 
 [Link to Pictures from the GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
 
+[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)</br>
+
 [Link to Online Manual.](./Documents/Manual.md)</br>
 
 [Link to Online Waiver.](./Documents/Waiver.md)
