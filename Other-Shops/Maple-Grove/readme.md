@@ -1,4 +1,4 @@
-#### From the Eden Prairie Coop
+#### The Maple Grove Shop.  (A bit smaller than ours will be!)
 
 <table>
   <tr>
