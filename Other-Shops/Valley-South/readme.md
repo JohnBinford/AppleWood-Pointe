@@ -14,7 +14,7 @@
       </td>
       <td valign="top">
       <a href="./S2.jpg">
-      <img src="./ThumbnailsS-T.jpg">
+      <img src="./Thumbnails/S2-T.jpg">
       </a>
       </td>
       <td valign="top">
@@ -33,7 +33,7 @@
   <tr>
       <td valign="top">
       <a href="./S4.jpg">
-      <img src="./Thumbnails/GH-5-T.jpg">
+      <img src="./Thumbnails/S4-T.jpg">
       </a>
       </td>
   </tr>
