@@ -5,6 +5,14 @@
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
 #### Recent updates to this website
+
+  - Len-C recently sent a few nice tools photos! </br>
+  [Link to Len's Profile](./CraftsMen/Len-C/readme.md)
+
+  - Jack-W recently added a few more tools to his list - more nice photos comming! </br>
+  [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
+
+
   - Ralph recently toured the SouthTown and Valley West Shops. </br>
     [Link to Pictures from those Shops](./Other-Shops/Valley-South/readme.md)</br>
 
