@@ -54,6 +54,7 @@
   <tr>
     <th>Other Tools</td>
     <th>(More Tools)</td>
+    <th>(Recent Additions)</td>
   </tr>
   <tr>
      	<td valign="top">
@@ -66,10 +67,17 @@
       	<td valign="top">
 	- Makita water stone power sharpener</br>
 	- Porter Cable detail sander</br>
-	- Porter Cable Brad nailers (2)</br>
-	- Drills and bits. Some Forster, brad point, twist bit, etc</br>
-	- Various other shop items and supplies.</br>	</td>	
-  </tr>
+	- Porter Cable brad nailers (2)</br>
+	- Drills and bits. Some Forstner, brad point, twist bit, etc</br>
+	- Various other shop items and supplies.</br>	
+	</td>	
+	<td valign="top">
+	- Solid 97" by 30" workbench With stop holes, Record wood vise, Two drawers and covered space underneath.</br>
+	- Also building another heavy 66" by 24" bench for hand tools with an English Vise!</br>
+	- Two Bora Centipede work supports (2' x 2', and 2' x 4' with holes).</br>
+	- Three nice tool cabinets with drawers.  4, 6, and 17 drawers respectively.</br>	
+	</td>
+ </tr>
  </table>
 
 
