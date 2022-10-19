@@ -48,7 +48,7 @@
    <tr>
        <td valign="top">
        <a href="./Sanding-Table.jpeg">
-       <img src="./Thumbnails/Sanding-Table.jpg">
+       <img src="./Thumbnails/Sanding-Table-T.jpg">
        </a>
        </td>
        <td valign="top">
@@ -66,13 +66,13 @@
   
  <table>
    <tr>
-     <th>WOrkbench</td>
+     <th>Workbench</td>
    </tr>
    <tr>
        <td valign="top">
        <a href="./Workbench.jpeg">
-       <img src="./Thumbnails/Workbench.jpg">
+       <img src="./Thumbnails/Workbench-T.jpg">
        </a>
        </td>
-       </tr>
+    </tr>   
   </table>
