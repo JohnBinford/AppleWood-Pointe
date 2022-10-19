@@ -52,8 +52,8 @@
        </a>
        </td>
        <td valign="top">
-       <a href="./Sanding-Table.jpeg">
-       <img src="./Thumbnails/Sanding-Table-T.jpg">
+       <a href="./Sorted-Fasteners.jpeg">
+       <img src="./Thumbnails/Sorted-Fasteners-T.jpg">
        </a>
        </td>
        <td valign="top">
@@ -66,7 +66,7 @@
   
  <table>
    <tr>
-     <th>Table-Saw</td>
+     <th>WOrkbench</td>
    </tr>
    <tr>
        <td valign="top">
