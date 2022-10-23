@@ -12,17 +12,18 @@
   - Jack-W recently added a few more tools to his list - more nice photos comming! </br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
 
-
   - Ralph recently toured the SouthTown and Valley West Shops. </br>
     [Link to Pictures from those Shops](./Other-Shops/Valley-South/readme.md)</br>
 
 
-  - There are questions abouit whether the builder has moved the entry.  A telephoto lens suggests not!
+  - There are questions about whether the builder has moved the entry.  A telephoto lens suggests not!
     - Here are a couple of pictures.  John-B speculates that the apparrent new entry is just protective gravel over the footing for construciton traffic.  See what you think!</br>
     [Link to aerial of footings.](./Collateral/Footings.jpeg)</br>
     [Link to telephoto shot of suspected "real" entry in block wall.  As shown in the sales kit.](./Collateral/Garage-Entry.JPG)
+    
   -  John Binford recently visited an older Applewood Pointe shop.  It's about 2/3 the size ours will be.  They have a good variety of basic power tools.  Nothing at Professional level though. </br>
     [Link to Pictures from the Maple Grove Shop](./Other-Shops/Maple-Grove/readme.md)
+    
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
     [Link to Online Manual.](./Documents/Manual.md)</br>
     [Link to Online Waiver.](./Documents/Waiver.md)
@@ -37,9 +38,9 @@
   - Jim-W recently added a few more pictures of some nice tools!  He also suggested a poll to see what we all might want!  Please email johnathan.binford@gmail.com with your suggestions!  Please!
   
   - John Binford recentlhy added a few screenshots from the City Planning Document.</br>
-[Link to Aerial View.](./Collateral/Aerial-1.png)</br>
-[Link to Topographical View.](./Collateral/Aerial-Topo.png)</br>
-[Link to Building Elevations.](./Collateral/Building-Elevations.png)</br>
+ [Link to Aerial View.](./Collateral/Aerial-1.png)</br>
+ [Link to Topographical View.](./Collateral/Aerial-Topo.png)</br>
+ [Link to Building Elevations.](./Collateral/Building-Elevations.png)</br>
 
   - Ralph-L recently sent in a picture of his new Cross Feed Table!</br>
     Check his profile (or his section below) to check it out!</br>
@@ -56,20 +57,26 @@
 
   - John Binford (AKA Eric-S) visited a friend at the GreenHouse Coop in Saint Paul. </br>
 [Link to Pictures from GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
+
 ## Recent Member Suggestions and things to think about:
 - During the Fall Luncheon, John B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
   - The storage area next to the shop has HVAC in it, so we can't use it right away.
   - John B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
+  
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
+
 - AWP won't furnish much for the space.
   - Benches, cabinets, chests, and storage need consideration.
   - [Click here to see Sample accessories.](./Collateral/accessories.md)
+  
 - Four fellows have been gathering suggestions from other shops and have started other "Deep Thoughts".
   - Electing Tools:  
     - We need to decide how many of each we want.
     - The best doesn't just mean heavy duty permanent placement equipment, but should include best portable equipment (table saws. miter saws, etc.) which can be easily set up when needed, placed where they can best be used with material being cut, and then easily taken down (folded) and be placed out of the way to provide more room in the Shop for other projects to be worked on at the time.
+    
   - As yet unconsidered tools:   
     - Lathes, - vices, - panel saw, - metal working machines (milling machine) which no one has submitted so far.
+    
   - What will our policies be?
     - Who gets a key?  
       - AWP will  give shop keys to every resident who signs a waiver. Not just wood shop members.  
