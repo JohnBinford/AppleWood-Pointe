@@ -1,4 +1,5 @@
 #### Jack-W's Submissions
+- Jack is building a couple of new workbenches!  His current project is made of maple, and intended for hand tool use! </br>
 
 <table>
   <tr>
