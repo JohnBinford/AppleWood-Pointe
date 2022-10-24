@@ -134,7 +134,7 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./CraftsMen/Len-C/Len-C/Profile.jpg">
+      <a href="./CraftsMen/Len-C/Profile.jpg">
       <img src="./CraftsMen/Len-C/Thumbnails/Profile-T.jpg">
       </a>
       </td
