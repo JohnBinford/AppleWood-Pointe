@@ -176,12 +176,12 @@
    <tr>
        <td valign="top">
        <a href="./CraftsMen/Len-C/Sanding-Table.jpeg">
-       <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table.jpg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table-T.jpg">
        </a>
        </td>
        <td valign="top">
-       <a href="./CraftsMen/Len-C/Sanding-Table.jpg">
-       <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table-T.jpg">
+       <a href="./CraftsMen/Len-C/Sorted-Fasteners.jpg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Sorted-Fasteners-T.jpg">
        </a>
        </td>
        <td valign="top">
@@ -199,7 +199,7 @@
    <tr>
        <td valign="top">
        <a href="./CraftsMen/Len-C/Workbench.jpeg">
-       <img src="./CraftsMen/Len-C/Thumbnails/Workbench.jpg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Workbench-T.jpg">
        </a>
        </td>
        </tr>
