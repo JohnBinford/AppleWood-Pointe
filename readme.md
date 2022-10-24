@@ -160,7 +160,7 @@
       </a>
       </td>
       <td valign="top">
-       <a href="./CraftsMen/Len-C/Drill-Press.jpg">
+       <a href="./CraftsMen/Len-C/Drill-Press.jpeg">
       <img src="./CraftsMen/Len-C/Thumbnails/Drill-Press-T.jpg">
       </a>
       </td>
@@ -180,7 +180,7 @@
        </a>
        </td>
        <td valign="top">
-       <a href="./CraftsMen/Len-C/Sorted-Fasteners.jpg">
+       <a href="./CraftsMen/Len-C/Sorted-Fasteners.jpeg">
        <img src="./CraftsMen/Len-C/Thumbnails/Sorted-Fasteners-T.jpg">
        </a>
        </td>
