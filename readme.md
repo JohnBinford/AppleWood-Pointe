@@ -4,10 +4,10 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 - Frequently used segment of this page...</br>
-[Link to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
-[Link to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list) </br>
-[Link to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Link to Recent Craftsmen Suggestions.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
+[Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
+[Shortcut to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list) </br>
+[Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
+[Shortcut to Recent Craftsmen Suggestions.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
 
 #### Recent updates to this website
 
