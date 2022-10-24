@@ -331,6 +331,57 @@
   </tr>
  </table>
 
+<table>
+  <tr>
+    <th>Tool Chest</td>
+    <th>Work Bench</td>
+    <th>Bench Holes</td>
+  </tr>
+  <tr>
+ <td valign="top">
+      <a href="./CraftsMen/Jack-W/7.jpg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/7-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/8.jpg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/8-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/9.jpg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/9-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Craftsman Tool Chest</td>
+    <th>Lumber for NEW Workbench</td>
+    <th>Another Nice Tool Chest.</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/10.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/10-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/11.jpg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/11-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Jack-W/12.jpeg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/12-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+
  <table>
   <tr>
     <th>Other Tools</td>
