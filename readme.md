@@ -125,6 +125,85 @@
 
 ## Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
+
+####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
+
+<table>
+  <tr>
+    <th>Len-C</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Len-C/Len-C/Profile.jpeg">
+      <img src="./CraftsMen/Len-C/Thumbnails/Profile-T.jpeg">
+      </a>
+      </td
+  <tr>   
+ </table>
+ 
+### Some Nice offerings from Len-C
+<table>
+  <tr>
+    <th>Delta Band Saw</td>
+    <th>Bench Drawers</td>
+    <th>Drill Press</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Len-C/Band-Saw.jpeg">
+      <img src="./CraftsMen/Len-C/Thumbnails/Band-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Len-C/Bench-Drawers.jpeg">
+      <img src="./CraftsMen/Len-C/Thumbnails/Bench-Drawers-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+       <a href="./CraftsMen/Len-C/Drill-Press.jpg">
+      <img src="./CraftsMen/Len-C/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+ 
+ <table>
+   <tr>
+     <th>Sanding-Table</td>
+     <th>Sorted-Fasteners</td>
+     <th>Table-Saw</td>
+   </tr>
+   <tr>
+       <td valign="top">
+       <a href="./CraftsMen/Len-C/Sanding-Table.jpeg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./CraftsMen/Len-C/Sanding-Table.jpeg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+        <a href="./CraftsMen/Len-C/Table-Saw.jpeg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Table-Saw-T.jpg">
+       </a>
+       </td>
+   </tr>
+  </table>
+  
+ <table>
+   <tr>
+     <th>Table-Saw</td>
+   </tr>
+   <tr>
+       <td valign="top">
+       <a href="./CraftsMen/Len-C/Workbench.jpeg">
+       <img src="./CraftsMen/Len-C/Thumbnails/Workbench.jpg">
+       </a>
+       </td>
+       </tr>
+  </table>
  
  #### Dave-P's Submissions
  [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
