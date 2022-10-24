@@ -134,8 +134,8 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./CraftsMen/Len-C/Len-C/Profile.jpeg">
-      <img src="./CraftsMen/Len-C/Thumbnails/Profile-T.jpeg">
+      <a href="./CraftsMen/Len-C/Len-C/Profile.jpg">
+      <img src="./CraftsMen/Len-C/Thumbnails/Profile-T.jpg">
       </a>
       </td
   <tr>   
@@ -180,7 +180,7 @@
        </a>
        </td>
        <td valign="top">
-       <a href="./CraftsMen/Len-C/Sanding-Table.jpeg">
+       <a href="./CraftsMen/Len-C/Sanding-Table.jpg">
        <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table-T.jpg">
        </a>
        </td>
@@ -194,7 +194,7 @@
   
  <table>
    <tr>
-     <th>Table-Saw</td>
+     <th>WorkBench</td>
    </tr>
    <tr>
        <td valign="top">
@@ -205,6 +205,8 @@
        </tr>
   </table>
  
+* * *
+
  #### Dave-P's Submissions
  [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
  
