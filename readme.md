@@ -11,6 +11,9 @@
 
 #### Recent updates to this website
 
+  - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
+  [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
+
   - Len-C recently sent a few nice tools photos! </br>
   [Link to Len's Profile](./CraftsMen/Len-C/readme.md)
 
