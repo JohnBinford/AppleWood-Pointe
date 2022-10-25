@@ -14,7 +14,7 @@
 ## Recent updates to this website
 
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some though to facilitating tool voting. </br>
-  [Click here to preview a possible way for us to vote up various tools](./Collateral/Selection.md)
+  [Click here to preview a possible way for us to vote up various tools](./Collateral/Selections.md)
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
