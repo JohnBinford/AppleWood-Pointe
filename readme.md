@@ -14,7 +14,10 @@
 ## Recent updates to this website
 
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some though to facilitating tool voting. </br>
-  [Click here to preview a possible way for us to vote up various tools](./Collateral/Selections.md)
+  [Click here to preview one example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
+   \- John Binford is investigating useing an online voting system like "Survey Monkey" for this task.</br>
+   \- He is also investigating a free online chat system we could use.</br>
+   \* Given that we don't want "login ID's" to remember, this is will be hard to fifgure out!
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
