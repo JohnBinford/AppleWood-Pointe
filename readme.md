@@ -1,15 +1,20 @@
 # AppleWood Pointe Workshop</br>
 ## News
-### If you are new the the Apple Valley Workshop Group, or this is your first time here...
+#### If you are new the the Apple Valley Workshop Group, or this is your first time here...
+
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
+
 - Frequently used segment of this page...</br>
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
 [Shortcut to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list) </br>
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
 [Shortcut to Recent Craftsmen Suggestions.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
 
-#### Recent updates to this website
+## Recent updates to this website
+
+  - John B. was fortunate to attend the recent lunch meeting, and promptly gave some though to facilitating tool voting. </br>
+  [Click here to preview a possible way for us to vote up various tools](./Collateral/Selection.md)
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
