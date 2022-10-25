@@ -133,20 +133,8 @@
 
 ####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
 
-<table>
-  <tr>
-    <th>Len-C</td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="./CraftsMen/Len-C/Profile.jpg">
-      <img src="./CraftsMen/Len-C/Thumbnails/Profile-T.jpg">
-      </a>
-      </td
-  <tr>   
- </table>
- 
-### Some Nice offerings from Len-C
+[Link to Len's Profile](./CraftsMen/Len-C/readme.md)</br>
+
 <table>
   <tr>
     <th>Delta Band Saw</td>
