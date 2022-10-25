@@ -1,3 +1,6 @@
+# This page can become less wordy once we starting using it or something like it!
+## Input appreciated!
+
 ## Experimental Tool sorting page.
 
 -  Tools shown on this page will be placed into groups of like tools and then numbered within that group, so that the innocent might be proteceted.
