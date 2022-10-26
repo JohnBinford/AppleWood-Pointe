@@ -7,12 +7,18 @@
 
 ***
 
+## Applewood Pointe of Apple Valley Workshop Email List
+- The email list is even more up to date! (Thanks to Ralph and others for their suggested corrections!)
+  - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
+  
+* * *
+
 ## News
 - Shortcuts to frequently used segments of this page...</br>
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
-[Shortcut to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list) </br>
+[Shortcut to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/edit/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list)</br>
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
+[Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/edit/main/readme.md#recent-submissions-from-craftsmen))
 
 ### Tool voting being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
@@ -105,12 +111,6 @@
 	  Does this mean that they are O.K. with any resident entering the shop at any time, even if they are alone? 
     - Should we have a Workshop Manual?  One of the guys is working on a sample. 
 
-* * *
-
-#### Applewood Pointe of Apple Valley Workshop Email List
-- The email list is even more up to date! (Thanks to Ralph and others for their suggested corrections!)
-  - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
-  
 * * *
   
 ### Links
