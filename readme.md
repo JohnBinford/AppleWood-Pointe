@@ -11,14 +11,17 @@
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
 [Shortcut to Recent Craftsmen Suggestions.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
 
-## Recent updates to this website
-
-## Tool voting being tested - see just below!
+### Tool voting being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
+       - John Binford is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
-   \- John Binford is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
-   \- He is also investigating a free online chat system we could use.</br>
-   \* Given that we don't want "login ID's" to remember, this is will be hard to fifgure out!
+   - If you hate computers like John, You can also email johnathan.binford@gmail.com with any votes you wish to cast!
+     - John is also investigating a free online chat system we could use.</br>
+     * Given that we don't want "login ID's" to remember, this is will be hard to figure out!
+
+***
+
+## Recent updates to this website
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
