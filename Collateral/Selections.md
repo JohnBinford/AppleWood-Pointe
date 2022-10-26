@@ -14,6 +14,12 @@
 
 
 ## Once you have decided, click just below to vote for Band Saws!
+- Note!  If you "Right Click" you can 
+  - A menu will then let you open the voting page in a new Window or Tab.
+  - Then you can scroll to continue seeing the pictures below (and the HD pictures).
+  - You can then flip back and forth as you vote!  
+    - Right Click is my favorite computer secret!  (John B.) </br>
+ 
 [Click here to Vote for Band Saws! </br>](https://docs.google.com/forms/d/e/1FAIpQLSeZrxVePf6eSmdD0OcpvxHLYkyM7SoUSQPOdvDLnsxWQEvvdg/viewform)
 
 ***
