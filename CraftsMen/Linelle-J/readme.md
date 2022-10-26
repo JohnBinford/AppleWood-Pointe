@@ -28,7 +28,7 @@
 <table>
   <tr>
     <th>Dust-Collector</td>
-    <th>Jig-Saw</td>
+    <th>Table-Saw</td>
     <th>Miter-Saw</td>
   </tr>
   <tr>
@@ -38,8 +38,8 @@
       </a>
       </td>      
       <td valign="top">
-      <a href="./Jig-Saw.jpg">
-      <img src="./Thumbnails/Jig-Saw-T.jpg">
+      <a href="./Table-Saw.jpg">
+      <img src="./Thumbnails/Table-Saw-T.jpg">
       </a>
       </td>
       <td valign="top">
@@ -75,14 +75,8 @@
   </tr>
  </table>
 
-<table>
-  <tr>
-    <th>Table-Saw</td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="./Table-Saw.jpg">
-      <img src="./Thumbnails/Table-Saw-T.jpg">
-      </a>
-  </tr>
- </table>
+-  Linelle also has a few nice items that are not pictured.
+   -  A 36 inch Lathe (12 inch diamter)
+   -  17 Inch Drum Sander
+   -  Scroll Saw
+   
