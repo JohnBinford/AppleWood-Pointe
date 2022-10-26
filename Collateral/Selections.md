@@ -1,7 +1,9 @@
-# This page can become less wordy once we starting using it or something like it!
+### This page is for testing only!
+- It will become less wordy once we starting using it or something like it!
 ## Input appreciated!
 
 ## Experimental Tool sorting page.
+#### Exmplaination for testers.  Edits welcome.
 
 -  Tools shown on this page will be placed into groups of like tools and then numbered within that group, so that the innocent might be proteceted.
    -  For example, this first (trial) group of band saws have no names and are numbered 1 through 6.
@@ -9,14 +11,24 @@
 -  Your moderators will put a tool with a face to include it in our final inventory.
 -  Once we have a sorted list,  John will forward it to everyone for final comments, etc.
 
+
+
+## Once you have decided, click just below to vote for Band Saws!
+[Click here to Vote for Band Saws! </br>](https://docs.google.com/forms/d/e/1FAIpQLSeZrxVePf6eSmdD0OcpvxHLYkyM7SoUSQPOdvDLnsxWQEvvdg/viewform)
+
+***
+***
 #### Please mentally note what order you would choose to select a couple of bandsaws...
+- Ranked choices only available on paid services, so you will be asked to vote for two!
 
 - Note that some tools might look clean and nice, but are missing a key feature like a fence.
-- John Binford knows that one of the "delta" lookalikes has new tires and blocks.
-  - Some might have bearings instead!
-  - John also notes that a couple have "unloader" levers while some a good fences, etc.
-- Please take a careful look to make your choices :-)
-
+  - John Binford knows that one of the "delta" lookalikes has new tires and blocks.
+    - Some might have bearings instead!
+    - John also notes that a couple have "unloader" levers while some a good fences, etc.
+- Please take a look below to make your choices :-)
+</br>
+- Band saws offered.  <Make note of the number above the ones you like!>
+   -  Click pictures for HD versions...
 <table>
   <tr>
     <th>1</td>
