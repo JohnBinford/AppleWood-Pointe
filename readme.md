@@ -479,7 +479,7 @@
 <table>
   <tr>
     <th>Dust-Collector</td>
-    <th>Jig-Saw</td>
+    <th>Table-Saw</td>
     <th>Miter-Saw</td>
   </tr>
   <tr>
@@ -489,8 +489,8 @@
       </a>
       </td>      
       <td valign="top">
-      <a href="./CraftsMen/Linelle-J/Jig-Saw.jpg">
-      <img src="./CraftsMen/Linelle-J/Thumbnails/Jig-Saw-T.jpg">
+      <a href="./CraftsMen/Linelle-J/Table-Saw.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Table-Saw-T.jpg">
       </a>
       </td>
       <td valign="top">
@@ -525,20 +525,13 @@
       </td>
   </tr>
  </table>
-
-<table>
-  <tr>
-    <th>Table-Saw</td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="./CraftsMen/Linelle-J/Table-Saw.jpg">
-      <img src="./CraftsMen/Linelle-J/Thumbnails/Table-Saw-T.jpg">
-      </a>
-  </tr>
- </table>
  
-* * *
+-  Linelle recently added a few more items to his list.  (Unpictured)
+   -  36 x 12 Inch Lalthe
+   -  17 Inch Drum Sander
+   -  Scroll Saw
+
+***
 
 #### Ralph-L's Submissions
 
