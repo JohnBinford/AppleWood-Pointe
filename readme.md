@@ -1,10 +1,10 @@
 # AppleWood Pointe Workshop</br>
-## News
+
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
-
+## News
 - Shortcuts to frequently used segments of this page...</br>
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
 [Shortcut to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list) </br>
@@ -108,7 +108,7 @@
   
 * * *
   
-#### Links
+### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
@@ -140,7 +140,7 @@
 * * *
 * * *
 
-## Recent Submissions from Residents!
+### Recent Submissions from Residents!
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
