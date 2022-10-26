@@ -12,11 +12,11 @@
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
 [Shortcut to Email List info.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#applewood-pointe-of-apple-valley-workshop-email-list) </br>
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Shortcut to Recent Craftsmen Suggestions.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
+[Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-residents)
 
 ### Tool voting being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
-       - John Binford is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
+       - He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
    - (After test period) If you hate computers like John, You can also email johnathan.binford@gmail.com with any votes you wish to cast!
      - John is also investigating a free online chat system we could use.</br>
@@ -145,7 +145,7 @@
 * * *
 * * *
 
-### Recent Submissions from Residents!
+### Recent Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
