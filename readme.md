@@ -145,7 +145,7 @@
 * * *
 * * *
 
-### Recent Submissions from Craftsmen!
+## Recent Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
