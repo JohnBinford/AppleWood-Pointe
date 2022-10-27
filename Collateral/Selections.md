@@ -10,10 +10,20 @@ John will forward it to everyone for final comments, etc.
    -  For example, this first (trial) group of band saws have no names and are numbered 1 through 6.
    -  The Floor Standing Drill Presses are numbered 1 throuigh 3.
 
+#### The "Real Page" (now experimental) starts below...
+
 ***
 ***
+
 ## Experimental Tool sorting page.
-### Please make note what tools you would choose (by tool-type and number)to select two tools in each family...
+-  We want to make it easy for you to vote.
+   - You can look through the list, and send your recommendations to Johnathan.binford@gmail.com
+   - You can request an inventory spreadsheet to see who has what, and return a marked up copy.
+   - You can let three appointed Craftsment to choose.
+   - You can use this page to really drill down on the "big items".  
+
+### If you want to use this page - please read on and vote via the Google Forms survey system.
+#### Please make note what tools you would choose (by tool-type and number)to select two tools in each family...
 - NOTE!  Ranked choices only available on paid services, so you will be asked to vote for two! 
   - We are trying to find a free service that has ranked choices, but have not found any.
 
