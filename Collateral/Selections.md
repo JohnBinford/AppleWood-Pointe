@@ -118,7 +118,7 @@ John will forward it to everyone for final comments, etc.
  
  ###  Once you have decided, right-click the link below the group of pictures to vote for Floor Standing Drill Presses!
  
-[Right-Click here to Vote for Band Saws and Drill Presses!](https://docs.google.com/forms/d/e/1FAIpQLSeZrxVePf6eSmdD0OcpvxHLYkyM7SoUSQPOdvDLnsxWQEvvdg/viewform>
+ [RIght-Click this link to Vote for Band Saws and Drill Presses!](https://docs.google.com/forms/d/e/1FAIpQLSeZrxVePf6eSmdD0OcpvxHLYkyM7SoUSQPOdvDLnsxWQEvvdg/viewform)</br> 
 
 - Note!  No harm if you just "Click", there is a link back on the voting page.
 - If you "Right Click" you can keep this page open!
