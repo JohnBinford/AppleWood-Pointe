@@ -117,4 +117,4 @@ John will forward it to everyone for final comments, etc.
      - Then you can scroll to continue seeing the pictures below (and the HD pictures).
      - You can then flip back and forth as you vote!  
      - Leave this page open, and you can then vote for other items listed.
-       - Right Click is my favorite computer secret!  (John B.) </br>
+- Right Click is my favorite computer secret!  (John B.) </br>
