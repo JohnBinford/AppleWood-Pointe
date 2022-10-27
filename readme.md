@@ -20,6 +20,7 @@
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
 [Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-craftsmen)
 
+
 ### Tool voting being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
        - He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
@@ -28,6 +29,7 @@
      - John is also investigating a free online chat system we could use.</br>
      * Given that we don't want "login ID's" to remember, this is will be hard to figure out!
 
+[Link to OLD News](./Collateral/OldNews.md)
 ***
 
 ## Recent updates to this website
@@ -80,8 +82,6 @@
   
 ### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
-
-[Link to OLD News](./Collateral/OldNews.md)
 
 [Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
 
