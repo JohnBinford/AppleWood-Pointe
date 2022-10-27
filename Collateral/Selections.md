@@ -112,8 +112,8 @@ John will forward it to everyone for final comments, etc.
 
 - Note!  No harm if you just "Click", there is a link back on the voting page.
 - If you "Right Click" you can keep this page open!
-  -  (Two windows "side by side", or in "browser tabs")
      - A menu will then let you open the voting page in a new Window or Tab.
+       -  (Two windows "side by side", or in "browser tabs")
      - Then you can scroll to continue seeing the pictures below (and the HD pictures).
      - You can then flip back and forth as you vote!  
      - Leave this page open, and you can then vote for other items listed.
