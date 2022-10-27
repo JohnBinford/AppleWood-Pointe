@@ -1,34 +1,32 @@
 ### This page is for testing only!
-- It will become less wordy once we starting using it or something like it!
-## Input appreciated!
-
-## Experimental Tool sorting page.
+- It will become less wordy once we start using it or something like it!
+### Input appreciated!
 #### Exmplaination for testers.  Edits welcome. (Email johnathan.binford@gmail.com)
--  Tools shown on this page will be placed into groups of like tools and then numbered within that group, so that the innocent might be proteceted.
-   -  For example, this first (trial) group of band saws have no names and are numbered 1 through 6.
 -  If we agree to use a page like this, we will allow some time for everyone to think </br> and then ask that choices be mailed to John Binford for compilation.
 -  Your moderators will put a tool with a face to include it in our final inventory.
--  Once we have a sorted list,  John will forward it to everyone for final comments, etc.
+-  Once we have a sorted list or CraftsMen selections, </br>
+John will forward it to everyone for final comments, etc.
+-  Tools shown on this page will be placed into groups of like tools and then numbered within that group, so that the innocent might be proteceted.
+   -  For example, this first (trial) group of band saws have no names and are numbered 1 through 6.
+   -  The Floor Standing Drill Presses are numbered 1 throuigh 3.
 
 ***
 ***
-
-### Please mentally note what order you would choose to select a couple of bandsaws...
-- Ranked choices only available on paid services, so you will be asked to vote for two!
+## Experimental Tool sorting page.
+### Please make note what tools you would choose (by tool-type and number)to select two tools in each family...
+- NOTE!  Ranked choices only available on paid services, so you will be asked to vote for two! 
+  - We are trying to find a free service that has ranked choices, but have not found any.
 
 - Note that some tools might look clean and nice, but are missing a key feature like a fence.
   - John Binford knows that one of the "delta" lookalikes has new tires and blocks.
     - Some might have bearings instead!
     - John also notes that a couple have "unloader" levers while some a good fences, etc.
 - Please take a look below to make your choices :-)
-</br>
 
 ***
 
-###  Band saws offered.  <Make note of the number above the ones you like!>
+####  Band saws offered.  <Make note of the number above the ones you like!>
    -  Click pictures for HD versions...
-
-###  Once you have decided, right-click the link below the group of pictures to vote for Band Saws!
 <table>
   <tr>
     <th>1</td>
@@ -53,7 +51,6 @@
       </td>
   </tr>
  </table>
-
 <table>
   <tr>
     <th>4</td>
@@ -78,22 +75,12 @@
       </td>
   </tr>
  </table>
-
-[Click here to Vote for Band Saws! </br>](https://docs.google.com/forms/d/e/1FAIpQLSeZrxVePf6eSmdD0OcpvxHLYkyM7SoUSQPOdvDLnsxWQEvvdg/viewform)
-
-- Note!  If you "Right Click" you can keep this page open! (side by side, or inbrowser tabs)
-  - A menu will then let you open the voting page in a new Window or Tab.
-  - Then you can scroll to continue seeing the pictures below (and the HD pictures).
-  - You can then flip back and forth as you vote!  
-  - Leave this page open, and you can then vote for other items listed.
-    - Right Click is my favorite computer secret!  (John B.) </br>
  
  ***
  
-###  Floor Standing Drill Presses offered.  <Make note of the number above the ones you like!>
+ ###  Once you have decided, right-click the link below the group of pictures to vote for Floor Standing Drill Presses!
+####  Floor Standing Drill Presses offered.  <Make note of the number above the ones you like!>
    -  Click pictures for HD versions...
-
-###  Once you have decided, right-click the link below the group of pictures to vote for Floor Standing Drill Presses!
 <table>
   <tr>
     <th>1</td>
@@ -118,3 +105,12 @@
       </td>
   </tr>
  </table>
+ 
+[Click here to Vote for Band Saws and Drill Presses! </br>](https://docs.google.com/forms/d/e/1FAIpQLSeZrxVePf6eSmdD0OcpvxHLYkyM7SoUSQPOdvDLnsxWQEvvdg/viewform)
+
+- Note!  If you "Right Click" you can keep this page open! (side by side, or inbrowser tabs)
+  - A menu will then let you open the voting page in a new Window or Tab.
+  - Then you can scroll to continue seeing the pictures below (and the HD pictures).
+  - You can then flip back and forth as you vote!  
+  - Leave this page open, and you can then vote for other items listed.
+    - Right Click is my favorite computer secret!  (John B.) </br>
