@@ -10,11 +10,10 @@
 -  Your moderators will put a tool with a face to include it in our final inventory.
 -  Once we have a sorted list,  John will forward it to everyone for final comments, etc.
 
-
-
 ***
 ***
-#### Please mentally note what order you would choose to select a couple of bandsaws...
+
+### Please mentally note what order you would choose to select a couple of bandsaws...
 - Ranked choices only available on paid services, so you will be asked to vote for two!
 
 - Note that some tools might look clean and nice, but are missing a key feature like a fence.
@@ -23,10 +22,13 @@
     - John also notes that a couple have "unloader" levers while some a good fences, etc.
 - Please take a look below to make your choices :-)
 </br>
-- Band saws offered.  <Make note of the number above the ones you like!>
+
+***
+
+###  Band saws offered.  <Make note of the number above the ones you like!>
    -  Click pictures for HD versions...
 
-## Once you have decided, right-click the link below the group of pictures to vote for Band Saws!
+###  Once you have decided, right-click the link below the group of pictures to vote for Band Saws!
 <table>
   <tr>
     <th>1</td>
@@ -86,3 +88,33 @@
   - Leave this page open, and you can then vote for other items listed.
     - Right Click is my favorite computer secret!  (John B.) </br>
  
+ ***
+ 
+###  Floor Standing Drill Presses offered.  <Make note of the number above the ones you like!>
+   -  Click pictures for HD versions...
+
+###  Once you have decided, right-click the link below the group of pictures to vote for Floor Standing Drill Presses!
+<table>
+  <tr>
+    <th>1</td>
+    <th>2</td>
+    <th>3</td>
+  </tr>
+  <tr>
+      <td valign="top">
+       <a href="../CraftsMen/Len-C/Drill-Press.jpeg">
+      <img src="../CraftsMen/Len-C/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/Dave-P/Drill-Press.jpg">
+      <img src="../CraftsMen/Dave-P/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/Eric-S/Drill-Press.jpg">
+      <img src="../CraftsMen/Eric-S/Thumbnails/Drill-Press-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
