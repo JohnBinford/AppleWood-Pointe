@@ -10,7 +10,7 @@
    - Appoint 3 CraftMen to do the whole thing.
    - Other stuff you might suggest...
 #### Goals
--  We hope to have collected tools lists from anyone interested in a possible donation by the end of Narch 2023.
+-  We hope to have collected tools lists from anyone interested in a possible donation by the end of March 2023.
    - A few simple voting methods will be provided.
 -  Based on Member CraftsMen elections, our moderators will put a list of recommendations</br>
 to be emailed to all shop members.
@@ -25,7 +25,7 @@ to be emailed to all shop members.
 ## Experimental Online Tool sorting page.
 -  This page will be linked to by our surevy system.
 -  You can then refer back to it, while you vote!
-   -  Some helpful notes located at bottom of page.  TLDR for some!
+   -  Some helpful notes will be located at bottom of page.  TLDR for some!
 
 ***
 
@@ -129,19 +129,4 @@ to be emailed to all shop members.
 
 ***
 ### NOTES!
--  We want to make it easy for you to vote.
-   - You can look through the list, and send your recommendations to Johnathan.binford@gmail.com
-   - You can request an inventory spreadsheet to see who has what, and return a marked up copy.
-   - You can let three appointed Craftsment to choose.
-   - You can use this page to really drill down on the "big items".
 
-### If you want to use this page - please read on and vote via the Google Forms survey system.
-#### Please make note what tools you would choose (by tool-type and number)to select two tools in each family...
-- NOTE!  Ranked choices only available on paid services, so you will be asked to vote for two! 
-  - We are trying to find a free service that has ranked choices, but have not found any.
-
-- Note that some tools might look clean and nice, but are missing a key feature like a fence.
-  - John Binford knows that one of the "delta" lookalikes has new tires and blocks.
-    - Some might have bearings instead!
-    - John also notes that a couple have "unloader" levers while some a good fences, etc.
-- Please take a look below to make your choices :-)
