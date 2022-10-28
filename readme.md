@@ -1,4 +1,4 @@
-# AppleWood Pointe Workshop</br>
+# AppleWood Pointe Workshop
 
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
