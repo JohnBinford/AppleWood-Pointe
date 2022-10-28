@@ -1,6 +1,6 @@
 ## This page is for testing until March 2023!
 ### Input appreciated! (Email johnathan.binford@gmail.com)
-#### Exmplaination for testers.
+#### Explaination for testers.
 
 -  John and a few other have discussed how we all might want to elect which donated tools the shop can use.
 -  We discussed a few options in order to make things easy for CraftMen of all tech level to vote easily.
