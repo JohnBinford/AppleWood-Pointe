@@ -7,7 +7,7 @@
 
 ***
 
-## Applewood Pointe of Apple Valley Workshop Email List
+## Workshop Email List
 - The email list is even more up to date! (Thanks to Ralph and others for their suggested corrections!)
   - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
   
@@ -32,10 +32,9 @@
      - John is also investigating a free online chat system we could use.</br>
      * Given that we don't want "login ID's" to remember, this is will be hard to figure out!
 
-[Link to OLD News](./Collateral/OldNews.md)
 ***
 
-## Recent updates to this website
+## Slightly older New and Updates.
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
@@ -52,7 +51,7 @@
     [Link to aerial of footings.](./Collateral/Footings.jpeg)</br>
     [Link to telephoto shot of suspected "real" entry in block wall.  As shown in the sales kit.](./Collateral/Garage-Entry.JPG)
     
-
+[Link to OLD News](./Collateral/OldNews.md)
 
 ***
 
