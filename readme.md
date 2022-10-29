@@ -21,7 +21,10 @@
 
 ## News
 
-### Tool voting being tested, try it if you wish!  (Might not work - still learning...)
+  - John B. recently drew a scaled model of the shop showing how much room tools take compared to the space. </br>
+[Link to the drawing and the render](.\Collateral\Models.md)
+
+### Methods to vote for tools being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
        - He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
@@ -33,9 +36,6 @@
 ***
 
 ## Recent updates to this website
-
-  - John B. recently drew a scaled model of the shop showing how much room tools take compared to the space. </br>
-[Link to the drawing and the render](.\Collateral\Models.md)
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
