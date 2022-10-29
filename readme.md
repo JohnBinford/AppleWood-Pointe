@@ -22,7 +22,7 @@
 ## News
 
   - John B. recently drew a scaled model of the shop showing how much room tools take compared to the space. </br>
-[Link to the drawing and the render](.\Collateral\Models.md)
+[Link to the drawing and the render](./Collateral/Models.md)
 
 ### Methods to vote for tools being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
