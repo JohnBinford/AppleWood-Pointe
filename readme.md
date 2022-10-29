@@ -34,6 +34,9 @@
 
 ## Recent updates to this website
 
+  - John B. recently drew a scaled model of the shop showing how much room tools take compared to the space. </br>
+[Link to the drawing and the render](.\Collateral\Models.md)
+
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
 
