@@ -9,7 +9,7 @@
 
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
 
-<img src="./Collateral/Shop-Above-Small.png">
+<img src="./Collateral/Shop-Above-1-Small.png">
  
   [Click here to see other renders and plans.](./Collateral/Models.md)
  
