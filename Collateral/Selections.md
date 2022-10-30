@@ -111,7 +111,7 @@ to be emailed to all shop members.
  
  ***
  
- ###  If you started from the shoop web page durign testing,  you can access the sursvey with the following link.
+ ###  If you started from the shoop web page durign testing,  you can access the survey with the following link.
  -  Once you have decided, right-click one of the links below the group of pictures to vote for Floor Standing Drill Presses!
     -  A test for all in one page voting...</br>
  [Right-Click this link to test Vote for Band Saws and Drill Presses!](https://docs.google.com/forms/d/e/1FAIpQLSc6Ec5WPMGLfcw9CKK1aif9LGpkyNSMmC96oc0IDWLDAjiRtQ/viewform?usp=sf_link)</br> 
