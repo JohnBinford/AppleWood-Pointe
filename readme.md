@@ -7,6 +7,12 @@
 
 ***
 
+## Here's what our shop might look like.  (To scale, with scaled objects.)
+
+<img src="./Collateral/Shop-Above-Small.png">
+ 
+ ***
+ 
 ## Workshop Email List
 - The email list is even more up to date! (Thanks to Ralph and others for their suggested corrections!)
   - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
