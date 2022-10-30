@@ -30,7 +30,7 @@
   <tr>
      <th>From the Door</th>
      <th>From the Desk</th> 
-     <th>From the Door (Saw set for Long Material) 
+     <th>Through the Door (Saw set for Long Material) 
   </tr>
   <tr>
  <td valign="top">
