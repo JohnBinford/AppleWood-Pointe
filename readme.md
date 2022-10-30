@@ -11,6 +11,8 @@
 
 <img src="./Collateral/Shop-Above-Small.png">
  
+  [Click here to see other renders and plans.](./Collateral/Models.md)
+ 
  ***
  
 ## Workshop Email List
