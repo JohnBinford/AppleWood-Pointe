@@ -644,7 +644,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
       </td>
  </table>
 
-  #### Some other tools...
+  ##### Some other tools...
 - 7 1/4" Circular Saw (Rockwell)
 - 4.5 Amp Variable Speed Jigsaw (Black & Decker)
 - Cordless Powered Hand Saw (Black & Decker)
@@ -661,8 +661,6 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 
 #### Jim-W's Submissions
-[Link to Jim's Pictures (Duplicates of those below)](./CraftsMen/Jim-W/readme.md)
-
 
 <table>
   <tr>
