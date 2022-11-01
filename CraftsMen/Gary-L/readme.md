@@ -9,17 +9,17 @@
   <tr>
       <td valign="top">
       <a href="./12-Inch-Miter-Saw.jpeg">
-      <img src="./Thumbnails/12-Inch-Miter-Saw-T.jpeg">
+      <img src="./Thumbnails/12-Inch-Miter-Saw-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Bench-Grinder.jpeg">
-      <img src="./Thumbnails/Bench-Grinder-T.jpeg">
+      <img src="./Thumbnails/Bench-Grinder-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Orbital-Sander.jpeg">
-      <img src="./Thumbnails/Orbital-Sander-T.jpeg">
+      <img src="./Thumbnails/Orbital-Sander-T.jpg">
       </a>
       </td>
   </tr>
@@ -34,17 +34,17 @@
   <tr>
  <td valign="top">
       <a href="./Compressor.jpeg">
-      <img src="./Thumbnails/Compressor-T.jpeg">
+      <img src="./Thumbnails/Compressor-T.jpg">
       </a>
       </td>      
       <td valign="top">
       <a href="./Good-Brush.jpeg">
-      <img src="./Thumbnails/Good-Brush-T.jpeg">
+      <img src="./Thumbnails/Good-Brush-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Hand-Truck.jpeg">
-      <img src="./Thumbnails/Hand-Truck-T.jpeg">
+      <img src="./Thumbnails/Hand-Truck-T.jpg">
       </a>
       </td>
   </tr>
@@ -60,17 +60,17 @@
   <tr>
       <td valign="top">
       <a href="./Lapidary-Table.jpeg">
-      <img src="./Thumbnails/Lapidary-Table-T.jpeg">
+      <img src="./Thumbnails/Lapidary-Table-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Rock-Drill.jpeg">
-      <img src="./Thumbnails/Rock-Drill-T.jpeg">
+      <img src="./Thumbnails/Rock-Drill-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Rock-Saw.jpeg">
-      <img src="./Thumbnails/Rock-Saw-T.jpeg">
+      <img src="./Thumbnails/Rock-Saw-T.jpg">
       </a>
       </td>
       <td valign="top">
