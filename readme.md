@@ -55,7 +55,7 @@ we must abide by the builder provided Applewood Point of Apple Valley's single p
 2. No other Workshop policies or manuals may be used until handover.</br>
 3. Once the resident Board of Directors has been established,</br>
 our group's more comprehensive Workshop Users Manual may be adopted.
-  - Complied with us pending Workshop Users input, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
+  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
