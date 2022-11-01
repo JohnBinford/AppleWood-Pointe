@@ -38,14 +38,14 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - Complied with us pending Workshop Users input, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
 [Link to the PDF Documents Collection.](./Documents/Download.md)
-- (Some browsers might then show a "spinnig" icon - if yours does, </br>just click the download button on the right.)
+- (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
 
 ***
 
 ## News
 
 - Gary L sent in a few pictures. </br>
-  [Link to Gary's Profile](./CraftsMen/Gary-L/readme.md)
+  [Link to Gary's Tool Submissions.](./CraftsMen/Gary-L/readme.md)
 
 - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
 He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
@@ -54,13 +54,13 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ### Slightly older New and Updates.
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
-  [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
+  [Link to Jacks's Tool Submissions.](./CraftsMen/Jack-W/readme.md)
 
   - Len-C recently sent a few nice tools photos! </br>
-  [Link to Len's Profile](./CraftsMen/Len-C/readme.md)
+  [Link to Len's Profile and Tool Submissions.](./CraftsMen/Len-C/readme.md)
 
   - Ralph recently toured the SouthTown and Valley West Shops. </br>
-    [Link to Pictures from those Shops](./Other-Shops/Valley-South/readme.md)</br>
+    [Link to Pictures from those Shops.](./Other-Shops/Valley-South/readme.md)</br>
 
    
 [Link to older News](./Collateral/OldNews.md)
@@ -91,23 +91,23 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
-[Link to Letter from Luncheon](./Collateral/JohnBinford-1.md)
+[Link to Letter from Luncheon.](./Collateral/JohnBinford-1.md)
 
-[Link to Schematic of Garage](./Collateral/Garage-H.jpg)
+[Link to Schematic of Garage.](./Collateral/Garage-H.jpg)
 
-[Link to Dimentioned Drawing of Shop (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
+[Link to Dimentioned Drawing of Shop. (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
 
-[Link to Apple Valley Planning Document](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
+[Link to Apple Valley Planning Document.](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
 
-[Link to Pictures from the Maple Grove Shop](./Other-Shops/Maple-Grove/readme.md)
+[Link to Pictures from the Maple Grove Shop.](./Other-Shops/Maple-Grove/readme.md)
 
-[Link to Pictures from the Eagan Shop](./Other-Shops/Eden-Prarie/readme.md)
+[Link to Pictures from the Eagan Shop.](./Other-Shops/Eden-Prarie/readme.md)
 
-[Link to Pictures from the Eden Prarie Shop](./Other-Shops/Eden-Prarie/readme.md)
+[Link to Pictures from the Eden Prarie Shop.](./Other-Shops/Eden-Prarie/readme.md)
 
-[Link to Pictures from the GreenHouse Shop](./Other-Shops/GreenHouse/readme.md)
+[Link to Pictures from the GreenHouse Shop.](./Other-Shops/GreenHouse/readme.md)
 
 [Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)</br>
 
