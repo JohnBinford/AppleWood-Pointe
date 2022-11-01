@@ -828,9 +828,10 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
        <img src="./CraftsMen/Eric-S/Thumbnails/Ryobi-Sander-T.jpg">
        </a>
        </td>
+       </td>
        <td valign="top">
-       <a href="./CraftsMen/Eric-S/Table-Saw.jpg">
-       <img src="./CraftsMen/Eric-S/Thumbnails/Table-Saw-T.jpg">
+       <a href="./CraftsMen/Eric-S/Collateral/Table-Saw.jpg">
+       <img src="./CraftsMen/Eric-S/Table-Saw-T.jpg">
        </a>
        </td>
        <td valign="top">
