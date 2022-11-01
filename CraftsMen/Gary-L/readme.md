@@ -1,4 +1,4 @@
-#### Jim-W's Submissions
+#### Gary L's Submissions.
 
 <table>
   <tr>
@@ -13,12 +13,12 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./Bench-Grinder.jpg">
+      <a href="./Bench-Grinder.jpeg">
       <img src="./Thumbnails/Bench-Grinder-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Orbital-Sander.jpg">
+      <a href="./Orbital-Sander.jpeg">
       <img src="./Thumbnails/Orbital-Sander-T.jpg">
       </a>
       </td>
