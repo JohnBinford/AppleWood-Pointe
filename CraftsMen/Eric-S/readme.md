@@ -83,7 +83,7 @@
  <table>
    <tr>
      <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</td>
+     <th>Semi-Portable Table Saw </br> (Iron resurfaced, Mechanics Recently Rebuilt)</td>
      <th>Compressor</td>
    </tr>
    <tr>
@@ -92,9 +92,10 @@
        <img src="./Thumbnails/Ryobi-Sander-T.jpg">
        </a>
        </td>
+       </td>
        <td valign="top">
-       <a href="./Table-Saw.jpg">
-       <img src="./Thumbnails/Table-Saw-T.jpg">
+       <a href="./Collateral/Table-Saw.jpg">
+       <img src="./Collateral/Table-Saw-T.jpg">
        </a>
        </td>
        <td valign="top">
