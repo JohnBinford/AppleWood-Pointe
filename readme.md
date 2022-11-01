@@ -133,7 +133,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
   </tr>
   <tr>
       <td valign="top">
-      <a href="./CraftSMen/Gary-L/12-Inch-Miter-Saw.jpeg">
+      <a href="./CraftsMen/Gary-L/12-Inch-Miter-Saw.jpeg">
       <img src="./CraftsMen/Gary-L/Thumbnails/12-Inch-Miter-Saw-T.jpg">
       </a>
       </td>
@@ -200,13 +200,11 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
       </td>
       <td valign="top">
       <a href="./CraftsMen/Gary-L/Shop-Vac.jpeg">
-      <img src="./CraftsMen/Gary-L/Thumbnails/Shop-Vac-T.jpg">
+      <img src="./Craftsen/Gary-L/Thumbnails/Shop-Vac-T.jpg">
       </a>
       </td>
   </tr>
   </table>
-
-***
 
 ####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
 
