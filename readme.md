@@ -16,8 +16,8 @@
  ***
  
 ## Workshop Email List
-- Please email johnathan.binford@gmail.com for a copy of the list!
-- Thanks to all for keeping our email listl up to date.
+- Please email johnathan.binford@gmail.com for a copy of the list.
+- Thanks to all for keeping our email list up to date.
   - Please email johnathan.binford@gmail.com with any updates. 
  
 * * *
@@ -83,12 +83,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - As yet unconsidered tools:   
     - Lathes, - vices, - panel saw, - metal working machines (milling machine) which no one has submitted so far.
     
-  - What will our policies be?
-    - Who gets a key?  
-      - AWP will  give shop keys to every resident who signs a waiver. Not just wood shop members.  
-	  Does this mean that they are O.K. with any resident entering the shop at any time, even if they are alone? 
-    - Should we have a Workshop Manual?  One of the guys is working on a sample. 
-
 * * *
   
 ### Links
