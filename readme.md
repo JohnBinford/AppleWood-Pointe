@@ -123,6 +123,91 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ## Recent Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
+#### Gary L's Submissions.
+
+<table>
+  <tr>
+    <th>12 Inch Miter Saw</th>
+    <th>Bench Grinder</th>
+    <th>Orbital Sander</th>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftSMen/Gary-L/12-Inch-Miter-Saw.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/12-Inch-Miter-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Bench-Grinder.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Bench-Grinder-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Orbital-Sander.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Orbital-Sander-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Compressor</th>
+    <th>Good Brush</th>
+    <th>Hand Truck</th>
+  </tr>
+  <tr>
+ <td valign="top">
+      <a href="./CraftsMen/Gary-L/Compressor.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Compressor-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Good-Brush.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Good-Brush-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Hand-Truck.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Hand-Truck-T.jpg">
+      </a>
+      </td>
+  </tr>
+  </table>
+
+ <table>
+  <tr>
+    <th>Lapidary Table</th>
+    <th>Rock Drill</th>
+    <th>Rock Saw</th>
+    <th>Shop Vacuum</th>		
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Lapidary-Table.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Lapidary-Table-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Rock-Drill.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Rock-Drill-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Rock-Saw.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Rock-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Gary-L/Shop-Vac.jpeg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Shop-Vac-T.jpg">
+      </a>
+      </td>
+  </tr>
+  </table>
+
+***
+
 ####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
 
 [Link to Len's Profile](./CraftsMen/Len-C/readme.md)</br>
