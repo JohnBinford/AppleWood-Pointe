@@ -1,4 +1,4 @@
-# AppleWood Pointe Workshop
+# Applewood Pointe Workshop
 
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
@@ -16,9 +16,10 @@
  ***
  
 ## Workshop Email List
-- The email list is even more up to date! (Thanks to Ralph and others for their suggested corrections!)
-  - To keep our emails more private, please email johnathan.binford@gmail.com for a copy of the list!
-  
+- Please email johnathan.binford@gmail.com for a copy of the list!
+- Thanks to all for keeping our email listl up to date.
+  - Please email johnathan.binford@gmail.com with any updates. 
+ 
 * * *
 
 - Shortcuts to frequently used segments of this page...</br>
@@ -26,16 +27,28 @@
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
 [Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-craftsmen)
 
+***
+
+## Applewood Pointe of Apple Valley Workshop Manual 
+-  Initially, until ownership transfers to the resident Board of Directors (see below), </br>
+we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES.
+- No other Workshop policies or manuals may be used until handover.</br>
+- Once the resident Board of Directors has been established,</br>
+our group's more comprehensive Workshop Users Manual may be adopted.
+  - Complied with us pending Workshop Users input, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
+
+
+
+ 
+
+  - (Some browsers might then show a "spinnig" icon - if yours does, </br>just click the download button on the right.)
+-
+
 ## News
-
-
 ### Methods to vote for tools being tested, try it if you wish!  (Might not work - still learning...)
   - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
        - He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
-   - (After test period) If you hate computers like John, You can also email johnathan.binford@gmail.com with any votes you wish to cast!
-     - John is also investigating a free online chat system we could use.</br>
-     * Given that we don't want "login ID's" to remember, this is will be hard to figure out!
 
 ***
 
@@ -50,12 +63,7 @@
   - Ralph recently toured the SouthTown and Valley West Shops. </br>
     [Link to Pictures from those Shops](./Other-Shops/Valley-South/readme.md)</br>
 
-
-  - There are questions about whether the builder has moved the entry.  A telephoto lens suggests not!
-    - Here are a couple of pictures.  John-B speculates that the apparrent new entry is just protective gravel over the footing for construciton traffic.  See what you think!</br>
-    [Link to aerial of footings.](./Collateral/Footings.jpeg)</br>
-    [Link to telephoto shot of suspected "real" entry in block wall.  As shown in the sales kit.](./Collateral/Garage-Entry.JPG)
-    
+   
 [Link to OLD News](./Collateral/OldNews.md)
 
 ***
