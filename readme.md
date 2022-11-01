@@ -43,9 +43,12 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 ## News
-### Methods to vote for tools being tested, try it if you wish!  (Might not work - still learning...)
-  - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
-       - He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
+
+- Gary L sent in a few pictures. </br>
+  [Link to Gary's Profile](./CraftsMen/Gary-L/readme.md)
+
+- John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
+He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
 
 ### Slightly older New and Updates.
