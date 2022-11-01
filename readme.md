@@ -30,19 +30,17 @@
 ***
 
 ## Applewood Pointe of Apple Valley Workshop Manual 
--  Initially, until ownership transfers to the resident Board of Directors (see below), </br>
+1.  Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES.
-- No other Workshop policies or manuals may be used until handover.</br>
-- Once the resident Board of Directors has been established,</br>
+2. No other Workshop policies or manuals may be used until handover.</br>
+3. Once the resident Board of Directors has been established,</br>
 our group's more comprehensive Workshop Users Manual may be adopted.
   - Complied with us pending Workshop Users input, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
+[Link to the PDF Documents Collection.](./Documents/Download.md)
+- (Some browsers might then show a "spinnig" icon - if yours does, </br>just click the download button on the right.)
 
-
- 
-
-  - (Some browsers might then show a "spinnig" icon - if yours does, </br>just click the download button on the right.)
--
+***
 
 ## News
 ### Methods to vote for tools being tested, try it if you wish!  (Might not work - still learning...)
@@ -50,9 +48,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
        - He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
 
-***
-
-## Slightly older New and Updates.
+### Slightly older New and Updates.
 
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Profile](./CraftsMen/Jack-W/readme.md)
@@ -64,7 +60,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
     [Link to Pictures from those Shops](./Other-Shops/Valley-South/readme.md)</br>
 
    
-[Link to OLD News](./Collateral/OldNews.md)
+[Link to older News](./Collateral/OldNews.md)
 
 ***
 
