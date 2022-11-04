@@ -19,7 +19,7 @@
 - Owned and operated two Mathnasium Learning Centers for 10 years.
 - Retired in 2019 after selling them.
 - Owns lots of hand tools, and glad to donate. 
-- 
+
       </td>
   </tr>
  </table>
