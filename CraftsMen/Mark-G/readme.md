@@ -6,12 +6,11 @@
   </tr>
   <tr>
       <td valign="top">
+      <a>
       <img src="./Mark-Grotte.jpg">
       </a>
       </td
-  <tr>
-      <td valign="top">
-        
+  <td>
 - Graduated from the United States Military Academy at West Point in 1976.</br>
 - 6 Years in the Army 
   - Out as a Captain.
@@ -19,8 +18,7 @@
 - Owned and operated two Mathnasium Learning Centers for 10 years.
 - Retired in 2019 after selling them.
 - Owns lots of hand tools, and glad to donate. 
-
-      </td>
+   </td>
   </tr>
  </table>
  
