@@ -63,6 +63,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 ## News
+- Mark-G sent a picture of a couple of nice tool chests. </br>
+  [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
 
 - Gary L sent in a few pictures. </br>
   [Link to Gary's Tool Submissions.](./CraftsMen/Gary-L/readme.md)
