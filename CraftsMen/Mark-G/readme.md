@@ -6,18 +6,18 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Mark-Grotte.jpg">
-      <img src="./Thumbnails/Mark-Grotte-T.jpg">
+      <img src="./Mark-Grotte.jpg">
       </a>
       </td
   <tr>
       <td valign="top">
-        - Graduated from the United States Military Academy at West Point in 1976.</br>
-        - 6 Years in the Army - Out as a Captain.
-        - 28 year in Financial Services for some big name Companies
-	- Owned and operated two Mathnasium Learning Centers for 10 years.
-	  - Retired in 2019 after selling them.
-        - Owns lots of hand tools, and glad to donate. 
+- Graduated from the United States Military Academy at West Point in 1976.</br>
+- 6 Years in the Army 
+  - Out as a Captain.
+- 28 year in Financial Services for some big name Companies
+- Owned and operated two Mathnasium Learning Centers for 10 years.
+- Retired in 2019 after selling them.
+- Owns lots of hand tools, and glad to donate. 
       </td>
   </tr>
  </table>
