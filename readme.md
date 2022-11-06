@@ -8,10 +8,10 @@
 ***
 
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
-
+-  NOTE!  Ben from Weis just sent a better drawing!  John is working to edit the renderings.
 <img src="./Collateral/Shop-Above-1-Small.png">
  
-  [Click here to see other renders and plans.](./Collateral/Models.md)
+
  
  ***
  
@@ -119,7 +119,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 [Link to Schematic of Garage.](./Collateral/Garage-H.jpg)
 
-[Link to Dimentioned Drawing of Shop. (Pretty Close)](./Collateral/AWP-Shop-Dimentioned.JPG)
+[Link to new Dimentioned Drawing of Shop. (Scale is VERY close to 3/16)](./Collateral/Shop-11-06-22.jpg)
 
 [Link to Apple Valley Planning Document.](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
