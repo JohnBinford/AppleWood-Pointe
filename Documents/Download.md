@@ -63,7 +63,7 @@
    PDF of the Scaled Drawing of the Shop 
    </td>
    <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Shop-11-06-22.pdf"> 
-    Click to Download the Dimentioned AWP Shop Drawing with Dimentions
+    Click to Download the Dimentioned AWP Shop Drawing with Dimensions
    </td>
   </tr>
 
