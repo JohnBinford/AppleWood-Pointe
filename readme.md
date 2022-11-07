@@ -10,9 +10,10 @@
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
 -  NOTE!  Ben from Weis just sent a better drawing of the shop!  
    -  [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
--  John is working to edit the renderings.  This one is still pretty close.
-   - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!)  
-<img src="./Collateral/Shop-Above-1-Small.png">
+   - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
+- Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
+ 
+<img src="./Collateral/Plans/AWP-Shop-5.png">
  
  ***
  
