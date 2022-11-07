@@ -11,8 +11,6 @@
 -  NOTE!  Ben from Weis just sent a better drawing of the shop!  
    -  [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
    -  [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.jpg)
-   -  [Link to Simplified Scale Drawing of Shop.](./Collateral/Plans/Shop.pdf)
-      - You may need to "right-click" on some browsers to download this.
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
  
