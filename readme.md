@@ -151,6 +151,19 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ## Recent Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
+#### David-J's Tools.
+<table>
+  <tr>
+    <th>Onyone want to buy a nice chainsaw sharpener? </td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/David-J/David-1.jpg">
+      <img src="./CraftsMen/David-J/Thumbnails/David-1-T.jpg">
+      </a>
+      </td>
+</table>
+
 #### Mark-G's Nice Tool Chests.
 <table>
   <tr>
