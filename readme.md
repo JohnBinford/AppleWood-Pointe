@@ -12,8 +12,7 @@
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
    - [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
    - [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.jpg)
-   - [Linkn to scaled PDF.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Plans/Shop.pdf)
-     - You may need to "Right-Click" with some browsers...
+   - Email johnathan.binford@gmail.com for a PDF that might print true to 3/16 scale.
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
  
