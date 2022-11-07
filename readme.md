@@ -64,6 +64,9 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 ## News
+- David-J sent in a picture of some tools!</br>
+  [Link to David's Tool Submissions.](./CraftsMen/David-J/readme.md)
+
 - Mark-G sent a picture of a couple of nice tool chests. </br>
   [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
 
