@@ -17,7 +17,7 @@
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
  
-<img src="./Collateral/Plans/AWP-Shop-5.png">
+<img src="./Collateral/Plans/AWP-Shop-6.png">
  
  ***
  
