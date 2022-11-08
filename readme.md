@@ -62,20 +62,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 - John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
 He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
-
-### Slightly older New and Updates.
-
-  - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
-  [Link to Jacks's Tool Submissions.](./CraftsMen/Jack-W/readme.md)
-
-  - Len-C recently sent a few nice tools photos! </br>
-  [Link to Len's Profile and Tool Submissions.](./CraftsMen/Len-C/readme.md)
-
-  - Ralph recently toured the SouthTown and Valley West Shops. </br>
-    [Link to Pictures from those Shops.](./Other-Shops/Valley-South/readme.md)</br>
-
    
-[Link to older News](./Collateral/OldNews.md)
+-  [Link to older News](./Collateral/OldNews.md)
 
 ***
 
