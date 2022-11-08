@@ -32,7 +32,9 @@
 [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)</br>
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-craftsmen)
+[Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-craftsmen)</br>
+[Shortcut to Recent News.](https://github.com/JohnBinford/AppleWood-Pointe#news)</br>
+[Link to older (But Very Interesting) News](./Collateral/OldNews.md)
 
 ***
 
