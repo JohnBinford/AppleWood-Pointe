@@ -28,8 +28,17 @@
  
 * * *
 
-- Shortcuts to frequently used segments of this page...</br>
-[Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)</br>
+## 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
+
+- 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
+  - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
+  So you'll need to get your equipment / tools pictures and lists on our website by the new year, </br>
+or let us know you don't have any to submit so we won't think we're missing yours. </br>
+[Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
+***
+ 
+## Shortcuts to frequently used segments of this page...</br>
+
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
 [Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-craftsmen)</br>
