@@ -81,6 +81,9 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 
 ## Recent Member Suggestions and things to think about:
+
+-  Linelle Johnson sent this recommendation after checking out the new diagrams.
+   -  The actual workroom isn't really that big so we will need to be smart with our layout.</br>  More than ever, I think that every piece of equipment has to be on wheels.</br>  We should also strive to use the Applewood library to store all of our books and reference material.
 - During the Fall Luncheon, John B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
   - The storage area next to the shop has HVAC in it, so we can't use it right away.
   - John B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
