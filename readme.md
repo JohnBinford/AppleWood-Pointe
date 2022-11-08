@@ -133,7 +133,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 * * *
 * * *
 
-## Recent Submissions from Craftsmen!
+## Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
 #### David-J's Tools.
@@ -152,6 +152,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ***
 
 #### Mark-G's Nice Tool Chests.
+-  [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
 <table>
   <tr>
     <th>Two Husky Tool Chests  (Tools Inside!) </td>
@@ -678,8 +679,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 - Click thumbnails for Hi Def Pictures)
 <table>
   <tr>
-    <th>Ralph recently purchased this 2 Axis Cross Table for his Drill Press</td>
-
+    <th>Ralph recently purchased this Milling Machine Table</td>
   </tr>
   <tr>
       <td valign="top">
