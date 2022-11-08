@@ -12,7 +12,7 @@
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
    - [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
    - [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
-   -  If you want a Scaled PDF of the simplified Shop Drawing, see the last entry in the Documents Collection
+   - If you want a Scaled PDF of the simplified Shop Drawing, see the last entry in the Documents Collection
    - [Link to the PDF Documents Collection.](./Documents/Download.md)
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
@@ -46,7 +46,7 @@ we must abide by the builder provided Applewood Point of Apple Valley's single p
 our group's more comprehensive Workshop Users Manual may be adopted.
   - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
-[Link to the PDF Documents Collection.](./Documents/Download.md)
+- [Link to the PDF Documents Collection.](./Documents/Download.md)
 - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
 
 ***
