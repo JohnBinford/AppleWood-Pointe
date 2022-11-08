@@ -1,4 +1,15 @@
-  -  John Binford recently visited an older Applewood Pointe shop.  It's about 2/3 the size ours will be.  They have a good variety of basic power tools.  Nothing at Professional level though. </br>
+ ### Slightly older New and Updates.
+
+  - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
+  [Link to Jacks's Tool Submissions.](../CraftsMen/Jack-W/readme.md)
+
+  - Len-C recently sent a few nice tools photos! </br>
+  [Link to Len's Profile and Tool Submissions.](../CraftsMen/Len-C/readme.md)
+
+  - Ralph recently toured the SouthTown and Valley West Shops. </br>
+  [Link to Pictures from those Shops.](../Other-Shops/Valley-South/readme.md)</br>
+  
+ -  John Binford recently visited an older Applewood Pointe shop.  It's about 2/3 the size ours will be.  They have a good variety of basic power tools.  Nothing at Professional level though. </br>
     [Link to Pictures from the Maple Grove Shop](../Other-Shops/Maple-Grove/readme.md)
     
   - Ralph recently sumitted our Draft Manual and other documentation. </br>
