@@ -41,7 +41,7 @@ or let us know you don't have any to submit so we won't think we're missing your
 
 [Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
 [Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Shortcut to Craftsmen Submissions and Pictures.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-submissions-from-craftsmen)</br>
+[Shortbut to Craftmen Submissions.](https://github.com/JohnBinford/AppleWood-Pointe#submissions-from-craftsmen)</br>
 [Shortcut to Recent News.](https://github.com/JohnBinford/AppleWood-Pointe#news)</br>
 [Link to older (But Very Interesting) News](./Collateral/OldNews.md)
 
