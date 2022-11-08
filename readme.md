@@ -12,6 +12,8 @@
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
    - [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
    - [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
+   -  If you want a Scaled PDF of the simplified Shop Drawing, see the last entry in the Documents Collection
+   - [Link to the PDF Documents Collection.](./Documents/Download.md)
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
  
