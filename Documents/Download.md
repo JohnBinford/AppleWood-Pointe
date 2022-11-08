@@ -1,6 +1,6 @@
 ## Documentation for the Workshop
 - PDF documents are good becuase they usually print to scale.
-  - If you wnat to use your fancy Applewood Pointe Ruler, Use the PDF's.
+  - If you want to use your fancy Applewood Pointe Ruler, Use the PDF's.
 #### Note!
 - Some Browsers have  NO INLINE viewer for PDF Documents, or have "security settings" that prevent inline viewing (in your browser's window) - from certain websites. So you must download them blind sometimes.  
   - John B. has three computers that show the PDF, but his favorite does not!
@@ -18,9 +18,9 @@
 <table>
    <tr>
     <td>
-      All Shop Documents in one ZIP file.
+      All Shop Manual Documents in one ZIP file.
     </td>
-    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip"> 
+    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Documents.zip"</a> 
      Click to Download the entire Draft Shop Users Manual Collection
     </td>
   </tr>
@@ -28,7 +28,7 @@
     <td>
       Draft Shop Users Manual
     </td>
-    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDft.pdf"> 
+    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDft.pdf"</a> 
      Click to Download the Draft Shop Users Manual
     </td>
   </tr>
@@ -36,7 +36,7 @@
    <td>
      Draft Safety Rules and Waiver
    </td>
-   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf"> 
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122ShopSafetyRules%26Waiver.pdf"</a> 
      Click to Download the Draft Safety Rules and Waiver
    </td>
   </tr>
@@ -44,7 +44,7 @@
    <td>
    Workshop Documentation Guide
    </td>
-   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV110122WorkshopUsersManDocGuide.pdf"> 
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV110122WorkshopUsersManDocGuide.pdf"</a> 
      Click to Download the Workshop Documentation Guide
      </td>
   </tr>
@@ -53,7 +53,7 @@
   Workshop Users Application and Waiver </br>
   (Only Official Document until Handover!)
   </td>
-  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUseApp%26Waiver.pdf"> 
+  <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUseApp%26Waiver.pdf"</a> 
     Click to Download the AWP Provided Application and Waiver
     </td>
     </td>
@@ -62,7 +62,7 @@
    <td>
    PDF of the Scaled Drawing of the Shop 
    </td>
-   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Shop-11-06-22.pdf"> 
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Plans/Shop.pdf"</a> 
     Click to Download the Dimentioned AWP Shop Drawing with Dimensions
    </td>
   </tr>
