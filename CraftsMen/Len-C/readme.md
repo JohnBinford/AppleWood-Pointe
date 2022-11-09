@@ -39,7 +39,7 @@
       </a>
       </td>
       <td valign="top">
-       <a href="./Drill-Press.jpg">
+       <a href="./Drill-Press.jpeg">
       <img src="./Thumbnails/Drill-Press-T.jpg">
       </a>
       </td>
