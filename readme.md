@@ -61,16 +61,16 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 ## News
-- David-J sent in a picture of some tools!</br>
+- David-J. sent in a picture of some tools!</br>
   [Link to David's Tool Submissions.](./CraftsMen/David-J/readme.md)
 
-- Mark-G sent a picture of a couple of nice tool chests. </br>
+- Mark-G. sent a picture of a couple of nice tool chests. </br>
   [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
 
-- Gary L sent in a few pictures. </br>
+- Gary-L. sent in a few pictures. </br>
   [Link to Gary's Tool Submissions.](./CraftsMen/Gary-L/readme.md)
 
-- John B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
+- John-B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
 He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
   [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
    
@@ -84,8 +84,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 -  Linelle J. sent this recommendation after checking out the new diagrams.
    -  The actual workroom isn't really that big so we will need to be smart with our layout.</br>  More than ever, I think that every piece of equipment has to be on wheels.</br>  We should also strive to use the Applewood library to store all of our books and reference material.
-- During the Fall Luncheon, John B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
-  - John B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
+- During the Fall Luncheon, John-B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
+  - John-B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
   
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
 
