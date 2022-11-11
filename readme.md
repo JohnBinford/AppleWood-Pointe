@@ -138,7 +138,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ## Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
-#### David-J's Tools.
+#### David-J's Submissions.
 <table>
   <tr>
     <th>Anyone want to buy a nice chainsaw sharpener? </td>
@@ -153,7 +153,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 ***
 
-#### Mark-G's Nice Tool Chests.
+#### Mark-G's Submissions.
 -  [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
 <table>
   <tr>
@@ -169,8 +169,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 ***
 
-#### Gary L's Submissions.
-
+#### Gary-L's Submissions.
 <table>
   <tr>
     <th>12 Inch Miter Saw</th>
@@ -254,10 +253,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 ***
 
-####  Len C. Recently sent a few pictures.  There was a sanding table of some sort John has not seen!
-
-[Link to Len's Profile](./CraftsMen/Len-C/readme.md)</br>
-
+####  Len-C's Submissions.
+[Link to Len's Profile and Submissions](./CraftsMen/Len-C/readme.md)</br>
 <table>
   <tr>
     <th>Delta Band Saw</td>
@@ -324,7 +321,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 * * *
 
  #### Dave-P's Submissions
- [Link to Dave's Profile](./CraftsMen/Dave-P/readme.md)
+ [Link to Dave's Profile and Submissions](./CraftsMen/Dave-P/readme.md)
  
  <table>
   <tr>
@@ -372,7 +369,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
  * * *
  
-#### Some interesting offerings from Dave Z.
+#### Dave Z's Submissions.
 -  Dave has more to come.
 -  This picture suggests some tools that we all need to consider!
 <table>
@@ -391,7 +388,6 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
  * * *
  
 #### Jack-W's Submissions
-
 <table>
   <tr>
     <th>Dewalt Planer</td>
@@ -518,8 +514,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 * * *
 
-####  Len-B's Offerings
-
+####  Len-B's Submissions.
 <table>
   <tr>
     <th>Drill Press</td>
@@ -560,8 +555,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
  
 * * *
 
-#### Linelle-J's Submissions
-
+#### Linelle-J's Submissions.
 <table>
   <tr>
     <th>Band-Saw</td>
@@ -644,9 +638,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 ***
 
-#### Ralph-L's Submissions
-
-[Link to Ralph-L's Profile](./CraftsMen/Ralph-L/readme.md)
+#### Ralph-L's Submissions.
+[Link to Ralph-L's Profile and Submissions](./CraftsMen/Ralph-L/readme.md)
 <table>
   <tr>
     <th>Rigid Work Support</td>
@@ -707,7 +700,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 * * *
 
 
-#### Jim-W's Submissions
+#### Jim-W's Submissions.
 
 <table>
   <tr>
@@ -833,9 +826,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 * * *
 
-#### Submissions from Eric S
-
-[Link to Eric's Profile](./CraftsMen/Eric-S/readme.md)
+#### Eric S's Submissions
+[Link to Eric's Profile and Submissions](./CraftsMen/Eric-S/readme.md)
 <table>
   <tr>
     <td>Rigid Drill Press</td>
