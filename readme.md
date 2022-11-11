@@ -142,7 +142,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 #### David-J's Tools.
 <table>
   <tr>
-    <th>Onyone want to buy a nice chainsaw sharpener? </td>
+    <th>Anyone want to buy a nice chainsaw sharpener? </td>
   </tr>
   <tr>
       <td valign="top">
