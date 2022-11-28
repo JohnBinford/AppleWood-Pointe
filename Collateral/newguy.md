@@ -1,4 +1,5 @@
 #  AppleWood Pointe Hobby Shop
+## Newguy Page </br>
 ## This repository is a simple place to share ideas and pictures in order to prepare our workshop at AWP.
 ### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
