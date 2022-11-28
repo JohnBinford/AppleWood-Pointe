@@ -8,7 +8,7 @@
 ***
 
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
--  NOTE!  Ben from Weis just sent a better drawing of the shop!  
+-  NOTE!  Lat Month, we got a better drawing of the shop!  
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
    - [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
    - [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
@@ -28,13 +28,22 @@
  
 * * *
 
-## 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
-
-- 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
-  - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
+## News
+-  Update on follow-up of CraftsMen meeting at Cooper's Restaurant this fall.  
+   - An email will be sent later in December asking for final tool and profile updates! </br>
+   - A synopsys of that meeting follows...
+     - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
+     - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
   So you'll need to get your equipment / tools pictures and lists on our website by the new year, </br>
 or let us know you don't have any to submit so we won't think we're missing yours. </br>
 [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
+   
+-  [Link to older News](./Collateral/OldNews.md)
+
+***
+## 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
+
+
 ***
  
 ## Shortcuts to frequently used segments of this page...</br>
@@ -60,23 +69,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ***
 
-## News
-- David-J. sent in a picture of some tools!</br>
-  [Link to David's Tool Submissions.](./CraftsMen/David-J/readme.md)
-
-- Mark-G. sent a picture of a couple of nice tool chests. </br>
-  [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
-
-- Gary-L. sent in a few pictures. </br>
-  [Link to Gary's Tool Submissions.](./CraftsMen/Gary-L/readme.md)
-
-- John-B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
-He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
-  [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md) </br>
-   
--  [Link to older News](./Collateral/OldNews.md)
-
-***
 
 
 
