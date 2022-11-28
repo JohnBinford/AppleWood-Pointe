@@ -1,5 +1,17 @@
  ### Slightly older New and Updates.
+ 
+- David-J. sent in a picture of some tools!</br>
+  [Link to David's Tool Submissions.](./CraftsMen/David-J/readme.md)
 
+- Mark-G. sent a picture of a couple of nice tool chests. </br>
+  [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
+
+- Gary-L. sent in a few pictures. </br>
+  [Link to Gary's Tool Submissions.](./CraftsMen/Gary-L/readme.md)
+
+- John-B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
+He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
+  [Click here to preview a test example of a possible way for us to vote up various tools](./Collateral/Selections.md)
   - Jack-W just sent a few more tool photos.  He's working on a new hand tool workbench!</br>
   [Link to Jacks's Tool Submissions.](../CraftsMen/Jack-W/readme.md)
 
