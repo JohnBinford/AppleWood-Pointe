@@ -1,12 +1,12 @@
-####  Len's Profile
+####  Len-C's Profile
 <table>
   <tr>
     <th>Len-C</td>
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Profile.jpg">
-      <img src="./Thumbnails/Profile-T.jpg">
+      <a href="../CraftsMen/Len-C/Profile.jpg">
+      <img src="../CraftsMen/Len-C/Thumbnails/Profile-T.jpg">
       </a>
       </td
   <tr>
@@ -20,7 +20,9 @@
      - I've done floor tiles, backsplash tiles, created a laundry room, and finished a walkout basement.  
      - Enjoy working in the yard of 2 1/2. acres and gardening.  
 
-#### Marks's Profile.
+***
+
+#### Mark-G's Profile.
 <table>
   <tr>
     <th>Mark</th>
@@ -29,7 +31,7 @@
   
   <tr>
    <td valign="top">
-    <img src="./Mark-Grotte.jpg">
+    <img src="../CraftsMen/Mark-G/Mark-Grotte.jpg">
   </td
 <tr>     
 <td valign="top">
@@ -44,7 +46,9 @@
 </tr>
 </table>
 
- ####  Ralph's Profile
+***
+
+ ####  Ralph-L's Profile
 <table>
   <tr>
     <th>Ralph-L</td>
@@ -52,7 +56,7 @@
   </tr>
   <tr>
       <td valign="top">
-      <img src="./Collateral/Ralph-L-T.png">
+      <img src="../CraftsMen/Ralph-L/Collateral/Ralph-L-T.png">
       </a>
       </td
   <tr>
@@ -68,7 +72,9 @@
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Perfecting the Art of Idling (How to do nothing and not feel guilty about it).
 </table/
 
+***
 
+#### Dave-P's Profile.
 <table>
   <tr>
     <th>Dave</td>
@@ -89,7 +95,7 @@
  </table>	
  
  
- ####  Eric's Profile
+ ####  Eric-S's Profile
 <table>
   <tr>
     <th>Eric</td>
@@ -97,8 +103,8 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Collateral/Eric-Black-1024-AWP.jpg">
-      <img src="./Collateral/Eric-Black-256-AWP-T.jpg">
+      <a href="../CraftsMen/Eric-S/Collateral/Eric-Black-1024-AWP.jpg">
+      <img src="../CraftsMen/Eric-S/Collateral/Eric-Black-256-AWP-T.jpg">
       </a>
       </td
   <tr>
@@ -118,18 +124,18 @@
    </tr>
    <tr>
        <td valign="top">
-       <a href="./Collateral/Train.jpg">
-       <img src="./Collateral/Train-T.jpg">
+       <a href="../CraftsMen/Eric-S/Collateral/Train.jpg">
+       <img src="../CraftsMen/Eric-S/Collateral/Train-T.jpg">
        </a>
        </td>
        <td valign="top">
-       <a href="./Collateral/Singer.jpg">
-       <img src="./Collateral/Singer-T.jpg">
+       <a href="../CraftsMen/Eric-S/Collateral/Singer.jpg">
+       <img src="../CraftsMen/Eric-S/Collateral/Singer-T.jpg">
        </a>
        </td>
        <td valign="top">
-       <a href="./Collateral/Table-Saw.jpg">
-       <img src="./Collateral/Table-Saw-T.jpg">
+       <a href="../CraftsMen/Eric-S/Collateral/Table-Saw.jpg">
+       <img src="../CraftsMen/Eric-S/Collateral/Table-Saw-T.jpg">
        </a>
        </td>
    </tr>
