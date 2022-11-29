@@ -855,16 +855,23 @@ our group's more comprehensive Workshop Users Manual may be adopted.
    </tr>
   </table>
   </br>
+  
+   #### Some other tools...
+  
+- Porter Cable Circular Saw (New)
+- Two Metal Tool Cabinets (Drawers)
+- Lots of Mechanic's Tools
+- Cheap Square Pad Sander
+- Ryobi 18" Belt Sander with Bench Mount
+- Like all of us, I have a small collection of handheld power tools, and various hand tools.
+- Specialty tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)
+</br>
+
+- Also have a Prusa 3DMK3S 3D printer and all the stuff needed to create and print projects.
+  - I may keep upstairs.  
+  - It would be nice to know if anyone shares this interest.
  
-  #### Some other tools...
-       - Porter Cable Circular Saw (New)
-       - Two Metal Tool Cabinets (Drawers)
-       - Lots of Mechanic's Tools
-       - Cheap Square Pad Sander
-       - Ryobi 18" Belt Sander with Bench Mount
-       
-       - Click thumbnails for Hi Def Pictures)
-       
+      
 <a href="https://github.com/JohnBinford/JohnBinford/blob/main/John.jpeg">
        <img src="https://github.com/JohnBinford/JohnBinford/blob/main/John.jpeg">
 </a>
