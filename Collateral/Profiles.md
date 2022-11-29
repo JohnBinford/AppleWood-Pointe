@@ -140,15 +140,5 @@
        </a>
        </td>
    </tr>
-  </table>
-      - Besides the two samples pictured so far, I have a nice portable 10 inch table saw.</br>
-      - I'm sure someone has a better one!</br>
-      - Like all of us, I have a small collection of handheld power tools, and various hand tools.</br>
-      - Specialty tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)</br>
-      - The mechanics tools will most likely go to a nephew :-)</br>
-      - Also have a Prusa 3DMK3S 3D printer, which I may keep upstairs.</br>
-      - It would be nice to know if anyone shares this interest.</br>
-      </td>
-  </tr>
- </table>
+
  
