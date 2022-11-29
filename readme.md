@@ -5,8 +5,27 @@
 - Use the link below to see some introductory information.</br>
 [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
-***
+* * *
 
+## News
+- To prepair for Phase Two of our Shop Planning,  This website has been updated.
+  - No information has been deleted.  Old info has it's own page.
+  - [Link to Old News.](./Collateral/OldNews.md)
+- John-B is building a consolidated page for profiles.
+  - [Here's the link](./Collateral/Profiles.md) 
+- An email will be sent later in December asking for final tool and profile updates!
+- A synopsys of the 10/25/2022 Workshop Meeting meeting follows...
+  - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
+  - The group set a goal to know what to do with our Workshop equipment and tools by Spring.
+    - Action Requested!
+      - You will need to get your equipment / tools pictures and lists on our website by the new year,
+or let us know you don't have any to submit so we won't think we're missing yours.
+      - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
+
+
+  
+  * * *
+  
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
 -  NOTE!  Last Month, we got a better drawing of the shop!  
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
@@ -34,19 +53,6 @@
 -  A picture and a bit of information about our CraftsMen could help us get to know each other!
    -  [Link to the new Profile Page!](./Collateral/Profiles.md)
 
-***
-
-## News
-- A synopsys of the 10/25/2022 Workshop Meeting meeting follows...
-  - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
-  - The group set a goal to know what to do with our Workshop equipment and tools by Spring.
-    - Action Requested!
-      - You will need to get your equipment / tools pictures and lists on our website by the new year,
-or let us know you don't have any to submit so we won't think we're missing yours.
-      - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
-  - Update!
-    - An email will be sent later in December asking for final tool and profile updates!
-    
 * * *
 
 ## The Proposed Applewood Pointe of Apple Valley Workshop Manual is Complete! 
