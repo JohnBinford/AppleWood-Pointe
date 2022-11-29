@@ -8,12 +8,15 @@
 ***
 
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
--  NOTE!  Lat Month, we got a better drawing of the shop!  
+-  NOTE!  Last Month, we got a better drawing of the shop!  
    - (The door has moved, and the size is 1.5 feet smaller across.  We get storage!!!) 
    - [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
    - [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
    - If you want a Scaled PDF of the simplified Shop Drawing, see the last entry in the Documents Collection
    - [Link to the PDF Documents Collection.](./Documents/Download.md)
+   - AWP won't furnish much for the space.
+     - Benches, cabinets, chests, and storage need consideration.
+     - [Click here to see Sample accessories.](./Collateral/accessories.md)
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
  
@@ -44,8 +47,8 @@ or let us know you don't have any to submit so we won't think we're missing your
 
 ***
 
-## Applewood Pointe of Apple Valley Workshop Manual 
-1.  Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
+## The Proposed Applewood Pointe of Apple Valley Workshop Manual is Complete! 
+1. Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES.
 2. No other Workshop policies or manuals may be used until handover.</br>
 3. Once the resident Board of Directors has been established,</br>
@@ -56,29 +59,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
 
 ***
-
-## Recent Member Suggestions and things to think about:
-
--  Linelle J. sent this recommendation after checking out the new diagrams.
-   -  The actual workroom isn't really that big so we will need to be smart with our layout.</br>  More than ever, I think that every piece of equipment has to be on wheels.</br>  We should also strive to use the Applewood library to store all of our books and reference material.
-- During the Fall Luncheon, John-B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
-  - John-B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
-  
-- It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
-
-- AWP won't furnish much for the space.
-  - Benches, cabinets, chests, and storage need consideration.
-  - [Click here to see Sample accessories.](./Collateral/accessories.md)
-  
-- Four fellows have been gathering suggestions from other shops and have started other "Deep Thoughts".
-  - Electing Tools:  
-    - We need to decide how many of each we want.
-    - The best doesn't just mean heavy duty permanent placement equipment, but should include best portable equipment (table saws. miter saws, etc.) which can be easily set up when needed, placed where they can best be used with material being cut, and then easily taken down (folded) and be placed out of the way to provide more room in the Shop for other projects to be worked on at the time.
-    
-  - As yet unconsidered tools:   
-    - Lathes, - vices, - panel saw, - metal working machines (milling machine) which no one has submitted so far.
-    
-* * *
   
 ### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
