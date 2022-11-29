@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>An Ugly but Straight Bench</th>
+    <th>An Ugly but Straight Bench. </br> Maybe a Table Saw extension? </br> New Top!</th>
      <th>24 by 48 Wire Rack Shelf</th>
      <th>Tool Chest (Clean - Refurbished)
   </tr>
@@ -30,7 +30,7 @@
   <tr>
     <th>A proper Oxy/Aceteline Torch Setup</th>
      <th>Useful Torch Accessories</th>
-    <th>An Eexample Shop Vac (Handy to Have Two?)</th>
+    <th>An Example Shop Vac (Handy to Have Two?)</th>
   </tr>
   <tr>
     <td valign="top">
