@@ -35,23 +35,23 @@
 - A synopsys of the 10/25/2022 Workshop Meeting meeting follows...
   - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
   - The group set a goal to know what to do with our Workshop equipment and tools by Spring.
-- Action Requested!
-  - You will need to get your equipment / tools pictures and lists on our website by the new year,
+    - Action Requested!
+      - You will need to get your equipment / tools pictures and lists on our website by the new year,
 or let us know you don't have any to submit so we won't think we're missing yours.
-  - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
-- Update!
-  - An email will be sent later in December asking for final tool and profile updates!
+      - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
+  - Update!
+    - An email will be sent later in December asking for final tool and profile updates!
     
 -  Links to 5 Craftmen's Profiles...
-   - [Link to Len's Profile and Submissions](./CraftsMen/Len-C/Profile.md)
+   - [Link to Len's Profile.](./CraftsMen/Len-C/Profile.md)
 
-   - [Link to Dave's Profile and Submissions](./CraftsMen/Dave-P/Profile.md)
+   - [Link to Dave's Profile.](./CraftsMen/Dave-P/Profile.md)
  
-   - [Link to Eric's Profile and Submissions](./CraftsMen/Eric-S/Profile.md)
+   - [Link to Eric's Profile.](./CraftsMen/Eric-S/Profile.md)
  
-   - [Link to Ralph-L's Profile and Submissions](./CraftsMen/Ralph-L/Profile.md)
+   - [Link to Ralph-L's Profile.](./CraftsMen/Ralph-L/Profile.md)
  
-   - [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/Profile.md)
+   - [Link to Mark's Profile.](./CraftsMen/Mark-G/Profile.md)
    
 - [Link to older News](./Collateral/OldNews.md)
 
