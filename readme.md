@@ -30,6 +30,10 @@
   - Please email johnathan.binford@gmail.com with any updates. 
  
 * * *
+## Craftmen's Profiles... 
+-  [Link to the new Profile Page!](./Collateral/Profiles.md)
+
+***
 
 ## News
 - A synopsys of the 10/25/2022 Workshop Meeting meeting follows...
@@ -42,20 +46,7 @@ or let us know you don't have any to submit so we won't think we're missing your
   - Update!
     - An email will be sent later in December asking for final tool and profile updates!
     
--  Links to 5 Craftmen's Profiles...
-   - [Link to Len's Profile.](./CraftsMen/Len-C/Profile.md)
-
-   - [Link to Dave's Profile.](./CraftsMen/Dave-P/Profile.md)
- 
-   - [Link to Eric's Profile.](./CraftsMen/Eric-S/Profile.md)
- 
-   - [Link to Ralph-L's Profile.](./CraftsMen/Ralph-L/Profile.md)
- 
-   - [Link to Mark's Profile.](./CraftsMen/Mark-G/Profile.md)
-   
-- [Link to older News](./Collateral/OldNews.md)
-
-***
+* * *
 
 ## The Proposed Applewood Pointe of Apple Valley Workshop Manual is Complete! 
 1. Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
