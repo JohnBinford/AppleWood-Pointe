@@ -30,8 +30,9 @@
   - Please email johnathan.binford@gmail.com with any updates. 
  
 * * *
-## Craftmen's Profiles... 
--  [Link to the new Profile Page!](./Collateral/Profiles.md)
+## Craftmen's Profiles...
+-  A picture and a bit of information about our CraftsMen could help us get to know each other!
+   -  [Link to the new Profile Page!](./Collateral/Profiles.md)
 
 ***
 
