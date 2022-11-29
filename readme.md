@@ -29,6 +29,8 @@
 * * *
 
 ## News
+
+### 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
 -  Update on follow-up of CraftsMen meeting at Cooper's Restaurant this fall.  
    - An email will be sent later in December asking for final tool and profile updates! </br>
    - A synopsys of that meeting follows...
@@ -39,20 +41,6 @@ or let us know you don't have any to submit so we won't think we're missing your
 [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
    
 -  [Link to older News](./Collateral/OldNews.md)
-
-***
-## 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
-
-
-***
- 
-## Shortcuts to frequently used segments of this page...</br>
-
-[Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
-[Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Shortbut to Craftmen Submissions.](https://github.com/JohnBinford/AppleWood-Pointe#submissions-from-craftsmen)</br>
-[Shortcut to Recent News.](https://github.com/JohnBinford/AppleWood-Pointe#news)</br>
-[Link to older (But Very Interesting) News](./Collateral/OldNews.md)
 
 ***
 
@@ -68,9 +56,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
 
 ***
-
-
-
 
 ## Recent Member Suggestions and things to think about:
 
