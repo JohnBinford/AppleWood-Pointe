@@ -82,8 +82,8 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Collateral/Dave-P.jpg">
-      <img src="./Collateral/Dave-P-T.jpg">
+      <a href="../CraftsMen/Dave-P/Collateral/Dave-P.jpg">
+      <img src="../CraftsMen/Dave-P/Collateral/Dave-P-T.jpg">
       </a>
       </td
   <tr>
@@ -94,6 +94,7 @@
   </tr>
  </table>	
  
+ ***
  
  ####  Eric-S's Profile
 <table>
