@@ -32,18 +32,17 @@
 * * *
 
 ## News
-
-### 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
--  Update on follow-up of CraftsMen meeting at Cooper's Restaurant this fall.  
-   - An email will be sent later in December asking for final tool and profile updates! </br>
-   - A synopsys of that meeting follows...
-     - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
-     - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
-  So you'll need to get your equipment / tools pictures and lists on our website by the new year, </br>
+- A synopsys of the 10/25/2022 Workshop Meeting meeting follows...
+  - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
+  - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
+- Action Requested!
+  -You will need to get your equipment / tools pictures and lists on our website by the new year, </br>
 or let us know you don't have any to submit so we won't think we're missing yours. </br>
-[Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
-   
--  [Link to older News](./Collateral/OldNews.md)
+  - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md) <br>
+- Update!
+  - An email will be sent later in December asking for final tool and profile updates! </br>
+    
+- [Link to older News](./Collateral/OldNews.md)
 
 ***
 
@@ -111,7 +110,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 #### Mark-G's Submissions.
--  [Link to Mark's Profile and Tool Submissions.](./CraftsMen/Mark-G/readme.md)
+ 
 <table>
   <tr>
     <th>Two Husky Tool Chests  (Tools Inside!) </td>
@@ -211,7 +210,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 ####  Len-C's Submissions.
-[Link to Len's Profile and Submissions](./CraftsMen/Len-C/readme.md)</br>
+
 <table>
   <tr>
     <th>Delta Band Saw</td>
@@ -278,7 +277,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 * * *
 
  #### Dave-P's Submissions
- [Link to Dave's Profile and Submissions](./CraftsMen/Dave-P/readme.md)
+
  
  <table>
   <tr>
@@ -596,7 +595,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ***
 
 #### Ralph-L's Submissions.
-[Link to Ralph-L's Profile and Submissions](./CraftsMen/Ralph-L/readme.md)
+
 <table>
   <tr>
     <th>Rigid Work Support</td>
@@ -784,7 +783,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 * * *
 
 #### Eric S's Submissions
-[Link to Eric's Profile and Submissions](./CraftsMen/Eric-S/readme.md)
+
 <table>
   <tr>
     <td>Rigid Drill Press</td>
