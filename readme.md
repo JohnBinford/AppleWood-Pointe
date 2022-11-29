@@ -11,6 +11,7 @@
 - To prepair for Phase Two of our Shop Planning,  This website has been updated.
   - No information has been deleted.  Old info has it's own page.
   - [Link to Old News.](./Collateral/OldNews.md)
+  - We will move from humbly asking for tool pcitures, etc - To actually getting organized!
 - John-B is building a consolidated page for profiles.
   - [Here's the link](./Collateral/Profiles.md) 
 - An email will be sent later in December asking for final tool and profile updates!
