@@ -74,7 +74,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
-[Link to Letter from Luncheon.](./Collateral/JohnBinford-1.md)
+[Link to Eric's Letter from the first luncheon.](./Collateral/JohnBinford-1.md)
 
 [Link to Schematic of Garage.](./Collateral/Garage-H.jpg)
 
