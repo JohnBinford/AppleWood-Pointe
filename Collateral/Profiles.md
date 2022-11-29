@@ -70,7 +70,7 @@
 	- Crafts:      Fly Tying, Leather Work, Net Making, Macrame. </br>
         - Interests:     Reading, Music, Eating out, Enjoying Retirement. </br>
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Perfecting the Art of Idling (How to do nothing and not feel guilty about it).
-</table/
+</table>
 
 ***
 
