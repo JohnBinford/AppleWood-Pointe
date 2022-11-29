@@ -91,6 +91,14 @@ our group's more comprehensive Workshop Users Manual may be adopted.
     
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 
+[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)</br>
+
+[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)</br>
+
+[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)</br>
+
+
+
 * * *
 * * *
 
