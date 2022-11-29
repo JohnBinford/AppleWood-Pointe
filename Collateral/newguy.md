@@ -1,6 +1,8 @@
 #  AppleWood Pointe Hobby Shop
 ## Newguy Page </br>
 ## This repository is a simple place to share ideas and pictures in order to prepare our workshop at AWP.
+- Eventually, this website will be used to facilitate selection of the best of the great.
+  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)
 ### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
 - A folder will be created for each resident, and a master page will showplace various tools and ideas.
