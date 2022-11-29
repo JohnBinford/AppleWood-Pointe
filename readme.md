@@ -36,7 +36,7 @@
   - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
   - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
 - Action Requested!
-  -You will need to get your equipment / tools pictures and lists on our website by the new year, </br>
+  - You will need to get your equipment / tools pictures and lists on our website by the new year, </br>
 or let us know you don't have any to submit so we won't think we're missing yours. </br>
   - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md) <br>
 - Update!
