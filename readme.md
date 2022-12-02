@@ -8,6 +8,7 @@
 * * *
 
 ## News
+- Linelle-J added a 1" Belt Sander and a Scoll Saw to his list. </br>
 - To prepair for Phase Two of our Shop Planning,  This website has been updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
   - [Link to Old News.](./Collateral/OldNews.md)
