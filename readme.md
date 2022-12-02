@@ -607,7 +607,24 @@ our group's more comprehensive Workshop Users Manual may be adopted.
       </td>
   </tr>
  </table>
- 
+  <table>
+  <tr>
+    <th>1" Belt-Sander</td>
+    <th>Scroll Saw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/One-Inch-Belt-Sander.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/One-Inch-Belt-Sander-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Scroll-Saw.jpg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Scroll-Saw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
 -  Linelle recently added a few more items to his list.  (Unpictured)
    -  36 x 12 Inch Lalthe
    -  17 Inch Drum Sander
