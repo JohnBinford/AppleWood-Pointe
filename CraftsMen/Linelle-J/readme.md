@@ -74,7 +74,24 @@
       </td>
   </tr>
  </table>
-
+ <table>
+  <tr>
+    <th>1" Belt-Sander</td>
+    <th>Scroll Saw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="./One-Inch-Belt-Sander.jpg">
+      <img src="./Thumbnails/One-Inch-Belt-Sander-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Scroll-Saw.jpg">
+      <img src="./Thumbnails/Scroll-Saw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
 -  Linelle also has a few nice items that are not pictured.
    -  A 36 inch Lathe (12 inch diamter)
    -  17 Inch Drum Sander
