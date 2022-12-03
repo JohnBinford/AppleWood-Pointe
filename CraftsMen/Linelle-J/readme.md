@@ -52,8 +52,8 @@
 
  <table>
   <tr>
-    <th>Planer-1</td>
-    <th>Planer-2</td>
+    <th>Drum Sander</td>
+    <th>Planer</td>
     <th>Router-Table</td>
   </tr>
   <tr>
