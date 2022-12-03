@@ -623,6 +623,11 @@ our group's more comprehensive Workshop Users Manual may be adopted.
       <img src="./CraftsMen/Linelle-J/Thumbnails/Scroll-Saw-T.jpg">
       </a>
       </td>
+            <td valign="top">
+      <a href="./CraftsMen/Linelle-J/Lathe.jpeg">
+      <img src="./CraftsMen/Linelle-J/Thumbnails/Lathe-T.jpg">
+      </a>
+      </td>
   </tr>
  </table>
 -  Linelle recently added a few more items to his list.  (Unpictured)
