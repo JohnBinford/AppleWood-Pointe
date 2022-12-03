@@ -90,6 +90,11 @@
       <img src="./Thumbnails/Scroll-Saw-T.jpg">
       </a>
       </td>
+          <td valign="top">
+      <a href="./Lathe.jpeg">
+      <img src="./Thumbnails/Lathe-T.jpg">
+      </a>
+      </td>
   </tr>
  </table>
 -  Linelle also has a few nice items that are not pictured.
