@@ -585,7 +585,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
  <table>
   <tr>
-    <th>Planer-1</td>
+    <th>Drum Sander</td>
     <th>Planer-2</td>
     <th>Router-Table</td>
   </tr>
