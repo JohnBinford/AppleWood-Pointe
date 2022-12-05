@@ -133,7 +133,7 @@
       <a href="../CraftsMen/Rick-S/Rick.JPG">
       <img src="../CraftsMen/Rick-S/Thumbnails/Rick-T.jpg">
       </a>
-      </td
+	</td>
   <tr>
       <td valign="top">
 	- I graduated from Milwaukee School of Engineering in 1968. </br> 
