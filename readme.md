@@ -8,6 +8,8 @@
 * * *
 
 ## News
+- Rick-S sent some information about himself.  [Link to Rick's Profile.](./CraftsMen/Rick-S/Profile.md)
+- Gary-L Also sent a bit of information about himself. [Link to Gary's Profile.](./CraftsMen/Gary-L/Profile.md) 
 - Linelle-J added a 1" Belt Sander and a Scoll Saw to his list. </br>
 - To prepair for Phase Two of our Shop Planning,  This website has been updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
