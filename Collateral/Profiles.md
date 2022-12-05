@@ -130,7 +130,7 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="../CraftsMen/Rick-S/Rick.JPG">
+      <a href="...CraftsMen/Rick-S/Rick.JPG">
       <img src="../CraftsMen/Rick-S/Thumbnails/Rick-T.jpg">
       </a>
       </td
