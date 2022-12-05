@@ -122,7 +122,7 @@
  
  ***
  
-  #### Rick's Profile
+  #### Rick-S's Profile
 <table>
   <tr>
     <th>Rick</td>
