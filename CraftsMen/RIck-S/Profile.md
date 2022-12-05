@@ -2,7 +2,7 @@
  #### Rick's Profile
 <table>
   <tr>
-    <th>RIck</td>
+    <th>Rick</td>
     <th>Profile and Interests</td>
   </tr>
   <tr>
