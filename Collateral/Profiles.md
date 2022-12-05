@@ -134,7 +134,6 @@
       <img src="../CraftsMen/Rick-S/Thumbnails/Rick-T.jpg">
       </a>
 	</td>
-  <tr>
       <td valign="top">
 	- I graduated from Milwaukee School of Engineering in 1968. </br> 
 	- I was drafted shortly after and enlisted in the USAF.  </br>
