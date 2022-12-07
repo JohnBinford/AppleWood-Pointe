@@ -83,6 +83,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
 
+[Link to new Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
+
 [Link to Apple Valley Planning Document.](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
 [Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
