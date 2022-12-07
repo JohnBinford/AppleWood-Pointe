@@ -10,7 +10,7 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Shelf.jpeg">
+      <img src="./Shelf.jpeg">
       </a>
       </td>
          <td valign="top">
