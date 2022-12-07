@@ -31,7 +31,7 @@
   - To make this contect "portable" in case someone else wishes to take over,
     - Eric-S can simply give the password to the new person, and it's done.
     - Otherwise, if Eric's email was used,  a whole new setup would be required.
-    - https://homeimprovement.fandom.com/wiki/Binford_Tools
+    - https://www.facebook.com/people/Binford-Tools/100057303114446/
   - John Binford is the collective Nom De Plume for three or four individuals that are authoring content for these pages.  Eric-S just types a lot.
  
 * * *
