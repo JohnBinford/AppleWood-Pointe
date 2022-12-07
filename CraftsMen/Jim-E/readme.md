@@ -4,25 +4,31 @@
 <table>
   <tr>
     <th>A steel shelf.</td>
-    <th>A similar workbench.</td>
-    <th>A couple more workbenches.</td>
-    <th>A nice tool chest.</td>   
+    <th>A workbench.</td>
   </tr>
   <tr>
       <td valign="top">
       <img src="./Shelf.jpeg">
       </a>
       </td>
-         <td valign="top">
-      <a href="./Bench-1.jpeg">
+      <td valign="top">
+      <img src="./Bench-1.jpeg">
+      </a>
+      </td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <th>A couple more workbenches.</td>
+    <th>A nice tool chest.</td>   
+  </tr>
+  <tr>
+      <td valign="top">
+      <img src="./Bench-2.jpeg">
       </a>
       </td>
         <td valign="top">
-      <a href="./Bench-1.jpeg">
-      </a>
-      </td>
-        <td valign="top">
-      <a href="./Toolbox.jpeg">
+      <img src="./Toolbox.jpeg">
       </a>
       </td>
   </tr>
