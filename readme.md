@@ -117,6 +117,44 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ## Submissions from Craftsmen!
 *(Click a Pictiure for a High Definition Version!)* 
 
+#### Jim-E's Submissions.
+<table>
+  <tr>
+    <th>A steel shelf.</td>
+    <th>A workbench.</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <img src="./CraftsMen/Jim-E/Shelf.jpeg">
+      </a>
+      </td>
+      <td valign="top">
+      <img src="./CraftsMen/Jim-E/Bench-1.jpeg">
+      </a>
+      </td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <th>A couple more workbenches.</td>
+    <th>A nice tool chest.</td>   
+  </tr>
+  <tr>
+      <td valign="top">
+      <img src="./CraftsMen/Jim-E/Bench-2.jpeg">
+      </a>
+      </td>
+        <td valign="top">
+      <img src="./CraftsMen/Jim-E/Toolbox.jpeg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+- Jim has a large assortment of Bessel Clamps and some nice Ryobi handheld tools!
+
+***
+
 #### David-J's Submissions.
 <table>
   <tr>
