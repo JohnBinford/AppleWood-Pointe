@@ -34,5 +34,5 @@
   </tr>
  </table>
 
-- Jim has a large assortment of Bessel Clamps and some nice Ryobi hadnheld tools!
+- Jim has a large assortment of Bessel Clamps and some nice Ryobi handheld tools!
 
