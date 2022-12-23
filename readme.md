@@ -695,7 +695,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 <table>
   <tr>
     <th>Rigid Work Support</td>
-    <th>Delta Drill Press</td>
+    <th>Milling Machine Table on Drill Press</td>
     <th>10" Compound Miter</td>
     <th>10" Ryobi Table Saw</td>   
   </tr>
@@ -705,9 +705,10 @@ our group's more comprehensive Workshop Users Manual may be adopted.
       <img src="./CraftsMen/Ralph-L/Thumbnails/image1-t.jpg">
       </a>
       </td>
-        <td valign="top">
-      <a href="./CraftsMen/Ralph-L/image2.jpeg">
-      <img src="./CraftsMen/Ralph-L/Thumbnails/image2-t.jpg">
+      </td>
+      <td valign="top">
+      <a href="./CraftsMen/Ralph-L/Drill-With-Table.jpeg">
+      <img src="./CraftsMen/Ralph-L/Thumbnails/Drill-With-Table-T.jpg">
       </a>
       </td>
         <td valign="top">
@@ -724,17 +725,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
  </table>
  
 - Click thumbnails for Hi Def Pictures)
-<table>
-  <tr>
-    <th>Ralph recently purchased this Milling Machine Table</td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="./CraftsMen/Ralph-L/Cross-Table.png">
-      <img src="./CraftsMen/Ralph-L/Thumbnails/Cross-Table-T.png">
-      </a>
-      </td>
- </table>
+
 
   ##### Some other tools...
 - 7 1/4" Circular Saw (Rockwell)
