@@ -18,19 +18,9 @@
   - [Link to Old News.](./Collateral/OldNews.md)
   - [Link to the original main page.](./Collateral/Original.md)
   - We will move from humbly asking for tool pcitures, etc - To actually getting organized!
-- John-B is building a consolidated page for profiles to help us get to know each other.
-  - (Send him your info.  It's easy to add you!)
-  - [Here's the link](./Collateral/Profiles.md) 
-- An email will be sent later in December asking for final tool and profile updates!
-- A synopsys of the 10/25/2022 Workshop Meeting meeting follows...
-  - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
-  - The group set a goal to know what to do with our Workshop equipment and tools by Spring.
-    - Action Requested!
-      - You will need to get your equipment / tools pictures and lists on our website by the new year,
-or let us know you don't have any to submit so we won't think we're missing yours.
-      - [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](./Collateral/Coopers.md)
-
-
+  - John-B is building a consolidated page for profiles to help us get to know each other.
+    - (Send him your info.  It's easy to add you!)
+    - [Here's the link](./Collateral/Profiles.md) 
   
   * * *
   
