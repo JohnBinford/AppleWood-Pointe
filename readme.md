@@ -8,6 +8,25 @@
 * * *
 
 ## News
+-  Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
+   - Here are the "minutes of that meeting...
+   
+   In Attendance:  Linelle Johnson, Ralph Lavansky, Dave Porter, Eric Strandjord, & Jack Weidenbach
+
+The attached 1:00 P.M. Tuesday, December 20th, 2022, Meeting Agenda was followed (see attached below).
+
+All of our pending Workshop Users have now submitted their Tools / Equipment that they are considering donating to the Workshop for us to make our selections from, or have stated that they prefer we just choose from those already submitted by others.
+
+The group went through the " APAV Workshop User Tools / Equipment Submitted" report and picked what was thought to be the best, to recommend to all to vote on (see attached below).
+
+Eric showed examples of his selection software and group chose the one sheet pictures of each type with voting boxes to be checked next to pictures on it.  Group indicated that the recommended ones would be indicated on the sheets of each type.  And suggested that only ones we need to vote on (more than one item or number of items we want to keep) be dispersed - on website or email only, with deadline and if they don't vote just go with votes received (to be reviewed before results are sent out).  Also to include voting item asking if they prefer to just go with what others vote on, and not to vote themselves.
+
+Communication to be sent to all users prior to the end of the year - thanking all for getting their Tools / Equipment considerations in and letting them know what we feel will be next.
+
+The Meeting was adjourned at 4:00 P.M. .
+
+***
+
 - Stacy from AppleWood Pointe published some constrsuction photos.</br> 
 [Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 - Rick-S sent some information about himself.  [Link to Rick's Profile.](./CraftsMen/Rick-S/Profile.md)
