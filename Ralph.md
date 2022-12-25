@@ -129,26 +129,26 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ## Submissions from Craftsmen!
 - All 20 CraftsMen have now communicated their wishes concerning Tools and Equipment.
-- The fellows that submitted their list of Tools / Equipment for us to possibly select  from are noted below with an " X ".
-- Those that prefer we choose from those submitted by others carry no mark.  (A couple potential CraftsMen prefer to stay anonymous)
-- Len-B		X
-- Len-C		X
-- Jim-E		X
-- Mark-G
-- Linelle-J	X
-- David-J	
-- Harold-L
-- Ralph-L	X
-- Gary-L		X
+- The fellows that submitted their list of Tools / Equipment for us to possibly select  from are noted below with an " * ".
+- Those that prefer we choose from those submitted by others (or offered some nice hand tools) carry no mark.  (A couple potential CraftsMen prefer to stay anonymous)
+- Len-B  *
+- Len-C  *
+- Jim-E	 *
+- Mark-G  *
+- Linelle-J  *
+- David-J  
+- Harold-L  
+- Ralph-L  *
+- Gary-L  *
 - Dick-M
-- Dave-P		X
+- Dave-P  *
 - Mark-S
 - Kevin-S
-- Rick-S		X
-- Eric-S		X
+- Rick-S  *
+- Eric-S  *
 - Dick-V
-- Jack-W		X
-- Jim-W		X
+- Jack-W  *
+- Jim-W	 *
 - Dave-Z
 
 ###  Pictures of our CraftMen's Submissions follow.
