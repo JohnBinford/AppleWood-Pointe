@@ -130,7 +130,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ## Submissions from Craftsmen!
 - All 20 CraftsMen have now communicated their wishes concerning Tools and Equipment.
 - The fellows that submitted their list of Tools / Equipment for us to possibly select  from are noted below with an " * ".
-- Those that prefer we choose from those submitted by others (or offered some nice hand tools) carry no mark.  (A couple potential CraftsMen prefer to stay anonymous)
+- Those that prefer we choose from those submitted by others (or offered some nice hand tools) carry no mark.
+  - (A couple potential CraftsMen prefer to stay anonymous)
 - Len-B  *
 - Len-C  *
 - Jim-E	 *
