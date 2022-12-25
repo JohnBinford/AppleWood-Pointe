@@ -151,6 +151,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 - Jim-W	 *
 - Dave-Z
 
+* * *
+
 ###  Pictures of our CraftMen's Submissions follow.
 *(Click a Pictiure for a High Definition Version!)* 
 
