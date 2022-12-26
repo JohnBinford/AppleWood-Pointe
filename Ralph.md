@@ -294,6 +294,11 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ***
 
+#### David-J
+- David has indicated that he prefers we choose from those submitted by others.
+
+***
+
 #### Linelle-J's Submissions.
 <table>
   <tr>
@@ -396,11 +401,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
    -  36 x 12 Inch Lalthe
    -  17 Inch Drum Sander
    -  Scroll Saw
-
-***
-
-#### David-J
-- David has indicated that he prefers we choose from those submitted by others.
 
 ***
 
