@@ -663,13 +663,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - I may keep upstairs.  
   - It would be nice to know if anyone shares this interest.
 
- * * *
-
-#### Dick-V
-- Dick has indicated that he prefers we choose from those submitted by others.
-
-***
-
 #### Jack-W's Submissions
 <table>
   <tr>
