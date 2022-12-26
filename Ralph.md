@@ -133,7 +133,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - Others indicated that we choose from tools offered by others.
 - "Leadership" recently met to dicuss tools and other issues (Power for example.)
   - After a lot of thought and examination, they created a list of large shop tools to recommend.
-    - The recommended items are highlighted with green text in the descriptions below.
+    - The recommended items are highlighted with a green checkmark ✅ in the descriptions below.
+      - Note an example in Len-B's area for now... 
     </br>
 *(Click a Pictiure for a High Definition Version!)* 
 
@@ -160,7 +161,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 <table>
   <tr>
     <th>Router-Jigsaw</td>
-    <th>Scrollsaw</td>
+	<th>:white_check_mark:  Scrollsaw</p></td>
   </tr>
   <tr>
       <td valign="top">
