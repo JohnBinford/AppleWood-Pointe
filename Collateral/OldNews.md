@@ -1,5 +1,10 @@
  ### Older New and Updates.
- 
+- Rick-S sent some information about himself.  [Link to Rick's Profile.](../CraftsMen/Rick-S/Profile.md)
+
+- Gary-L Also sent a bit of information about himself. [Link to Gary's Profile.](../CraftsMen/Gary-L/Profile.md) 
+
+- Linelle-J added a 1" Belt Sander and a Scoll Saw to his list. </br>
+
 - David-J. sent in a picture of some tools!</br>
   [Link to David's Tool Submissions.](../CraftsMen/David-J/readme.md)
 
