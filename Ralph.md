@@ -129,7 +129,12 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ## Submissions from Craftsmen!
 - All 20 CraftsMen have now communicated their wishes concerning Tools and Equipment.
-
+  - Many offered tools that might be donated to the shop.
+  - Others indicated that we choose from tools offered by others.
+- "Leadership" recently met to dicuss tools and other issues (Power for example.)
+  - After a lot of thought and examination, they created a list of large shop tools to recommend.
+    - The recommended items are highlighted with green text in the descriptions below.
+    </br>
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len-B's Submissions.
