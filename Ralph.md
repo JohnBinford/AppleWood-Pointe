@@ -33,7 +33,9 @@ The Meeting was adjourned at 4:00 P.M. .
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
   - [Link to Old News.](./Collateral/OldNews.md)
   - [Link to the original main page.](./Collateral/Original.md)
-  - We will move from humbly asking for tool pcitures, etc - To actually getting organized!
+  - ~~We will move from humbly asking for tool pcitures, etc - To actually getting organized!~~
+  - We have heard from all of the CraftsMen that have indicated an interest in the shop.
+    - A few of us are getting things organized in order to select tools where multiples were offered. </br>
   - John-B is building a consolidated page for profiles to help us get to know each other.
     - (Send him your info.  It's easy to add you!)
     - [Here's the link](./Collateral/Profiles.md) 
