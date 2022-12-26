@@ -129,32 +129,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ## Submissions from Craftsmen!
 - All 20 CraftsMen have now communicated their wishes concerning Tools and Equipment.
-- The fellows that submitted their list of Tools / Equipment for us to possibly select  from are noted below with an " * ".
-- Those that prefer we choose from those submitted by others (or offered some nice hand tools) carry no mark.
-  - (A couple potential CraftsMen prefer to stay anonymous)
-- Len-B  *
-- Len-C  *
-- Jim-E	 *
-- Mark-G  *
-- Linelle-J  *
-- David-J  
-- Harold-L  
-- Ralph-L  *
-- Gary-L  *
-- Dick-M
-- Dave-P  *
-- Mark-S
-- Kevin-S
-- Rick-S  *
-- Eric-S  *
-- Dick-V
-- Jack-W  *
-- Jim-W	 *
-- Dave-Z
 
-* * *
-
-###  Pictures of our CraftMen's Submissions follow.
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len-B's Submissions.
@@ -439,6 +414,16 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ***
 
+#### David-J
+- David has indicated that he prefers we choose from those submitted by others.
+
+***
+
+#### Harold-L
+- Harold has indicated that he prefers we choose from those submitted by others.
+
+***
+
 #### Ralph-L's Submissions.
 
 <table>
@@ -575,6 +560,11 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ***
 
+#### Dick-M
+- Dick has indicated that he prefers we choose from those submitted by others.
+
+***
+
  #### Dave-P's Submissions
  
  <table>
@@ -622,6 +612,21 @@ our group's more comprehensive Workshop Users Manual may be adopted.
  #### Dave also has a large collection of hand tools and portable power tools! 
 
 * * *
+
+#### Mark-S
+- Mark has indicated that he prefers we choose from those submitted by others.
+
+***
+
+#### Kevin-S
+- Kevin has indicated that he prefers we choose from those submitted by others.
+
+***
+
+#### Rick-S
+- Rick offered a nice compressor, but we don't have a picture.
+
+***
 
 #### Eric S's Submissions
 
@@ -693,6 +698,11 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   - It would be nice to know if anyone shares this interest.
 
  * * *
+
+#### Dick-V
+- Dick has indicated that he prefers we choose from those submitted by others.
+
+***
 
 #### Jack-W's Submissions
 <table>
@@ -943,3 +953,9 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 ##### Jim has a nice Biscuit Joiner and a Dovetail Jig
 ##### Jim also has a large collection of power hand tools! 
  
+***
+
+#### David-Z
+- David has indicated that he prefers we choose from those submitted by others.
+
+***
