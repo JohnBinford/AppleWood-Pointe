@@ -294,21 +294,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ***
 
-#### David-J's Submissions.
-<table>
-  <tr>
-    <th>Anyone want to buy a nice chainsaw sharpener? </td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="./CraftsMen/David-J/David-1.jpg">
-      <img src="./CraftsMen/David-J/Thumbnails/David-1-T.jpg">
-      </a>
-      </td>
-</table>
-
-***
-
 #### Linelle-J's Submissions.
 <table>
   <tr>
