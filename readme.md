@@ -619,7 +619,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  <table>
    <tr>
      <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Completely Rebuilt)</br> Naval Jelly Purchased :-) </td>
+     <th>Semi-Portable Table Saw </br> (Completely Rebuilt)</td>
      <th>:white_check_mark:  Compressor</td>
    </tr>
    <tr>
