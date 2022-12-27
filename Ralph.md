@@ -243,7 +243,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 #### Jim-E's Submissions.
 <table>
   <tr>
-    <th>A steel shelf.</td>
+    <th>:white_check_mark:  A steel shelf.</td>
     <th>A workbench.</td>
   </tr>
   <tr>
@@ -405,9 +405,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>Rigid Work Support</td>
-    <th>Milling Machine Table on Drill Press</td>
+    <th>:white_check_mark:   Machine Table on Drill Press</td>
     <th>10" Compound Miter</td>
-    <th>10" Ryobi Table Saw</td>   
+    <th>:white_check_mark:  10" Ryobi Table Saw</td>   
   </tr>
   <tr>
       <td valign="top">
@@ -505,10 +505,10 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
-    <th>Lapidary Table</th>
-    <th>Rock Drill</th>
-    <th>Rock Saw</th>
-    <th>Shop Vacuum</th>		
+    <th>:white_check_mark:  Lapidary Table</th>
+    <th>:white_check_mark:  Rock Drill</th>
+    <th>:white_check_mark:  Rock Saw</th>
+    <th>:white_check_mark:  Shop Vacuum</th>		
   </tr>
   <tr>
       <td valign="top">
@@ -540,9 +540,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  
  <table>
   <tr>
-    <th>Table Saw</td>
+    <th>:white_check_mark:  Table Saw</td>
     <th>Band-Saw</td>
-    <th>Jointer</td>
+    <th>:white_check_mark:  Jointer</td>
   </tr>
   <tr>
       <td valign="top">
@@ -565,8 +565,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Drill Press</td>
-    <th>Dust-Collector</td>
+    <th>:white_check_mark:  Drill Press</td>
+    <th>:white_check_mark:  Dust-Collector</td>
   </tr>
   <tr>
  <td valign="top">
@@ -593,9 +593,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <td>Rigid Drill Press</td>
-     <td>14" Delta Bandsaw</td>
-    <td>Other Tools</td>
+    <td>:white_check_mark:   Drill Press</td>
+     <td>:white_check_mark:  14" Delta Bandsaw</td>
+    <td>:white_check_mark:  Tool Chest</td>
   </tr>
   <tr>
       <td valign="top">
@@ -620,7 +620,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
    <tr>
      <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
      <th>Semi-Portable Table Saw </br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</br> Naval Jelly Purchased :-) </td>
-     <th>Compressor</td>
+     <th>:white_check_mark:  Compressor</td>
    </tr>
    <tr>
        <td valign="top">
@@ -662,7 +662,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>Dewalt Planer</td>
-    <th>PowerMatic Band Saw</td>
+    <th>:white_check_mark:   Band Saw</td>
     <th>Some Nice Clamps, etc.</td>
   </tr>
   <tr>
@@ -688,7 +688,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>Dust Collector</td>
     <th>Rikon Wet Sharpener</td>
-    <th>Nice Dust Filer</td>
+    <th>:white_check_mark:  Nice Dust Filer</td>
   </tr>
   <tr>
  <td valign="top">
@@ -711,9 +711,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Tool Chest</td>
-    <th>Work Bench</td>
-    <th>Bench Holes</td>
+    <th>:white_check_mark:  Tool Chest</td>
+    <th>:white_check_mark:  Work Bench</td>
+    <th>:white_check_mark:  Bench Holes</td>
   </tr>
   <tr>
  <td valign="top">
@@ -736,9 +736,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Craftsman Tool Chest</td>
-    <th>Lumber for NEW Workbench</td>
-    <th>Another Nice Tool Chest.</td>
+    <th>:white_check_mark:  Craftsman Tool Chest</td>
+    <th>:white_check_mark:  Lumber for NEW Workbench</td>
+    <th>:white_check_mark:  Another Nice Tool Chest.</td>
   </tr>
   <tr>
       <td valign="top">
@@ -788,7 +788,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Air Filter 1</td>
+    <th>:white_check_mark:  Air Filter 1</td>
     <th>Dust Collector 1</td>
     <th>Dust Collector 2</td>
   </tr>
@@ -888,8 +888,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
-    <th>Workbench</td>
-    <th>Workbench</td>
+    <th>:white_check_mark:  </td>
+    <th>:white_check_mark:  Workbench</td>
   </tr>
   <tr>
       <td valign="top">
