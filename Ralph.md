@@ -129,14 +129,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 * * *
 
 ## Submissions from Craftsmen!
-- All CraftsMen have now communicated their wishes concerning Tools and Equipment.
-  - Many offered tools that might be donated to the shop.
-  - Others indicated that we choose from tools offered by others.
-- A few Craftsmen recently met to dicuss tools and other issues (Power for example.)
-  - After a lot of thought and examination, they created a list of large shop tools to recommend.
-    - The recommended items are highlighted with a green checkmark ✅ in the descriptions below.
-      - Note to Ralph... an example in Len-B's area for now... 
-    </br>
+All current pending Workshop Users have now submitted their Tools / Equipment they are donating to the Workshop for us to make our selections from.  Those pending Workshop Users not shown below are O.K. for us to choose from those Tools / Equipment submitted by others.  ...  We've reviewed the Tools / Equipment submitted and recommend (based upon age, mechanical condition, new parts, features, functions, and individual factors) those highlighted with a green checkmark ✅ in the descriptions below. </br>
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len-B's Submissions.
@@ -184,9 +177,9 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 <table>
   <tr>
-    <th>Delta Band Saw</td>
+    <th>:white_check_mark:  Delta Band Saw</td>
     <th>Bench Drawers</td>
-    <th>Drill Press</td>
+    <th>:white_check_mark:  Drill Press</td>
   </tr>
   <tr>
       <td valign="top">
@@ -209,7 +202,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
  
  <table>
    <tr>
-     <th>Sanding-Table</td>
+     <th>:white_check_mark:  Sanding-Table</td>
      <th>Sorted-Fasteners</td>
      <th>Table-Saw</td>
    </tr>
@@ -234,7 +227,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
   
  <table>
    <tr>
-     <th>WorkBench</td>
+     <th>:white_check_mark:  WorkBench</td>
    </tr>
    <tr>
        <td valign="top">
