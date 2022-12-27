@@ -788,7 +788,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>:white_check_mark:  Air Filter 1</td>
+    <th>:white_check_mark:  Air Filter (View 1)</td>
     <th>Dust Collector 1</td>
     <th>Dust Collector 2</td>
   </tr>
@@ -813,7 +813,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Air Filter 2</td>
+    <th>:white_check_mark:  Air Filter (View 2)</td>
     <th>Miter</td>
     <th>Oscillating Sander</td>
   </tr>
