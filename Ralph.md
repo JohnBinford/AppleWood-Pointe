@@ -259,8 +259,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  </table>
 <table>
   <tr>
-    <th>:white_check_mark:  A couple more workbenches.</td>
-    <th>:white_check_mark:   nice tool chest.</td>   
+    <th>A couple more workbenches.</td>
+    <th>:white_check_mark:   Nice tool chest.</td>   
   </tr>
   <tr>
       <td valign="top">
@@ -298,8 +298,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>Band-Saw</td>
-    <th>Belt-Sander</td>
-    <th>Drill-Press</td>
+    <th>:white_check_mark: Belt-Sander</td>
+    <th>:white_check_mark: Drill-Press</td>
   </tr>
   <tr>
       <td valign="top">
@@ -324,7 +324,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>Dust-Collector</td>
     <th>Table-Saw</td>
-    <th>Miter-Saw</td>
+    <th>:white_check_mark: Miter-Saw</td>
   </tr>
   <tr>
       <td valign="top">
@@ -347,9 +347,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
-    <th>Drum Sander</td>
-    <th>Planer-2</td>
-    <th>Router-Table</td>
+    <th>:white_check_mark: Drum Sander</td>
+    <th>:white_check_mark: Planer</td>
+    <th>:white_check_mark: Router-Table</td>
   </tr>
   <tr>
       <td valign="top">
@@ -371,8 +371,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  </table>
   <table>
   <tr>
-    <th>1" Belt-Sander</td>
-    <th>Scroll Saw</td>
+    <th>:white_check_mark: 1" Belt-Sander</td>
+    <th>:white_check_mark: Scroll Saw</td>
+    <th>:white_check_mark: Lathe </td>
   </tr>
   <tr>
       <td valign="top">
