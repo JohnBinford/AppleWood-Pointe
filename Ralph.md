@@ -177,9 +177,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>:white_check_mark:  Delta Band Saw</td>
+    <th>Delta Band Saw</td>
     <th>Bench Drawers</td>
-    <th>:white_check_mark:  Drill Press</td>
+    <th> Drill Press</td>
   </tr>
   <tr>
       <td valign="top">
@@ -259,8 +259,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  </table>
 <table>
   <tr>
-    <th>A couple more workbenches.</td>
-    <th>A nice tool chest.</td>   
+    <th>:white_check_mark:  A couple more workbenches.</td>
+    <th>:white_check_mark:   nice tool chest.</td>   
   </tr>
   <tr>
       <td valign="top">
@@ -282,7 +282,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  
 <table>
   <tr>
-    <th>Two Husky Tool Chests  (Tools Inside!) </td>
+    <th>:white_check_mark:  Two Husky Tool Chests  (Tools Inside!) </td>
   </tr>
   <tr>
       <td valign="top">
