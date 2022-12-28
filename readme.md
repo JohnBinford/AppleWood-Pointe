@@ -815,7 +815,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>:white_check_mark:  Air Filter (View 2)</td>
     <th>Miter</td>
-    <th>Oscillating Sander</td>
+    <th>:white_check_mark:  Oscillating Sander</td>
   </tr>
   <tr>
  <td valign="top">
@@ -840,7 +840,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>Router Table</td>
     <th>Planer</td>
-    <th>Radial Arm Saw</td>
+    <th>:white_check_mark:  Radial Arm Saw</td>
   </tr>
   <tr>
       <td valign="top">
