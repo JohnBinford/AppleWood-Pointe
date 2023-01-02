@@ -103,7 +103,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to Pictures from the Maple Grove Shop.](./Other-Shops/Maple-Grove/readme.md)
 
-[Link to Pictures from the Eagan Shop.](./Other-Shops/Eden-Prarie/readme.md)
+[Link to Pictures from the Eagan Shop.](./Other-Shops/Eagan/readme.md)
 
 [Link to Pictures from the Eden Prarie Shop.](./Other-Shops/Eden-Prarie/readme.md)
 
