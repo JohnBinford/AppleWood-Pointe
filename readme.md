@@ -8,6 +8,7 @@
 * * *
 
 ## News
+-  John B. Found an error in the Links Section.  The link to the Eagan Shop now points to it, instead of Eden_Prarie.
 -  Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
    
