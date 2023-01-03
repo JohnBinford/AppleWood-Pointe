@@ -61,7 +61,10 @@ The Meeting was adjourned at 4:00 P.M. .
 <img src="./Collateral/Plans/AWP-Shop-6.png">
 
 - Here's a picture of the blockwork that has been done for the shop.
-<a href="./Collateral/Shop-Walls-HD.jpg"> <img src="./Collateral/Shop-Walls.jpg"> </a>
+  - Click the picture for an HD Version! </br>
+
+<a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
+
  ***
  
 ## Workshop Email List
