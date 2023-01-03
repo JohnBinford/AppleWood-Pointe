@@ -59,7 +59,9 @@ The Meeting was adjourned at 4:00 P.M. .
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
  
 <img src="./Collateral/Plans/AWP-Shop-6.png">
- 
+
+- Here's a picture of the blockwork that has been done for the shop.
+<a href="./Collateral/Shop-Walls-HD.jpg"> <img src="./Collateral/Shop-Walls.jpg"> </a>
  ***
  
 ## Workshop Email List
