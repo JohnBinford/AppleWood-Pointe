@@ -8,7 +8,8 @@
 * * *
 
 ## News
--  John B. Found an error in the Links Section.  The link to the Eagan Shop now points to it, instead of Eden_Prarie.
+-  John got a new picture of the block wall installation.
+-  [Click here to go to that page...](https://github.com/JohnBinford/AppleWood-Pointe/edit/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
 -  Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
    
