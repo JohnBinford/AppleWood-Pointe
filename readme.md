@@ -40,11 +40,14 @@ The Meeting was adjourned at 4:00 P.M. .
     - A few of us are getting things organized in order to select tools where multiples were offered.
     - We also spent a couple of hours going throuigh the list of fine tools offered by our Craftsmen.
       - After carefully examining condition, features and function, age, and aspects that may not be apparrent, we have made some recommendations that will note noted below and in any "voting" materials.
+      - 
 - John-B is building a consolidated page for profiles to help us get to know each other.
     - (Send him your info.  It's easy to add you!)
     - [Here's the link](./Collateral/Profiles.md) 
   
   * * *
+  * * *
+  
   
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
 -  NOTE!  Last Month, we got a better drawing of the shop!  
@@ -63,7 +66,6 @@ The Meeting was adjourned at 4:00 P.M. .
 
 - Here's a picture of the blockwork that has been done for the shop.
   - Click the picture for an HD Version! </br>
-
 <a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
 
  ***
