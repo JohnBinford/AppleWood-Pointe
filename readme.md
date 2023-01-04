@@ -9,7 +9,8 @@
 
 ## News
 -  John got a new picture of the block wall installation.
--  [Click here to go to that page...](https://github.com/JohnBinford/AppleWood-Pointe/edit/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
+   -  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
+
 -  Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
    
