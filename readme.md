@@ -12,9 +12,9 @@
   - We asked for a bunch of duplex R5-20's spaced around each wall, and in the store room.
   - We also asked for a quad of R5-20's in the center of each wall, and two R6-20 singles on each wall.
   - 5 unique circuits and breakers were requested to allow floor-standing tools to remain plugged into the R5-20's.
-  - Each quad will hoopefully have it's own cicuit so that hand-held tools on cords can be accomodated easily.
+  - Each quad will have it's own cicuit so that hand-held tools on cords can be accomodated in isolation from other high-draw tools.
   - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker.
-  - [Click here to view an image of the working drawing.](./Documents/AWP-Shop-Electrical.png)
+  - [Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
 
 - Stacy from AppleWood Pointe published some construction photos.</br> 
 [Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
@@ -79,6 +79,9 @@ The Meeting was adjourned at 4:00 P.M. .
 - Here's a picture of the blockwork that has been done for the shop.
   - Click the picture for an HD Version! </br>
 <a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
+
+-  Here is the Electrical drawing recently submitted to the Engineers.
+<img src="./Documents/AWP-Shop-Electrical.png">
 
  ***
  
