@@ -14,8 +14,10 @@
   - 5 unique circuits and breakers were requested to allow floor-standing tools to remain plugged into the R5-20's.
   - Each quad will hoopefully have it's own cicuit so that hand-held tools on cords can be accomodated easily.
   - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker. </br>
--  [Click here to view an image of the working drawing.](./documents/AWP-Shop-Electrical.pdf)
+-  [Click here to view an image of the working drawing.](./Documents/AWP-Shop-Electrical.png)
 
+- Stacy from AppleWood Pointe published some construction photos.</br> 
+[Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
 - John got a new picture of the shop's block wall installation.
    -  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
@@ -39,8 +41,6 @@ The Meeting was adjourned at 4:00 P.M. .
 
 ***
 
-- Stacy from AppleWood Pointe published some construction photos.</br> 
-[Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 - To prepair for Phase Two of our Shop Planning,  This website has been updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
   - [Link to Old News.](./Collateral/OldNews.md)
