@@ -8,10 +8,19 @@
 * * *
 
 ## News
--  John got a new picture of the shop's block wall installation.
+- John submitteed an electrical plan to the Engineers recently.  
+  - We asked for a bunch of duplex R5-20's spaced around each wall, and in the store room.
+  - We also asked for a quad of R5-20's in the center of each wall, and two R6-20 singles on each wall.
+  - 5 unique circuits and breakers were requested to allow floor-standing tools to remain plugged into the R5-20's.
+  - Each quad will hoopefully have it's own cicuit so that hand-held tools on cords can be accomodated easily.
+  - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker. </br>
+-  [Click here to view an image of the working drawing.](./documents/AWP-Shop-Electrical.pdf)
+
+
+- John got a new picture of the shop's block wall installation.
    -  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
 
--  Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
+- Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
    
    In Attendance:  Linelle Johnson, Ralph Lavansky, Dave Porter, Eric Strandjord, & Jack Weidenbach
