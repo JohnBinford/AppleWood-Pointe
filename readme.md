@@ -3,7 +3,7 @@
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
 - Use the link below to see some introductory information.</br>
-[Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
+  - [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
 
 * * *
 
@@ -13,14 +13,16 @@
   - We also asked for a quad of R5-20's in the center of each wall, and two R6-20 singles on each wall.
   - 5 unique circuits and breakers were requested to allow floor-standing tools to remain plugged into the R5-20's.
   - Each quad will hoopefully have it's own cicuit so that hand-held tools on cords can be accomodated easily.
-  - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker. </br>
--  [Click here to view an image of the working drawing.](./Documents/AWP-Shop-Electrical.png)
+  - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker.
+  - [Click here to view an image of the working drawing.](./Documents/AWP-Shop-Electrical.png)
 
 - Stacy from AppleWood Pointe published some construction photos.</br> 
 [Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
-- John got a new picture of the shop's block wall installation.
-   -  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
+- John got a new picture of the shop's block wall installation. </br>
+ [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
+
+* * *
 
 - Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
