@@ -441,8 +441,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </td>
       </td>
       <td valign="top">
-      <a href="./CraftsMen/Ralph-L/Drill-With-Table.jpeg">
-      <img src="./CraftsMen/Ralph-L/Thumbnails/Drill-With-Table-T.jpg">
+      <a href="./CraftsMen/Ralph-L/P-Table-Light.jpeg">
+      <img src="./CraftsMen/Ralph-L/Thumbnails/P-Table-Light-T.jpg">
       </a>
       </td>
         <td valign="top">
