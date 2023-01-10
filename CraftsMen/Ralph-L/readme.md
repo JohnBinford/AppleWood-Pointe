@@ -47,8 +47,8 @@
       </a>
       </td>
       <td valign="top">
-      <a href="./Drill-With-Table.jpeg">
-      <img src="./Thumbnails/Drill-With-Table-T.jpg">
+      <a href="./P-Table-Light.jpg">
+      <img src="./Thumbnails/P-Table-Light-T.jpg">
       </a>
       </td>
       <td valign="top">
