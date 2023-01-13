@@ -77,10 +77,10 @@ The Meeting was adjourned at 4:00 P.M. .
 <img src="./Collateral/Plans/AWP-Shop-Aerial.png"> </br> </br>
 
 - John did some practicing with his cumbersome rendering tools, and painted the walls.  He also added a desk and window!
-  -  Click on any of these thumbails to see an enlarged view from inside.
-<a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/Thumbnails/AWP-Shop-7G-T.png"> </a>
-<a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/Thumbnails/AWP-Shop-7G-T.png"> </a>
-<a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/Thumbnails/AWP-Shop-7G-T.png"> </a> </br>
+  -  Click on any of these thumbails to see an enlarged view from inside. </br>
+<a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/AWP-Shop-7G-T.png"> </a> </br>
+<a href="./Collateral/Plans/AWP-Shop-L-ENE.png"> <img src="./Collateral/Plans/AWP-Shop-L-ENE-T.png"> </a> </br>
+<a href="./Collateral/Plans/AWP-Shop-L-NE.png"> <img src="./Collateral/Plans/AWP-Shop-L-NE-T.png"> </a> </br>
 
 - Here's a picture of the blockwork that has been done for the shop.
   - Click the picture for an HD Version! </br>
