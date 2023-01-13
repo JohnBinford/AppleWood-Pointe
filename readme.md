@@ -73,11 +73,11 @@ The Meeting was adjourned at 4:00 P.M. .
      - [Click here to see Sample accessories.](./Collateral/accessories.md)
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.
-  - John did some practicing with his cumbersome rendering tools, and painted the walls.  He also added a desk and window!
  
 <img src="./Collateral/Plans/AWP-Shop-Aerial.png"> </br> </br>
 
--  Click on any of these thumbails to see an enlarged view from inside.
+- John did some practicing with his cumbersome rendering tools, and painted the walls.  He also added a desk and window!
+  -  Click on any of these thumbails to see an enlarged view from inside.
 <a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/Thumbnails/AWP-Shop-7G-T.png"> </a>
 <a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/Thumbnails/AWP-Shop-7G-T.png"> </a>
 <a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/Thumbnails/AWP-Shop-7G-T.png"> </a> </br>
