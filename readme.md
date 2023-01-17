@@ -26,6 +26,14 @@
 
 * * *
 
+## Group EMail Discussion (Facilitated by John Binford.)
+- Email your comments to johnathan.binford@gmail.com.  He will post them here, and email them to the group as well.
+</br>
+</br>
+</br>
+
+* * * 
+
 - Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
    
