@@ -72,7 +72,7 @@ The Meeting was adjourned at 4:00 P.M. .
     - A few of us are getting things organized in order to select tools where multiples were offered.
     - We also spent a couple of hours going throuigh the list of fine tools offered by our Craftsmen.
       - After carefully examining condition, features and function, age, and aspects that may not be apparrent, we have made some recommendations that will note noted below and in any "voting" materials.
-      - 
+ 
 - John-B is building a consolidated page for profiles to help us get to know each other.
     - (Send him your info.  It's easy to add you!)
     - [Here's the link](./Collateral/Profiles.md) 
