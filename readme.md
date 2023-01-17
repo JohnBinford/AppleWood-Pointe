@@ -33,7 +33,7 @@
    -  Please be sure John gets a digest of any converstation so he can post it here...  
 ### An example DIscussion...
 
--  Subject:  Other Location Workshop.
+-  Subject:  Other Location's Workshop Organization.
    -  John-D question.  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
       -  Donald-D reply. Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
       -  William-T reply.  Edina Applewood user told me that they didn't do any prior organization before move-in.
