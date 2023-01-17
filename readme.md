@@ -34,12 +34,12 @@
 ### An example DIscussion...
 
 -  Subject:  Other Location's Workshop Organization.
-   -  John-D question.  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
-      -  Donald-D reply. Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
-      -  William-T reply.  Edina Applewood user told me that they didn't do any prior organization before move-in.
+   -  John-D question:  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
+      -  Donald-D reply: Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
+      -  William-T reply:  Edina Applewood user told me that they didn't do any prior organization before move-in.
 -  Subject:  Tool / Equipment selection
-   -  Billy-K question. If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
-      -  Donald-D reply. If you don't know the difference between the same type of tools or equipment,
+   -  Billy-K question: If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
+      -  Donald-D reply: If you don't know the difference between the same type of tools or equipment,
                             it would be better to go with the recommended ones than not to vote at all.
 
 * * * 
