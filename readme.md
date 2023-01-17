@@ -27,11 +27,23 @@
 * * *
 
 ## Group EMail Discussion (Facilitated by John Binford.)
-- Email your comments to johnathan.binford@gmail.com.  He will post them here, and email them to the group as well.
-</br>
-</br>
-</br>
 
+-  Email your comments to johnathan.binford@gmail.com.  He will post them here, and email them to the group as well.
+</br>
+</br>
+</br>
+### An example DIscussion...
+</br>
+-  Other Location Workshop.
+   -  John-D question.  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
+      -  Donald-D reply. Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
+      -  William-T reply.  Edina Applewood user told me that they didn't do any prior organization before move-in.
+-  Tool / Equipment selection
+   -  Billy-K question. If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
+      -  Donald-D reply. If you don't know the difference between the same type of tools or equipment,
+                            it would be better to go with the recommended ones than not to vote at all.
+  - test bullet
+  
 * * * 
 
 - Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
