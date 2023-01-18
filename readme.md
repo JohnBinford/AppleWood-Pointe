@@ -33,7 +33,7 @@
    - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
    - In order to be respectful of excess spam, John may consolidate comments and questions of there are a lot.
 
-### An example DIscussion...
+### An example Discussion...
 
 -  Subject:  Other Location's Workshop Organization.
    -  John-D question 01/20/23:  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
