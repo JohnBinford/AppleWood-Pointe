@@ -24,9 +24,9 @@
 
 * * *
 
-## Group EMail Discussion (Facilitated by John Binford.)
+## Group Email Discussion (Facilitated by John Binford)
 
-####  Email your comments, or answers and replys to johnathan.binford@gmail.com.  
+####  Email your comments, or answers and replies to johnathan.binford@gmail.com.  
 - Please note that you intend the message to be a discussion for the group.
    - He will forward comments that create a new thread (subject) to the group quickly and start a new subject here in digest format.
    - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
