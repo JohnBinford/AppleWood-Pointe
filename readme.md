@@ -21,7 +21,8 @@
 
 - John got a new picture of the shop's block wall installation. </br>
  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
-
+ 
+ - [Link to Old News.](./Collateral/OldNews.md)
 * * *
 * * * 
 
@@ -43,6 +44,8 @@
      -  Email John right now!  johnathan.binford@gmail.com 
 ##### This topic has no new activity.
 
+* * *
+
 #### Discussion Topic 2
 -  __Topic:  What might "Topics" or "discussions" look like?__
      -  John-B  reply 01/18/23: Here are some sample discussions. </br> </br>
@@ -54,6 +57,7 @@
              -  Billy-K question 01/22/23:</br>If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
                 -  Donald-D reply 01/23/23:</br>If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
 
+* * * 
 
 #### Discussion Topic 3
 -  __Topic:  Website use for discussing the shop.__
@@ -62,44 +66,9 @@ He offered to set up an internet site for all to email each other.  But no one w
 ***Please let us know if and how you have used our Website, along with your comments (suggestions) on it?*** </br> </br>Thanks! </br> Ralph-L
         -  Eric-S reply 01/18/23:</br>  Ralph.  Thanks for the inspiration to think about the shop for a bit.</br>- The website will server as an archive for all the informatin we might exchange.  No going through emails!</br>- I've worked hard to keep the website fresh over the past 9 months, posting new information three times a week on average.</br>- Few of our CraftsMen have taken a peek.</br>- We've made over 1486 additions to the website during that time, including new CraftsMen profiles, and a master tool list and numerous individual lists for those that have offered major shop tools.</br>- There are now many links to pictures from other shops, constrsuction photos from AWP, documents, and drawing that would be usefull for planning the shop layout.</br>- We've communicated out electrical needs to Sales and Engineering.  A diagram is included on the website's main page, along with renders of what our shop might look like. </br>
 	
-* * *	
-	
-- Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
-   - Here are the "minutes of that meeting...
-   
-   In Attendance:  Linelle Johnson, Ralph Lavansky, Dave Porter, Eric Strandjord, & Jack Weidenbach
-
-The attached 1:00 P.M. Tuesday, December 20th, 2022, Meeting Agenda was followed (see attached below).
-
-All of our pending Workshop Users have now submitted their Tools / Equipment that they are considering donating to the Workshop for us to make our selections from, or have stated that they prefer we just choose from those already submitted by others.
-
-The group went through the " APAV Workshop User Tools / Equipment Submitted" report and picked what was thought to be the best, to recommend to all to vote on (see attached below).
-
-Eric showed examples of his selection software and group chose the one sheet pictures of each type with voting boxes to be checked next to pictures on it.  Group indicated that the recommended ones would be indicated on the sheets of each type.  And suggested that only ones we need to vote on (more than one item or number of items we want to keep) be dispersed - on website or email only, with deadline and if they don't vote just go with votes received (to be reviewed before results are sent out).  Also to include voting item asking if they prefer to just go with what others vote on, and not to vote themselves.
-
-Communication to be sent to all users prior to the end of the year - thanking all for getting their Tools / Equipment considerations in and letting them know what we feel will be next.
-
-The Meeting was adjourned at 4:00 P.M. .
-
-***
-
-- To prepair for Phase Two of our Shop Planning,  This website has been updated.
-  - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
-  - [Link to Old News.](./Collateral/OldNews.md)
-  - [Link to the original main page.](./Collateral/Original.md)
-  - ~~We will move from humbly asking for tool pcitures, etc - To actually getting organized!~~
-  - We have heard from all of the CraftsMen that have indicated an interest in the shop.
-    - A few of us are getting things organized in order to select tools where multiples were offered.
-    - We also spent a couple of hours going throuigh the list of fine tools offered by our Craftsmen.
-      - After carefully examining condition, features and function, age, and aspects that may not be apparrent, we have made some recommendations that will note noted below and in any "voting" materials.
- 
-- John-B is building a consolidated page for profiles to help us get to know each other.
-    - (Send him your info.  It's easy to add you!)
-    - [Here's the link](./Collateral/Profiles.md) 
   
   * * *
   * * *
-  
   
 ## Here's what our shop might look like.  (To scale, with scaled objects.)
 -  NOTE!  Last Month, we got a better drawing of the shop!  
