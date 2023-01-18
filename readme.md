@@ -25,15 +25,21 @@
 * * *
 
 ## Group Email Discussion (Facilitated by John Binford)
+###  Email your comments, or answers and replies to johnathan.binford@gmail.com.
+### Discussion Thread 1
+-  Subject:  Website use for discussing the shop.
+	-  Ralph-L Comment 1/18/23:   Dear pending Workshop Users:  At the first Applewood Pointe of Apple Valley Luncheon, those who were interested in the Workshop got together and gave their email addresses to Eric Strandjord (John Binford). </br>
+He offered to set up an internet site for all to email each other.  But no one wanted to have to "Sign Up" for anything or use any tool that required a "Sign In" or "User ID" with "Password".   So he set up a Website for the Group to use where they would only have to enter or click on johnathan.binford@gmail.com , and John would do all the "Group Email" work for them.  He has now updated this on the Website as follows below: </br> </br>
+Please let us know if and how you have used our Website, along with your comments (suggestions) on it? </br> </br>Thanks! </br>Ralph-L
 
-####  Email your comments, or answers and replies to johnathan.binford@gmail.com.  
+###  Instructions and a Couple of Examples...
 - Please note that you intend the message to be a discussion for the group.
    - He will forward comments that create a new thread (subject) to the group quickly and start a new subject here in digest format.
    - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
    - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
    - In order to be respectful of excess spam, John may consolidate comments and questions of there are a lot.
 
-### An example Discussion...
+### Two Example Discussion Threads...
 
 -  Subject:  Other Location's Workshop Organization.
    -  John-D question 01/20/23:  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
