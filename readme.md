@@ -23,6 +23,7 @@
  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
 
 * * *
+* * * 
 
 ## Group Email Discussion (Facilitated by John Binford)
 ###  Email your comments, or answers and replies to johnathan.binford@gmail.com.
@@ -40,18 +41,18 @@
            - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
            - In order to be respectful of excess spam, John may consolidate comments and questions if there are a lot.
      -  Email John right now!  johnathan.binford@gmail.com 
-
+##### This topic has no new activity.
 
 #### Discussion Topic 2
 -  __Topic:  What might "Topics" or "discussions" look like?__
      -  John-B  reply 01/18/23: Here are some sample discussions. </br> </br>
-        -  " -  __Subject:  Other Location's Workshop Organization.__
-                  -  John-D question 01/20/23:</br>Have any of you heard from other Applewood location workshop users on how they organized their workshop?
-                  -  Donald-D reply 01/21/23:</br>Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
-                  -  William-T reply 01/21/23:</br>Edina Applewood user told me that they didn't do any prior organization before move-in."
+        -  __Subject:  Other Location's Workshop Organization.__
+             -  John-D question 01/20/23:</br>Have any of you heard from other Applewood location workshop users on how they organized their workshop?
+                -  Donald-D reply 01/21/23:</br>Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
+                -  William-T reply 01/21/23:</br>Edina Applewood user told me that they didn't do any prior organization before move-in."
         -  __Subject:  Tool / Equipment selection.__
              -  Billy-K question 01/22/23:</br>If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
-             -  Donald-D reply 01/23/23:</br>If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
+                -  Donald-D reply 01/23/23:</br>If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
 
 
 #### Discussion Topic 3
