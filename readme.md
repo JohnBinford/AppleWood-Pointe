@@ -35,10 +35,10 @@
         -  (BTW... Some people call discussions "Topics", others might call them "Threads" if they are related to another.
         -  To start a conversation, email johnathan.binford@gmail.com.
            -  Indicate you want your question or comment to go to the group.
-           -  John will immediately forward new questions or comments that might start a topic to the group.
+           -  John will immediately forward new questions or comments that might start a new topic to the group.
         -  To add to, or to comment on specific topics; reply to John, johnathan.binford@gmieil.com. </br>
-        You may also later email John with the topic and your comments.
-           - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
+        You may also later email John with the topic name and your comments.
+           - John will regularly monitor his email for comments, wait a week or so for replies and then forward the digest with then new replys to the group.
            - He will regularly organize the threads and then post them here in digest format, occasionally forwarding the digest to the group as significant information is collected.
            - In order to be respectful of excess spam, John may consolidate comments and questions if there are many.
      -  Email John right now!  johnathan.binford@gmail.com 
