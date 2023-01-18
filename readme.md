@@ -1,7 +1,5 @@
 # Applewood Pointe Workshop
 
- - <img src="https://www.google-analytics.com/__utm.gif?utmac=G-EGN0CR1LRT&utmcr=1"></br>
-
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
 - Use the link below to see some introductory information.</br>
