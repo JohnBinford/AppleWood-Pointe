@@ -28,19 +28,22 @@
 
 ## Group EMail Discussion (Facilitated by John Binford.)
 
--  Email your comments to johnathan.binford@gmail.com.  He will post them here, and email them to the group as well.
-   -  If you wish, you can also do your own mailings using our Shop Email List.  
-   -  Please be sure John gets a digest of any converstation so he can post it here...  
+####  Email your comments, or answers and replys to johnathan.binford@gmail.com.  
+- Please note that you intend the message to be a discussion for the group.
+   - He will forward comments that create a new thread (subject) to the group quickly and start a new subject here in digest format.
+   - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
+   - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
+   - John will be respectful of spam using good judgement.
+
 ### An example DIscussion...
 
 -  Subject:  Other Location's Workshop Organization.
-   -  John-D question:  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
-      -  Donald-D reply: Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
-      -  William-T reply:  Edina Applewood user told me that they didn't do any prior organization before move-in.
--  Subject:  Tool / Equipment selection
-   -  Billy-K question: If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
-      -  Donald-D reply: If you don't know the difference between the same type of tools or equipment,
-                            it would be better to go with the recommended ones than not to vote at all.
+   -  John-D question 01/20/23:  Have any of you heard from other Applewood location workshop users on how they organized their workshop?
+      -  Donald-D reply 01/21/23: Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
+      -  William-T reply 01/21/23:  Edina Applewood user told me that they didn't do any prior organization before move-in.
+-  Subject:  Tool / Equipment selection.
+   -  Billy-K question 01/22/23: If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
+      -  Donald-D reply 01/23/23: If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
 
 * * * 
 
