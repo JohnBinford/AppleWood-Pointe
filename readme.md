@@ -37,7 +37,7 @@ He offered to set up an internet site for all to email each other.  But no one w
    - He will forward comments that create a new thread (subject) to the group quickly and start a new subject here in digest format.
    - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
    - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
-   - In order to be respectful of excess spam, John may consolidate comments and questions of there are a lot.
+   - In order to be respectful of excess spam, John may consolidate comments and questions if there are a lot.
 
 ### Two Example Discussion Topics...
 
