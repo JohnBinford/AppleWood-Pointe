@@ -26,8 +26,23 @@
 
 ## Group Email Discussion (Facilitated by John Binford)
 ###  Email your comments, or answers and replies to johnathan.binford@gmail.com.
-### Discussion Topic 1
--  __Subject:  Website use for discussing the shop.__
+
+#### Discussion Topic 1
+-  __Topic:  How will this simplified discussion forum work?__
+     -  Eric-S Comment 1/18/23</br>-  John will do most of the work.  Here are instructions:
+        -  To start a conversation, email johnathan.binford@gmail.com.
+           -  Indicate you want your question or comment to go to the group.
+           -  John will immediately forward new questions or comments that might start a topic to the group.
+        -  To add to, or to comment on spcific topics; reply to John, johnathan.binford@gmail.com. </br>
+        You may also later email John with the topic and your comments.
+           - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
+           - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
+           - In order to be respectful of excess spam, John may consolidate comments and questions if there are a lot.
+     -  Email John right now!  johnathan.binford@gmail.com 
+
+
+#### Discussion Topic 2
+-  __Topic:  Website use for discussing the shop.__
      -  Ralph-L Comment 1/18/23:</br>Dear pending Workshop Users:</br>  At the first Applewood Pointe of Apple Valley Luncheon, those who were interested in the Workshop got together and gave their email addresses to Eric Strandjord (John Binford). </br>
 He offered to set up an internet site for all to email each other.  But no one wanted to have to "Sign Up" for anything or use any tool that required a "Sign In" or "User ID" with "Password".   So he set up a Website for the Group to use where they would only have to enter or click on johnathan.binford@gmail.com , and John would do all the "Group Email" work for them.  He has now updated this on the Website as follows below: </br> </br>
 ***Please let us know if and how you have used our Website, along with your comments (suggestions) on it?*** </br> </br>Thanks! </br> Ralph-L
@@ -35,25 +50,6 @@ He offered to set up an internet site for all to email each other.  But no one w
 	
 * * *	
 	
-###  Instructions and a Couple of Examples...
-- Please note that you intend the message to be a discussion for the group.
-   - He will forward comments that create a new thread (subject) to the group quickly and start a new subject here in digest format.
-   - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
-   - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
-   - In order to be respectful of excess spam, John may consolidate comments and questions if there are a lot.
-   - 
-### Two Example Discussion Topics...
-
--  __Subject:  Other Location's Workshop Organization.__
-   -  John-D question 01/20/23:</br>Have any of you heard from other Applewood location workshop users on how they organized their workshop?
-      -  Donald-D reply 01/21/23:</br>Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
-      -  William-T reply 01/21/23:</br>Edina Applewood user told me that they didn't do any prior organization before move-in.
--  __Subject:  Tool / Equipment selection.__
-   -  Billy-K question 01/22/23:</br>If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
-      -  Donald-D reply 01/23/23:</br>If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
-
-* * * 
-
 - Five CraftsMen recent met to discuss tool submissions and next steps to getting organized.
    - Here are the "minutes of that meeting...
    
