@@ -32,15 +32,15 @@
 #### Discussion Topic 1
 -  __Topic:  How will this simplified discussion forum work?__
      -  Eric-S Comment 1/18/23:  John will do most of the work.  Here are instructions:
-        -  (BTW... Some people call discussions "Topics", others might call them "Threads" if they are realated to another.
+        -  (BTW... Some people call discussions "Topics", others might call them "Threads" if they are related to another.
         -  To start a conversation, email johnathan.binford@gmail.com.
            -  Indicate you want your question or comment to go to the group.
            -  John will immediately forward new questions or comments that might start a topic to the group.
-        -  To add to, or to comment on spcific topics; reply to John, johnathan.binford@gmail.com. </br>
+        -  To add to, or to comment on specific topics; reply to John, johnathan.binford@gmieil.com. </br>
         You may also later email John with the topic and your comments.
            - John will regularly monitor his email for comments, wait a week or so for replys and then forward the digest with then new replys to the group.
-           - He will regularly organize the threads and then post them here in digest format, occasionally forwaring the digest to the group as significant information is collected.
-           - In order to be respectful of excess spam, John may consolidate comments and questions if there are a lot.
+           - He will regularly organize the threads and then post them here in digest format, occasionally forwarding the digest to the group as significant information is collected.
+           - In order to be respectful of excess spam, John may consolidate comments and questions if there are many.
      -  Email John right now!  johnathan.binford@gmail.com 
 ##### This topic has no new activity.
 
@@ -56,6 +56,8 @@
         -  __Subject:  Tool / Equipment selection.__
              -  Billy-K question 01/22/23:</br>If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
                 -  Donald-D reply 01/23/23:</br>If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
+
+####  This topic has no new activity.
 
 * * * 
 
