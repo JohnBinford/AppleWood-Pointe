@@ -29,7 +29,8 @@
 
 #### Discussion Topic 1
 -  __Topic:  How will this simplified discussion forum work?__
-     -  Eric-S Comment 1/18/23</br>-  John will do most of the work.  Here are instructions:
+     -  Eric-S Comment 1/18/23:  John will do most of the work.  Here are instructions:
+        -  (BTW... Some people call discussions "Topics", others might call them "Threads" if they are realated to another.
         -  To start a conversation, email johnathan.binford@gmail.com.
            -  Indicate you want your question or comment to go to the group.
            -  John will immediately forward new questions or comments that might start a topic to the group.
@@ -42,6 +43,18 @@
 
 
 #### Discussion Topic 2
+-  __Topic:  What might "Topics" or "discussions" look like?__
+     -  John-B  reply 01/18/23: Here are some sample discussions. </br> </br>
+        -  " -  __Subject:  Other Location's Workshop Organization.__
+                  -  John-D question 01/20/23:</br>Have any of you heard from other Applewood location workshop users on how they organized their workshop?
+                  -  Donald-D reply 01/21/23:</br>Eagan Applewood user told me that they brought tools in when the time came and they then threw out ones they didn't want.
+                  -  William-T reply 01/21/23:</br>Edina Applewood user told me that they didn't do any prior organization before move-in."
+        -  __Subject:  Tool / Equipment selection.__
+             -  Billy-K question 01/22/23:</br>If I don't know the difference between the same type of tools or equipment is it O.K. not to vote?
+             -  Donald-D reply 01/23/23:</br>If you don't know the difference between the same type of tools or equipment, it would be better to go with the recommended ones than not to vote at all.
+
+
+#### Discussion Topic 3
 -  __Topic:  Website use for discussing the shop.__
      -  Ralph-L Comment 1/18/23:</br>Dear pending Workshop Users:</br>  At the first Applewood Pointe of Apple Valley Luncheon, those who were interested in the Workshop got together and gave their email addresses to Eric Strandjord (John Binford). </br>
 He offered to set up an internet site for all to email each other.  But no one wanted to have to "Sign Up" for anything or use any tool that required a "Sign In" or "User ID" with "Password".   So he set up a Website for the Group to use where they would only have to enter or click on johnathan.binford@gmail.com , and John would do all the "Group Email" work for them.  He has now updated this on the Website as follows below: </br> </br>
