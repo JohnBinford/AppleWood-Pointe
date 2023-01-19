@@ -33,6 +33,8 @@
 
 #### Topic:  We will need to reach out to those that purchase any of the 9 remaining units.
 -  Linelle-J Comment 1/18/23:  I read the new Applewood Pointe email the other day which stated there were only nine units left to sell.  We'll have to be sure that we reach out to the new arrivals that have signed up since the last meeting.  Maybe this can be done at the next luncheon on February 8th.
+-  Eric-S replied 1/18/23:  I think I will get a few more business cards printed and ask (again) that the sales office hand them out whenever possible.</br>
+We can also call a meeting at the February luncheon, and hand them out there too!
 
 * * *
 
