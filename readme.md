@@ -29,6 +29,8 @@
 ## Group Email Discussion (Facilitated by John Binford)
 ###  Email your comments, or answers and replies to johnathan.binford@gmail.com.
 
+* * *
+
 #### Topic:  We will need to reach out to those that purchase any of the 9 remaining units.
 -  Linelle-J Comment 1/18/23:  I read the new Applewood Pointe email the other day which stated there were only nine units left to sell.  We'll have to be sure that we reach out to the new arrivals that have signed up since the last meeting.  Maybe this can be done at the next luncheon on February 8th.
 
