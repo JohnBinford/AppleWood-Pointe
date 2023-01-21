@@ -8,6 +8,8 @@
 * * *
 
 ## News
+- Ralph updloaded a nice "Countdown to Selling you House" Checklist.  You can get it from the Documents Page.</br>
+[Link to the PDF Documents Collection.](./Documents/Download.md)
 - John submitteed an electrical plan to the Engineers recently.  
   - We asked for a bunch of duplex R5-20's spaced around each wall, and in the store room.
   - We also asked for a quad of R5-20's in the center of each wall, and two R6-20 singles on each wall.
