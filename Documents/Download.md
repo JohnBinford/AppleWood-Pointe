@@ -70,9 +70,8 @@
    <td>
    PDF of Selling your Home Checklist 
    </td>
-   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Plans/Countdown to Selling You Home prior to APAV Move.pdf"</a> 
-    Click to Download the Dimensioned AWP Shop Drawing with Dimensions
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Countdown to Selling You Home prior to APAV Move.pdf"</a> 
+    Click to Download the Selling you Home Checklist.
    </td>
   </tr>
   </table>
-
