@@ -19,7 +19,7 @@
   - [Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
 
 - Stacy from AppleWood Pointe published some construction photos.  (Recently Updated)</br> 
-[Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
+[Link to the Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
 - John got a new picture of the shop's block wall installation. </br>
 [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)
