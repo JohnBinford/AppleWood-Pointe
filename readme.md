@@ -22,9 +22,7 @@
 [Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
 - John got a new picture of the shop's block wall installation. </br>
- [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-what-our-shop-might-look-like--to-scale-with-scaled-objects)
- 
-  [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/edit/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)
+[Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)
  
  - [Link to Old News.](./Collateral/OldNews.md)
 * * *
