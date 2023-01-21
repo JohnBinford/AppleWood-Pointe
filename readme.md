@@ -18,7 +18,7 @@
   - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker.
   - [Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
 
-- Stacy from AppleWood Pointe published some construction photos.</br> 
+- Stacy from AppleWood Pointe published some construction photos.  (Recently Updated)</br> 
 [Link to her Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
 - John got a new picture of the shop's block wall installation. </br>
