@@ -103,7 +103,7 @@ He offered to set up an internet site for all to email each other.  But no one w
 <a href="./Collateral/Plans/AWP-Shop-L-ENE.png"> <img src="./Collateral/Plans/AWP-Shop-L-ENE-T.png"> </a> </br>
 <a href="./Collateral/Plans/AWP-Shop-L-NE.png"> <img src="./Collateral/Plans/AWP-Shop-L-NE-T.png"> </a> </br>
 
-- Here's a picture of the blockwork that has been done for the shop.
+#### Here's a picture of the blockwork that has been done for the shop.
   - Click the picture for an HD Version! </br>
 <a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
 
