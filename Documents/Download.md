@@ -66,4 +66,14 @@
     Click to Download the Dimensioned AWP Shop Drawing with Dimensions
    </td>
   </tr>
-
+   PDF of the Selling your House checklist 
+   </td>
+   <td> <a href="https://   PDF of the Scaled Drawing of the Shop 
+   </td>
+   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Plans/Shop.pdf"</a> 
+    Click to Download the Dimensioned AWP Shop Drawing with Dimensions
+   </td>
+  </tr>"</a> 
+    Click to Download the Dimensioned AWP Shop Drawing with Dimensions
+   </td>
+  </tr>
