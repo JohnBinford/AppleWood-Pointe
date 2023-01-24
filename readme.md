@@ -30,7 +30,7 @@
 
 ## Group Email Discussion (Facilitated by John Binford)
 ###  Email your comments, or answers and replies to johnathan.binford@gmail.com.
-
+-  If you intend your message to be a (Group Email Discussion),</br> please note this to John Binford when emailing your Group Email to johnathan.binford@gmail.com,</br> who will forward your comments or questions as well as your replys or answers to all of us.</br>  John will also place these communications on this “Group Email Discussion” section on our website.
 * * *
 
 #### Topic:  We will need to reach out to those that purchase any of the 9 remaining units.
