@@ -69,6 +69,13 @@ We can also call a meeting at the February luncheon, and hand them out there too
 
 ####  This topic has no new activity.
 
+ ***
+ 
+## Workshop Email List
+- Please email johnathan.binford@gmail.com for a copy of the list.
+- Thanks to all for keeping our email list up to date.
+  - Please email johnathan.binford@gmail.com with any updates. 
+
 * * * 
 
 ####  Topic:  Website use for discussing the shop. (Submitted by Ralph-L.)
@@ -107,13 +114,6 @@ He offered to set up an internet site for all to email each other.  But no one w
 
 -  Here is the Electrical drawing recently submitted to the Engineers.
 <img src="./Documents/AWP-Shop-Electrical.png">
-
- ***
- 
-## Workshop Email List
-- Please email johnathan.binford@gmail.com for a copy of the list.
-- Thanks to all for keeping our email list up to date.
-  - Please email johnathan.binford@gmail.com with any updates. 
  
 * * *
 ## Craftmen's Profiles...
