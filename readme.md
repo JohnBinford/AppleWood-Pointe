@@ -71,7 +71,7 @@ We can also call a meeting at the February luncheon, and hand them out there too
 
  ***
  
-## Workshop Email List ( A confidentially kept list of our CraftMen's email addresses and a bit of other information. )
+## Workshop Email List </br> ( A confidentially kept list of our CraftMen's email addresses and a bit of other information. )
 - Please email johnathan.binford@gmail.com for a copy of the list.
 - Thanks to all for keeping our email list up to date.
   - Please email johnathan.binford@gmail.com with any updates. 
