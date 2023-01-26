@@ -8,7 +8,7 @@
 * * *
 
 ## News
-- Ralph updloaded a nice "Countdown to Selling you House" Checklist.  You can get it from the Documents Page.</br>
+- Ralph updloaded a nice "Countdown to Selling your House" Checklist.  You can get it from the Documents Page.</br>
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 - John submitteed an electrical plan to the Engineers recently.  
   - We asked for a bunch of duplex R5-20's spaced around each wall, and in the store room.
