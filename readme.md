@@ -33,6 +33,7 @@
 - Thanks to all for keeping our email list up to date.
   - Please email johnathan.binford@gmail.com with any updates. 
 
+* * *
 * * * 
 
 ## Group Email Discussion (Facilitated by John Binford)
