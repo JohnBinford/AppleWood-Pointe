@@ -737,7 +737,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>Dust Collector</td>
-    <th>Rikon Wet Sharpener</td>
+    <th>:white_check_mark:  Rikon Wet Sharpener</td>
     <th>:white_check_mark:  Nice Dust Filer</td>
   </tr>
   <tr>
