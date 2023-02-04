@@ -506,7 +506,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>12 Inch Miter Saw</th>
-    <th>Bench Grinder</th>
+    <th>:white_check_mark:   Grinder</th>
     <th>Orbital Sander</th>
   </tr>
   <tr>
@@ -938,7 +938,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
-    <th>:white_check_mark:  </td>
+    <th>:white_check_mark:  Workbench</td>
     <th>:white_check_mark:  Workbench</td>
   </tr>
   <tr>
