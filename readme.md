@@ -915,7 +915,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>Grizzley Bandsaw</td>
     <th>Jointer</td>
-    <th>HVLP Spray Outfit</td>
+    <th>:white_check_mark:  HVLP Spray Outfit</td>
   </tr>
   <tr>
       <td valign="top">
