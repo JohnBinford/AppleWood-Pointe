@@ -64,7 +64,7 @@
  <tr>
  <td valign="top">
       <a href="./Milling-Table-Close.jpeg">
-      <img src="./Thumbnails/Milling-Table-Close-T.png">
+      <img src="./Thumbnails/Milling-Table-Close-T.jpg">
       </a>
  
 
