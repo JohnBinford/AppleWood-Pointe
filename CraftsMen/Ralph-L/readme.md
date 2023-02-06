@@ -57,6 +57,16 @@
       </a>
       </td>      
       </table>
+ <table>
+ <tr>
+ <th> Ralph recently sent a picture of a new vice for his milling table outfit. </td>
+ </tr>
+ <tr>
+ <td valign="top">
+      <a href="./Milling-Table-Close.jpeg">
+      <img src="./Thumbnails/Milling-Table-Close-T.png">
+      </a>
+ 
 
   #### Some other tools...
 - 7 1/4" Circular Saw (Rockwell)
