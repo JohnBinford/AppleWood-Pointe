@@ -8,6 +8,8 @@
 * * *
 
 ## News
+-Ralph recently provided a couple of new picture of his Drill-Press-Milling-Table outfit.</br>
+check out his folder in the CraftsMen folder above.
 - Ralph updloaded a nice "Countdown to Selling your House" Checklist.  You can get it from the Documents Page.</br>
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 - John submitteed an electrical plan to the Engineers recently.  
