@@ -443,9 +443,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </td>
   </tr>
  </table>
--  Linelle recently added a few more items to his list.  (Unpictured)
+-  Linelle recently added a few more items to his list.  
    -  36 x 12 Inch Lalthe
-   -  17 Inch Drum Sander
+   -  :white_check_mark: Inch Drum Sander (Unpictured)
    -  Scroll Saw
 
 ***
@@ -455,7 +455,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>Rigid Work Support</td>
-    <th>:white_check_mark:   Machine Table on Drill Press</td>
+    <th>:white_check_mark:  Machine Table on Drill Press</td>
     <th>10" Compound Miter</td>
     <th>:white_check_mark:  10" Ryobi Table Saw</td>   
   </tr>
