@@ -578,7 +578,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </td>
       <td valign="top">
       <a href="./CraftsMen/Gary-L/Shop-Vac.jpeg">
-      <img src="./Craftsen/Gary-L/Thumbnails/Shop-Vac-T.jpg">
+      <img src="./CraftsMen/Gary-L/Thumbnails/Shop-Vac-T.jpg">
       </a>
       </td>
   </tr>
