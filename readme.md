@@ -372,7 +372,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Dust-Collector</td>
+    <th>:white_check_mark: Dust-Collector</td>
     <th>Table-Saw</td>
     <th>:white_check_mark: Miter-Saw</td>
   </tr>
