@@ -888,7 +888,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
-    <th>:white_check_mark:  Router Table</td>
+    <th>Router Table</td>
     <th>Planer</td>
     <th>:white_check_mark:  Radial Arm Saw</td>
   </tr>
