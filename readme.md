@@ -444,9 +444,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   </tr>
  </table>
 -  Linelle recently added a few more items to his list.  
-   -  36 x 12 Inch Lalthe
+   -  36 x 12 Inch Lalthe (Above)
    -  :white_check_mark: Inch Drum Sander (Unpictured)
-   -  Scroll Saw
+   -  Scroll Saw (Above)
 
 ***
 
