@@ -326,7 +326,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   </tr>
  </table>
 
-- Jim has a large assortment of Bessel Clamps and some nice Ryobi handheld tools!
+- :white_check_mark:   Jim has a large assortment of Bessel Clamps and some nice Ryobi handheld tools!
 
 ***
 
@@ -715,7 +715,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>Dewalt Planer</td>
     <th>:white_check_mark:   Band Saw</td>
-    <th>Some Nice Clamps, etc.</td>
+    <th>:white_check_mark:    Nice Clamps, etc.</td>
   </tr>
   <tr>
       <td valign="top">
