@@ -695,11 +695,13 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   </table>
   </br>
   
-   #### Some other tools...
+   #### Some other tools... (Bringing the best stuff or unique - storing in my cage if necessary.)
+   
   
 - Porter Cable Circular Saw (New)
 - Two Metal Tool Cabinets (Drawers)
 - Lots of Mechanic's Tools
+- :white_check_mark:  A few nice bar clamps (lightweight), and a few nice spring clamps.
 - Cheap Square Pad Sander
 - Ryobi 18" Belt Sander with Bench Mount
 - Like all of us, I have a small collection of handheld power tools, and various hand tools.
