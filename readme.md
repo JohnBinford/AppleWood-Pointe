@@ -586,54 +586,6 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   </tr>
   </table>
 
-***
-
- #### Dave-P's Submissions
- 
- <table>
-  <tr>
-    <th>:white_check_mark:  Table Saw</td>
-    <th>Band-Saw</td>
-    <th>:white_check_mark:  Jointer</td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="./CraftsMen/Dave-P/Table-Saw.jpg">
-      <img src="./CraftsMen/Dave-P/Thumbnails/Table-Saw-T.jpg">
-      </a>
-      </td>
-      <td valign="top">
-      <a href="./CraftsMen/Dave-P/Band-Saw.jpg">
-      <img src="./CraftsMen/Dave-P/Thumbnails/Band-Saw-T.jpg">
-      </a>
-      </td>
-      <td valign="top">
-      <a href="./CraftsMen/Dave-P/Jointer.jpg">
-      <img src="./CraftsMen/Dave-P/Thumbnails/Jointer-T.jpg">
-      </a>
-      </td>
-  </tr>
- </table>
-
-<table>
-  <tr>
-    <th>:white_check_mark:  Drill Press</td>
-    <th>:white_check_mark:  Dust-Collector</td>
-  </tr>
-  <tr>
- <td valign="top">
-      <a href="./CraftsMen/Dave-P/Drill-Press.jpg">
-      <img src="./CraftsMen/Dave-P/Thumbnails/Drill-Press-T.jpg">
-      </a>
-      </td>      
-      <td valign="top">
-      <a href="./CraftsMen/Dave-P/Dust-Collector.jpg">
-      <img src="./CraftsMen/Dave-P/Thumbnails/Dust-Collector-T.jpg">
-      </a>
-  </tr>
- </table>
- #### Dave also has a large collection of hand tools and portable power tools! 
-
 * * *
 
 #### Rick-S
