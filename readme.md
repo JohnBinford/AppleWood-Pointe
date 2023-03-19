@@ -29,6 +29,8 @@ check out his folder in the CraftsMen folder above.
 
 - John got a new picture of the shop's block wall installation. </br>
 [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)
+
+- [Link to the unused online discussion  (Good Examples!...](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Discussion.md)
  
  - [Link to Old News.](./Collateral/OldNews.md)
 * * *
