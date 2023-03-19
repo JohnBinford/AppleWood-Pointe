@@ -8,6 +8,8 @@
 * * *
 
 ## News
+-  In MEMORIAM - Dave P passed away on March 4, 2023.
+   - He was the first AWP buyer to reach out about getting the shop organized before occupancy. He was a creative and passionate woodworker who made everything from armoires, to adirondack chairs, to creating custom benches for the Ames Center.
 - Ralph recently provided a couple of new picture of his Drill-Press-Milling-Table outfit.</br>
 check out his folder in the CraftsMen folder above.
 - Ralph updloaded a nice "Countdown to Selling your House" Checklist.  You can get it from the Documents Page.</br>
