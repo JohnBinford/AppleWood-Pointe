@@ -8,7 +8,7 @@
 * * *
 
 ## News
--  New Guy!  Jim T is interested in our group.  He recently purchased a unit, and experssed interest in the Shop.
+-  New Guy!  Jim T and his Wife Stephanie recently purchased the unit next door to John.  At the recent luncheon, he experssed interest in the Shop.  We all look forward to getting to know them.
 -  In MEMORIAM - Dave P passed away on March 4, 2023.
    - He was the first AWP buyer to reach out about getting the shop organized before occupancy. He was a creative and passionate woodworker who made everything from armoires, to adirondack chairs, to creating custom benches for the Ames Center.
    - [Link to Dave's Obituary.](https://github.com/JohnBinford/AppleWood-Pointe/tree/main/CraftsMen/Dave-P)
