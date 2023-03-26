@@ -61,17 +61,17 @@
   <tr>
     <td valign="top">
     <a href="./Eric-S-Stool.jpg">
-      <img src="./Eric-S-Stool-T.jpg">
+      <img src="./Thumbnails/Eric-S-Stool-T.jpg">
       </a>
       </td>
     <td valign="top">
       <a href="./Eric-S-Grinder.jpg">
-      <img src="./Eric-S-Grinder-T.jpg">
+      <img src="./Thumbnails/Eric-S-Grinder-T.jpg">
       </a>
       </td>
       <td valign="top">
       <a href="./Eric-S-Screws.jpg">
-      <img src="./Eric-S-Screws-T.jpg">
+      <img src="./Thumbnails/Eric-S-Screws-T.jpg">
       </a>
       </td>
   </tr>
