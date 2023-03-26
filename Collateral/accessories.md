@@ -50,3 +50,29 @@
       </td>
   </tr>
  </table>
+
+
+ <table>
+  <tr>
+    <th>Comfy Work Stool</th>
+     <th>A Smooth Bench Grinder (Guard off to Buff)</th>
+    <th>Sorted Wood Screws</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Eric-S-Stool.jpg">
+      <img src="./Eric-S-Stool-T.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Eric-S-Grinder.jpg">
+      <img src="./Eric-S-Grinder-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Eric-S-Screws.jpg">
+      <img src="./Eric-S-Screws-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
