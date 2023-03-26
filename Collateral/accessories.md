@@ -56,7 +56,7 @@
   <tr>
     <th>Comfy Work Stool</th>
      <th>A Smooth Bench Grinder (Guard off to Buff)</th>
-    <th>Sorted Wood Screws</th>
+    <th>Sorted Fasteners (1 of 2)</th>
   </tr>
   <tr>
     <td valign="top">
