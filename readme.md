@@ -8,6 +8,11 @@
 * * *
 
 ## News
+
+- Here are some examples of things to thnk about.
+  - Benches, cabinets, chests, and storage need consideration.
+    - [Click here to see Sample accessories.](./Collateral/accessories.md)
+
 -  New Guy!  Jim T and his Wife Stephanie recently purchased the unit next door to John.  At the recent luncheon, he experssed interest in the Shop.  We all look forward to getting to know them.
 -  In MEMORIAM - Dave P passed away on March 4, 2023.
    - He was the first AWP buyer to reach out about getting the shop organized before occupancy. He was a creative and passionate woodworker who made everything from armoires, to adirondack chairs, to creating custom benches for the Ames Center.
@@ -53,9 +58,7 @@ check out his folder in the CraftsMen folder above.
    - [Link to Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
    - If you want a Scaled PDF of the simplified Shop Drawing, see the last entry in the Documents Collection
    - [Link to the PDF Documents Collection.](./Documents/Download.md)
-   - AWP won't furnish much for the space.
-     - Benches, cabinets, chests, and storage need consideration.
-     - [Click here to see Sample accessories.](./Collateral/accessories.md)
+
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.
  
