@@ -51,27 +51,77 @@
   </tr>
  </table>
 
-
  <table>
   <tr>
-    <th>Comfy Work Stool</th>
-     <th>A Smooth Bench Grinder (Guard off to Buff)</th>
-    <th>Sorted Fasteners (1 of 2)</th>
+    <th>New Hand Grinder</th>
+     <th>Digital Caliper (Example measurment tool)</th>
+    <th>Cordless Drill and Driver</th>
   </tr>
   <tr>
     <td valign="top">
-    <a href="./Eric-S-Stool.jpg">
-      <img src="./Thumbnails/Eric-S-Stool-T.jpg">
+    <a href="./Eric-S--Dremel.jpg">
+      <img src="./Thumbnails/Eric-S--Dremel-T.jpg">
       </a>
       </td>
     <td valign="top">
-      <a href="./Eric-S-Grinder.jpg">
-      <img src="./Thumbnails/Eric-S-Grinder-T.jpg">
+      <a href="./Eric-S-Caliper.jpg">
+      <img src="./Thumbnails/Eric-S-Caliper-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Eric-S-Screws.jpg">
-      <img src="./Thumbnails/Eric-S-Screws-T.jpg">
+      <a href="./Eric-S-Coredless.jpg">
+      <img src="./Thumbnails/Eric-S-Cordless-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+
+ <table>
+  <tr>
+    <th>New Fire Extinguisher (Good example at least)</th>
+     <th>New Forstner Bits (Purchased for a Project</th>
+    <th>Example - We will need a computer </br>  This one is old, but HD and very clean </br> Employer Paid +4K - Offer a better one!</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Eric-S-Fire.jpg">
+      <img src="./Thumbnails/Eric-S-FIre-T.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Eric-S-Forstner.jpg">
+      <img src="./Thumbnails/Eric-S-Forstner-Tjpg.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Eric-S-Laptop.jpg">
+      <img src="./Thumbnails/Eric-S-Laptop-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>Drawer of Examples 1 </th>
+     <th>Drawer of Examples 2 </th>
+    <th>Drawer of Examples 3 </br>  Contains some weirdo's</br>Hog Ring Pliers, Lineman's Pliers </br> Snap-Ring Pliers </br> GAS Pliers, Ferrule Pliers</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Eric-S-Drawer-1.jpg">
+      <img src="./Thumbnails/Eric-S-Drawer-1-T.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Eric-S-Drawer-2.jpg">
+      <img src="./Thumbnails/Eric-S-Drawer-2-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="./Eric-S-Drawer-3.jpg">
+      <img src="./Thumbnails/Eric-S-Drawer-3-T.jpg">
       </a>
       </td>
   </tr>
