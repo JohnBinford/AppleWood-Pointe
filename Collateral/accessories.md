@@ -2,10 +2,10 @@
 - For Example:
   - One of the fellows said that he had a tenon jig, but didn't mentino that he had a router.
     - John has a little-used but really cheap router to offer, but it isn't rigid enough to be precise.
-      - [How about a nice "CNC" Hand-held Router](https://youtu.be/QxjE5WOAGi4)
-        - If I had one, I'd share it!
-      - [How about any other computer controlled tool?](https://store.bantamtools.com/products/bantam-tools-desktop-cnc-milling-machine)
-      - [There are many unique hand tools - here's one example](./Box-Ratchet.jpg)
+  - [How about a nice "CNC" Hand-held Router](https://youtu.be/QxjE5WOAGi4)
+    - If I had one, I'd share it!
+  - [How about any other computer controlled tool?](https://store.bantamtools.com/products/bantam-tools-desktop-cnc-milling-machine)
+  - [There are many unique hand tools - here's one example](./Box-Ratchet.jpg)
 <table>
   <tr>
     <th>An Ugly but Straight Bench. </br> Maybe a Table Saw extension? </br> New Top!</th>
