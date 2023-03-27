@@ -11,6 +11,8 @@
 
 - Here are some examples of things to thnk about.
   - Benches, cabinets, chests, and storage need consideration.
+  - Specialty bits, blades, etc.  (The ordinary but NEW drill, saw, or sander you just bought.
+    - (Forstner Bits, Fine Blades, Rare High-end Tools.  One-of-a-Kind hand tools.)
     - [Click here to see Sample accessories.](./Collateral/accessories.md)
 
 -  New Guy!  Jim T and his Wife Stephanie recently purchased the unit next door to John.  At the recent luncheon, he experssed interest in the Shop.  We all look forward to getting to know them.
