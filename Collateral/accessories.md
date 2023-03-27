@@ -1,4 +1,4 @@
-### Examples of items that are not big power tools
+### Examples of items that are not big power tools - No Acceptance or rejection implied - Just Suggestions!
 
 <table>
   <tr>
