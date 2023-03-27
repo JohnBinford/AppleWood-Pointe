@@ -1,4 +1,9 @@
 ### Examples of items that are not big power tools - No Acceptance or rejection implied - Just Suggestions!
+- For Example:
+  - One of the fellows said that he had a tenon jig, but didn't mentino that he had a router.
+    - John has a little-used but really cheap router to offer, but it isn't rigid enough to be precise.
+      - How about a really nice one!
+        - (A "CNC" Handheld Router)[https://youtu.be/QxjE5WOAGi4]
 
 <table>
   <tr>
