@@ -1,11 +1,15 @@
-### Examples of items that are not big power tools - No Acceptance or rejection implied - Just Suggestions!
-- For Example:
+### Suggestions of items that are not big power tools - (There are a lot of things that  make a shop fly.)
+- For Example:     (Right-Click the blue links for Pictures.)
   - One of the fellows said that he had a tenon jig, but didn't mentino that he had a router.
     - John has a little-used but really cheap router to offer, but it isn't rigid enough to be precise.
   - [How about a nice "CNC" Hand-held Router](https://youtu.be/QxjE5WOAGi4)
     - If I had one, I'd share it!
   - [How about any other computer controlled tool?](https://store.bantamtools.com/products/bantam-tools-desktop-cnc-milling-machine)
   - [There are many unique hand tools - here's one example](./Box-Ratchet.jpg)
+  - [How about some Steel Cabinets (John has 4 of these)](./Wall-Cab.png)
+    - [Or a tall Steel Cabinet? (John has 1)](./Floor-Cab.png) 
+  -  Supplies! Rags, Towels, Sand Paper, Soap - Go Joe!, Steel Wool.  </br>You might have something really neat!
+
 <table>
   <tr>
     <th>An Ugly but Straight Bench. </br> Maybe a Table Saw extension? </br> New Top!</th>
