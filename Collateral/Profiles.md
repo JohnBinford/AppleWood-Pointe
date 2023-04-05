@@ -151,16 +151,15 @@
  ####  Eric-S's Profile
 <table>
   <tr>
-    <th>Eric</td>
-    <th>Profile and Interests</td>
+    <th>Eric</th>
+    <th>Profile and Interests</th>
   </tr>
   <tr>
       <td valign="top">
       <a href="../CraftsMen/Eric-S/Collateral/Eric-Black-1024-AWP.jpg">
       <img src="../CraftsMen/Eric-S/Collateral/Eric-Black-256-AWP-T.jpg">
       </a>
-      </td
-  <tr>
+	  </td>
       <td valign="top">
         - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years</br>
         - Retired 2019.</br>
@@ -169,12 +168,13 @@
         - A recent covid project. (An ALL BAND Ham Radio Dipole!) </br>
         https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br> </br>
         - A couple more winter projects just below.
+	</td>
    <tr>
-     <th>A Marx HO electric train (Restored - 3D printed parts)</br>In original box!</td>
+     <th>A Marx HO electric train (Restored - 3D printed parts)</br>In original box!</th>
      <th>A functionally restored </br>1950 Singer Featherweight sewing machine</br>
-     https://featherweightdoctor.com</td>
+     https://featherweightdoctor.com</th>
      <th>I recently restored my portable table saw's iron works. </br> (I re-did the motor, gears, and lead-screws last year.)  
-   </tr>
+   </th>
    <tr>
        <td valign="top">
        <a href="../CraftsMen/Eric-S/Collateral/Train.jpg">
@@ -192,6 +192,7 @@
        </a>
        </td>
    </tr>
+   </table>
 
   ####  Dave-Z's Profile
 <table>
