@@ -193,4 +193,24 @@
        </td>
    </tr>
 
- 
+  ####  Dave-Z's Profile
+<table>
+  <tr>
+    <th>Dave</td>
+    <th>Profile and Interests</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <img src="../CraftsMen/Dave-Z/Dave-Z.png">
+      </a>
+      </td
+  <tr>
+      <td valign="top">
+        - 35 Years at Control Data / Seagate. </br>
+	  - Computer Technician </br>
+	  - Manufacturing Manager </br>   
+	  - Facilities Mechanical Manager </br
+        - Lakeville, MN School Janitor </br>
+	- Retired 2003 </br>
+        - Hobbies:  Handyman, Golfer
+	</td>
