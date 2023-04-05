@@ -201,7 +201,7 @@
   </tr>
   <tr>
       <td valign="top">
-	<a href="../CraftsMen/Dave-Z/Collateral/Dave-Z.png">
+	<a href="../CraftsMen/Dave-Z/Dave-Z.png">
       <img src="../CraftsMen/Dave-Z/Thumbnails/Dave-Z-T.png">
       </a>
       </td
@@ -210,7 +210,7 @@
         - 35 Years at Control Data / Seagate. </br>
 	  - Computer Technician </br>
 	  - Manufacturing Manager </br>   
-	  - Facilities Mechanical Manager </br
+	  - Facilities Mechanical Manager </br>
         - Lakeville, MN School Janitor </br>
 	- Retired 2003 </br>
         - Hobbies:  Handyman, Golfer
