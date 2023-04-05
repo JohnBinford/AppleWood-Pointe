@@ -201,7 +201,8 @@
   </tr>
   <tr>
       <td valign="top">
-      <img src="../CraftsMen/Dave-Z/Dave-Z.png">
+	<a href="../CraftsMen/Dave-Z/Collateral/Dave-Z.png">
+      <img src="../CraftsMen/Dave-Z/Thumbnails/Dave-Z-T.png">
       </a>
       </td
   <tr>
