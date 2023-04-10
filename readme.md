@@ -729,10 +729,16 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
+    <th>:white_check_mark:  Jack's NEW Custom Workbench
     <th>Other Tools</td>
     <th>(More Tools)</td>
   </tr>
   <tr>
+        <td valign="top">
+      <a href="./CraftsMen/Jack-W/Workbench.jpg">
+      <img src="./CraftsMen/Jack-W/Thumbnails/Workbench-T.jpg">
+      </a>
+      </td>
      	<td valign="top">
 	- Milwaukee 4x24 belt sander</br>
 	- Bosch random orbit sander</br>
