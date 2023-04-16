@@ -136,3 +136,22 @@
       </td>
   </tr>
  </table>
+
+<table>
+  <tr>
+    <th>Magnetic Whiteboard / Corkboard</th>
+     <th>Whiteboard Closed</th>
+  </tr>
+  <tr>
+    <td valign="top">
+    <a href="./Whiteboard-2.jpg">
+      <img src="./Whiteboard-2-T.jpg">
+      </a>
+      </td>
+    <td valign="top">
+      <a href="./Whiteboard-1.jpg">
+      <img src="./Whiteboard-1-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
