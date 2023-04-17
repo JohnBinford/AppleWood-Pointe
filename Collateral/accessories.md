@@ -8,6 +8,7 @@
   - [There are many unique hand tools - here's one example](./Box-Ratchet.jpg)
   - [How about some Steel Cabinets (John has 4 of these)](./Wall-Cab.png)
     - [Or a tall Steel Cabinet? (John has 1)](./Floor-Cab.png) 
+  - A sturdy desk with drawers would be nice.  
   -  Supplies! Rags, Towels, Sand Paper, Soap - Go Joe!, Steel Wool.  </br>You might have something really neat!
 
 <table>
