@@ -26,16 +26,10 @@
  
  <table>
    <tr>
-     <th>Sanding-Table</td>
      <th>Sorted-Fasteners</td>
      <th>Table-Saw</td>
    </tr>
    <tr>
-       <td valign="top">
-       <a href="./Sanding-Table.jpeg">
-       <img src="./Thumbnails/Sanding-Table-T.jpg">
-       </a>
-       </td>
        <td valign="top">
        <a href="./Sorted-Fasteners.jpeg">
        <img src="./Thumbnails/Sorted-Fasteners-T.jpg">
