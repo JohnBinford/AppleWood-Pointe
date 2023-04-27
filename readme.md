@@ -215,16 +215,10 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  
  <table>
    <tr>
-     <th>:white_check_mark:  Sanding-Table</td>
      <th>Sorted-Fasteners</td>
      <th>Table-Saw</td>
    </tr>
    <tr>
-       <td valign="top">
-       <a href="./CraftsMen/Len-C/Sanding-Table.jpeg">
-       <img src="./CraftsMen/Len-C/Thumbnails/Sanding-Table-T.jpg">
-       </a>
-       </td>
        <td valign="top">
        <a href="./CraftsMen/Len-C/Sorted-Fasteners.jpeg">
        <img src="./CraftsMen/Len-C/Thumbnails/Sorted-Fasteners-T.jpg">
