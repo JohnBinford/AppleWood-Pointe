@@ -9,6 +9,21 @@
 
 ## News
 
+- The group met on 4-25-2023 to discuss the shop.
+  -  13 Craftsmen out of the 20 known to be interested in the shop attended.
+  -  The shop website was reviewed as a foundation for various discussions.
+  -  Until this meeting, organizers have concentrated on settling the disposition of large electric shop tools.
+     -  Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
+     -  Eric S. produced some lists with pictures of large shp tools the still needed some type of decision.
+        - After a constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four, (Busybodies that have been working on shop issues since 2021).  
+	- A list of who should donate what will be published shortly.
+  -  The group of 13 discussed what to do with smaller power tools and hand tools.
+     - We settled on using a "common sense" approach.
+       -  If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. </br>
+       
+* * *
+       
+
 - Here are some examples of things to thnk about.
   - Benches, cabinets, chests, and storage need consideration.
   - Specialty bits, blades, etc.  (The ordinary but NEW drill, saw, or sander you just bought.
