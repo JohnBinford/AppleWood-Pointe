@@ -9,18 +9,32 @@
 
 ## News
 
+### We recently met at the Eagan Public Library (Dakota County).
+
 - The group met on 4-25-2023 to discuss the shop.
   -  13 Craftsmen out of the 20 known to be interested in the shop attended.
   -  The shop website was reviewed as a foundation for various discussions.
   -  Until this meeting, organizers have concentrated on settling the disposition of large electric shop tools.
      -  Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
      -  Eric S. produced some lists with pictures of large shp tools the still needed some type of decision.
-        - After a constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four, (Busybodies that have been working on shop issues since 2021).  
-	- A list of who should donate what will be published shortly.
-  -  The group of 13 discussed what to do with smaller power tools and hand tools.
+        - After a constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).  
+	- The list of who should donate what will be emailed to all members shortly.
+  -  The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
+     - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
      - We settled on using a "common sense" approach.
        -  If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. </br>
+
+- Links to PDF documents follow.  Some browsers don't automatically show PDF's.</br>  If you don't see the document after a little wait, just use the "Download" button on the right.
        
+[Link to PDF version of Agenda.](./Collateral/APAV042523WorkshopMtgAgenda.pdf)
+   
+A Link to the PDF version of our voting matrix follows.
+     -  Items highlighted in GREEN were examined and approved by the group.
+     -  Check you name for any greened items.  Please bring them to our new shop.
+     -  Note that the lower portion of the page lists unique items with only 1 donar - so no vote was required. </br>
+     -  [Link to the PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
+     
+ 
 * * *
        
 
