@@ -33,7 +33,9 @@ A Link to the PDF version of our voting matrix follows.
      -  Check you name for any greened items.  Please bring them to our new shop.
      -  Note that the lower portion of the page lists unique items with only 1 donar - so no vote was required. </br>
      -  [Link to the PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
-     
+ 
+ - Ralph L.  sent a summary and some comments to the "Gang of Four". </br>
+ [A link to it if you wish to view them.](./Collateral/Ralph-Comments.md)
  
 * * *
        
