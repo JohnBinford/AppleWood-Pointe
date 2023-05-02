@@ -32,10 +32,10 @@ A Link to the PDF version of our voting matrix follows.
      -  Items highlighted in GREEN were examined and approved by the group of 13.
      -  Please check your name for any greened items.  Please bring them to our new shop.
      -  Note that the lower portion of the page lists unique items with only 1 donar - so no vote was required. </br>
-     -  [Click here for a PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
+[Click here for a PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
  
  - Ralph L.  sent a summary and some comments to the "Gang of Four". </br>
- [Click here if you wish to view them.](./Collateral/Ralph-Comments.md)
+[Click here if you wish to view them.](./Collateral/Ralph-Comments.md)
  
 * * *
        
@@ -61,7 +61,7 @@ check out his folder in the CraftsMen folder above.
   - 5 unique circuits and breakers were requested to allow floor-standing tools to remain plugged into the R5-20's.
   - Each quad will have it's own cicuit so that hand-held tools on cords can be accomodated in isolation from other high-draw tools.
   - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker.
-  - [Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
+[Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
 
 - Stacy from AppleWood Pointe published some construction photos.  (Recently Updated)</br> 
 [Click here to view the very nice Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
