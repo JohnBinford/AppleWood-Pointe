@@ -14,7 +14,7 @@
 - The group met on 4-25-2023 to discuss the shop.
   -  13 Craftsmen out of the 20 known to be interested in the shop attended.
   -  The shop website was reviewed as a foundation for various discussions.
-  -  Until this meeting, organizers have concentrated on settling the disposition of large electric shop tools.
+  -  Until this meeting, organizers had concentrated on settling the disposition of large electric shop tools.
      -  Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
      -  Eric S. produced some lists with pictures of large shp tools the still needed some type of decision.
         - After a constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).  
@@ -26,16 +26,16 @@
 
 - Links to PDF documents follow.  Some browsers don't automatically show PDF's.</br>  If you don't see the document after a little wait, just use the "Download" button on the right.
        
-[Link to PDF version of Agenda.](./Collateral/APAV042523WorkshopMtgAgenda.pdf)
+[Click here for a PDF version of Agenda.](./Collateral/APAV042523WorkshopMtgAgenda.pdf)
    
 A Link to the PDF version of our voting matrix follows.
-     -  Items highlighted in GREEN were examined and approved by the group.
-     -  Check you name for any greened items.  Please bring them to our new shop.
+     -  Items highlighted in GREEN were examined and approved by the group of 13.
+     -  Please check your name for any greened items.  Please bring them to our new shop.
      -  Note that the lower portion of the page lists unique items with only 1 donar - so no vote was required. </br>
-     -  [Link to the PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
+     -  [Click here for a PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
  
  - Ralph L.  sent a summary and some comments to the "Gang of Four". </br>
- [A link to it if you wish to view them.](./Collateral/Ralph-Comments.md)
+ [Click here if you wish to view them.](./Collateral/Ralph-Comments.md)
  
 * * *
        
@@ -49,12 +49,12 @@ A Link to the PDF version of our voting matrix follows.
 -  New Guy!  Jim T and his Wife Stephanie recently purchased the unit next door to John.  At the recent luncheon, he experssed interest in the Shop.  We all look forward to getting to know them.
 -  In MEMORIAM - Dave P passed away on March 4, 2023.
    - He was the first AWP buyer to reach out about getting the shop organized before occupancy. He was a creative and passionate woodworker who made everything from armoires, to adirondack chairs, to creating custom benches for the Ames Center.
-   - [Link to Dave's Obituary.](https://github.com/JohnBinford/AppleWood-Pointe/tree/main/CraftsMen/Dave-P)
+   - [Click here for Dave's Obituary.](https://github.com/JohnBinford/AppleWood-Pointe/tree/main/CraftsMen/Dave-P)
    
 - Ralph recently provided a couple of new picture of his Drill-Press-Milling-Table outfit.</br>
 check out his folder in the CraftsMen folder above.
 - Ralph updloaded a nice "Countdown to Selling your House" Checklist.  You can get it from the Documents Page.</br>
-[Link to the PDF Documents Collection.](./Documents/Download.md)
+[Click here to go to the PDF Documents Collection.](./Documents/Download.md)
 - John submitteed an electrical plan to the Engineers recently.  
   - We asked for a bunch of duplex R5-20's spaced around each wall, and in the store room.
   - We also asked for a quad of R5-20's in the center of each wall, and two R6-20 singles on each wall.
@@ -64,14 +64,14 @@ check out his folder in the CraftsMen folder above.
   - [Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
 
 - Stacy from AppleWood Pointe published some construction photos.  (Recently Updated)</br> 
-[Link to the Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
+[Click here to view the very nice Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
 - John got a new picture of the shop's block wall installation. </br>
 [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)
 
-- [Link to the unused online discussion  (Good Examples!...](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Discussion.md)
+- [Click here to see the (so far) unused online discussion  (Good Examples!...](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Discussion.md)
  
- - [Link to Old News.](./Collateral/OldNews.md)
+ - [Click here to see Old News.](./Collateral/OldNews.md)
 * * *
 * * * 
  
