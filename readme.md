@@ -16,7 +16,7 @@
   -  The shop website was reviewed as a foundation for various discussions.
   -  Until this meeting, organizers had concentrated on settling the disposition of large electric shop tools.
      -  Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
-     -  Eric S. produced some lists with pictures of large shp tools the still needed some type of decision.
+     -  Eric S. produced some lists with pictures of large shop tools the still needed some type of decision.
         - After a constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).  
 	- The list of who should donate what will be emailed to all members shortly.
   -  The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
