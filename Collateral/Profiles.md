@@ -171,7 +171,7 @@
 	</td>
    <tr>
      <th>A Marx HO electric train (Restored - 3D printed parts)</br>In original box!</th>
-     <th>A functionally restored </br>1950 Singer Featherweight sewing machine</br>
+     <th>A restored </br>1950 Singer Featherweight sewing machine</br>
      https://featherweightdoctor.com</th>
      <th>I recently restored my portable table saw's iron works. </br> (I re-did the motor, gears, and lead-screws last year.)  
    </th>
