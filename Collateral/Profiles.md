@@ -12,7 +12,7 @@
   <tr>
  </table>
  
- -  Staring in 1971, taught Industrial Tech classes in Welding, Woodworking and Small Engines for Roseville Schools for 18 Years.
+ -  Starting in 1971, taught Industrial Tech classes in Welding, Woodworking and Small Engines for Roseville Schools for 18 Years.
      - Managed facilities for Roseville Schools until 2008.
      - Consulted for the Disctrict another 5 years after retirement.
  -  Have been improving areas of the house.
