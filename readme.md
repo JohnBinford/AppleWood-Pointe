@@ -31,7 +31,7 @@
 A Link to the PDF version of our voting matrix follows.
      -  Items highlighted in GREEN were examined and approved by the group of 13.
      -  Please check your name for any greened items.  Please bring them to our new shop.
-     -  Note that the lower portion of the page lists unique items with only 1 donar - so no vote was required. </br>
+     -  Note that the lower portion of the page lists unique items with only 1 donor - so no vote was required. </br>
 [Click here for a PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
  
  - Ralph L.  sent a summary and some comments to the "Gang of Four". </br>
