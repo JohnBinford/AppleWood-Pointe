@@ -30,7 +30,7 @@
 
 -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
    -  Some browsers won't allow direct links to documents - it just appears to "spin".
-   -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)
+   -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
 -[Link to the Final Large Tool Selections.](./Documents/APAV042623Tools-Equipment-Selected.pdf) </br>
 
 #### The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
