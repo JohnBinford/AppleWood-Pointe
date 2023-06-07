@@ -13,7 +13,6 @@
 - To prepair for Phase Two of our Shop Planning,  This website is being updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
   - [Link to the original main page.](../Collateral/Original.md)
-  - ~~We will move from humbly asking for large tool pcitures, etc - To actually getting organized!~~
   
 * * *
   
