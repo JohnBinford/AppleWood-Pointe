@@ -12,7 +12,7 @@
 
 - To prepair for Phase Two of our Shop Planning,  This website is being updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
-  - [Link to the original main page.](./Collateral/readme-OLD.md)
+  - [Link to the original main page.](./readme-OLD.md)
   
 * * *
   
