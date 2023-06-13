@@ -27,7 +27,7 @@
  <table>
    <tr>
      <th>Sorted-Fasteners</td>
-     <th>Table-Saw</td>
+     <th>:white_check_mark:  -Saw</td>
    </tr>
    <tr>
        <td valign="top">
