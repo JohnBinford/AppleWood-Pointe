@@ -74,7 +74,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  <table>
    <tr>
      <th>Sorted-Fasteners</td>
-     <th>Table-Saw</td>
+     <th>:white_check_mark:  Table-Saw</td>
    </tr>
    <tr>
        <td valign="top">
