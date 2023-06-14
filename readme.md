@@ -16,7 +16,7 @@
 
 -  Here's a picture of the exterior materials that will be used.  (From Stacy's vice Flikr Collection.)
    - Click the picture for an HD Version! </br>
-<a href="./Collateral/Siding.jpg"> <img src="./Collateral/Thumbnails/Siding-T.jpg"> </a>
+<a href="./Collateral/SIding.jpg"> <img src="./Collateral/Thumbnails/Siding-T.jpg"> </a>
 * * *
   
 ### You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
