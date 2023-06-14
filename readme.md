@@ -23,7 +23,7 @@
 - Until that meeting, organizers had concentrated on settling the disposition of large electric shop tools.  (The stuff that’s hard to move without planning…)
   - Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
   - Eric S. produced some lists with pictures of large shop tools the still needed some type of decision.
-  - After that constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021). <.br>
+  - After that constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).
 
  - A spreadsheet representing the list of what large shop tools various craftsmen should plan to bring to the shop it attached.
    - Please check out the list, and plan to bring any items highlighted in green!  Thanks a ton to those that participated.      
