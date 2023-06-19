@@ -14,7 +14,7 @@
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
   - [Link to the original main page.](./readme-OLD.md)
 
--  Here's a picture of the exterior materials that will be used.  (From Stacy's vice Flikr Collection.)
+-  Here's a picture of the exterior materials that will be used.  (From Stacy's nice Flikr Collection.)
    - Click the picture for an HD Version! </br>
 <a href="./Collateral/SIding.jpg"> <img src="./Collateral/Thumbnails/Siding-T.jpg"> </a>
 * * *
