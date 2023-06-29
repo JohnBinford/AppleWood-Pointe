@@ -8,6 +8,12 @@
 * * *
 * * *
 
+## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
+-  John recently spotted this collection of the pipes he described in Stacy's recent picture upload.
+   -  If anyone know what they might be, please email John.  johnathan.binford@gmail.com
+<img src = "./Collateral/Strange-Pipe.png"> </br>
+</br>
+
 ## News
 
 - To prepair for Phase Two of our Shop Planning,  This website is being updated.
