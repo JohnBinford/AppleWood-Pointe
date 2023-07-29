@@ -17,6 +17,9 @@
 <img src = "./Collateral/Pipe-2.png"> </br>
 </br>
 
+- With the help of Doug,  John speculates that these heavy pipes are "guides" to allow for a "rope" to be "dangled" from the eaves of each unit.  (You can see them protruding throiugh the soffits centered on the main window of each unit.)
+  - One would go into the attic with a special rope with a small weight and feed it through the end of this pipe from the catwalk that's already up there...
+
 * * *
 
 ## News
