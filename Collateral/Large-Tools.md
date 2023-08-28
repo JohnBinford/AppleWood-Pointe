@@ -512,7 +512,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
  <td valign="top">
       <a href="../CraftsMen/Jack-W/image4.jpeg">
-      <img src="./CraftsMen/Jack-W/Thumbnails/image4-T.jpg">
+      <img src="../CraftsMen/Jack-W/Thumbnails/image4-T.jpg">
       </a>
       </td>      
       <td valign="top">
@@ -532,7 +532,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>:white_check_mark:  Tool Chest</td>
     <th>:white_check_mark:  Work Bench</td>
-    <th>:white_check_mark:  Bench Holes</td>
+    <th>:white_c.heck_mark:  Bench Holes</td>
   </tr>
   <tr>
  <td valign="top">
