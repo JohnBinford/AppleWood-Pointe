@@ -106,10 +106,13 @@
 - Click the picture for an HD Version! </br>
 <a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
 
+</br>
+</br>
+
 -  Here is the Electrical drawing recently submitted to the Engineers.
    -  NOTE!  John heard back from the engineer.  He noted that they would not provide such a comprehensive electrical serivce.
       - They only provide the basics. 
-      -  John guesses that we might have do "improve this.    
+      -  John guesses that we might have to do this ourselves.    
 <img src="./Documents/AWP-Shop-Electrical.png">
  
 * * *
