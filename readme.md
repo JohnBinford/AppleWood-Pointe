@@ -8,7 +8,8 @@
 * * *
 * * *
 
-##  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
+## News
+###  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
 
 -  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
    -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
@@ -19,9 +20,9 @@
       -  Specifically, we noted that the prosumer saw that Lan Copt offered looked to be missing those devices.
       -  Linelle had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
 -  Linelle had also offered a belt sander, but noted that another Craftman offered a better one.
-* * *
+   -  John  will try to locate that item and get it on board.## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
 
-      -  John  will try to locate that item and get it on board.## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
+* * * 
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
 <img src = "./Collateral/Strange-Pipe.png"> </br>
@@ -34,8 +35,6 @@
   - One would go into the attic with a special rope with a small weight and feed it through the end of this pipe from the catwalk that's already up there...
 
 * * *
-
-## News
 
 - To prepair for Phase Two of our Shop Planning,  This website is being updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
