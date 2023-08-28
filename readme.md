@@ -103,7 +103,7 @@
 <a href="./Collateral/Plans/AWP-Shop-L-NE.png"> <img src="./Collateral/Plans/AWP-Shop-L-NE-T.png"> </a> </br>
 
 #### Here's a picture of the blockwork that has been done for the shop.
-  - Click the picture for an HD Version! </br>
+- Click the picture for an HD Version! </br>
 <a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
 
 -  Here is the Electrical drawing recently submitted to the Engineers.
