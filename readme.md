@@ -8,7 +8,20 @@
 * * *
 * * *
 
-## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
+##  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
+
+-  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
+   -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
+   -  Linelle will keep his Miter Saw in reserve until we know for sure.
+-  There was a bit of disucssion about shop safety.
+   - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
+      -  We decided to check on the current says that we elected, and came up with alternatives if necessary.
+      -  Specifically, we noted that the prosumer saw that Lan Copt offered looked to be missing those devices.
+      -  Linelle had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
+-  Linelle had also offered a belt sander, but noted that another Craftman offered a better one.
+* * *
+
+      -  John  will try to locate that item and get it on board.## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
 <img src = "./Collateral/Strange-Pipe.png"> </br>
