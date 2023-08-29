@@ -93,9 +93,10 @@
 
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.
- 
-<img src="./Collateral/Plans/AWP-Shop-Aerial.png"> </br> </br>
-
+ <img src="./Collateral/Plans/AWP-Shop-Aerial.png"> </br> </br>
+- Here is a scaled drwing of the shop with example furnishings.
+  <img src="./Collateral/Plans/AWP-Shop-5.jpg">
+  
 - John did some practicing with his cumbersome rendering tools, and painted the walls.  He also added a desk and window!
   -  Click on any of these thumbails to see an enlarged view from inside. </br>
 <a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/AWP-Shop-7G-T.png"> </a> </br>
