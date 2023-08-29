@@ -50,6 +50,7 @@
 
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
+
 <img src = "./Collateral/Strange-Pipe.png"> </br>
 </br>
    -  Here's an earlier picture of one of those heavy looking pipes in the overhead somewhere...
