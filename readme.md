@@ -53,7 +53,7 @@
 
 <img src = "./Collateral/Strange-Pipe.png"> </br>
 </br>
-   -  Here's an earlier picture of one of those heavy looking pipes in the overhead somewhere...
+   -  Here's an earlier picture of one of those heavy looking pipes in the overhead somewhere...</br>
 <img src = "./Collateral/Pipe-2.png"> </br>
 </br>
 
