@@ -23,6 +23,31 @@
    -  John  will try to locate that item and get it on board.## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
 
 * * * 
+
+### You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
+	
+- The shop website was reviewed as a foundation for various discussions.
+
+- Until that meeting, organizers had concentrated on settling the disposition of large electric shop tools.  (The stuff that’s hard to move without planning…)
+  - Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
+  - Eric S. produced some lists with pictures of large shop tools the still needed some type of decision.
+  - After that constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).
+
+ - A spreadsheet representing the list of what large shop tools various craftsmen should plan to bring to the shop is liniked below.
+   - Please check out the list, and plan to bring any items highlighted in green!  Thanks a ton to those that participated.      
+     -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
+        -  Some browsers won't allow direct links to documents - it just appears to "spin".
+        -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
+     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV042623Tools-Equipment-Selected.pdf) </br>
+     -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
+     
+## The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
+   - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
+   - We settled on using a "common sense" approach.
+   - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
+	
+* * *
+
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
 <img src = "./Collateral/Strange-Pipe.png"> </br>
@@ -40,34 +65,14 @@
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
   - [Link to the original main page.](./readme-OLD.md)
 
+* *  *
+
 -  Here's a picture of the exterior materials that will be used.  (From Stacy's nice Flikr Collection.)
    - Click the picture for an HD Version! </br>
 <a href="./Collateral/SIding.jpg"> <img src="./Collateral/Thumbnails/Siding-T.jpg"> </a>
-* * *
-  
-### You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
-	
-- The shop website was reviewed as a foundation for various discussions.
 
-- Until that meeting, organizers had concentrated on settling the disposition of large electric shop tools.  (The stuff that’s hard to move without planning…)
-  - Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
-  - Eric S. produced some lists with pictures of large shop tools the still needed some type of decision.
-  - After that constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).
-
- - A spreadsheet representing the list of what large shop tools various craftsmen should plan to bring to the shop is liniked below.
-   - Please check out the list, and plan to bring any items highlighted in green!  Thanks a ton to those that participated.      
-     -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
-        -  Some browsers won't allow direct links to documents - it just appears to "spin".
-        -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
-     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV042623Tools-Equipment-Selected.pdf) </br>
-     -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
-#### The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
-   - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
-   - We settled on using a "common sense" approach.
-   - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
-	
 * * *
-	  
+
 - [Click here to see Old News.](./Collateral/OldNews.md)
 - [Click here to see the old Main Page with Large Tool Pictures!](./readme-OLD.md)
 
