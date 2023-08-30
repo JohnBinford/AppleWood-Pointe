@@ -100,6 +100,11 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
        <img src="../CraftsMen/Len-C/Thumbnails/Workbench-T.jpg">
        </a>
        </td>
+ <td valign="top">
+       <a href="../CraftsMen/Len-C/Sanding-Table.jpeg">
+       <img src="../CraftsMen/Len-C/Thumbnails/Sanding-Table-T.jpg">
+       </a>
+       </td>
        </tr>
   </table>
  
