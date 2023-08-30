@@ -20,8 +20,7 @@
       -  Specifically, we noted that the prosumer saw that Lan Copt offered looked to be missing those devices.
       -  Linelle had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
 -  Linelle had also offered a belt sander, but noted that another Craftman offered a better one.
-   -  John  will try to locate that item and get it on board.## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
-
+   -  John  will try to locate that item and get it on board
 * * * 
 
 ### You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
@@ -47,7 +46,7 @@
    - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
 	
 * * *
-
+## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
 
