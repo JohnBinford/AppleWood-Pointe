@@ -62,7 +62,8 @@
   </br>
 - Sometimes the trick to a successful google search is to learn the terminology.
   - I read started with “Rope Descent Equipment” and after about ten steps found the term “Rigging Sleeve”
-  - A quick new search found these…. </br>
+  - A quick new search found these...
+</br>
  <img src = "./Collateral/Rigging-Sleeve-1.png"> </br>
  <img src = "./Collateral/Riggin-Sleeve-2.png"> </br>
  
