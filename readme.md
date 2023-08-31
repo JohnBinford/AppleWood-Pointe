@@ -59,7 +59,7 @@
 
 - With the help of Doug,  John speculates that these heavy pipes are "guides" to allow for a "rope" to be "dangled" from the eaves of each unit.  (You can see them protruding throiugh the soffits centered on the main window of each unit.)
   - One would go into the attic with a special rope with a small weight and feed it through the end of this pipe from the catwalk that's already up there...
-  - </br>
+  </br>
 - Sometimes the trick to a successful google search is to learn the terminology.
   - I read started with “Rope Descent Equipment” and after about ten steps found the term “Rigging Sleeve”
   - A quick new search found these….
