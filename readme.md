@@ -37,6 +37,7 @@
      -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
         -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
+- Note:  This spreadsheet has a couple of very minor changes pending.  (See most recent update above.)
      -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV042623Tools-Equipment-Selected.pdf) </br>
      -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
      
