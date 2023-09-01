@@ -16,7 +16,7 @@
    -  Linelle will keep his Miter Saw in reserve until we know for sure.
 -  There was a bit of disucssion about shop safety.
    - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
-      -  We decided to check on the current says that we elected, and came up with alternatives if necessary.
+      -  We decided to check on the current saWs that we elected, and came up with alternatives if necessary.
       -  Specifically, we noted that the prosumer saw that Lan Copt offered looked to be missing those devices.
       -  Jack had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
 -  Linelle had also offered a belt sander, but noted that another Craftman offered a better one.
