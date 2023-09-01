@@ -18,7 +18,7 @@
    - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
       -  We decided to check on the current says that we elected, and came up with alternatives if necessary.
       -  Specifically, we noted that the prosumer saw that Lan Copt offered looked to be missing those devices.
-      -  Linelle had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
+      -  Jack had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
 -  Linelle had also offered a belt sander, but noted that another Craftman offered a better one.
    -  John  will try to locate that item and get it on board
 * * * 
