@@ -692,12 +692,23 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>:white_check_mark:  Swiss Combination Table Saw</td>
-  </tr>
+    <th>:white_check_mark:  Swiss (Inca) Saw</td>
+    <th>:white_check_mark:  Fein Hepa Vacuum</td>  
+    <th>:white_check_mark:  FessTool MFT Track</td>
   <tr>
       <td valign="top">
       <a href="../CraftsMen/Jack-W/Swiss-Saw.jpeg">
       <img src="../CraftsMen/Jack-W/Thumbnails/Swiss-Saw-T.jpg">
+      </a>
+      </td>
+  <td valign="top">
+       <a href="../CraftsMen/Jack-W/Swiss-Saw.jpeg">
+      <img src="../CraftsMen/Jack-W/Thumbnails/Swiss-Saw-T.jpg">
+       </a>
+  </td>
+  <td valign="top">
+      <a href="../CraftsMen/Jack-W/Swiss-Saw.jpeg">
+      <img src="../CraftsMen/Jack-W/Thumbnails/Swiss-Saw-T.jpg">      
       </a>
       </td>
   </tr>
