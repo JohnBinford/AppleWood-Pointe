@@ -643,7 +643,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>:white_check_mark:  Tool Chest</td>
     <th>:white_check_mark:  Work Bench</td>
-    <th>:white_c.heck_mark:  Bench Holes</td>
+    <th>:white_check_mark:  Bench Holes</td>
   </tr>
   <tr>
  <td valign="top">
