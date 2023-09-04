@@ -15,7 +15,7 @@
    -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
 -  There was a bit of disucssion about shop safety.
    - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
-      -  We decided to check on the current saWs that we elected, and came up with alternatives if necessary.
+      -  We decided to check on the current saws that we elected, and came up with alternatives if necessary.
       -  Jack had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments. 
          -  The Gang of four (leadership busybodies) have asked for Jack's versatile saw!  
 * * * 
