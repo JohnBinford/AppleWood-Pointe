@@ -363,7 +363,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Rigid Work Support</td>
+    <th>:white_check_mark:  Rigid Work Support</td>
     <th>:white_check_mark:  Machine Table on Drill Press</td>
     <th>10" Compound Miter</td>
   
@@ -396,8 +396,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 	
   <tr>
    <td valign="top">
-      <a href="./image4.jpeg">
-      <img src="./Thumbnails/image4-t.jpg">
+      <a href="../CraftsMen/Ralph-L/image4.jpeg">
+      <img src="../CraftsMen/Ralph-L//Thumbnails/image4-t.jpg">
       </a>
    </td>
 
