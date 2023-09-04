@@ -584,6 +584,20 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  </table>
 
 
+<table>
+  <tr>
+    <th>:white_check_mark:  Swiss Combination Table Saw</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="../CraftsMen/Jack-W/Swiss-Saw.jpeg">
+      <img src="../CraftsMen/Jack-W/Thumbnails/Swiss-Saw-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ 
  <table>
   <tr>
     <th>:white_check_mark:  Jack's NEW Custom Workbench
