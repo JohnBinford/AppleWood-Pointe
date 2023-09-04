@@ -366,7 +366,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
     <th>Rigid Work Support</td>
     <th>:white_check_mark:  Machine Table on Drill Press</td>
     <th>10" Compound Miter</td>
-    <th>:white_check_mark:  10" Ryobi Table Saw</td>   
+  
   </tr>
   <tr>
       <td valign="top">
@@ -385,11 +385,28 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       <img src="../CraftsMen/Ralph-L/Thumbnails/image3-t.jpg">
       </a>
       </td>
-        <td valign="top">
-      <a href="../CraftsMen/Ralph-L/image4.jpeg">
-      <img src="../CraftsMen/Ralph-L/Thumbnails/image4-t.jpg">
+</tr>
+</table>
+
+<table>
+  <tr>
+    <th>:white_check_mark:  10" Ryobi Table Saw</td> 
+    <th>:white_check_mark:  HD Vice</td>
+   </tr> 
+	
+  <tr>
+   <td valign="top">
+      <a href="./image4.jpeg">
+      <img src="./Thumbnails/image4-t.jpg">
       </a>
-      </td>
+   </td>
+
+
+   <td> valign="top">      
+      <a href="../CraftsMen/Ralph-L/Vice.jpeg">
+      <img src="../CraftsMen/Ralph-L/Thumbnails/Vice-T.jpg">
+      </a>
+   </td>
   </tr>
  </table>
  
