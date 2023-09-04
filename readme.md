@@ -36,8 +36,8 @@
         -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
 - Note:  This spreadsheet has a couple of very minor changes pending.  (See most recent update above.)
      -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090323Tools-Equipment-Selected.pdf) </br>
-          -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090323Tools-Equipment-Selected.xls) </br> </br>
-	  -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
+     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090323Tools-Equipment-Selected.xls) </br> </br>
+     -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
      
 ## The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
    - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
