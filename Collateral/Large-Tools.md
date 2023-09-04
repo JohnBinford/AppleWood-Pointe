@@ -336,6 +336,21 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </a>
       </td>
   </tr>
+  </table>
+
+  
+  <table>
+<tr>
+    <th>:white_check_mark: Drafting Table</td>
+  </tr>
+ <tr>
+      <td valign="top">
+      <a href="../CraftsMen/Linelle-J/Drafting-Table.jpg">
+      <img src="../CraftsMen/Linelle-J/Thumbnails/Drafting-Table-T.jpg">
+      </a>
+      </td>
+  </tr>
+   
  </table>
 -  Linelle recently added a few more items to his list.  
    -  36 x 12 Inch Lalthe (Above)
