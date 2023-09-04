@@ -402,7 +402,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
    </td>
 
 
-   <td> valign="top">      
+  <td> valign="top">      
       <a href="../CraftsMen/Ralph-L/Vice.jpeg">
       <img src="../CraftsMen/Ralph-L/Thumbnails/Vice-T.jpg">
       </a>
