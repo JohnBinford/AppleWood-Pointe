@@ -3,6 +3,79 @@
 All current pending Workshop Users have now submitted their Tools / Equipment they are donating to the Workshop for us to make our selections from.  Those pending Workshop Users not shown below are O.K. for us to choose from those Tools / Equipment submitted by others.  ...  We've reviewed the Tools / Equipment submitted and recommend (based upon age, mechanical condition, new parts, features, functions, and individual factors) those highlighted with a green checkmark ✅ in the descriptions below. </br>
 *(Click a Pictiure for a High Definition Version!)* 
 
+#### John-B's Submissions
+
+<table>
+  <tr>
+    <th>Miter Saw</td>
+    <th>Miter Saw Accessories</td>
+    <th>Belt-Sander-2</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Miter-Saw.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Miter-Saw-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Miter-Saw-ACC.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Miter-Saw-ACC-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Belt-Sander-2.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Belt-Sander-2-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <th>Finishing Sander</td>
+    <th>Router</td>
+    <th>"Sawz-ALL"</td>
+  </tr>
+  <tr>
+ <td valign="top">
+      <a href="../CraftsMen/John-B/Finishing-Sander.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Finishing-Sander-T.jpg">
+      </a>
+      </td>      
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Router-2.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Router-2-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Sawz-All-1.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Sawz-All-1-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+ <table>
+  <tr>
+    <th>WorkMate</td>
+    <th>Drill Press</td>
+  </tr>
+  <tr>
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Workmate.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Workmate-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
+      <a href="../CraftsMen/John-B/Drill-Press-1.jpg">
+      <img src="../CraftsMen/John-B/Thumbnails/Drill-Press-1-T.jpg">
+      </a>
+      </td>
+  </tr>
+ </table>
+
+
+
 ####  Len-B's Submissions.
 <table>
   <tr>
