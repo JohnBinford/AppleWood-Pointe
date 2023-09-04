@@ -434,7 +434,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>12 Inch Miter Saw</th>
     <th>:white_check_mark:   Grinder</th>
-    <th>Orbital Sander</th>
+    <th>:white_check_mark:   Orbital Sander</th>
   </tr>
   <tr>
       <td valign="top">
@@ -458,8 +458,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>Compressor</th>
-    <th>Good Brush</th>
-    <th>Hand Truck</th>
+    <th>:white_check_mark:   Good Brush</th>
+    <th>:white_check_mark: ?  Hand Truck</th>
   </tr>
   <tr>
  <td valign="top">
