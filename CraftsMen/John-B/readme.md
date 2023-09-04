@@ -60,13 +60,12 @@
       <a href="./Workmate.jpg">
       <img src="./Thumbnails/Workmate-T.jpg">
       </a>
-         </td>
-  </tr>
-  <tr>
+      </td>
       <td valign="top">
       <a href="./Drill-Press-1.jpg">
       <img src="./Thumbnails/Drill-Press-1-T.jpg">
       </a>
-         </td>
+      </td>
   </tr>
+  
  </table>
