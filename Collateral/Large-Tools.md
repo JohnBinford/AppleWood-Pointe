@@ -7,9 +7,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Miter Saw</td>
-    <th>Miter Saw Accessories</td>
-    <th>Belt-Sander-2</td>
+    <th>:white_check_mark:  Saw</td>
+    <th>:white_check_mark:  Saw Accessories</td>
+    <th>:white_check_mark: -Sander-2</td>
   </tr>
   <tr>
       <td valign="top">
@@ -32,9 +32,9 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
   <tr>
-    <th>Finishing Sander</td>
-    <th>Router</td>
-    <th>"Sawz-ALL"</td>
+    <th>:white_check_mark:  Sander</td>
+    <th>:white_check_mark: </td>
+    <th>:white_check_mark: "Sawz-ALL"</td>
   </tr>
   <tr>
  <td valign="top">
@@ -57,8 +57,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
  <table>
   <tr>
-    <th>WorkMate</td>
-    <th>Drill Press</td>
+    <th>:white_check_mark: </td>
+    <th>:white_check_mark:  Press</td>
   </tr>
   <tr>
       <td valign="top">
@@ -147,7 +147,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  <table>
    <tr>
      <th>Sorted-Fasteners</td>
-     <th>:white_check_mark:  Table-Saw</td>
+     <th>Table-Saw (SOLD)</td>
    </tr>
    <tr>
        <td valign="top">
@@ -166,6 +166,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
  <table>
    <tr>
      <th>:white_check_mark:  WorkBench</td>
+     <th>Sanding Table (SOLD)</td>
    </tr>
    <tr>
        <td valign="top">
@@ -266,8 +267,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 <table>
   <tr>
     <th>:white_check_mark: Dust-Collector</td>
-    <th>Table-Saw</td>
-    <th>:white_check_mark: Miter-Saw</td>
+    <th>:white_check_mark: Table-Saw</td>
+    <th>Miter-Saw</td>
   </tr>
   <tr>
       <td valign="top">
