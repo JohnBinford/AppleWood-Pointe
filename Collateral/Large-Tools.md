@@ -716,14 +716,14 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 
 <table>
 	<tr>
-		<th:white_check_mark:  Makita Saw (For MFT)</th>
-	</tr>
+	<th>:white_check_mark:  Makita Saw (For MFT)</td>
+	</tr>		
 	<tr>
   	<td valign="top">
-      <a href="../CraftsMen/Jack-W/Makita.png">
-      <img src="../CraftsMen/Jack-W/Thumbnails/Makita-T.png">      
-      </a>
-      </td>
+        <a href="../CraftsMen/Jack-W/Makita.png">
+        <img src="../CraftsMen/Jack-W/Thumbnails/Makita-T.png">      
+        </a>
+        </td>
 	</tr>			
 </table>
 
