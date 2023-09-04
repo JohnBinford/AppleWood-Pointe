@@ -702,17 +702,33 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </a>
       </td>
   <td valign="top">
-       <a href="../CraftsMen/Jack-W/Swiss-Saw.jpeg">
-      <img src="../CraftsMen/Jack-W/Thumbnails/Swiss-Saw-T.jpg">
+       <a href="../CraftsMen/Jack-W/Fein-Vac.jpeg">
+      <img src="../CraftsMen/Jack-W/Thumbnails/Fein-Vac-T.jpg">
        </a>
   </td>
   <td valign="top">
-      <a href="../CraftsMen/Jack-W/Swiss-Saw.jpeg">
-      <img src="../CraftsMen/Jack-W/Thumbnails/Swiss-Saw-T.jpg">      
+      <a href="../CraftsMen/Jack-W/MultiFunction.jpeg">
+      <img src="../CraftsMen/Jack-W/Thumbnails/MultiFunction-T.jpg">      
       </a>
       </td>
   </tr>
  </table>
+
+<table>
+	<tr>
+		<th:white_check_mark:  Makita Saw (For MFT)</th>
+	</tr>
+	<tr>
+  	<td valign="top">
+      <a href="../CraftsMen/Jack-W/Makita.png">
+      <img src="../CraftsMen/Jack-W/Thumbnails/Makita-T.png">      
+      </a>
+      </td>
+	</tr>			
+</table>
+
+
+
 
  
  <table>
@@ -801,7 +817,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
   <tr>
     <th>Router Table</td>
     <th>Planer</td>
-    <th>:white_check_mark:  Radial Arm Saw</td>
+    <th>Radial Arm Saw</td>
   </tr>
   <tr>
       <td valign="top">
