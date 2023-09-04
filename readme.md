@@ -13,14 +13,16 @@
 
 -  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
    -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
-   -  Linelle will keep his Miter Saw in reserve until we know for sure.
 -  There was a bit of disucssion about shop safety.
    - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
       -  We decided to check on the current saWs that we elected, and came up with alternatives if necessary.
       -  Specifically, we noted that the prosumer saw that Lan Copt offered looked to be missing those devices.
+         -  Great News!  Len has all the safety stuff, so we will have a heavier duty saw!  
       -  Jack had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments that would be a good alternative.
+         -  The Gang of four (leadership busybodies) have decided to  ask for Jack's fancy saw too!  
 -  Linelle had also offered a belt sander, but noted that another Craftman offered a better one.
    -  John  will try to locate that item and get it on board
+      -   Great News!  John found the nice Sanding Table in Gary's Offerings.  
 * * * 
 
 ### You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
