@@ -47,8 +47,8 @@
    - Please check out the list, and plan to bring any items highlighted in green!  Thanks a ton to those that participated.      
      -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
-        -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
-- Note:  This spreadsheet has a couple of very minor changes pending.  (See most recent update above.)
+        -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br> </br>
+
      -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
      -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.xls) </br>
      -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.ods) </br> </br>
