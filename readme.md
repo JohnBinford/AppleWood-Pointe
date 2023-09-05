@@ -49,9 +49,10 @@
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
         -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br>
 - Note:  This spreadsheet has a couple of very minor changes pending.  (See most recent update above.)
-     -  [Link to the PDF Final Large Tool Selections.](./Collateral/APAV090323Tools-Equipment-Selected.pdf) </br>
-     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Collateral/APAV090323Tools-Equipment-Selected.xls) </br> </br>
-     -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
+     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
+     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.xls) </br>
+          -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.ods) </br> </br>
+	  -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
 
 * * *
 
