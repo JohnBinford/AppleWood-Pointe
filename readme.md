@@ -8,12 +8,15 @@
 * * *
 * * *
 
-### There have been a couple of nice tools offered recently
+## News
+
+### There have been a few new tools offered recently!
 
 -  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )</br></br>
    -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)  (Same as link below...)
 
-## News
+* * *
+
 ###  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
 
 -  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
