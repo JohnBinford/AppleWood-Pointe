@@ -3,8 +3,9 @@
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
 - Use the link below to see some introductory information.</br>
-  - [Click here to see the "New Guy" page.](./Collateral/newguy.md)
-	
+  - [Click here to see the "New Guy" page.](./Collateral/newguy.md) </br> </br>
+
+ 
 * * *
 * * *
 
@@ -12,10 +13,14 @@
 
 ### There have been a few new tools offered recently!
 
--  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )</br></br>
-   -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)  (Same as link below...)
+-  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )
+   -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)  (Same as link below...) </br> </br>
+     -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
+        -  Some browsers won't allow direct links to documents - it just appears to "spin".
+        -  If so, just download it using the icon on the top right.  (An arown pointing down into a little tray.)
+     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
 
-* * *
+   * * *
 
 ###  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
 
