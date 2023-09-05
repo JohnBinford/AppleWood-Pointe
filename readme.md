@@ -28,9 +28,15 @@
          -  The Gang of four (leadership busybodies) have asked for Jack's versatile saw!  
 * * * 
 
-### You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
-	
-- The shop website was reviewed as a foundation for various discussions.
+## You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
+	     
+### The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
+   - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
+   - We settled on using a "common sense" approach.
+   - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
+	- The shop website was reviewed as a foundation for various discussions.
+
+* * * 
 
 - Until that meeting, organizers had concentrated on settling the disposition of large electric shop tools.  (The stuff that’s hard to move without planning…)
   - Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
@@ -46,13 +52,9 @@
      -  [Link to the PDF Final Large Tool Selections.](./Collateral/APAV090323Tools-Equipment-Selected.pdf) </br>
      -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Collateral/APAV090323Tools-Equipment-Selected.xls) </br> </br>
      -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
-     
-## The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
-   - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
-   - We settled on using a "common sense" approach.
-   - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
-	
+
 * * *
+
 ## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
