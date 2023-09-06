@@ -4,8 +4,7 @@
 
 - Use the link below to see some introductory information.</br>
   - [Click here to see the "New Guy" page.](./Collateral/newguy.md) </br> </br>
-
- 
+  
 * * *
 * * *
 
@@ -35,13 +34,11 @@
 
 ## You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
 	     
-### The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
+-  The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
    - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
    - We settled on using a "common sense" approach.
    - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
 	- The shop website was reviewed as a foundation for various discussions.
-
-* * * 
 
 - Until that meeting, organizers had concentrated on settling the disposition of large electric shop tools.  (The stuff that’s hard to move without planning…)
   - Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
@@ -61,28 +58,9 @@
 
 * * *
 
-## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
--  John recently spotted this collection of those pipes in Stacy's recent picture upload.
-   -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
-
-<img src = "./Collateral/Strange-Pipe.png"> </br>
-</br>
--  Here's an earlier picture of one of those heavy looking pipes in the overhead somewhere...</br>
-
-<img src = "./Collateral/Pipe-2.png"> </br>
-</br>
-
-- With the help of Doug,  John speculates that these heavy pipes are "guides" to allow for a "rope" to be "dangled" from the eaves of each unit.  (You can see them protruding throiugh the soffits centered on the main window of each unit.)
-  - One would go into the attic with a special rope with a small weight and feed it through the end of this pipe from the catwalk that's already up there...
-  </br>
-- Sometimes the trick to a successful google search is to learn the terminology.
-  - I read started with “Rope Descent Equipment” and after about ten steps found the term “Rigging Sleeve”
-  - A quick new search found these...
-</br>
- <img src = "./Collateral/Rigging-Sleeve-1.png"> </br>
- <img src = "./Collateral/Riggin-Sleeve-2.png"> </br>
- 
- - I think those long square tubes are indeed for window washing —  just a home made version of a cmmercial product.
+#### A few of us were curious what the following pipes were for!
+<img src = "./Collateral/Strange-Pipe-T.png"> </br>
+  - [Click here to get the answer for the mystery.](./readme-OLD.md)
 
 * * *
 
