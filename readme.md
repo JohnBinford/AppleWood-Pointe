@@ -32,7 +32,7 @@
          -  The Gang of four (leadership busybodies) have asked for Jack's versatile saw!  
 * * * 
 
-## You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
+###  You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
 	     
 -  The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
    - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
@@ -60,7 +60,7 @@
 
 #### A few of us were curious what the following pipes were for!
 <img src = "./Collateral/Strange-Pipe-T.png"> </br>
-  - [Click here to get the answer for the mystery.](./readme-OLD.md)
+  - [Click here to get the answer for the mystery.](./Collateral/Pipes.md)
 
 * * *
 
