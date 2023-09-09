@@ -16,7 +16,7 @@
    -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)  (Same as link below...) </br> </br>
      -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
-        -  If so, just download it using the icon on the top right.  (An arown pointing down into a little tray.)
+        -  If so, just download it using the icon on the top right.  (An arrow pointing down into a little tray.)
      -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
 
    * * *
@@ -49,7 +49,7 @@
    - Please check out the list, and plan to bring any items highlighted in green!  Thanks a ton to those that participated.      
      -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
-        -  If so, just download it using the icon on tohe top right.  (An arown pointing down into a little tray.)</br> </br>
+        -  If so, just download it using the icon on tohe top right.  (An arrow pointing down into a little tray.)</br> </br>
 
      -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
      -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.xls) </br>
