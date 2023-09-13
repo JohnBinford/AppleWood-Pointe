@@ -115,7 +115,7 @@
   <tr>
       <td valign="top">
         - Dave recently passed away.</br>
-        - He was one fo the first CraftsMen to help get organization of the shop stared.</br>
+        - He was one fo the first CraftsMen to help get organization of the shop started.</br>
 	- Dave was very encouraging and brought a positive attitude to the process. </br>
       </td>
   </tr>
