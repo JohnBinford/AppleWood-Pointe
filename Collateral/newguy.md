@@ -4,9 +4,7 @@
 - This website was originally used used to facilitate selection of the best of the large shop tools many of us might donate.
   - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)
 ### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
-- Interim Moderator Eric S. will gathered pictures and information, and then posted it all here for easy viewing.
-- The table at the top of the main page shows recent activity, you can click the folders or activity to see the information.
-- Verbiage next to each folder indicates the most recent activity for that folder.
+- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
 
 * * *
 
