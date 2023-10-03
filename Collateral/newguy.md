@@ -1,17 +1,17 @@
 #  AppleWood Pointe Hobby Shop
 ## Newguy Page </br>
 ## This repository is a simple place to share ideas and pictures in order to prepare our workshop at AWP.
-- This website was used used to facilitate selection of the best of the great.
+- This website was originally used used to facilitate selection of the best of the Large shop tools many of us might donate.
   - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)
 ### Questions, Ideas, and Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gathered pictures and information, and then posted it all here for easy viewing.
 - The table at the top of the main page shows recent activity, you can click the folders or activity to see the information.
 - Verbiage next to each folder indicates the most recent activity for that folder.
-### Use the email list to create email threads for general discussions. 
 
 * * *
-##  Suggestions for your own submissions and optional information for your personal profile.
-#### At least!    
+
+##  We would love to have some information about you and your interests so that we might get to know each other.
+###  Suggestions for information for your personal profile.
 - Pictures and descriptive information about tools you might donate.
 - Suggestions for Shop.
 #### Information for your own personal profile. See [Link to Eric's Profile](../CraftsMen/Eric-S/Profile.md) for examples.
