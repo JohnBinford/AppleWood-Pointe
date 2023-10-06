@@ -10,7 +10,7 @@
 -  To dovelope some operating documents to ensure safe use.
 -  To help future Workshop Users with large power tools determine what to bring, and what will not be needed.
    - About 20 of us submitted pictures of various large tools.
-   - With consent of the entire group, the leadership committee produced a list of tools we all might use,  and those that would be dupicates.
+   - With consent of the entire group, the leadership committee produced a list of tools we all might use,  and those that would be duplicates.
    - A list was proposed, evaulated, condified, and is now published via email to the group and the link below...
      -  Some browsers won't allow direct links to documents - it just appears to "spin".
      -  If so, just download it using the icon on the top right of the linked page.  (An arrow pointing down into a little tray.)
