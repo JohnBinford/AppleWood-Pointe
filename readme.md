@@ -21,6 +21,8 @@
 
 ## News
 
+-  A new couple Don and Mary Ann Edberg, recently joined the group.
+
 ### There have been a few new tools offered recently!
 
 -  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )
@@ -33,6 +35,7 @@
    * * *
 
 ###  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
+
 
 -  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
    -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
