@@ -7,7 +7,7 @@
 
 ### The Workshop Special Interest Group was established for three reasons.
 -  To establish a vision of what our workshop might be like.
--  To dovelope some operating documents to ensure safe use.
+-  To develop some operating documents to ensure safe use.
 -  To help future Workshop Users with large power tools determine what to bring, and what will not be needed.
    - About 20 of us submitted pictures of various large tools.
    - With consent of the entire group, the leadership committee produced a list of tools we all might use,  and those that would be duplicates.
