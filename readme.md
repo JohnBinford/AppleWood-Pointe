@@ -1,9 +1,59 @@
 # Applewood Pointe Workshop
 
-### If you are new the the Apple Valley Workshop Group, or this is your first time here...
+## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
-- Use the link below to see some introductory information.</br>
-  - [Click here to see the "New Guy" page.](./Collateral/newguy.md) </br> </br>
+## This repository is our place to share ideas and pictures in order to prepare  and utilize our workshop at AWP.
+- (This website was originally used used to facilitate selection of the best of the large shop tools many of us might donate.
+  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)) </br>
+
+* * *
+* * *
+
+## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
+- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
+
+* * *
+
+</br>
+</br>
+
+##  We would love to have some information about you and your interests so that we might get to know each other.
+###  Suggestions for information for your personal profile.
+- Pictures and descriptive information about tools you might donate.
+- Suggestions for Shop.
+#### Information for your own personal profile. See [Link to Eric's Profile](../CraftsMen/Eric-S/Profile.md) for examples.
+- A picture of you, or a well known avatar for workmanship.
+- Some background information. 
+  - Career milstones and interests.
+  - Interests, Hobbies, Skills, etc.
+  - Potential things to learn.
+
+**  Send via email to our fictional leader - johnathan.binford@gmail.com
+-  Eric  S. (Unit 309) is our temporary webmaster and one of our gang of four.
+-  He can take your information and comments as well.  - ad0mz@centurylink.net
+   -  ("Gang of four" = BusyBodies that got things rolling more than a year ago.)
+-  Other provisionary busy bodies are...
+   -  Ralph L.
+   -  Linelle J.
+   -  Jack W
+      -  We try to respect Internet privacy, so please email John Binford (above) for these three guys' emails.
+      -  You can also email John to get our entire mailing list!
+
+* * * 
+
+#### About John Binford
+- Note about the use of "John Binford" for this website and email.
+  - An imaginary contact is "portable" in case someone else wishes to take over,
+    - Eric-S can simply give the password to the new person, and it's done.
+    - John Binford also manages this website.
+    - If Eric's personal email was used,  a whole new user would be required.
+    - It helps us maintain Internet privacy by not publishing anyone's real personal email address.
+    - https://www.facebook.com/people/Binford-Tools/100057303114446/
+  - John Binford is the collective Nom De Plume for three or four individuals that are authoring content for these pages.  Eric-S just types a lot.
+ 
+* * *
+* * *
+
 
 ### The Workshop Special Interest Group was established for three reasons.
 -  To establish a vision of what our workshop might be like.
@@ -23,56 +73,10 @@
 
 -  A new couple Don and Mary Ann Edberg, recently joined the group.
 
-### There have been a few new tools offered recently!
-
--  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )
-   -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)  (Same as link below...) </br> </br>
-     -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
-        -  Some browsers won't allow direct links to documents - it just appears to "spin".
-        -  If so, just download it using the icon on the top right.  (An arrow pointing down into a little tray.)
-     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
-
-   * * *
-
-###  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
-
-
--  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
-   -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
--  There was a bit of disucssion about shop safety.
-   - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
-      -  We decided to check on the current saws that we elected, and came up with alternatives if necessary.
-      -  Jack had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments. 
-         -  The Gang of four (leadership busybodies) have asked for Jack's versatile saw!  
-* * * 
-
-###  You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
-	     
--  The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
-   - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
-   - We settled on using a "common sense" approach.
-   - If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. 
-	- The shop website was reviewed as a foundation for various discussions.
-
-- Until that meeting, organizers had concentrated on settling the disposition of large electric shop tools.  (The stuff that’s hard to move without planning…)
-  - Letting potential donors know what will be needed and what they might need to otherwise dispose of was the group's primary job.
-  - Eric S. produced some lists with pictures of large shop tools the still needed some type of decision.
-  - After that constructive discussion, the group unanimously agreed to stand with the recommendation of the Gang of Four - (Busybodies that have been working on shop issues since 2021).
-
- - A spreadsheet representing the list of what large shop tools various craftsmen should plan to bring to the shop is liniked below.
-   - Please check out the list, and plan to bring any items highlighted in green!  Thanks a ton to those that participated.      
-     -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
-        -  Some browsers won't allow direct links to documents - it just appears to "spin".
-        -  If so, just download it using the icon on tohe top right.  (An arrow pointing down into a little tray.)</br> </br>
-
-     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
-     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.xls) </br>
-     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.ods) </br> </br>
-     -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)
 
 * * *
 
-#### A few of us were curious what the following pipes were for!
+#### A few of us were curious what the following pipes were for*
 <img src = "./Collateral/Strange-Pipe-T.png"> </br>
   - [Click here to get the answer for the mystery.](./Collateral/Pipes.md)
 
