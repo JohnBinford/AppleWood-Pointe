@@ -1,4 +1,4 @@
-## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a commoon area.
+## One of the guys wondered what the strange square metal "pipe" was in the ceiling of a common area.
 -  John recently spotted this collection of those pipes in Stacy's recent picture upload.
    -  If anyone knows what they might be, please email John.  johnathan.binford@gmail.com </br>
 
