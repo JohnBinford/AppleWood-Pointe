@@ -11,33 +11,30 @@
 
 ## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
+- Pictures and descriptive information about tools you might donate.
+- Suggestions for Shop.
+
 
 * * *
 
-</br>
-</br>
-
 ##  We would love to have some information about you and your interests so that we might get to know each other.
-###  Suggestions for information for your personal profile.
-- Pictures and descriptive information about tools you might donate.
-- Suggestions for Shop.
-#### Information for your own personal profile. See [Link to Eric's Profile](./CraftsMen/Eric-S/Profile.md) for examples.
+###  Suggested information for your personal profile.
+- See [Link to Eric's Profile](./CraftsMen/Eric-S/Profile.md) for examples.
 - A picture of you, or a well known avatar for workmanship.
 - Some background information. 
   - Career milstones and interests.
   - Interests, Hobbies, Skills, etc.
   - Potential things to learn.
-
-**  Send via email to our fictional leader - johnathan.binford@gmail.com
--  Eric  S. (Unit 309) is our temporary webmaster and one of our gang of four.
--  He can take your information and comments as well.  - ad0mz@centurylink.net
-   -  ("Gang of four" = BusyBodies that got things rolling more than a year ago.)
+-  Send via email to our fictional leader - johnathan.binford@gmail.com
+   -  Eric  S. (Unit 309) is our temporary webmaster and one of our gang of four.
+   -  He can take your information and comments as well.  - ad0mz@centurylink.net
+      -  ("Gang of four" = BusyBodies that got things rolling more than a year ago.)
 -  Other provisionary busy bodies are...
    -  Ralph L.
    -  Linelle J.
    -  Jack W
-      -  We try to respect Internet privacy, so please email John Binford (above) for these three guys' emails.
-      -  You can also email John to get our entire mailing list!
+-  We try to respect Internet privacy, so please email John Binford (above) for these three guys' emails.
+-  You can also email John to get our entire mailing list!
 
 * * * 
 
