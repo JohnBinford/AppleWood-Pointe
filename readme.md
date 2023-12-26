@@ -18,6 +18,7 @@
 * * *
 
 ##  We would love to have some information about you and your interests so that we might get to know each other.
+   -  [Link to the new Profile Page!](./Collateral/Profiles.md)
 ###  Suggested information for your personal profile.
 - See [Link to Eric's Profile](./CraftsMen/Eric-S/Profile.md) for examples.
 - A picture of you, or a well known avatar for workmanship.
