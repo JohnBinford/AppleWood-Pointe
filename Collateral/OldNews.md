@@ -3,7 +3,7 @@
 ### There have been a few new tools offered recently!
 
 -  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )
-   -  [Link to the pictures of items submitted by various CraftsMen.](../Collateral/Large-Tools.md)  (Same as link below...) </br> </br>
+   -  [Link to the pictures of items submitted by various CraftsMen.](../Collateral/Large-Tools.md)  (Same as link below...) </br>
      -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
         -  If so, just download it using the icon on the top right.  (An arrow pointing down into a little tray.)
