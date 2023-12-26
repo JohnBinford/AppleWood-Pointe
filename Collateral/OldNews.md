@@ -45,7 +45,7 @@
 
      -  [Link to the PDF Final Large Tool Selections.](../Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
      -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](../Documents/APAV090523Tools-Equipment-Selected.xls) </br>
-     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](../Documents/APAV090523Tools-Equipment-Selected.ods) </br> </br>
+     -  [Link to the EXCEL Spreadsheet Final Large Tool Selections.](../Documents/APAV090523Tools-Equipment-Selected.ods) </br>
      -  [Link to the pictures of items submitted by various CraftsMen.](../Collateral/Large-Tools.md)
 
  
