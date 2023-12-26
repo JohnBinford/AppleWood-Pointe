@@ -11,8 +11,8 @@
 
 ## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
-- Pictures and descriptive information about tools you might donate.
-- Suggestions for Shop.
+   - Pictures and descriptive information about tools you might donate.
+   - Suggestions for Shop.
 
 
 * * *
