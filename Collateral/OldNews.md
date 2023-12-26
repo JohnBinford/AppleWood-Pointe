@@ -1,17 +1,18 @@
-# Oold News
- ### There have been a few new tools offered recently!
+## Old News
+
+### There have been a few new tools offered recently!
 
 -  Not a lot has changed, and the fellows directly involved have horse-traded amoung themselves so are well informed (we hope :-)  )
-   -  [Link to the pictures of items submitted by various CraftsMen.](./Collateral/Large-Tools.md)  (Same as link below...) </br> </br>
+   -  [Link to the pictures of items submitted by various CraftsMen.](../Collateral/Large-Tools.md)  (Same as link below...) </br> </br>
      -  A link to the PDF of the Large Tools Selection Spreadsheet lies below.
         -  Some browsers won't allow direct links to documents - it just appears to "spin".
         -  If so, just download it using the icon on the top right.  (An arrow pointing down into a little tray.)
-     -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
+     -  [Link to the PDF Final Large Tool Selections.](../Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
 
    * * *
-
+   
+## News prior to September 2023.
 ###  The "Gang of Four" recently met to finalize a few minor changes to our large tools list.
-
 
 -  A new guy John Beyer, contacted John Binford and offered a few really nice tools; including a new in the box Miter Saw!
    -  Linelle Johnson was going to bring his, but he has offered to "keep it", and have John bring his nicer saw to the shop.
@@ -19,7 +20,8 @@
    - The gang concluded that certain items MUST have certtain guards and other safety attachments - especially on Table Saws.
       -  We decided to check on the current saws that we elected, and came up with alternatives if necessary.
       -  Jack had recently offered a Swiss-built Table saw that has safety and many other jigs and attachments. 
-         -  The Gang of four (leadership busybodies) have asked for Jack's versatile saw!  
+         -  The Gang of four (leadership busybodies) have asked for Jack's versatile saw!
+         -   
 * * * 
 
 ###  You might remember some email chatter about  the fact that 13 of us met at the Dakota County Library to chat about shop stuff.
