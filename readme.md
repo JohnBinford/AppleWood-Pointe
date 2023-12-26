@@ -73,7 +73,7 @@
 
 * * *
 
-#### A few of us were curious what the following pipes were for*
+### A few of us were curious what the following pipes were for.  (Shown on the Flickr Website*
 <img src = "./Collateral/Strange-Pipe-T.png"> </br>
   - [Click here to get the answer for the mystery.](./Collateral/Pipes.md)
 
