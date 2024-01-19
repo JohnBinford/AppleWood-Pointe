@@ -77,29 +77,6 @@
  
  ***
  
-#### Dave-P's Profile.
-<table>
-  <tr>
-    <th>Dave</td>
-    <th>Profile and Interests</td>
-  </tr>
-  <tr>
-      <td valign="top">
-      <a href="../CraftsMen/Dave-P/Collateral/Dave-P.jpg">
-      <img src="../CraftsMen/Dave-P/Collateral/Dave-P-T.jpg">
-      </a>
-      </td
-  <tr>
-      <td valign="top">
-        - Dave recently passed away.</br>
-        - He was one fo the first CraftsMen to help get organization of the shop started.</br>
-	- Dave was very encouraging and brought a positive attitude to the process. </br>
-      </td>
-  </tr>
- </table>	
- 
- ***
- 
   #### Rick-S's Profile
 <table>
   <tr>
