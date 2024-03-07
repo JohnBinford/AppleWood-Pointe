@@ -7,6 +7,55 @@
   - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)) </br>
 
 * * *
+####  Shop-Pictures
+
+- John finally closed on his unit, so was able to do more than peek through the windows.
+- Here are a few pictures.
+- The shop looks nice.  No 220, but enough 110.
+- Seems like we will need a key to the storage area!
+- Bonus,  it IS ventilated, so with a bit of filtering we should be able to deal with fumes.
+  - John has not yeat traced where the oiutlet is...
+
+<table>
+
+   <tr>
+       <td valign="top">
+       <a href=".Collateral/Shop-Pictures/1.jpg">
+       <img src="./Collateral/Shop-Pictures/Thumbnails/1-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./Collateral/Shop-Pictures/2.jpg">
+       <img src="./Collateral/Shop-Pictures/Thumbnails/2-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./Collateral/Shop-Pictures/3.jpg">
+       <img src="./Collateral/Shop-Pictures/Thumbnails/3-T.jpg">
+       </a>
+       </td>
+   </tr>
+   <tr>
+       <td valign="top">
+       <a href=".Collateral/Shop-Pictures/4.jpg">
+       <img src="./Collateral/Shop-Pictures/Thumbnails/4-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./Collateral/Shop-Pictures/5.jpg">
+       <img src="./Collateral/Shop-Pictures/Thumbnails/5-T.jpg">
+       </a>
+       </td>
+       <td valign="top">
+       <a href="./Collateral/Shop-Pictures/6.jpg">
+       <img src="./Collateral/Shop-Pictures/Thumbnails/6-T.jpg">
+       </a>
+       </td>
+   </tr>
+   </table>
+
+
+
 * * *
 
 ## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
