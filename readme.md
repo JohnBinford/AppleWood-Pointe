@@ -18,7 +18,7 @@
     - We will need to purchase a few safty related items.  (For example, a fireproof oily rag container.)
     - We might have a bit of contrcution associated with our new dust collection systems. (See our nice present below!)
       - Some members have dontaed profesional-grade cabinets and shelving, some of which require haging on the walls. 
-- With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
+- With Sara's support, our group leaders and known members will estalish guidlines and practices that will keep our shop safe and useful.
     - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
     - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
     - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
