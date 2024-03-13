@@ -13,6 +13,11 @@
   - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
     - Our nice shop will have some really nice (Big - Dangerous) power tools that require experience, training, or both.
+  - Please be careful when visiting our nice shop.  It really won't be useful for a while. Your patience is appreciated!
+    - We are collecting tools, furniture,and other items.
+    - We will need to purchase a few safty related items.  (For example, a fireproof oily rag container.)
+    - We might have a bit of contrcution associated with our new dust collection systems. (See our nice present below!)
+      - Some members have dontaed profesional-grade cabinets and shelving, some of which require haging on the walls. 
 - With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
     - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
     - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
