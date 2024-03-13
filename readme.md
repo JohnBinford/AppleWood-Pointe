@@ -87,16 +87,17 @@
   - Career milstones and interests.
   - Interests, Hobbies, Skills, etc.
   - Potential things to learn.
--  Send via email to our fictional leader - johnathan.binford@gmail.com
-   - Eric  S. (Unit 309) is our temporary webmaster and one of the 4 provisional leaders.
+-  If you wish, Please send an email with any information you migh wish to share to our fictional master leader - johnathan.binford@gmail.com
+   - Eric  S. (Unit 309) is our temporary webmaster, temporiarily John Binford, and one of the 4 provisional leaders.
      -  The other provisional busybodies are Linell J., Jack W.  and Ralph L.  
--  We try to respect Internet privacy, so please email John Binford (above) for these three guys' emails.
+-  We respect Internet privacy, so please email John Binford (above) for these three guys' emails.
+   - We won't publish the list online.  (Just in case the google robot might find it.)  
 -  You can also email John to get our entire mailing list!
   
   * * * 
   * * * 
   
-## Our provisional leaders (busybodies) maintain a onfidentially kept list of about 33 co-op members.
+## Our provisional leaders (busybodies) maintain that confidentially kept list of about 33 co-op members.
 - This 33 have expressed interest since last year.
   - We'd love to add your name if you are new to the shop.
 - Please email johnathan.binford@gmail.com for a copy of the list.
@@ -108,15 +109,13 @@
 
 ## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
 - Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
-   - Pictures and descriptive information about tools you might donate.
-   - Suggestions for Shop.
 
 * * *
 * * *
 
 ## Our Provisional Applewood Pointe of Apple Valley Workshop Manual is Complete! 
 1. Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
-we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES.
+we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES (IF they provided one).
 2. No other Workshop policies or manuals may be used until handover.</br>
 3. Once the resident Board of Directors has been established,</br>
 our group's more comprehensive Workshop Users Manual may be adopted.
@@ -127,7 +126,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 ***
   
-### Links
+### Old Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 [Link to Eric's Letter from the first luncheon.](./Collateral/JohnBinford-1.md)
