@@ -4,35 +4,39 @@
 
 ## This repository is our place to share ideas and pictures in order to prepare  and utilize our workshop at AWP.
 - (This website was originally created in 2022 to facilitate selection of the best of the large shop tools many of us might donate.
-  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)) Most large tools require special shipping and planning.
+  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)  Many large tools require special shipping and planning.
   - This task is done, and tools are starting to appear in the shop.
-
 * * *
 * * *
-
 ### News
-- Our provisionary leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
+- Our provisional leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
   - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
     - Our nice shop will have some really nice (Big - Dangerous) power tools that require experience, training, or both.
-    - With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
-      - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
-      - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
-      - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
-  - Weis gave our shop a nice present!
+- With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
+    - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
+    - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
+    - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
+    - The gang also talked about ventilation and painting.
+      - There was discussion about Spray painting (hard to cope with), and brush painting.
+      - The group decided to stick with brush painting only - for now.  A spray booth, filtration, and other items are required by various entities. 
+- Weis gave our shop a nice present!
   -  Sara kindly reminded me to look into the shop storage room.
-  -  Inside was a brand bew Delta dust colloction system.
-  -  Along with a similar unit (dontated), and some dust filters - we should have good air! <br>
+     -  Inside was a brand bew Delta dust colloction system.
+     -  Along with a similar unit (dontated), and some dust filters - we should have good air! <br>
    <img src="./Collateral/Weis-Dust.jpg"> <br>
+
+* * *
+
 - John finally closed on his unit, so was able to do more than peek through the windows.
 - Here are a few pictures.
 - Seems like we will need a key to the storage area!
 - Bonus,  it's ventilated, so with a bit of filtering we should be able to deal with fumes.
   - John has not yeat traced where the outlet is...
 
-####  Shop-Pictures
-<table>
+####  Recent Shop-Pictures
 
+<table>
    <tr>
        <td valign="top">
        <a href=".Collateral/Shop-Pictures/1.jpg">
