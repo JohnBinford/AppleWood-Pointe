@@ -81,7 +81,7 @@
 * * *
 * * *
 
-## A picture and a bit of information about our CraftsMen could help us get to know each other!
+## A picture and a bit of information about our CraftsPersons could help us get to know each other!
 -  We have a page for workshop users!
 -  [Link to the Profile Page!](./Collateral/Profiles.md)
 
