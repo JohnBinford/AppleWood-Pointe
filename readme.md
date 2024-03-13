@@ -3,19 +3,33 @@
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
 ## This repository is our place to share ideas and pictures in order to prepare  and utilize our workshop at AWP.
-- (This website was originally used used to facilitate selection of the best of the large shop tools many of us might donate.
-  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)) </br>
+- (This website was originally created in 2022 to facilitate selection of the best of the large shop tools many of us might donate.
+  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)) Most large tools require special shipping and planning.
+  - This task is done, and tools are starting to appear in the shop.
 
 * * *
-####  Shop-Pictures
+* * *
 
+### News
+- Our provisionary leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the
+  - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude tothte shop group too!
+  - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
+    - Our nice shop will have some really nice (Big) power tools that require experience or training or both.
+      - With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
+      - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
+      - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
+      - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
+  - Weis gave our shop a nice present!
+  -  Sara kindly reminded me to look into the shop storage room.
+  -  Inside was a brand bew Delta dust colloction system.
+  -  Along with a similar unit (dontated), and some dust filters - we should have good air! 
 - John finally closed on his unit, so was able to do more than peek through the windows.
 - Here are a few pictures.
-- The shop looks nice.  No 220, but enough 110.
 - Seems like we will need a key to the storage area!
-- Bonus,  it IS ventilated, so with a bit of filtering we should be able to deal with fumes.
-  - John has not yeat traced where the oiutlet is...
+- Bonus,  it's ventilated, so with a bit of filtering we should be able to deal with fumes.
+  - John has not yeat traced where the outlet is...
 
+####  Shop-Pictures
 <table>
 
    <tr>
@@ -54,16 +68,7 @@
    </tr>
    </table>
 
-
-
 * * *
-
-## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
-- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
-   - Pictures and descriptive information about tools you might donate.
-   - Suggestions for Shop.
-
-
 * * *
 
 ##  We would love to have some information about you and your interests so that we might get to know each other.
@@ -77,14 +82,38 @@
   - Potential things to learn.
 -  Send via email to our fictional leader - johnathan.binford@gmail.com
    -  Eric  S. (Unit 309) is our temporary webmaster and one of our gang of four.
-   -  He can take your information and comments as well.  - ad0mz@centurylink.net
-      -  ("Gang of four" = BusyBodies that got things rolling more than a year ago.)
 -  Other provisionary busy bodies are...
    -  Ralph L.
    -  Linelle J.
    -  Jack W
 -  We try to respect Internet privacy, so please email John Binford (above) for these three guys' emails.
 -  You can also email John to get our entire mailing list!
+
+* * *
+* * * 
+
+
+
+* * *
+
+### The Workshop Special Interest Group was FIRST established in 2022 for three reasons.
+-  To establish a vision of what our workshop might be like.
+-  To develop some operating documents to ensure safe use.
+-  To help future Workshop Users with large power tools determine what to bring, and what will not be needed.
+   - About 20 of us submitted pictures of various large tools.
+   - With consent of the entire group, the leadership committee produced a list of tools we all might use,  and those that would be duplicates.
+   - A list was proposed, evaulated, codified, and is now published via email to the group and the link below...
+     -  Some browsers won't allow direct links to documents - it just appears to "spin".
+     -  If so, just download it using the icon on the top right of the linked page.  (An arrow pointing down into a little tray.)
+   -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
+  
+* * *
+* * *
+
+## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
+- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
+   - Pictures and descriptive information about tools you might donate.
+   - Suggestions for Shop.
 
 * * * 
 
@@ -102,32 +131,7 @@
 * * *
 
 
-### The Workshop Special Interest Group was established for three reasons.
--  To establish a vision of what our workshop might be like.
--  To develop some operating documents to ensure safe use.
--  To help future Workshop Users with large power tools determine what to bring, and what will not be needed.
-   - About 20 of us submitted pictures of various large tools.
-   - With consent of the entire group, the leadership committee produced a list of tools we all might use,  and those that would be duplicates.
-   - A list was proposed, evaulated, codified, and is now published via email to the group and the link below...
-     -  Some browsers won't allow direct links to documents - it just appears to "spin".
-     -  If so, just download it using the icon on the top right of the linked page.  (An arrow pointing down into a little tray.)
-   -  [Link to the PDF Final Large Tool Selections.](./Documents/APAV090523Tools-Equipment-Selected.pdf) </br>
-  
-* * *
-* * *
 
-## News
-
--  A new couple Don and Mary Ann Edberg, recently joined the group.
-
-
-* * *
-
-### A few of us were curious what the following pipes were for.  (Shown on the Flickr Website*
-<img src = "./Collateral/Strange-Pipe-T.png"> </br>
-  - [Click here to get the answer for the mystery.](./Collateral/Pipes.md)
-
-* * *
 
 - To prepair for Phase Two of our Shop Planning,  This website is being updated.
   - Nothing has been deleted.  Old news has it's own page. You can also use the old mainpage if you wish!
@@ -135,11 +139,7 @@
 
 * *  *
 
--  Here's a picture of the exterior materials that will be used.  (From Stacy's nice Flikr Collection.)
-   - Click the picture for an HD Version! </br>
-<a href="./Collateral/SIding.jpg"> <img src="./Collateral/Thumbnails/Siding-T.jpg"> </a>
 
-* * *
 
 - [Click here to see Old News.](./Collateral/OldNews.md)  (Not Updated)
 - [Click here to see the old Main Page with Large Tool Pictures!](./readme-OLD.md)  (Not Updated)
