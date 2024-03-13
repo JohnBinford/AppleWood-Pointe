@@ -11,18 +11,19 @@
 * * *
 
 ### News
-- Our provisionary leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the
-  - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude tothte shop group too!
+- Our provisionary leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
+  - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
-    - Our nice shop will have some really nice (Big) power tools that require experience or training or both.
-      - With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
+    - Our nice shop will have some really nice (Big - Dangerous) power tools that require experience, training, or both.
+    - With Sara's support, our group leaders and current members will estalish guidlines and practices that will keep our shop safe and useful.
       - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
       - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
       - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
   - Weis gave our shop a nice present!
   -  Sara kindly reminded me to look into the shop storage room.
   -  Inside was a brand bew Delta dust colloction system.
-  -  Along with a similar unit (dontated), and some dust filters - we should have good air! 
+  -  Along with a similar unit (dontated), and some dust filters - we should have good air! <br>
+   <img src="./Collateral/Weis-Dust.jpg"> <br>
 - John finally closed on his unit, so was able to do more than peek through the windows.
 - Here are a few pictures.
 - Seems like we will need a key to the storage area!
