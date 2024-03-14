@@ -14,11 +14,11 @@
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
     - Our nice new shop will have some (Big - Dangerous) power tools that require experience, training, or both.
   - Please be careful when visiting our nice shop.  The shop really won't be useful for a while. Your patience is appreciated as our volunteers get things ready!
-    - We are collecting tools, furniture,and other items.
-    - We will need to purchase a few safty related items.  (For example, a fireproof oily rag container.)
-    - We might have a bit of contrcution associated with our new dust collection systems. (See our nice present below!)
-      - Some members have dontaed profesional-grade cabinets and shelving, some of which require haging on the walls. 
-- With Sara's support, our group leaders and known members will estalish guidlines and practices that will keep our shop safe and useful.
+    - We are organizing tools, furniture, and other items.
+    - We will need to purchase a few safety related items.  (For example, a fireproof oily rag container.)
+    - We might have a bit of contruction associated with our new dust collection systems. (See our nice present below!)
+      - Some members have donated profesional-grade cabinets and shelving, some of which require hanging on the walls. 
+- With Sara's support, our group leaders and known members will establish guidelines and practices that will keep our shop safe and useful.
     - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
     - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
     - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
@@ -27,8 +27,8 @@
       - The group decided to stick with brush painting only - for now.  A spray booth, filtration, and other items are required by various entities. 
 - Weis gave our shop a nice present!
   -  Sara kindly reminded me to look into the shop storage room.
-     -  Inside was a brand bew Delta dust collection system.
-     -  Along with a similar unit (dontated), and some dust filters - we should have good air! <br>
+     -  Inside was a brand new Delta dust collection system.
+     -  Along with a similar unit (donated), and some dust filters - we should have good air! <br>
    <img src="./Collateral/Weis-Dust.jpg"> <br>
 
 * * *
