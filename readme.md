@@ -12,8 +12,8 @@
 - Our provisional leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
   - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
-    - Our nice shop will have some really nice (Big - Dangerous) power tools that require experience, training, or both.
-  - Please be careful when visiting our nice shop.  It really won't be useful for a while. Your patience is appreciated!
+    - Our nice new shop will have some (Big - Dangerous) power tools that require experience, training, or both.
+  - Please be careful when visiting our nice shop.  The shop really won't be useful for a while. Your patience is appreciated as our volunteers get things ready!
     - We are collecting tools, furniture,and other items.
     - We will need to purchase a few safty related items.  (For example, a fireproof oily rag container.)
     - We might have a bit of contrcution associated with our new dust collection systems. (See our nice present below!)
