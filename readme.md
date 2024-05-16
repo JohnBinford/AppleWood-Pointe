@@ -6,8 +6,8 @@
 #### Short Version:
 -  The shop is ready for light duty!  <br> (We need another small workbench and are thinking about that as our first "Shop Project".)
 -  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point.
--  The larger group of those interested in the shop (that we have known about for the past year) agree that we need to cautious about stuff that can hurt us. <br>
-and have agreed that an education and/or introduction is necessary for their use.
+-  The larger group of those interested in the shop (that we have known about for the past year) advised that we need to cautious about stuff that can hurt us. <br>
+    -  We agreed that an education and/or introduction is necessary for their use.
    - Example.  Eric had his own Delta band saw for thirty years, but the balde tensioner on the PowerMatic worked differently, so he needed a bit of help. 
 - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
 - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
