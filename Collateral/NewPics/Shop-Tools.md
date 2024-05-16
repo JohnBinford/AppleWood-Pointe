@@ -18,12 +18,6 @@
       <img src="./Thumbnails/Shop-3-T.jpg">
       </a>
       </td>
-      </tr>
-      <td valign="top">
-      <a href="./Shop-4.jpg">
-      <img src="./Thumbnails/Shop-4-T.jpg">
-      </a>
-      </td>
   </tr>
   <tr>
       <td valign="top">
@@ -41,14 +35,13 @@
       <img src="./Thumbnails/Shop-7-T.jpg">
       </a>
       </td>
-      </tr>
+  </tr>
+  <tr>
       <td valign="top">
       <a href="./Shop-8.jpg">
       <img src="./Thumbnails/Shop-8-T.jpg">
       </a>
       </td>
-  </tr>
-  <tr>
       <td valign="top">
       <a href="./Shop-9.jpg">
       <img src="./Thumbnails/Shop-9-T.jpg">
@@ -59,6 +52,8 @@
       <img src="./Thumbnails/Shop-10-T.jpg">
       </a>
       </td>
+  </tr>
+  <tr>
       <td valign="top">
       <a href="./Shop-11.jpg">
       <img src="./Thumbnails/Shop-11-T.jpg">
