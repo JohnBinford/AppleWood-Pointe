@@ -26,8 +26,7 @@
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
    -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
    -  Arranging those machines so we could think about where they should really go to efficiently use our space.
-     -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room-2.jpg)  <br>
-     Use your browsers "back" button or arrow to continue reading...
+      -  [Lined up floor-standing machines!](./Collateral/Shop-Tools.md)
    -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
 -  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
@@ -38,7 +37,7 @@
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
       -  BTW.  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph!
 #### Here's a link to some pictures of everything all lined up!
--  [Lined up floor-standing machines!](./Collateral/Shop-Tools.md)
+
 
 * * *
 * * *
