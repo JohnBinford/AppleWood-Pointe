@@ -7,7 +7,8 @@
 -  The shop is ready for light duty!  <br> (We need another small but nice workbench and are thinking about that as our first "Shop Project".)
 -  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month  and a half to get to this point.
 -  The larger group of those interested in the shop (that we have known about for the past year) agree that we need to cautious about stuff that can hurt us. <br>
-and have agreed that an education or introduction is necessary for their use.
+and have agreed that an education and/or introduction is necessary for their use.
+   - Example.  Eric had his own Delta band saw for thirty years, but the balde tensioner on the PowerMatic worked differently, so he needed a bit of help. 
    - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
    - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
 * * *
@@ -19,7 +20,19 @@ and have agreed that an education or introduction is necessary for their use.
      -  The factory mounting brackets were then attached with many (many) screws to those backer boards.)
         -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
      -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
-     Use your browsers "back" button or arrow to continuye reading...
+     Use your browsers "back" button or arrow to continue reading...
+-  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
+   -  Assembling the many nice floor standing machines that were donated. <br> (We are VERY well equipped with machines that John doesno know how to run!)
+   -  Arrangeing those machine so we could think about where they should really go to efficiently use our space.
+   -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
+-  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
+   -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
+   -  Thankfully a couple of gents noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
+-  An open house is being planned - Sara will announce in her newsletter, and John will email "When,where,what, and why".
+-  We have identified a need to provide a space for our casual users (like John).  Another small workbench will help.
+   -  The Gang might start a "Shop Project" to build one!
+-  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
+      -  BTW.  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph!
 * * *
 * * *
 ### OLD News
