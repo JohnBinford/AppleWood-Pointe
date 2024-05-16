@@ -1,8 +1,8 @@
 <table>
   <tr>
       <td valign="top">
-      <a href="./Collateral/Shop-Tools-1.jpg">
-      <img src="./Collateral/Shop-Tools-1-T.jpg">
+      <a href="./Shop-Tools-1.jpg">
+      <img src="./Shop-Tools-1-T.jpg">
       </a>
       </td>
       <td valign="top">
