@@ -22,13 +22,14 @@
         -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
      -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
      -   [Click here to see another picture of the completed store room..](./Collateral/Store-Room-2.jpg)  <br>
-     (Use your browsers "back" button or arrow to continue reading...)
+     (Use your browsers "back" button or arrow to continue reading...) <br>
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
    -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
    -  Arranging those machines so we could think about where they should really go to efficiently use our space.
+      -  Here's a link to some pictures of everything all lined up!
       -  (Yup, use that browser's back button to keep reading from here if you click below...)
       -  [Lined up floor-standing machines!](./Collateral/Shop-Tools.md)
-   -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
+   -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!) <br>
 -  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
    -  Thankfully a couple of gents noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
@@ -37,7 +38,7 @@
    -  The Gang might start a "Shop Project" to build one!
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
       -  BTW.  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph!
-#### Here's a link to some pictures of everything all lined up!
+
 
 
 * * *
