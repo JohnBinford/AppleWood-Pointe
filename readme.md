@@ -5,14 +5,19 @@
 
 #### Short Version:
 -  The shop is ready for light duty!  <br> (We need another small but nice workbench and are thinking about that as our first "Shop Project".)
--  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month to get to this point.
+-  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month  and a half to get to this point.
 -  The larger group of those interested in the shop (that we have known about for the past year) agree that we need to cautious about stuff that can hurt us. <br>
 and have agreed that an education or introduction is necessary for their use.
-   - Please email johnathan.binford@gmail.com to arrange a visit, tour, or just idle chitchat downstairs.
+   - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
    - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
 * * *
 #### Long Version:
--  
+-  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
+   - The cabinets were mounted permanently to the walls by the "Gang" and took about a week!
+     -  Backer boards were attached to the block walls with steel anchors fitting laboriously drilled holes in the block.
+     -  Mounting brackets were then attach with many (many) screws to those backer boards.)
+        -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
+     -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room)  
 * * *
 * * *
 ### OLD News
