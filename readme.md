@@ -1,14 +1,18 @@
 # Applewood Pointe Workshop
 
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
+### News!
 
-## This repository is our place to share ideas and pictures in order to prepare  and utilize our workshop at AWP.
-- (This website was originally created in 2022 to facilitate selection of the best of the large shop tools many of us might donate.
-  - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)  Many large tools require special shipping and planning.
-  - This task is done, and tools are starting to appear in the shop.
+#### Short Version:
+-  The shop is ready for light duty!  <br> (We need another small but nice workbench and are thinking about that for our first "Shop Project".)
+-  The "Gang of Four" (Our provisional busybodies and worker bees) has worked almost daily for the post month to get to this point.
+-  The larger group of those interested in the shop (that we have known about for the past year) agree that we need to cautious about stuff that can hurt us. <br>
+and have agreed that an education or introduction is necessary for their use.
+   - Please email johnathan.binford@gmail.com to arrange a visit, tour, or just idle chitchat downstairs.
+   - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
 * * *
 * * *
-### News
+### OLD News
 - Our provisional leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
   - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
