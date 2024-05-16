@@ -22,10 +22,11 @@
         -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
      -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
      -   [Click here to see another picture of the completed store room..](./Collateral/Store-Room-2.jpg)  <br>
-     Use your browsers "back" button or arrow to continue reading...
+     (Use your browsers "back" button or arrow to continue reading...)
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
    -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
    -  Arranging those machines so we could think about where they should really go to efficiently use our space.
+      -  (Yup, use that browser's back button to keep reading from here if you click below...)
       -  [Lined up floor-standing machines!](./Collateral/Shop-Tools.md)
    -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
 -  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
