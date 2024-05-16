@@ -26,24 +26,24 @@
    -  Arranging those machines so we could think about where they should really go to efficiently use our space.
       -  Here's a link to some pictures of everything all lined up!
       -  (Yup, use that browser's back button to keep reading from here if you click below...)
-      -  [Lined up floor-standing machines!](./Collateral/Shop-Tools.md)
+      -  [Link to more shop photos, including the floor-standing machines!](./Collateral/Shop-Tools.md)
    -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
       -  Manual handtools are in the rolling tool cabinets.
       -  Power Hand tools are in the wall and floor cabinets.
 -  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
    -  Thankfully Monroe L. noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
-      - John Beyer also donated a nice set of (ew in the box) power tools.  Thanks!
--  Instead of a general open houuse, we hope to soon offer specific training and information on idividual machines. <br>
-   - Sarah will announce in her newsletter, and John will email "when,where,what, and why" to our mailing list as well.
--  We are creating more space space for our casual shop users (like John).  (By clearing a bnech by shelving a few small machines.)
+      - John Beyer also donated a nice set of (new in the box) power tools.  Thanks!
+-  Instead of a general open houuse, we hope to soon offer specific training on idividual machines.
+   - Sarah will announce in her newsletter, and John will email "when,where,what, and why" to our mailing list as well. <br> <br>
+-  We are creating more space for our casual shop users (like John) by clearing a bench and shelving a few small machines.
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
 -  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph! <br>
 -  Guidlines for happy sharing...
    -  Connect a dust collector the machines that have an outlet.
    -  Please sweep up your dust otherwise.
    -  Clean up your own mess, and any other you might find if you can.
-   -  Use the signout sheet (above the yellow cabinet)  to borrow tools.
+   -  Use the signout sheet (above the yellow cabinet) to borrow tools.
  ### Let John Binford know if you have any ideas for making our nice workshop welcoming, useful, and safe.  <br>
 
 * * *
