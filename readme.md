@@ -36,6 +36,9 @@
    -  The Gang might start a "Shop Project" to build one!
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
       -  BTW.  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph!
+#### Here's a link to some pictures of everything all lined up!
+-  [Lined up floor-standing machines!](./Collateral/Shop-Tools.md)
+
 * * *
 * * *
 ### OLD News
