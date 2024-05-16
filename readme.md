@@ -9,7 +9,7 @@
 -  The larger group of those interested in the shop (the people on our mailing list) advised that we need to cautious about stuff that can hurt us. <br>
     -  We agreed that an education and/or introduction is necessary for their use.
    - Example.  Eric had his own Delta band saw for thirty years, but the blade tensioner on the PowerMatic worked differently, so he needed a bit of help. <br>
-   (Even a bandsaw has a few "startup procedures"!
+   (Even a bandsaw has a few "startup procedures"!)
 - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
 - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
 * * *
