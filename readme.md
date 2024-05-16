@@ -20,6 +20,7 @@
      -  The factory mounting brackets were then attached with many (many) screws to those backer boards.)
         -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
      -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
+     -   [Click here to see another picture of the completed store room..](./Collateral/Store-Room-2.jpg)  <br>
      Use your browsers "back" button or arrow to continue reading...
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
    -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
