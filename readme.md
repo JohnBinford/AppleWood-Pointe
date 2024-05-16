@@ -5,7 +5,7 @@
 
 #### Short Version:
 -  The shop is ready for light duty!  <br> (We need another small workbench and are thinking about that as our first "Shop Project".)
--  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point.
+-  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point.  Eric hurt some ribs and was out for two weeks - He thanks the guys for their hard work.
 -  The larger group of those interested in the shop (that we have known about for the past year) advised that we need to cautious about stuff that can hurt us. <br>
     -  We agreed that an education and/or introduction is necessary for their use.
    - Example.  Eric had his own Delta band saw for thirty years, but the balde tensioner on the PowerMatic worked differently, so he needed a bit of help. 
