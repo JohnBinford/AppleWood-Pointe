@@ -5,7 +5,7 @@
 
 #### Short Version:
 -  The shop is ready for light duty!
--  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point. <br> Eric hurt some ribs and was out for two weeks - He thanks the other three fellows for their hard work.
+-  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point. <br> Eric hurt some ribs and was out for two weeks - He thanks the other three fellows for taking up the slack.
 -  The larger group of those interested in the shop (the people on our mailing list) advised that we need to cautious about stuff that can hurt us. <br>
     -  We agreed that an education and/or introduction is necessary for their use.
     - Example.  Eric had his own Delta band saw for thirty years, but the blade tensioner on the PowerMatic worked differently, so he needed a bit of help. <br>
@@ -40,10 +40,11 @@
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
 -  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph! <br>
 -  Guidlines for happy sharing...
-  -  Connect a dust collector the machines that have an outlet.
-  -  Please sweep up your dust otherwise.
-  -  Clean up your own mess, and any other you might find if you can.
-  -  Use the signout sheet (above the yellow cabinet)  to borrow tools.
+   -  Connect a dust collector the machines that have an outlet.
+   -  Please sweep up your dust otherwise.
+   -  Clean up your own mess, and any other you might find if you can.
+   -  Use the signout sheet (above the yellow cabinet)  to borrow tools.
+ ### Let John Binford know if you have any ideas for making our nice workshop welcoming, useful, and safe.  <br>
 
 * * *
 * * *
