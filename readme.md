@@ -4,17 +4,17 @@
 ### News!
 
 #### Short Version:
--  The shop is ready for light duty!  <br> (We need another small but nice workbench and are thinking about that as our first "Shop Project".)
--  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month  and a half to get to this point.
+-  The shop is ready for light duty!  <br> (We need another small workbench and are thinking about that as our first "Shop Project".)
+-  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point.
 -  The larger group of those interested in the shop (that we have known about for the past year) agree that we need to cautious about stuff that can hurt us. <br>
 and have agreed that an education and/or introduction is necessary for their use.
    - Example.  Eric had his own Delta band saw for thirty years, but the balde tensioner on the PowerMatic worked differently, so he needed a bit of help. 
-   - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
-   - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
+- Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
+- Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
 * * *
 #### Long Version:
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
-   - The cabinets were mounted permanently to the walls by the "Gang" and took about a week!
+   - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
      -  Backer boards were attached to the block walls with many steel anchors fitting laboriously drilled holes in the block. <br>
      (We copied the hardware used to mount the cages in the parking area.)
      -  The factory mounting brackets were then attached with many (many) screws to those backer boards.)
@@ -22,8 +22,10 @@ and have agreed that an education and/or introduction is necessary for their use
      -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
      Use your browsers "back" button or arrow to continue reading...
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
-   -  Assembling the many nice floor standing machines that were donated. <br> (We are VERY well equipped with machines that John doesno know how to run!)
-   -  Arrangeing those machine so we could think about where they should really go to efficiently use our space.
+   -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
+   -  Arranging those machines so we could think about where they should really go to efficiently use our space.
+     -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room-2.jpg)  <br>
+     Use your browsers "back" button or arrow to continue reading...
    -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
 -  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
