@@ -4,7 +4,7 @@
 ### News!
 
 #### Short Version:
--  The shop is ready for light duty!  <br> (We need another small workbench and are thinking about that as our first "Shop Project".)
+-  The shop is ready for light duty!
 -  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point. <br> Eric hurt some ribs and was out for two weeks - He thanks the other three fellows for their hard work.
 -  The larger group of those interested in the shop (the people on our mailing list) advised that we need to cautious about stuff that can hurt us. <br>
     -  We agreed that an education and/or introduction is necessary for their use.
@@ -13,14 +13,14 @@
 - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
 - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
 * * *
-#### Long Version:
+#### Long Version:   TL:DR ?
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
    - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
      -  Backer boards were attached to the block walls with many steel anchors fitting laboriously drilled holes in the block. <br>
      (We copied the hardware used to mount the cages in the parking area.)
      -  The factory mounting brackets were then attached with many (many) screws to those backer boards.)
         -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
-     -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
+     -   [Click here to see a picture of the newly completed store room..](./Collateral/Store-Room.jpg)  <br>
      -   [Click here to see another picture of the completed store room..](./Collateral/Store-Room-2.jpg)  <br>
      (Use your browsers "back" button or arrow to continue reading...) <br>
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
@@ -34,13 +34,9 @@
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
    -  Thankfully a couple of gents noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
 -  An open house is being planned - Sarah will announce in her newsletter, and John will email "when,where,what, and why".
--  We have identified a need to provide a space for our casual users (like John).  Another small workbench will help.
-   -  The Gang might start a "Shop Project" to build one!
+-  We have identified a need to provide a space for our casual users (like John).  Thankfully, a soon to move-in resident offered another workbench.
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
       -  BTW.  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph!
-
-
-
 * * *
 * * *
 ### OLD News
