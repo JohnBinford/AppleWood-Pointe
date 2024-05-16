@@ -28,7 +28,7 @@
    -  Arranging those machines so we could think about where they should really go to efficiently use our space.
       -  Here's a link to some pictures of everything all lined up!
       -  (Yup, use that browser's back button to keep reading from here if you click below...)
-      -  [Link to more shop photos, including the floor-standing machines!](./Collateral/Shop-Tools.md)
+      -  [Link to more shop photos, including the floor-standing machines!](./Collateral/NewPics/Shop-Tools.md)
    -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
       -  Manual handtools are in the rolling tool cabinets.
       -  Power Hand tools are in the wall and floor cabinets.  <br> <br>
