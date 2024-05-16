@@ -21,7 +21,7 @@
    - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
      -   [Click here to see a picture of the completed but empty store room..](./Collateral/Store-Room.jpg)  <br>
      -   [Click here to see a picture of the filled store room..](./Collateral/Storage-12.jpg)  <br>
-     -   [Click here to see a another picture of the filled store room..](./Collateral/Storage-13.jpg)  <br>
+     -   [Click here to see another picture of the filled store room..](./Collateral/Storage-13.jpg)  <br>
      (Use your browsers "back" button or arrow to continue reading...) <br> <bvr>
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
    -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
