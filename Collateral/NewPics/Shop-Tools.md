@@ -4,70 +4,70 @@
 <table>
   <tr>
       <td valign="top">
-      <a href="./Shop-Tools-1.jpg">
-      <img src="./Thumbnails/Shop-Tools-1-T.jpg">
+      <a href="./Shop-1.jpg">
+      <img src="./Thumbnails/Shop-1-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Shop-Tools-2.jpg">
-      <img src="./Thumbnails/Shop-Tools-2-T.jpg">
+      <a href="./Shop-2.jpg">
+      <img src="./Thumbnails/Shop-2-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Shop-Tools-3.jpg">
-      <img src="./Thumbnails/Shop-Tools-3-T.jpg">
+      <a href="./Shop-3.jpg">
+      <img src="./Thumbnails/Shop-3-T.jpg">
       </a>
       </td>
       </tr>
       <td valign="top">
-      <a href="./Shop-Tools-4.jpg">
-      <img src="./Thumbnails/Shop-Tools-4-T.jpg">
+      <a href="./Shop-4.jpg">
+      <img src="./Thumbnails/Shop-4-T.jpg">
       </a>
       </td>
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Shop-Tools-5.jpg">
-      <img src="./Thumbnails/Shop-Tools-5-T.jpg">
+      <a href="./Shop-5.jpg">
+      <img src="./Thumbnails/Shop-5-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Shop-Tools-6.jpg">
-      <img src="./Thumbnails/Shop-Tools-6-T.jpg">
+      <a href="./Shop-6.jpg">
+      <img src="./Thumbnails/Shop-6-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Shop-Tools-7.jpg">
-      <img src="./Thumbnails/Shop-Tools-7-T.jpg">
+      <a href="./Shop-7.jpg">
+      <img src="./Thumbnails/Shop-7-T.jpg">
       </a>
       </td>
       </tr>
       <td valign="top">
-      <a href="./Shop-Tools-8.jpg">
-      <img src="./Thumbnails/Shop-Tools-8-T.jpg">
+      <a href="./Shop-8.jpg">
+      <img src="./Thumbnails/Shop-8-T.jpg">
       </a>
       </td>
   </tr>
   <tr>
       <td valign="top">
-      <a href="./Shop-Tools-9.jpg">
-      <img src="./Thumbnails/Shop-Tools-9-T.jpg">
+      <a href="./Shop-9.jpg">
+      <img src="./Thumbnails/Shop-9-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Shop-Tools-10.jpg">
-      <img src="./Thumbnails/Shop-Tools-10-T.jpg">
+      <a href="./Shop-10.jpg">
+      <img src="./Thumbnails/Shop-10-T.jpg">
       </a>
       </td>
       <td valign="top">
-      <a href="./Shop-Tools-11.jpg">
-      <img src="./Thumbnails/Shop-Tools-11-T.jpg">
+      <a href="./Shop-11.jpg">
+      <img src="./Thumbnails/Shop-11-T.jpg">
       </a>
       </td>
       </tr>
       <td valign="top">
-      <a href="./Shop-Tools-15.jpg">
-      <img src="./Th./umbnails/Shop-Tools-15-T.jpg">
+      <a href="./Shop-15.jpg">
+      <img src="./Th./umbnails/Shop-15-T.jpg">
       </a>
       </td>
   </tr>
