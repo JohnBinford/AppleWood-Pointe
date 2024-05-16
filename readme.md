@@ -14,10 +14,12 @@ and have agreed that an education or introduction is necessary for their use.
 #### Long Version:
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
    - The cabinets were mounted permanently to the walls by the "Gang" and took about a week!
-     -  Backer boards were attached to the block walls with steel anchors fitting laboriously drilled holes in the block.
-     -  Mounting brackets were then attach with many (many) screws to those backer boards.)
+     -  Backer boards were attached to the block walls with many steel anchors fitting laboriously drilled holes in the block. <br>
+     (We copied the hardware used to mount the cages in the parking area.)
+     -  The factory mounting brackets were then attached with many (many) screws to those backer boards.)
         -   The two-step process was necessary structuraly, but also allowed precise leveling and alignment of the cabinets.
-     -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room)  
+     -   [Click here to see a picture of the completed store room..](./Collateral/Store-Room.jpg)  <br>
+     Use your browsers "back" button or arrow to continuye reading...
 * * *
 * * *
 ### OLD News
