@@ -31,7 +31,7 @@
 -  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
    -  Thankfully a couple of gents noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
--  An open house is being planned - Sara will announce in her newsletter, and John will email "When,where,what, and why".
+-  An open house is being planned - Sarah will announce in her newsletter, and John will email "when,where,what, and why".
 -  We have identified a need to provide a space for our casual users (like John).  Another small workbench will help.
    -  The Gang might start a "Shop Project" to build one!
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
@@ -59,7 +59,7 @@
       - There was discussion about Spray painting (hard to cope with), and brush painting.
       - The group decided to stick with brush painting only - for now.  A spray booth, filtration, and other items are required by various entities. 
 - Weis gave our shop a nice present!
-  -  Sara kindly reminded me to look into the shop storage room.
+  -  Sarah kindly reminded me to look into the shop storage room.
      -  Inside was a brand new Delta dust collection system.
      -  Along with a similar unit (donated), and some dust filters - we should have good air! <br>
    <img src="./Collateral/Weis-Dust.jpg"> <br>
