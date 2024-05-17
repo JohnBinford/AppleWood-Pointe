@@ -42,9 +42,9 @@
       - John Beyer also donated a nice set of (new in the box) power tools.  Thanks!  <br> <br>
 -  We hope to soon offer specific training on idividual machines.<br>
 We will do a general open house if Sarah likes the idea!
-   - Sarah will announce in her newsletter, and John will email "when,where,what, and why" to our mailing list as well. <br> <br>
+   - Sarah will announce in her newsletter, and John will email "when and where" to our mailing list as well. <br> <br>
 -  We are creating more space for our casual shop users (like John) by clearing a bench and shelving a few small machines.
--  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
+-  A updated - provisionary "Workshop User's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
 -  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph! <br> <br>
 -  Guidlines for happy cooperative-style sharing...
    -  Connect a dust collector to the machines that have an outlet.
