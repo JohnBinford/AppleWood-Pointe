@@ -59,7 +59,6 @@
       <img src="./Thumbnails/Shop-11-T.jpg">
       </a>
       </td>
-      </tr>
       <td valign="top">
       <a href="./Shop-15.jpg">
       <img src="./Thumbnails/Shop-15-T.jpg">
