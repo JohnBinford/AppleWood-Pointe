@@ -19,15 +19,19 @@
 #### Long Version:   TL:DR ?
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
    - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
-     -   [Click here to see a picture of the completed but empty store room..](./Collateral/Store-Room.jpg)  <br>
-     -   [Click here to see a picture of the filled store room..](./Collateral/Storage-12.jpg)  <br>
-     -   [Click here to see another picture of the filled store room..](./Collateral/Storage-13.jpg)  <br>
-     (Use your browsers "back" button or arrow to continue reading...) <br> <bvr>
+     -  Lumber, mansonery bits, and hardware was purchased.
+        - A "face plate" 1 by 8 by 6 was nececssary to give clearance for the mansonery bolts behind the shelves.
+        - The factory mounting brackets were then screwed to the face plates.  (Many Screws!)
+          -  Using the intermediate face plates also allowed precise leveling so things would look good!    
+     -  [Click here to see a picture of the completed but empty store room..](./Collateral/Store-Room.jpg)  <br>
+     -  [Click here to see a picture of the filled store room..](./Collateral/Storage-12.jpg)  <br>
+     -  [Click here to see another picture of the filled store room..](./Collateral/Storage-13.jpg)  <br>
+     (Use your browsers "back" button or arrow to continue reading...) <br> <br>
 -  Ralph, Jack, and Linelle worked spent another three weeks with various chores.
    -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
    -  Arranging those machines so we could think about where they should really go to efficiently use our space.
-      -  Here's a link to some pictures of everything all lined up!
-      -  (Yup, use that browser's back button to keep reading from here if you click below...)
+      -  Here are some links to some pictures of everything all lined up!
+         -  (Yup, use that browser's back button for any going back...)
       -  [Link to more shop photos, including the floor-standing machines!](./Collateral/NewPics/Shop-Tools.md)
    -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
       -  Manual handtools are in the rolling tool cabinets.
@@ -36,13 +40,14 @@
    -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
    -  Thankfully Monroe L. noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
       - John Beyer also donated a nice set of (new in the box) power tools.  Thanks!  <br> <br>
--  Instead of a general open houuse, we hope to soon offer specific training on idividual machines.
+-  We hope to soon offer specific training on idividual machines.<br>
+We will do a general open house if Sarah likes the idea!
    - Sarah will announce in her newsletter, and John will email "when,where,what, and why" to our mailing list as well. <br> <br>
 -  We are creating more space for our casual shop users (like John) by clearing a bench and shelving a few small machines.
 -  A updated - provisionary "Workshop Users's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
 -  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph! <br> <br>
--  Guidlines for happy sharing...
-   -  Connect a dust collector the machines that have an outlet.
+-  Guidlines for happy cooperative-style sharing...
+   -  Connect a dust collector to the machines that have an outlet.
    -  Please sweep up your dust otherwise.
    -  Clean up your own mess, and any other you might find if you can.
    -  Use the signout sheet (above the yellow cabinet) to borrow tools.
