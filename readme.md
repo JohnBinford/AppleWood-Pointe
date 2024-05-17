@@ -8,7 +8,7 @@
 -  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point. <br> Eric hurt some ribs and was out for two weeks - He thanks the other three fellows for taking up the slack.
 -  The larger group of those interested in the shop (the people on our mailing list) advised that we need to cautious about stuff that can hurt us. <br>
     -  We agreed that an education and/or introduction is necessary for their use.
-    - Example.  Eric had his own Delta band saw for thirty years, but the blade tensioner on the PowerMatic worked differently, so he needed a bit of help. <br>
+    - Example.  Eric had his own Delta band saw for thirty years, but the blade tensioner on the PowerMatic saw worked differently, so he needed a bit of help. <br>
    (Even a bandsaw has a few "startup procedures"!)
 - For Your Safety..
   -  Make sure you are knowledgeable prior to tool/equipment use.
