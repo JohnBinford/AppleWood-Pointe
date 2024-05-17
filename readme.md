@@ -50,7 +50,7 @@ We will do a general open house if Sarah likes the idea!
    -  Connect a dust collector to the machines that have an outlet.
    -  Please sweep up your dust otherwise.
    -  Clean up your own mess, and any other you might find if you can.
-   -  Use the signout sheet (above the yellow cabinet) to borrow tools.
+   -  Use the sign-out sheet (above the yellow cabinet) to borrow tools.
  ### Let John Binford know if you have any ideas for making our nice workshop welcoming, useful, and safe.  <br>
 
 * * *
