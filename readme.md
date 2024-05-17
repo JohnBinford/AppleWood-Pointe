@@ -46,7 +46,7 @@ We will do a general open house if Sarah likes the idea!
 -  We are creating more space for our casual shop users (like John) by clearing a bench and shelving a few small machines.
 -  A updated - provisionary "Workshop User's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
 -  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph! <br> <br>
--  Guidlines for happy cooperative-style sharing...
+-  Guidelines for happy cooperative-style sharing...
    -  Connect a dust collector to the machines that have an outlet.
    -  Please sweep up your dust otherwise.
    -  Clean up your own mess, and any other you might find if you can.
