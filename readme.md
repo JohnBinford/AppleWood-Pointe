@@ -19,8 +19,8 @@
 #### Long Version:   TL:DR ?
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
    - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
-     -  Lumber, mansonry bits, and hardware was purchased.
-        - A few "face plates" 1 by 8 by 6 were necessary to give clearance for the mansonry bolts behind the shelves. <br> These were bolted tot he block walls with steel exepanding anchors.
+     -  Lumber, mansonry bits, and hardware were purchased.
+        - A few "face plates" 1 by 8 by 6 were necessary to give clearance for the mansonry bolts behind the shelves. <br> These were bolted to the block walls with steel expanding anchors.
         - The factory mounting brackets were then screwed to the face plates.  (Many Screws!)
           -  Using the intermediate face plates also allowed precise leveling so things would look good!    
      -  [Click here to see a picture of the completed but empty store room..](./Collateral/Store-Room.jpg)  <br>
