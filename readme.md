@@ -17,7 +17,7 @@
    -  Matt is helping us to be sure that any drilling we do won't harm the building </br>
    Once we get his OK, we will proceed. </br>
 -  Please contact Johnathan.binford @ gmail.com for training on the big dangerous (for the untrained) stuff
--  [Link to newist shop photos, including the new bench!](./Collateral/NewPics/Shop-Tools.md)
+-  [Link to newest shop photos, including the new bench!](./Collateral/NewPics/Shop-Tools.md)
 
 * * *
 
