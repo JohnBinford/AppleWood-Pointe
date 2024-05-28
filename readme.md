@@ -1,6 +1,26 @@
 # Applewood Pointe Workshop
 
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
+
+### Newer News!
+
+-  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
+   -  We now have everything that was offered by our group over the last year or so. </br>
+   and more!
+   - Various benefactors have donated a lot of additional items over the last two months. </br> Thanks to all!
+-  The workshop is readier for duty!
+   -  The "Gang of Four" helped Jim move and assemble his nice workbench </br>
+ and then shuffled a few things to place it in a good postion for work.
+   -  Special thanks to Ralph L. for his considerable time in getting the finer points of organizing done!
+-  The only chores remaining are to mount the two air filters to the ceiling.
+   -  Ralph  purchased some "J Hook" anchor bolts that look to be great for the job.
+   -  Matt is helping us to be sure that any drilling we do won't harm the building </br>
+   Once we get his OK, we will proceed. </br>
+-  Please contact Johnathan.binford @ gmail.com for training on the big dangerous (for the untrained) stuff
+-  [Link to newist shop photos, including the new bench!](./Collateral/NewPics/Shop-Tools.md)
+
+* * *
+
 ### News!
 
 #### Short Version:
