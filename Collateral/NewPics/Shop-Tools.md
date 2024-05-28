@@ -21,6 +21,11 @@
   </tr>
   <tr>
       <td valign="top">
+      <a href="./Shop-4.jpg">
+      <img src="./Thumbnails/Shop-4-T.jpg">
+      </a>
+      </td>
+      <td valign="top">
       <a href="./Shop-5.jpg">
       <img src="./Thumbnails/Shop-5-T.jpg">
       </a>
@@ -30,13 +35,13 @@
       <img src="./Thumbnails/Shop-6-T.jpg">
       </a>
       </td>
+  </tr>
+  <tr>
       <td valign="top">
       <a href="./Shop-7.jpg">
       <img src="./Thumbnails/Shop-7-T.jpg">
       </a>
       </td>
-  </tr>
-  <tr>
       <td valign="top">
       <a href="./Shop-8.jpg">
       <img src="./Thumbnails/Shop-8-T.jpg">
@@ -47,22 +52,6 @@
       <img src="./Thumbnails/Shop-9-T.jpg">
       </a>
       </td>
-      <td valign="top">
-      <a href="./Shop-10.jpg">
-      <img src="./Thumbnails/Shop-10-T.jpg">
-      </a>
-      </td>
   </tr>
-  <tr>
-      <td valign="top">
-      <a href="./Shop-11.jpg">
-      <img src="./Thumbnails/Shop-11-T.jpg">
-      </a>
-      </td>
-      <td valign="top">
-      <a href="./Shop-15.jpg">
-      <img src="./Thumbnails/Shop-15-T.jpg">
-      </a>
-      </td>
-  </tr>
+
  </table>
