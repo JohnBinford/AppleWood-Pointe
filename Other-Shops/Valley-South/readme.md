@@ -1,4 +1,4 @@
-#### From the Greenhouse Coop on Larpenteur
+#### From the Two other shops 
 
 <table>
   <tr>
