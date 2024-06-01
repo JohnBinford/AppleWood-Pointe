@@ -1,4 +1,4 @@
-#### From the Two other shops 
+#### SouthTown and Valley West
 
 <table>
   <tr>
