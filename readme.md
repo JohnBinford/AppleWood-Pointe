@@ -8,13 +8,13 @@
    -  Expecting that upgrade, Linelle has removed the lathe he kindly donated (we don't need two), and given it to a worthy relative.
       -  We will get a bit more clear space to work in after the shuffle!
 - A few of our Shop's CraftsMen has spent a fair bit of cash getting necessary materials and goods, and their wives won't give them any more.
-  - Lumber, tools, and fitting to mount the cabinets in the storage room.
+  - Lumber, tools, and fittings to mount the cabinets in the storage room.
     - The poplar boards to mount the cabinets were nearly $180 alone.
       - Yikes, wood is expensive - Don't ask John about his new deck at the old house. 
   - Materials and tools to mount the air filters.
   - A fire proof rag bin.
   - Various odds and ends.
--  It would be nice to have a small kitty for supplies going forward as well.
+-  It would be nice to have a small kitty for supplies as well.
 #### If you care to "chip in", please contact Ralph, Linelle, Jack, or Eric.
 -  Or, email johnathan.binford@gmail.com and he will coordinate.
 -  Sorry, it's not tax deductable :-)  ...
