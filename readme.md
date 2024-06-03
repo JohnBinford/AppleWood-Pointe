@@ -4,7 +4,7 @@
 
 ### The shop needs a few bucks!
 -  We are performing an inexpensive but necessary upgrade to a very nice Mini / Midi lathe that was recently donated.  It has variable speed and machined iron ways!
-   -  The upgrade will significantly increase the lenth of the "ways" to allow longer materials to be turned.
+   -  The upgrade will significantly increase the length of the "ways" to allow longer materials to be turned.
    -  Expecting that upgrade, Linelle has removed the lathe he kindly donated (we don't need two), and given it to a worthy relative.
       -  We will get a bit more clear space to work in after the shuffle!
 - A few of our Shop's CraftsMen has spent a fair bit of cash getting necessary materials and goods, and their wives won't give them any more.
