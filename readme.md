@@ -53,7 +53,9 @@
   - Check with other users for correct & safe operation.
 - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
 - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
+  
 * * *
+
 #### Long Version:   TL:DR ?
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
    - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
@@ -239,23 +241,23 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to Pictures from the GreenHouse Shop.](./Other-Shops/GreenHouse/readme.md)
 
-[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)</br>
+[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)<br>
 
-[Link to Online Manual.](./Documents/Manual.md)</br>
+[Link to Online Manual.](./Documents/Manual.md)<br>
 
 [Link to Online Waiver.](./Documents/Waiver.md)
     
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 
-[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)</br>
+[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)<br>
 
-[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)</br>
+[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)<br>
 
-[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)</br>
+[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)<br>
     
-[Link to Stacy's very nice Flickr collection of construction pictures.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)</br>
+[Link to Stacy's very nice Flickr collection of construction pictures.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)<br>
 
-[Link to picture of shop's block wall installation.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)</br>
+[Link to picture of shop's block wall installation.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)<br>
 
 [Link to  the (so far) unused online discussion  (Good Examples!...](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Discussion.md)
  
