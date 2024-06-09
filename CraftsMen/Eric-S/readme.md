@@ -27,8 +27,8 @@
  
  <table>
    <tr>
-     <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Iron resurfaced, Mechanics Recently Rebuilt)</td>
+     <th>Ryobi Belt Sander<br> With Bench Mount <br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw <br> (Iron resurfaced, Mechanics Recently Rebuilt)</td>
      <th>Compressor</td>
    </tr>
    <tr>
@@ -60,7 +60,7 @@
 - Ryobi 18" Belt Sander with Bench Mount
 - Like all of us, I have a small collection of handheld power tools, and various hand tools.
 - Specialty tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)
-</br>
+<br>
 
 - Also have a Prusa 3DMK3S 3D printer and all the stuff needed to create and print projects.
   - I may keep upstairs.  

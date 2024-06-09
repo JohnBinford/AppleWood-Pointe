@@ -12,18 +12,18 @@
       </td
   <tr>
       <td valign="top">
-        - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years</br>
-        - Retired 2019.</br>
-        - Hobbies:     Computers and Technology, Aviation, Ham Radio, Electronics, Maker, 3D Printing.</br>
-        - Interests:  CNC, Laser Cutting / Engraving, Mini Mill?</br>
-        - A recent covid project. (An ALL BAND Ham Radio Dipole!) </br>
-        https://github.com/AD0MZ/All-Band-Adjustable-Dipole)</br> </br> </br>
+        - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years<br>
+        - Retired 2019.<br>
+        - Hobbies:     Computers and Technology, Aviation, Ham Radio, Electronics, Maker, 3D Printing.<br>
+        - Interests:  CNC, Laser Cutting / Engraving, Mini Mill?<br>
+        - A recent covid project. (An ALL BAND Ham Radio Dipole!) <br>
+        https://github.com/AD0MZ/All-Band-Adjustable-Dipole)<br> </br> </br>
         - A couple more winter projects just below.
    <tr>
-     <th>A Marx HO electric train (Restored - 3D printed parts)</br>In original box!</td>
-     <th>A functionally restored </br>1950 Singer Featherweight sewing machine</br>
+     <th>A Marx HO electric train (Restored - 3D printed parts)<br>In original box!</td>
+     <th>A functionally restored <br>1950 Singer Featherweight sewing machine</br>
      https://featherweightdoctor.com</td>
-     <th>I recently restored my portable table saw's iron works. </br> (I re-did the motor, gears, and lead-screws last year.)  
+     <th>I recently restored my portable table saw's iron works. <br> (I re-did the motor, gears, and lead-screws last year.)  
    </tr>
    <tr>
        <td valign="top">
