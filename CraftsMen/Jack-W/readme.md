@@ -1,5 +1,5 @@
 #### Jack-W's Submissions
-- Jack is building a couple of new workbenches!  His current project is made of maple, and intended for hand tool use! </br>
+- Jack is building a couple of new workbenches!  His current project is made of maple, and intended for hand tool use! <br>
 
 <table>
   <tr>
@@ -108,18 +108,18 @@
   </tr>
   <tr>
      	<td valign="top">
-	- Milwaukee 4x24 belt sander</br>
-	- Bosch random orbit sander</br>
-	- Makita random orbit sander</br>
-	- Ryobi biscuit joiner</br>
-	- Makita power plane</br>
+	- Milwaukee 4x24 belt sander<br>
+	- Bosch random orbit sander<br>
+	- Makita random orbit sander<br>
+	- Ryobi biscuit joiner<br>
+	- Makita power plane<br>
       	</td>
       	<td valign="top">
-	- Makita water stone power sharpener</br>
-	- Porter Cable detail sander</br>
-	- Porter Cable Brad nailers (2)</br>
-	- Drills and bits. Some Forster, brad point, twist bit, etc</br>
-	- Various other shop items and supplies.</br>	</td>	
+	- Makita water stone power sharpener<br>
+	- Porter Cable detail sander<br>
+	- Porter Cable Brad nailers (2)<br>
+	- Drills and bits. Some Forster, brad point, twist bit, etc<br>
+	- Various other shop items and supplies.<br>	</td>	
   </tr>
  </table>
 
