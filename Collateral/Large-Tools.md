@@ -1,6 +1,6 @@
 
 ## Submissions from Craftsmen!
-All current pending Workshop Users have now submitted their Tools / Equipment they are donating to the Workshop for us to make our selections from.  Those pending Workshop Users not shown below are O.K. for us to choose from those Tools / Equipment submitted by others.  ...  We've reviewed the Tools / Equipment submitted and recommend (based upon age, mechanical condition, new parts, features, functions, and individual factors) those highlighted with a green checkmark ✅ in the descriptions below. </br>
+All current pending Workshop Users have now submitted their Tools / Equipment they are donating to the Workshop for us to make our selections from.  Those pending Workshop Users not shown below are O.K. for us to choose from those Tools / Equipment submitted by others.  ...  We've reviewed the Tools / Equipment submitted and recommend (based upon age, mechanical condition, new parts, features, functions, and individual factors) those highlighted with a green checkmark ✅ in the descriptions below. <br>
 *(Click a Pictiure for a High Definition Version!)* 
 
 #### John-B's Submissions
@@ -547,8 +547,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
    
  <table>
    <tr>
-     <th>:white_check_mark:  Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Completely Rebuilt)</td>
+     <th>:white_check_mark:  Ryobi Belt Sander<br> With Bench Mount </br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw <br> (Completely Rebuilt)</td>
      <th>:white_check_mark:  Compressor</td>
    </tr>
    <tr>
@@ -570,7 +570,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
        </td>
    </tr>
   </table>
-  </br>
+  <br>
   
    #### Some other tools... (Bringing the best stuff or unique - storing in my cage if necessary.)
    
@@ -583,7 +583,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 - Ryobi 18" Belt Sander with Bench Mount
 - Like all of us, I have a small collection of handheld power tools, and various hand tools.
 - Specialty tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)
-</br>
+<br>
 
 - Also have a Prusa 3DMK3S 3D printer and all the stuff needed to create and print projects.
   - I may keep upstairs.  
@@ -745,18 +745,18 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </a>
       </td>
      	<td valign="top">
-	- Milwaukee 4x24 belt sander</br>
-	- Bosch random orbit sander</br>
-	- Makita random orbit sander</br>
-	- Ryobi biscuit joiner</br>
-	- Makita power plane</br>
+	- Milwaukee 4x24 belt sander<br>
+	- Bosch random orbit sander<br>
+	- Makita random orbit sander<br>
+	- Ryobi biscuit joiner<br>
+	- Makita power plane<br>
       	</td>
       	<td valign="top">
-	- Makita water stone power sharpener</br>
-	- Porter Cable detail sander</br>
-	- Porter Cable Brad nailers (2)</br>
-	- Drills and bits. Some Forster, brad point, twist bit, etc</br>
-	- Various other shop items and supplies.</br>	</td>	
+	- Makita water stone power sharpener<br>
+	- Porter Cable detail sander<br>
+	- Porter Cable Brad nailers (2)<br>
+	- Drills and bits. Some Forster, brad point, twist bit, etc<br>
+	- Various other shop items and supplies.<br>	</td>	
   </tr>
  </table>
 

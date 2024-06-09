@@ -15,6 +15,6 @@
    - A bit of information will also let our leadership group serve you better.
    - Please send your information and a snapshost to johnathan.binford@gmail.com.
      - John  will anonmize this information and place it on your tools page, or a new informational page.
- #### At the lunch meeting we set a goal to know what to do with our Workshop equipment and tools by Spring. </br>   So you'll need to get your equipment, tool pictures, and lists on our website by the new year.
+ #### At the lunch meeting we set a goal to know what to do with our Workshop equipment and tools by Spring. <br>   So you'll need to get your equipment, tool pictures, and lists on our website by the new year.
 
 ***
