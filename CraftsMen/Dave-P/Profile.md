@@ -12,8 +12,8 @@
       </td
   <tr>
       <td valign="top">
-        - Career Insurance CLU, 30 Years</br>
-        - Hobbies:     Woodworking, Reading, Travel</br>
+        - Career Insurance CLU, 30 Years<br>
+        - Hobbies:     Woodworking, Reading, Travel<br>
       </td>
   </tr>
  </table>	
