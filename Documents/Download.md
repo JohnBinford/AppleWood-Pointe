@@ -12,8 +12,8 @@
     - Use your browser's "back" arrow to return to this page when your are done downloading.
       - With my browser, it does not seem to hurt to backup too soon.  YMMV
 #### The Draft documents become effective after the Resident Board is established, etc.
-</br>
-</br>
+<br>
+<br>
 
 <table>
    <tr>
@@ -50,7 +50,7 @@
   </tr>
   <tr>
   <td>
-  Workshop Users Application and Waiver </br>
+  Workshop Users Application and Waiver <br>
   (Only Official Document until Handover!)
   </td>
   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUseApp%26Waiver.pdf"</a> 
