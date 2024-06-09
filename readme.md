@@ -2,28 +2,10 @@
 
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
-### The shop needs a few bucks!
--  We are performing an inexpensive but necessary upgrade to a very nice Mini / Midi lathe that was recently donated.  It has variable speed and machined iron ways!
-   -  The upgrade will significantly increase the length of the "ways" to allow longer materials to be turned.
-   -  Expecting that upgrade, Linelle has removed the lathe he kindly donated (we don't need two), and given it to a worthy relative.
-      -  We will get a bit more clear space to work in after the shuffle!
-- A few of our Shop's CraftsMen has spent a fair bit of cash getting necessary materials and goods, and their wives won't give them any more.
-  - Lumber, tools, and fittings to mount the cabinets in the storage room.
-    - The poplar boards to mount the cabinets were nearly $180 alone.
-      - Yikes, wood is expensive - Don't ask John about his new deck at the old house. 
-  - Materials and tools to mount the air filters.
-  - A fire proof rag bin.
-  - Various odds and ends.
--  It would be nice to have a small kitty for supplies as well.
-#### If you care to "chip in", please contact Ralph, Linelle, Jack, or Eric.
--  Or, email johnathan.binford@gmail.com and he will coordinate.
--  Sorry, it's not tax deductable :-)  ...
- 
-* * *
 ### Newer News!
 
 -  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
-   -  We now have everything that was offered by our group over the last year or so, <br>
+   -  We now have everything that was offered by our group over the last year or so. <br>
    and more!
    - Various benefactors have donated a lot of additional items over the last two months. <br> Thanks to all!
 -  The workshop is readier for duty!
@@ -53,9 +35,7 @@
   - Check with other users for correct & safe operation.
 - Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
 - Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
-  
 * * *
-
 #### Long Version:   TL:DR ?
 -  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
    - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
@@ -206,15 +186,15 @@ We will do a general open house if Sarah likes the idea!
 * * *
 
 ## Our Provisional Applewood Pointe of Apple Valley Workshop Manual is Complete! 
-1. Initially, until ownership transfers to the resident Board of Directors (see item 3),
+1. Initially, until ownership transfers to the resident Board of Directors (see item 3), <br>
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES (IF they provided one).
-2. No other Workshop policies or manuals may be used until handover.
-3. Once the resident Board of Directors has been established,
+2. No other Workshop policies or manuals may be used until handover.<br>
+3. Once the resident Board of Directors has been established,<br>
 our group's more comprehensive Workshop Users Manual may be adopted.
   - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual - developed based upon our needs, concerns, and recommendations better meets our Workshop User needs. This draft, to be revisited for final review when the above takes place, will be kept held on our Workshop Website:  www.github.com/johnbinford/Applewood-Pointe 
 
 - [Link to the PDF Documents Collection.](./Documents/Download.md)
-  - (Some browsers might then show a "spinning" icon - if yours does, just click the download button on the right.)
+  - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
 
 ***
   
