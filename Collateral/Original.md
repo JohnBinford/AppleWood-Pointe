@@ -2,8 +2,8 @@
 
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
-- Use the link below to see some introductory information.</br>
-[Click here to see the "New Guy" page.](../Collateral/newguy.md)</br>
+- Use the link below to see some introductory information.<br>
+[Click here to see the "New Guy" page.](../Collateral/newguy.md)<br>
 
 ***
 
@@ -15,7 +15,7 @@
    - If you want a Scaled PDF of the simplified Shop Drawing, see the last entry in the Documents Collection
    - [Link to the PDF Documents Collection.](../Documents/Download.md)
 
-- Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.</br>
+- Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.<br>
  
 <img src="../Collateral/Plans/AWP-Shop-6.png">
  
@@ -31,48 +31,48 @@
 ## 10/25/2022 Workshop Meeting Action Items (Coopers Restaraunt)
 
 - 12 CraftsMen recently met at Coopers in Eagan to discuss the shop.
-  - The group set a goal to know what to do with our Workshop equipment and tools by Spring. </br>
-  So you'll need to get your equipment / tools pictures and lists on our website by the new year, </br>
-or let us know you don't have any to submit so we won't think we're missing yours. </br>
+  - The group set a goal to know what to do with our Workshop equipment and tools by Spring. <br>
+  So you'll need to get your equipment / tools pictures and lists on our website by the new year, <br>
+or let us know you don't have any to submit so we won't think we're missing yours. <br>
 [Shortcut to "minutes" from the recent meeting at Cooper's restaraunt.](../Collateral/Coopers.md)
 ***
  
-## Shortcuts to frequently used segments of this page...</br>
+## Shortcuts to frequently used segments of this page...<br>
 
-[Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)</br>
-[Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)</br>
-[Shortbut to Craftmen Submissions.](https://github.com/JohnBinford/AppleWood-Pointe#submissions-from-craftsmen)</br>
-[Shortcut to Recent News.](https://github.com/JohnBinford/AppleWood-Pointe#news)</br>
+[Shortcut to Things to Think About.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#recent-member-suggestions-and-things-to-think-about)<br>
+[Shortcut to a Collection of Handy Links.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#links)<br>
+[Shortbut to Craftmen Submissions.](https://github.com/JohnBinford/AppleWood-Pointe#submissions-from-craftsmen)<br>
+[Shortcut to Recent News.](https://github.com/JohnBinford/AppleWood-Pointe#news)<br>
 [Link to older (But Very Interesting) News](../Collateral/OldNews.md)
 
 ***
 
 ## Applewood Pointe of Apple Valley Workshop Manual 
-1.  Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
+1.  Initially, until ownership transfers to the resident Board of Directors (see item 3), <br>
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES.
-2. No other Workshop policies or manuals may be used until handover.</br>
-3. Once the resident Board of Directors has been established,</br>
+2. No other Workshop policies or manuals may be used until handover.<br>
+3. Once the resident Board of Directors has been established,<br>
 our group's more comprehensive Workshop Users Manual may be adopted.
-  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
+  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual<br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
 - [Link to the PDF Documents Collection.](../Documents/Download.md)
-  - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
+  - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
 
 ***
 
 ## News
-- David-J. sent in a picture of some tools!</br>
+- David-J. sent in a picture of some tools!<br>
   [Link to David's Tool Submissions.](../CraftsMen/David-J/readme.md)
 
-- Mark-G. sent a picture of a couple of nice tool chests. </br>
+- Mark-G. sent a picture of a couple of nice tool chests. <br>
   [Link to Mark's Profile and Tool Submissions.](../CraftsMen/Mark-G/readme.md)
 
-- Gary-L. sent in a few pictures. </br>
+- Gary-L. sent in a few pictures. <br>
   [Link to Gary's Tool Submissions.](../CraftsMen/Gary-L/readme.md)
 
-- John-B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. </br>
-He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.</br>
-  [Click here to preview a test example of a possible way for us to vote up various tools](../Collateral/Selections.md) </br>
+- John-B. was fortunate to attend the recent lunch meeting, and promptly gave some thought to facilitating tool voting. <br>
+He is investigating the use of an online voting system like "Survey Monkey" or "Google Forms"  for this task.<br>
+  [Click here to preview a test example of a possible way for us to vote up various tools](../Collateral/Selections.md) <br>
    
 -  [Link to older News](../Collateral/OldNews.md)
 
@@ -83,8 +83,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ## Recent Member Suggestions and things to think about:
 
 -  Linelle J. sent this recommendation after checking out the new diagrams.
-   -  The actual workroom isn't really that big so we will need to be smart with our layout.</br>  More than ever, I think that every piece of equipment has to be on wheels.</br>  We should also strive to use the Applewood library to store all of our books and reference material.
-- During the Fall Luncheon, John-B. Determined that the ventilation provided will NOT be useful for a paint booth. </br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
+   -  The actual workroom isn't really that big so we will need to be smart with our layout.<br>  More than ever, I think that every piece of equipment has to be on wheels.</br>  We should also strive to use the Applewood library to store all of our books and reference material.
+- During the Fall Luncheon, John-B. Determined that the ventilation provided will NOT be useful for a paint booth. <br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
   - John-B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
   
 - It might be nice for us to know our unit numbers.  Please email if you wish to have yours on the email list.
@@ -124,9 +124,9 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 
 [Link to Pictures from the GreenHouse Shop.](../Other-Shops/GreenHouse/readme.md)
 
-[Link to Pictures from the Valley West and Southtown Shops](../Other-Shops/Valley-South/readme.md)</br>
+[Link to Pictures from the Valley West and Southtown Shops](../Other-Shops/Valley-South/readme.md)<br>
 
-[Link to Online Manual.](../Documents/Manual.md)</br>
+[Link to Online Manual.](../Documents/Manual.md)<br>
 
 [Link to Online Waiver.](../Documents/Waiver.md)
     
@@ -254,7 +254,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ***
 
 ####  Len-C's Submissions.
-[Link to Len's Profile and Submissions](../CraftsMen/Len-C/readme.md)</br>
+[Link to Len's Profile and Submissions](../CraftsMen/Len-C/readme.md)<br>
 <table>
   <tr>
     <th>Delta Band Saw</td>
@@ -496,18 +496,18 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
   </tr>
   <tr>
      	<td valign="top">
-	- Milwaukee 4x24 belt sander</br>
-	- Bosch random orbit sander</br>
-	- Makita random orbit sander</br>
-	- Ryobi biscuit joiner</br>
-	- Makita power plane</br>
+	- Milwaukee 4x24 belt sander<br>
+	- Bosch random orbit sander<br>
+	- Makita random orbit sander<br>
+	- Ryobi biscuit joiner<br>
+	- Makita power plane<br>
       	</td>
       	<td valign="top">
-	- Makita water stone power sharpener</br>
-	- Porter Cable detail sander</br>
-	- Porter Cable Brad nailers (2)</br>
-	- Drills and bits. Some Forster, brad point, twist bit, etc</br>
-	- Various other shop items and supplies.</br>	</td>	
+	- Makita water stone power sharpener<br>
+	- Porter Cable detail sander<br>
+	- Porter Cable Brad nailers (2)<br>
+	- Drills and bits. Some Forster, brad point, twist bit, etc<br>
+	- Various other shop items and supplies.<br>	</td>	
   </tr>
  </table>
 
@@ -855,8 +855,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
    
  <table>
    <tr>
-     <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</br> Naval Jelly Purchased :-) </td>
+     <th>Ryobi Belt Sander<br> With Bench Mount </br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw <br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</br> Naval Jelly Purchased :-) </td>
      <th>Compressor</td>
    </tr>
    <tr>
@@ -878,7 +878,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
        </td>
    </tr>
   </table>
-  </br>
+  <br>
  
   #### Some other tools...
        - Porter Cable Circular Saw (New)
