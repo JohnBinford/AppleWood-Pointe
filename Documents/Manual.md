@@ -4,34 +4,34 @@
 
 Contents
 
-   Introduction ……………………………………  ii </br>
-1 - Workshop Operations ……………………………………  1 </br>
-       - Workshop Safety Rules …………………………………… 1 </br>
-       - Hold Harmless (waiver)  …………………………………… 1 </br>
-2 – Workshop Cleanliness  ……………………………………  2 </br>
-    - Dust and Debris Collection  ……………………………………  2 </br>
-    - Restocking and Cleanup  ……………………………………  2 </br>
-    - Spillage  ……………………………………  2 </br>
-3 – Personal Injury or Another Emergency  ……………………………………  2 </br>
-    - Workshop Users Responsibility  ……………………………………  2 </br>
-    - Minor Injury  ……………………………………  2 </br>
-    - Serious Injury or Health Emergency  ……………………………………  2 </br>
-4 – Paint Procedures  ……………………………………  3 </br>
-5 – Breakage, Outage of Machines and Tools  ……………………………………  3 </br>
-6 – Wood Storage  ……………………………………  3 </br>
-    - Storage of Project Items While Work is in Progress  …………………………………… 4 </br>
-    - Wood Available to All Members  ……………………………………   4 </br>
-    - Donating Lumber  …………………………………….   4 </br>
-    - Wood Storage Safety  ……………………………………   4 </br>
-7 – Workshop Usership  ……………………………………  4 </br>
-8 – Workshop Courtesy and Decorum  …………………………………… 4 </br>
-9 – Non-Workshop Users Visitors in the Shop  ……………………………………  5 </br>
-10 – Workshop Provided Supplies  ……………………………………  5 </br>
-11 – Incident Review Process ……………………………………  5 </br>
-12 – Peer Mentors  ……………………………………  6 </br>
-13 – Donations ……………………………………  6 </br>
-14 – Borrowed Tools  …………………………………… 6 </br>
-15 – Website  ……………………………………  6 </br>
+   Introduction ……………………………………  ii <br>
+1 - Workshop Operations ……………………………………  1 <br>
+       - Workshop Safety Rules …………………………………… 1 <br>
+       - Hold Harmless (waiver)  …………………………………… 1 <br>
+2 – Workshop Cleanliness  ……………………………………  2 <br>
+    - Dust and Debris Collection  ……………………………………  2 <br>
+    - Restocking and Cleanup  ……………………………………  2 <br>
+    - Spillage  ……………………………………  2 <br>
+3 – Personal Injury or Another Emergency  ……………………………………  2 <br>
+    - Workshop Users Responsibility  ……………………………………  2 <br>
+    - Minor Injury  ……………………………………  2 <br>
+    - Serious Injury or Health Emergency  ……………………………………  2 <br>
+4 – Paint Procedures  ……………………………………  3 <br>
+5 – Breakage, Outage of Machines and Tools  ……………………………………  3 <br>
+6 – Wood Storage  ……………………………………  3 <br>
+    - Storage of Project Items While Work is in Progress  …………………………………… 4 <br>
+    - Wood Available to All Members  ……………………………………   4 <br>
+    - Donating Lumber  …………………………………….   4 <br>
+    - Wood Storage Safety  ……………………………………   4 <br>
+7 – Workshop Usership  ……………………………………  4 <br>
+8 – Workshop Courtesy and Decorum  …………………………………… 4 <br>
+9 – Non-Workshop Users Visitors in the Shop  ……………………………………  5 <br>
+10 – Workshop Provided Supplies  ……………………………………  5 <br>
+11 – Incident Review Process ……………………………………  5 <br>
+12 – Peer Mentors  ……………………………………  6 <br>
+13 – Donations ……………………………………  6 <br>
+14 – Borrowed Tools  …………………………………… 6 <br>
+15 – Website  ……………………………………  6 <br>
 
 - Workshop Use Application & Waiver  ……………………………………  (available from Applewood Pointe of Apple Valley Property Manager)
 
