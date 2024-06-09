@@ -206,15 +206,15 @@ We will do a general open house if Sarah likes the idea!
 * * *
 
 ## Our Provisional Applewood Pointe of Apple Valley Workshop Manual is Complete! 
-1. Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
+1. Initially, until ownership transfers to the resident Board of Directors (see item 3),
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES (IF they provided one).
-2. No other Workshop policies or manuals may be used until handover.</br>
-3. Once the resident Board of Directors has been established,</br>
+2. No other Workshop policies or manuals may be used until handover.
+3. Once the resident Board of Directors has been established,
 our group's more comprehensive Workshop Users Manual may be adopted.
   - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual - developed based upon our needs, concerns, and recommendations better meets our Workshop User needs. This draft, to be revisited for final review when the above takes place, will be kept held on our Workshop Website:  www.github.com/johnbinford/Applewood-Pointe 
 
 - [Link to the PDF Documents Collection.](./Documents/Download.md)
-  - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
+  - (Some browsers might then show a "spinning" icon - if yours does, just click the download button on the right.)
 
 ***
   
