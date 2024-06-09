@@ -1,5 +1,5 @@
 #  AppleWood Pointe Hobby Shop
-## Newguy Page </br>
+## Newguy Page <br>
 ## This repository is a simple place to share ideas and pictures in order to prepare our workshop at AWP.
 - This website was originally used used to facilitate selection of the best of the large shop tools many of us might donate.
   - (We don't need 6 band saws, for example.  So how do we gracefully choose a couple?)

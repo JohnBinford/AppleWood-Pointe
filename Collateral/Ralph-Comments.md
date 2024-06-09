@@ -10,6 +10,6 @@
   - No Response (06 of 20) didn't vote.
   - So the vote was 13 to 7 for equipment recommended and the 7 weren't no votes, just non-voters.
 
-- So, do you think we should ask the 7 non-voters... Jim-E, David-J, Dick-M, Kevin-S, Jim-T, Dick-V, & Jim-W </br>
+- So, do you think we should ask the 7 non-voters... Jim-E, David-J, Dick-M, Kevin-S, Jim-T, Dick-V, & Jim-W <br>
 if they agree with the above equipment recommended, or just let it go with the equipment recommended decision-vote
 as they are outvoted anyway?
