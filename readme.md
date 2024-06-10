@@ -2,6 +2,10 @@
 
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
+### Newest News!
+-  The shop is ready for light duty!
+-  Some members wants to look at some old stuff,  [Here's a link to the OLD Website.](./readme-OLD.md)
+
 ### Newer News!
 
 -  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
