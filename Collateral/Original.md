@@ -53,7 +53,7 @@ we must abide by the builder provided Applewood Point of Apple Valley's single p
 2. No other Workshop policies or manuals may be used until handover.<br>
 3. Once the resident Board of Directors has been established,<br>
 our group's more comprehensive Workshop Users Manual may be adopted.
-  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual<br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
+  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual<br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.<br>  This draft, to be revisited for final review when the above takes place, <br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
 - [Link to the PDF Documents Collection.](../Documents/Download.md)
   - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
@@ -83,7 +83,7 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
 ## Recent Member Suggestions and things to think about:
 
 -  Linelle J. sent this recommendation after checking out the new diagrams.
-   -  The actual workroom isn't really that big so we will need to be smart with our layout.<br>  More than ever, I think that every piece of equipment has to be on wheels.</br>  We should also strive to use the Applewood library to store all of our books and reference material.
+   -  The actual workroom isn't really that big so we will need to be smart with our layout.<br>  More than ever, I think that every piece of equipment has to be on wheels.<br>  We should also strive to use the Applewood library to store all of our books and reference material.
 - During the Fall Luncheon, John-B. Determined that the ventilation provided will NOT be useful for a paint booth. <br>  (A ton of things change if a "hood" is involved due to code.)  We will need to "build" our own.
   - John-B. will be talking to Colleen about getting locking receptables on the ceiling for electrical Cable drops.  (Both 110 and 220, Single phase.)  Google "cable drop".
   
@@ -855,8 +855,8 @@ He is investigating the use of an online voting system like "Survey Monkey" or "
    
  <table>
    <tr>
-     <th>Ryobi Belt Sander<br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw <br> (Iron has surface rust, </br>Mechanics Recently Rebuilt)</br> Naval Jelly Purchased :-) </td>
+     <th>Ryobi Belt Sander<br> With Bench Mount <br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw <br> (Iron has surface rust, <br>Mechanics Recently Rebuilt)<br> Naval Jelly Purchased :-) </td>
      <th>Compressor</td>
    </tr>
    <tr>
