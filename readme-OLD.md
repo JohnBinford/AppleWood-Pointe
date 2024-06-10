@@ -2,8 +2,8 @@
 
 #### If you are new the the Apple Valley Workshop Group, or this is your first time here...
 
-- Use the link below to see some introductory information.</br>
-  - [Click here to see the "New Guy" page.](./Collateral/newguy.md)</br>
+- Use the link below to see some introductory information.<br>
+  - [Click here to see the "New Guy" page.](./Collateral/newguy.md)<br>
 	
 * * *
 
@@ -22,19 +22,19 @@
   -  The 13 CraftsMen discussed what to do with smaller power tools and hand tools.
      - A goal is to have a nice collection of "portable" tools that can be "checked out" for use outside of the shop.
      - We settled on using a "common sense" approach.
-       -  If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. </br>
+       -  If you have something that's unique, common but new, or potentially popular we encourage donating it to the shop. <br>
 
-- Links to PDF documents follow.  Some browsers don't automatically show PDF's.</br>  If you don't see the document after a little wait, just use the "Download" button on the right.
+- Links to PDF documents follow.  Some browsers don't automatically show PDF's.<br>  If you don't see the document after a little wait, just use the "Download" button on the right.
        
 [Click here for a PDF version of Agenda.](./Collateral/APAV042523WorkshopMtgAgenda.pdf)
    
 A Link to the PDF version of our voting matrix follows.
      -  Items highlighted in GREEN were examined and approved by the group of 13.
      -  Please check your name for any greened items.  Please bring them to our new shop.
-     -  Note that the lower portion of the page lists unique items with only 1 donor - so no vote was required. </br>
+     -  Note that the lower portion of the page lists unique items with only 1 donor - so no vote was required. <br>
 [Click here for a PDF of the Matrix.](./Collateral/APAV042623Tool-Voting-Matrix.pdf)
  
- - Ralph L.  sent a summary and some comments to the "Gang of Four". </br>
+ - Ralph L.  sent a summary and some comments to the "Gang of Four". <br>
 [Click here if you wish to view them.](./Collateral/Ralph-Comments.md)
  
 * * *
@@ -51,9 +51,9 @@ A Link to the PDF version of our voting matrix follows.
    - He was the first AWP buyer to reach out about getting the shop organized before occupancy. He was a creative and passionate woodworker who made everything from armoires, to adirondack chairs, to creating custom benches for the Ames Center.
    - [Click here for Dave's Obituary.](https://github.com/JohnBinford/AppleWood-Pointe/tree/main/CraftsMen/Dave-P)
    
-- Ralph recently provided a couple of new picture of his Drill-Press-Milling-Table outfit.</br>
+- Ralph recently provided a couple of new picture of his Drill-Press-Milling-Table outfit.<br>
 check out his folder in the CraftsMen folder above.
-- Ralph updloaded a nice "Countdown to Selling your House" Checklist.  You can get it from the Documents Page.</br>
+- Ralph updloaded a nice "Countdown to Selling your House" Checklist.  You can get it from the Documents Page.<br>
 [Click here to go to the PDF Documents Collection.](./Documents/Download.md)
 - John submitteed an electrical plan to the Engineers recently.  
   - We asked for a bunch of duplex R5-20's spaced around each wall, and in the store room.
@@ -63,10 +63,10 @@ check out his folder in the CraftsMen folder above.
   - Each single R6-20 (220 Volts - 20 Amps) will have it's own circuit and breaker.
 [Click here to view an image of the electrical drawing.](./Documents/AWP-Shop-Electrical.png)
 
-- Stacy from AppleWood Pointe published some construction photos.  (Recently Updated)</br> 
+- Stacy from AppleWood Pointe published some construction photos.  (Recently Updated)<br> 
 [Click here to view the very nice Flickr collection.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)
 
-- John got a new picture of the shop's block wall installation. </br>
+- John got a new picture of the shop's block wall installation. <br>
 [Click here to go to that page.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)
 
 - [Click here to see the (so far) unused online discussion  (Good Examples!...](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Discussion.md)
@@ -75,7 +75,7 @@ check out his folder in the CraftsMen folder above.
 * * *
 * * * 
  
-## Workshop Email List </br> ( A confidentially kept list of our CraftMen's email addresses and a bit of other information. )
+## Workshop Email List <br> ( A confidentially kept list of our CraftMen's email addresses and a bit of other information. )
 - Please email johnathan.binford@gmail.com for a copy of the list.
 - Thanks to all for keeping our email list up to date.
   - Please email johnathan.binford@gmail.com with any updates. 
@@ -95,16 +95,16 @@ check out his folder in the CraftsMen folder above.
 
 - Here is a new rendering.  Furnishings and tools arbitrarily located for scale only.
  
-<img src="./Collateral/Plans/AWP-Shop-Aerial.png"> </br> </br>
+<img src="./Collateral/Plans/AWP-Shop-Aerial.png"> <br> <br>
 
 - John did some practicing with his cumbersome rendering tools, and painted the walls.  He also added a desk and window!
-  -  Click on any of these thumbails to see an enlarged view from inside. </br>
-<a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/AWP-Shop-7G-T.png"> </a> </br>
-<a href="./Collateral/Plans/AWP-Shop-L-ENE.png"> <img src="./Collateral/Plans/AWP-Shop-L-ENE-T.png"> </a> </br>
-<a href="./Collateral/Plans/AWP-Shop-L-NE.png"> <img src="./Collateral/Plans/AWP-Shop-L-NE-T.png"> </a> </br>
+  -  Click on any of these thumbails to see an enlarged view from inside. <br>
+<a href="./Collateral/Plans/AWP-Shop-7G.png"> <img src="./Collateral/Plans/AWP-Shop-7G-T.png"> </a> <br>
+<a href="./Collateral/Plans/AWP-Shop-L-ENE.png"> <img src="./Collateral/Plans/AWP-Shop-L-ENE-T.png"> </a> <br>
+<a href="./Collateral/Plans/AWP-Shop-L-NE.png"> <img src="./Collateral/Plans/AWP-Shop-L-NE-T.png"> </a> <br>
 
 #### Here's a picture of the blockwork that has been done for the shop.
-  - Click the picture for an HD Version! </br>
+  - Click the picture for an HD Version! <br>
 <a href="./Collateral/Shop-Walls-HD.png"> <img src="./Collateral/Shop-Walls.png"> </a>
 
 -  Here is the Electrical drawing recently submitted to the Engineers.
@@ -118,15 +118,15 @@ check out his folder in the CraftsMen folder above.
 * * *
 
 ## The Proposed Applewood Pointe of Apple Valley Workshop Manual is Complete! 
-1. Initially, until ownership transfers to the resident Board of Directors (see item 3), </br>
+1. Initially, until ownership transfers to the resident Board of Directors (see item 3), <br>
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES.
-2. No other Workshop policies or manuals may be used until handover.</br>
-3. Once the resident Board of Directors has been established,</br>
+2. No other Workshop policies or manuals may be used until handover.<br>
+3. Once the resident Board of Directors has been established,<br>
 our group's more comprehensive Workshop Users Manual may be adopted.
-  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual</br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.</br>  This draft, to be revisited for final review when the above takes place, </br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
+  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual<br> developed based upon our needs, concerns, and recommendations better meets our Workshop User needs.<br>  This draft, to be revisited for final review when the above takes place, <br>will be kept held on our Workshop Website:  www.github.com/johnbinford/applewoodpointe 
 
 - [Link to the PDF Documents Collection.](./Documents/Download.md)
-  - (Some browsers might then show a "spinning" icon - if yours does, </br>just click the download button on the right.)
+  - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
 
 ***
   
@@ -153,19 +153,19 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to Pictures from the GreenHouse Shop.](./Other-Shops/GreenHouse/readme.md)
 
-[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)</br>
+[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)<br>
 
-[Link to Online Manual.](./Documents/Manual.md)</br>
+[Link to Online Manual.](./Documents/Manual.md)<br>
 
 [Link to Online Waiver.](./Documents/Waiver.md)
     
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 
-[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)</br>
+[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)<br>
 
-[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)</br>
+[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)<br>
 
-[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)</br>
+[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)<br>
 
 
 
@@ -173,7 +173,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 * * *
 
 ## Submissions from Craftsmen!
-All current pending Workshop Users have now submitted their Tools / Equipment they are donating to the Workshop for us to make our selections from.  Those pending Workshop Users not shown below are O.K. for us to choose from those Tools / Equipment submitted by others.  ...  We've reviewed the Tools / Equipment submitted and recommend (based upon age, mechanical condition, new parts, features, functions, and individual factors) those highlighted with a green checkmark ✅ in the descriptions below. </br>
+All current pending Workshop Users have now submitted their Tools / Equipment they are donating to the Workshop for us to make our selections from.  Those pending Workshop Users not shown below are O.K. for us to choose from those Tools / Equipment submitted by others.  ...  We've reviewed the Tools / Equipment submitted and recommend (based upon age, mechanical condition, new parts, features, functions, and individual factors) those highlighted with a green checkmark ✅ in the descriptions below. <br>
 *(Click a Pictiure for a High Definition Version!)* 
 
 ####  Len-B's Submissions.
@@ -608,8 +608,8 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
    
  <table>
    <tr>
-     <th>Ryobi Belt Sander</br> With Bench Mount </br> (Note Square Profile)</td>
-     <th>Semi-Portable Table Saw </br> (Completely Rebuilt)</td>
+     <th>Ryobi Belt Sander<br> With Bench Mount <br> (Note Square Profile)</td>
+     <th>Semi-Portable Table Saw <br> (Completely Rebuilt)</td>
      <th>:white_check_mark:  Compressor</td>
    </tr>
    <tr>
@@ -631,7 +631,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
        </td>
    </tr>
   </table>
-  </br>
+  <br>
   
    #### Some other tools... (Bringing the best stuff or unique - storing in my cage if necessary.)
    
@@ -644,7 +644,7 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
 - Ryobi 18" Belt Sander with Bench Mount
 - Like all of us, I have a small collection of handheld power tools, and various hand tools.
 - Specialty tools for electronic projects, with some test gear (Meters, power supply, Oscilloscope, etc.)
-</br>
+<br>
 
 - Also have a Prusa 3DMK3S 3D printer and all the stuff needed to create and print projects.
   - I may keep upstairs.  
@@ -765,18 +765,18 @@ All current pending Workshop Users have now submitted their Tools / Equipment th
       </a>
       </td>
      	<td valign="top">
-	- Milwaukee 4x24 belt sander</br>
-	- Bosch random orbit sander</br>
-	- Makita random orbit sander</br>
-	- Ryobi biscuit joiner</br>
-	- Makita power plane</br>
+	- Milwaukee 4x24 belt sander<br>
+	- Bosch random orbit sander<br>
+	- Makita random orbit sander<br>
+	- Ryobi biscuit joiner<br>
+	- Makita power plane<br>
       	</td>
       	<td valign="top">
-	- Makita water stone power sharpener</br>
-	- Porter Cable detail sander</br>
-	- Porter Cable Brad nailers (2)</br>
-	- Drills and bits. Some Forster, brad point, twist bit, etc</br>
-	- Various other shop items and supplies.</br>	</td>	
+	- Makita water stone power sharpener<br>
+	- Porter Cable detail sander<br>
+	- Porter Cable Brad nailers (2)<br>
+	- Drills and bits. Some Forster, brad point, twist bit, etc<br>
+	- Various other shop items and supplies.<br>	</td>	
   </tr>
  </table>
 
