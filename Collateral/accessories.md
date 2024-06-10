@@ -1,6 +1,6 @@
 ### Suggestions of items that are not big power tools - (There are a lot of things that  make a shop fly.)
 - For Example:     (Right-Click the blue links for Pictures.)
-  - One of the fellows said that he had a tenon jig, but didn't mentino that he had a router.
+  - One of the fellows said that he had a tenon jig, but didn't mention that he had a router.
     - John has a little-used but really cheap router to offer, but it isn't rigid enough to be precise.
   - [How about a nice "CNC" Hand-held Router](https://youtu.be/QxjE5WOAGi4)
     - If I had one, I'd share it!
@@ -9,11 +9,11 @@
   - [How about some Steel Cabinets (John has 4 of these)](./Wall-Cab.png)
     - [Or a tall Steel Cabinet? (John has 1)](./Floor-Cab.png) 
   - A sturdy desk with drawers would be nice.  
-  -  Supplies! Rags, Towels, Sand Paper, Soap - Go Joe!, Steel Wool.  </br>You might have something really neat!
+  -  Supplies! Rags, Towels, Sand Paper, Soap - Go Joe!, Steel Wool.  <br>You might have something really neat!
 
 <table>
   <tr>
-    <th>An Ugly but Straight Bench. </br> Maybe a Table Saw extension? </br> New Top!</th>
+    <th>An Ugly but Straight Bench. <br> Maybe a Table Saw extension? <br> New Top!</th>
      <th>24 by 48 Wire Rack Shelf</th>
      <th>Tool Chest (Clean - Refurbished)
   </tr>
@@ -92,7 +92,7 @@
   <tr>
     <th>New Fire Extinguisher (Good example at least)</th>
      <th>New Forstner Bits (Purchased for a Project</th>
-    <th>Example - We will need a computer </br>  This one is old, but HD and very clean </br> Employer Paid +4K - Offer a better one!</th>
+    <th>Example - We will need a computer <br>  This one is old, but HD and very clean <br> Employer Paid +4K - Offer a better one!</th>
   </tr>
   <tr>
     <td valign="top">
@@ -117,7 +117,7 @@
   <tr>
     <th>Drawer of Examples 1 </th>
      <th>Drawer of Examples 2 </th>
-    <th>Drawer of Examples 3 </br>  Contains some weirdo's</br>Hog Ring Pliers, Lineman's Pliers </br> Snap-Ring Pliers </br> GAS Pliers, Ferrule Pliers</th>
+    <th>Drawer of Examples 3 <br>  Contains some weirdo's<br>Hog Ring Pliers, Lineman's Pliers <br> Snap-Ring Pliers <br> GAS Pliers, Ferrule Pliers</th>
   </tr>
   <tr>
     <td valign="top">
