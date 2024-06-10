@@ -6,7 +6,7 @@
 -  The shop is ready for light duty!
 -  Some members wants to look at some old stuff,  [Here's a link to the OLD Website.](./readme-OLD.md)
 
-### Newer News!
+### Pretty New News!
 
 -  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
    -  We now have everything that was offered by our group over the last year or so. <br>
