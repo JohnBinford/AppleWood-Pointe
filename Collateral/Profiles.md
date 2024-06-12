@@ -4,13 +4,11 @@
   <tr>
     <th>Mark</th>
     <th>Profile and Interests</th>
-  </tr>
-  
-  <tr>
+  </tr>  
+<tr>
    <td valign="top">
     <img src="../CraftsMen/Mark-G/Mark-Grotte.jpg">
-  </td
-<tr>     
+   </td>
 <td valign="top">
 - Graduated from the United States Military Academy at West Point in 1976.<br>
 - 6 Years in the Army  <br>
@@ -28,13 +26,12 @@
  ####  Ralph-L's Profile
 <table>
   <tr>
-    <th>Ralph-L</td>
+    <th>Ralph</td>
     <th>Profile and Interests</td>
   </tr>
   <tr>
       <td valign="top">
       <img src="../CraftsMen/Ralph-L/Collateral/Ralph-L-T.png">
-      </a>
       </td
   <tr>
       <td valign="top">
@@ -47,6 +44,7 @@
 	- Crafts:      Fly Tying, Leather Work, Net Making, Macrame. <br>
         - Interests:     Reading, Music, Eating out, Enjoying Retirement. <br>
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Perfecting the Art of Idling (How to do nothing and not feel guilty about it).
+      </td>      
 </table>
 
 ***
@@ -59,9 +57,7 @@
   </tr>
   <tr>
       <td valign="top">
-      <a href="../CraftsMen/Gary-L/Gary.jpg">
       <img src="../CraftsMen/Gary-L/Thumbnails/Gary-T.jpg">
-      </a>
       </td
   <tr>
       <td valign="top">
@@ -80,15 +76,13 @@
   #### Rick-S's Profile
 <table>
   <tr>
-    <th>Rick</td>
-    <th>Profile and Interests</td>
+    <th>Rick</th>
+    <th>Profile and Interests</th>
   </tr>
   <tr>
-      <td valign="top">
-      <a href="../CraftsMen/Rick-S/Rick.JPG">
+     <td valign="top">
       <img src="../CraftsMen/Rick-S/Thumbnails/Rick-T.jpg">
-      </a>
-	</td>
+     </td>
       <td valign="top">
 	- I graduated from Milwaukee School of Engineering in 1968. <br> 
 	- I was drafted shortly after and enlisted in the USAF.  <br>
@@ -109,11 +103,11 @@
     <th>Profile and Interests</th>
   </tr>
   <tr>
-      <td valign="top">
+  <td valign="top">
       <a href="../CraftsMen/Eric-S/Collateral/Eric-Black-1024-AWP.jpg">
       <img src="../CraftsMen/Eric-S/Collateral/Eric-Black-256-AWP-T.jpg">
       </a>
-	  </td>
+  </td>
       <td valign="top">
         - IBM engineer 20 years, Technology Consultant 10 years, Legal IT director 13 Years<br>
         - Retired 2019.<br>
@@ -123,7 +117,9 @@
         https://github.com/AD0MZ/All-Band-Adjustable-Dipole)<br> <br> <br>
         - A couple more winter projects just below.
 	</td>
-   <tr>
+  </tr>
+<table>
+	<tr>
      <th>A Marx HO electric train (Restored - 3D printed parts)<br>In original box!</th>
      <th>A restored <br>1950 Singer Featherweight sewing machine<br>
      https://featherweightdoctor.com</th>
@@ -156,9 +152,7 @@
   </tr>
   <tr>
       <td valign="top">
-	<a href="../CraftsMen/Dave-Z/Dave-Z.png">
       <img src="../CraftsMen/Dave-Z/Thumbnails/Dave-Z-T.png">
-      </a>
       </td
   <tr>
       <td valign="top">
@@ -169,4 +163,6 @@
         - Lakeville, MN School Janitor <br>
 	- Retired 2003 <br>
         - Hobbies:  Handyman, Golfer
-	</td>
+      </td>
+  </tr>
+</table>
