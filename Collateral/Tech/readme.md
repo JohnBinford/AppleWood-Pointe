@@ -1,9 +1,11 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
 -  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.  The panel looks like a medicine cabinet with a plastic door covering the stuff inside.  
    -  From that area, a few simple devices spread those services to wall jacks thoughout our units.
-      -  Data (Ethernet) and Voice (Phone) wires connect to white and blue gadgets that allow easier hookup.
-         -  Somne people call these gadgets "Patch Panels".
-         -  The Cable TV uses a simple "splitter" to distribute that service around to rooms.  It just dangles there - one in many out.   	   
+      -  Data (Ethernet) wires and Voice (Phone) wires connect to white and blue gadgets that allow easier hookup.
+         -  Some people call these gadgets "Patch Panels".
+         -  The Data (Ethernet) wires by convention are usually blue,  the Voice (phone) wires are usually white.
+      -  The Cable TV uses a simple "splitter" to distribute that service around to rooms.  It just dangles there - one in and many out.
+      -  The "antenna" wires (Usually the thick black ones.) are not connected - Note no "spliter", they jsut hang there.   	   
 #### Here is a picture of that panel, along with what's inside.
 <table>
 	<tr>
