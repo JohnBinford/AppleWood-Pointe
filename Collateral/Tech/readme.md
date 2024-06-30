@@ -2,13 +2,7 @@
 -  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.
    -  Engineers like to use the word "Cable" for wires that don't carry high voltate electrical power.
    -  The special technicians that hooked up our services are called "Low Voltage Techs".
--  The panel looks like a medicine cabinet with a plastic door covering the stuff inside.  
-   -  From that area, a few simple devices spread those services to wall jacks thoughout our units.
-      -  Data (Ethernet) wires and Voice (Phone) wires connect to white and blue gadgets that allow easier hookup.
-         -  Some people call these gadgets "Patch Panels".
-         -  The Data (Ethernet) wires by convention are usually blue,  the Voice (phone) wires are usually white.
-      -  The Cable TV uses a simple "splitter" to distribute that service around to rooms.  It just dangles there - one in and many out.
-      -  The "antenna" wires (Usually the thick black ones.) are not connected - Note no "spliter", they jsut hang there.   	   
+   -  We will use the term "cable" from now on, so we seem "technical"  too!
 #### Here is a picture of that panel, along with what's inside.
 <table>
 	<tr>
@@ -24,6 +18,16 @@
 		</td>
 	</tr>
 </table>
+
+-  The panel in our laundries is hidden behine a plastic door - covering the stuff inside.  
+   -  From that area, a few simple devices spread those services to wall jacks thoughout our units.
+      -  Data (Ethernet) cables and Voice (Phone) cables connect to colorful gadgets that allow easier hookup.
+         -  Some people call these gadgets "Patch Panels".
+         -  The thinner Data (Ethernet) cables by convention are usually blue,  the thin Voice (phone) cables are usually white.
+         -  TV and Antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
+      -  The white Cable TV cables use a simple "splitter" to distribute that service around to rooms.
+         -  The splitter just dangles there - one cable in and many cables out to the rooms.
+      -  The "antenna" cables (Usually the thick black ones.) are not connected - Note no "spliter", they jsut hang there.   	 
 
 * * *
 
