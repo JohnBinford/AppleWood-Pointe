@@ -6,7 +6,7 @@
 <table>
 	<tr>
 		<th>Low Voltage Distribution Panel</th>
-		<th>The "Guts" Inside</th>
+		<th>The "Guts" inside</th>
 	</tr>	
 	<tr> 
 		<td>
@@ -20,10 +20,11 @@
 		
 #### Here are pictures of the two kinds of jack sets most of us have on various walls.	 
 -  An appropriate wire runs back to the panel for each "port" on these jack plates.
+   -  Note that each jackplate is also numbered.  The wire in the panel well match!
 <table>
 	<tr>
-		<th>Spectrum Calls These "TV"</th>
-		<th>Spectrum Calls These "Data"</th>
+		<th>Spectrum calls these "TV"</th>
+		<th>Spectrum calls these "Data"</th>
 	</tr>	
 	<tr> 
 		<td>
