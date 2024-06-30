@@ -13,7 +13,7 @@
 			<img src="./Panel-2.jpg">
 		</td>
 		<td>
-			img src="./Panel-1.jpg">
+			<img src="./Panel-1.jpg">
 		</td>
 	</tr>
 </table>
@@ -30,7 +30,7 @@
 			<img src="./TV-Jacks.jpg">
 		</td>
 		<td>
-			img src="./Data-Jacks.jpg">
+			<img src="./Data-Jacks.jpg">
 		</td>
 	</tr>
 </table>
