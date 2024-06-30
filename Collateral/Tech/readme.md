@@ -1,8 +1,9 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
--  Often, people use plumbing and hoses as models to describe how various kinds of "wires" bring us services.
-	-  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.  It is similar to a medicine cabinet with a plastic door covering the stuff inside.
-		-  From that area, a few simple devices spread those services to wall jacks thoughout our units.
-  		-  The model number or type of wire is not really important, although you will notice different colors, sizes, and "feel" for the job they do (TV, Data, and Phone).
+-  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.  The panel looks like a medicine cabinet with a plastic door covering the stuff inside.  
+   -  From that area, a few simple devices spread those services to wall jacks thoughout our units.
+      -  Data (Ethernet) and Voice (Phone) wires connect to white and blue gadgets that allow easier hookup.
+         -  Somne people call these gadgets "Patch Panels".
+         -  The Cable TV uses a simple "splitter" to distribute that service around to rooms.  It just dangles there - one in many out.   	   
 #### Here is a picture of that panel, along with what's inside.
 <table>
 	<tr>
@@ -21,7 +22,10 @@
 		
 #### Here are pictures of the two kinds of jack sets most of us have on various walls.	 
 -  An appropriate wire runs back to the panel for each "port" on these jack-plates.
-   -  Note that each jack-plate is also numbered.  The wire in the panel well match!
+   -  Note that each jack-plate is also numbered, and the ports are labeled by the service they provide.
+      -  The wire's labels inside the panel will match.
+      -  The port labels for data and voice match the legends on the inside of the door.
+      -  The TV and (unused) antenna cables follow the same numbering and namgin scheme.
 <table>
 	<tr>
 		<th>Spectrum calls these "TV"</th>
