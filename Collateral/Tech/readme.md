@@ -1,8 +1,9 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
 -  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.
+   -  High Voltage is distributed through a "Fuse Box", Low Voltage uses a "panel"
    -  Engineers like to use the word "Cable" for wires that don't carry high voltate electrical power.
    -  The special technicians that hooked up our services are called "Low Voltage Techs".
-   -  We will use the term "cable" from now on, so we seem "technical"  too!
+   -  We will use the term "cable" from now on, so we seem "technical" too!
 #### Here is a picture of that panel, along with what's inside.
 <table>
 	<tr>
@@ -19,8 +20,7 @@
 	</tr>
 </table>
 
--  The panel in our laundries is hidden behine a plastic door - covering the stuff inside.  
-   -  From that area, a few simple devices spread those services to wall jacks thoughout our units.
+   -  Inside the low voltage panel, a few simple devices spread those services to wall jacks thoughout our units.
       -  Data (Ethernet) cables and Voice (Phone) cables connect to colorful gadgets that allow easier hookup.
          -  Some people call these gadgets "Patch Panels".
          -  The thinner Data (Ethernet) cables by convention are usually blue,  the thin Voice (phone) cables are usually white.
@@ -48,10 +48,11 @@
 	</tr>
 </table>
 
--  Note that each jack-plate is also numbered, and the ports are labeled by by Spectrum for the service they provide.
+-  The technicians that installed our low voltage systems did an excellent job, labeling and organizing things consistently.
+-  Note that each jack-plate is numbered, and the ports are labeled by by Spectrum for the service they provide.
 -  Here's the confusing bit.
-    -  Spectrun uses the terms "TV" and "Data" to know which of the two legend inside the door to use.
-    -  Both the Telephone legend and the Data legend use these terms to find a jack plate.
+    -  *Spectrun uses the terms "TV" and "Data" to name the plate, even though the port types overlap.*
+       -  Both the Voice legend and the Data legend use these terms to find a jack plate.
        -  Only the Data system and telephone system use patch panels, so only they need numbered legends.  
     -  "Living Room TV" on the legend tells us which wall plate it refers to.
     -  "Living Room Data" on the legend tells us that another (slightly different) wall place is nearby.
