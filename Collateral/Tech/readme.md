@@ -1,7 +1,8 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
 -  Often, people use plumbing and hoses as models to describe how various kinds of "wires" bring us services.
 	-  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.  It is similar to a medicine cabinet with a plastic door covering the stuff inside.
-	 -  From that area, a few simple devices spread those services to wall jacks thoughout our units.
+        -  The model number or type of wire is not important, although you will notice different colors, sizes, and "feel".
+	-  From that area, a few simple devices spread those services to wall jacks thoughout our units.
 #### Here is a picture of that panel, along with what's inside.
 <table>
 	<tr>
