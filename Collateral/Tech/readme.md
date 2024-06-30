@@ -9,7 +9,7 @@
 		<th>The "Guts" Inside</th>
 	</tr>	
 	<tr> 
-		<td>>
+		<td>
 			<img src="./Panel-2.jpg">
 		</td>
 		<td>
@@ -26,7 +26,7 @@
 		<th>Spectrum Calls These "Data"</th>
 	</tr>	
 	<tr> 
-		<td>>
+		<td>
 			<img src="./TV-Jacks.jpg">
 		</td>
 		<td>
