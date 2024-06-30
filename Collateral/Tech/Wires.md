@@ -19,11 +19,11 @@
 </table>
 		
 #### Here are pictures of the two kinds of jack sets most of us have on various walls.	 
-
+-  An appropriate wire runs back to the panel for each "port" on these jack plates.
 <table>
 	<tr>
 		<th>Spectrum Calls These "TV"</th>
-		<th>SPectrum Calls THese "Data"</th>
+		<th>Spectrum Calls These "Data"</th>
 	</tr>	
 	<tr> 
 		<td>>
