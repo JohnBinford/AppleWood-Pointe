@@ -19,8 +19,8 @@
 </table>
 		
 #### Here are pictures of the two kinds of jack sets most of us have on various walls.	 
--  An appropriate wire runs back to the panel for each "port" on these jack plates.
-   -  Note that each jackplate is also numbered.  The wire in the panel well match!
+-  An appropriate wire runs back to the panel for each "port" on these jack-plates.
+   -  Note that each jack-plate is also numbered.  The wire in the panel well match!
 <table>
 	<tr>
 		<th>Spectrum calls these "TV"</th>
