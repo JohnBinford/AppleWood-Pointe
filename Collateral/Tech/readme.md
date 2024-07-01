@@ -152,3 +152,11 @@
 -  Spectrum did not not hook up our antenna cables so this resident purchased his own antenna and splitter.
 -  Note the white tape labels the black TV and the scribbled numbers on white antenna (coaxial cables)!
 <img src="./E-Panel-1.png">
+
+* * *
+
+#### Here is a picture of a typical WIFI Access Point.
+-  Most of us will find one of these in their coat closet near the front door.
+-  An Ethernet cable runs from the top wall plate jack to the nearest Lan Closet
+-  Another Ethernet cable runs through the walls into our distribution cabinets.  Labeled as "WIF".
+<img src="./AP-1.jpg">
