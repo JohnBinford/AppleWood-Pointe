@@ -4,7 +4,7 @@
       -  The technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
-#### Here is a picture of that cabinet (usually in our laundry rooms), along with what's inside.
+#### Here is a picture of the Distribution Cabinet (usually in our laundry rooms), along with what's inside.
 <table>
 	<tr>
 		<th>Low Voltage Distribution Cabinet</th>
