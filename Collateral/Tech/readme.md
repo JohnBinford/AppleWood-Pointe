@@ -29,7 +29,7 @@
      -  A similar looking but electrically different mini patch panel is used for Ethernet and Voice respectively.
 -  Ethernet patch panels have cables from the wall plates permanently connected to sets of eight jacks on that panel.
    -  They require short "Patch" cables that run from the Patch Panel to a Hub or Switch.
-   -  Switches are more modern and better for many reasons compare to "HUB's.
+   -  Switches are more modern and better for many reasons compare to "HUB's.<br><br>
 -  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
    -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).  
    -  Our white cable TV cables use a simple "splitter" to distribute that service around to rooms.
@@ -41,7 +41,7 @@
  
 * * *
 
-#### Here are pictures of the two kinds of jack plates most of us have on various walls.	 
+#### Here are pictures of the two kinds of wall plates most of us have on various walls.	 
 -  An appropriate cable runs back to the distribution cabinet for each "port" or connector on these wall plates.
 <table>
 	<tr>
