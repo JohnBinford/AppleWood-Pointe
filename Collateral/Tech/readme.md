@@ -4,7 +4,7 @@
       -  The special technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltate electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
-#### Here is a picture of that panel, along with what's inside.
+#### Here is a picture of that cabinet (usually in our laundry rooms), along with what's inside.
 <table>
 	<tr>
 		<th>Low Voltage Distribution Cabinet</th>
@@ -21,15 +21,15 @@
 </table>
 
    -  Inside the low voltage distribution panel, a few simple devices spread services to wall jacks thoughout our units.
-      -  Data (Ethernet) cables and Voice (Phone) cables connect to colorful gadgets that allow easier hookup.
+      -  Data (Ethernet) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
          -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
-         -  The thinner Data (Ethernet) cables by convention are usually blue,  the thin Voice (phone) cables are usually white.
-         -  True techno nerds call Voice cables "CAT 3" and Data (usually Ethernet) cable CAT 5E (sometimes CAT 6 - even better).
+         -  The thinner vata (Ethernet) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
+         -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E (sometimes CAT 6 - even better).
          -  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
-            -  They are called "coaxial Cables" due to their cross section and radial symmetry (Think Bullseye or Target).  
-      -  The white Cable TV cables use a simple "splitter" to distribute that service around to rooms.
+            -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).  
+      -  The white cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  Our little silver splitters just dangle there - one cable in and many cables out to the rooms.
-      -  The "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang there unused.
+      -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang there unused.
          - The fellow that took the pictures hooked his own antenna and splitter up.  Check out the gadget with the blue Light.
 
 * * *
@@ -73,6 +73,9 @@
 -  Only the Ethernet data system and voice systems use patching gadgets with locations numbered on them accordingly. <br> <br>
 -  The Cable TV and unused antenna cables follow the same numbering system, but don't have mini patch panels.  They use splitters or sometimes amplified splitters.
    -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
+
+ * * *
+
 #### Here is a picture of a Data Legend...
 <table>
 	<tr>
@@ -96,6 +99,8 @@
 		</td>
 	</tr>
 </table>
+
+* * *
 
 #### Here is a picture of a Voice Legend...
 <table>
