@@ -73,6 +73,44 @@
 -  Only the Data system and Voice systems use patching gadgets, locations numbered accordingly. <br> <br>
 -  The Cable TV and (unused) antenna cables follow the same numbering system, but don't have mini patch panels.
    -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
-   
+#### Here is a picture of a Data Legend...
+<table>
+	<tr>
+		<th>A Data Legend in a typical AWP Unit</th>
+		<th>Descriptive Verbiage</th>
+	</tr>	
+	<tr> 
+		<td>
+			<img src="./Data-Legend.jpg">
+		</td>
+		<td>
+-  Two mini patch panels for Data need two legend pieces. (More than 8 jacks)<br> 
+   -  In this case the ACUTAL feed is from WIFI !!!  (Nubmer 7 on the lower part of the legend.)<br>
+      -  Reason unknown, a short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
+      -  The developer did not hook up the direct feeder from the "secret room" downstairs, even though the cable goes down there.!<br>
+-  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
+   -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
+		</td>
+	</tr>
+</table>
 
-
+#### Here is a picture of a Voice Legend...
+<table>
+	<tr>
+		<th>A Voice Legend in a typical AWP Unit</th>
+		<th>Descriptive Verbiage</th>
+	</tr>	
+	<tr> 
+		<td>
+			<img src="./Data-Legend.jpg">
+		</td>
+		<td>
+-  Two mini patch panels for Phones (Voice) need two legend pieces. (More than 8 jacks)<br> 
+   -  In this case the feed connects to a special area (called a punch down).  (Nubmer 7 on the lower part of the legend.)<br>
+      -  Reason unknown, a short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
+      -  The developer did not hook up the direct feeder from the "secret room" downstairs, even though the cable goes down there.!<br>
+-  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
+   -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
+		</td>
+	</tr>
+</table>
