@@ -1,5 +1,5 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
--  There are five "wires" comming from a "Secret Room" in the building that bring those services to a panel in our laundry room.
+-  There are five "wires" comming from a "Secret Room" in the building that bring those services to a distribution panel in our laundry rooms.
    -  High Voltage is distributed through a "Fuse Box", Low Voltage uses a "panel"
    -  Engineers like to use the word "Cable" for wires that don't carry high voltate electrical power.
    -  The special technicians that hooked up our services are called "Low Voltage Techs".
@@ -20,10 +20,11 @@
 	</tr>
 </table>
 
-   -  Inside the low voltage panel, a few simple devices spread services to wall jacks thoughout our units.
+   -  Inside the low voltage distribution panel, a few simple devices spread services to wall jacks thoughout our units.
       -  Data (Ethernet) cables and Voice (Phone) cables connect to colorful gadgets that allow easier hookup.
-         -  Some people call these gadgets "Patch Panels".
+         -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
          -  The thinner Data (Ethernet) cables by convention are usually blue,  the thin Voice (phone) cables are usually white.
+         -  True techno nerds call Voice cables "CAT 3" and Data (usually Ethernet) cable CAT 5 (sometimes CAT 6 - even better).
          -  TV and Antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
             -  They are called "Coaxial Cables" due to their cross section and radial symmetry (Think Bullseye or Target).  
       -  The white Cable TV cables use a simple "splitter" to distribute that service around to rooms.
@@ -70,7 +71,7 @@
    -  The box number (in the legend table) denotes both the plate number and the numbers written on the cables to it.
       - All services will use that same cable number for a given wall plate.
 -  Only the Data system and Voice systems use patching gadgets, locations numbered accordingly. <br> <br>
--  The Cable TV and (unused) antenna cables follow the same numbering system, but don't have patching gadgets.
+-  The Cable TV and (unused) antenna cables follow the same numbering system, but don't have mini patch panels.
    -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
    
 
