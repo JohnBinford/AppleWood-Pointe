@@ -77,7 +77,7 @@
 <table>
 	<tr>
 		<th>A Data Legend in a typical AWP Unit</th>
-		<th>Descriptive Verbiage</th>
+		<th>Comments</th>
 	</tr>	
 	<tr> 
 		<td>
@@ -98,7 +98,7 @@
 <table>
 	<tr>
 		<th>A Voice Legend in a typical AWP Unit</th>
-		<th>Descriptive Verbiage</th>
+		<th>Comments</th>
 	</tr>	
 	<tr> 
 		<td>
