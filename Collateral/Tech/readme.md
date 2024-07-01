@@ -1,7 +1,7 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
--  There are five "wires" comming from a "secret room" (Called a Lan Coset or Cable Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.
-   -  High voltage is distributed through a "fuse box", Low voltage uses a "distribution cabinet"
-      -  The special technicians that hooked up our services are called "Low Voltage Techs".     
+-  There are five "wires" comming from a "secret room" (Called a Lan Closet or Cable Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.
+   -  High voltage is distributed through a "fuse box", low voltage uses a "Distribution Cabinet" or "Distribution Panel".
+      -  The technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
 #### Here is a picture of that cabinet (usually in our laundry rooms), along with what's inside.
@@ -20,18 +20,24 @@
 	</tr>
 </table>
 
-   -  Inside the low voltage distribution panel, a few simple devices spread services to wall jacks thoughout our units via cables in the walls.
-      -  Data (Ethernet) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
-         -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
-         -  The thinner vata (Ethernet) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
-         -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E (sometimes CAT 6 - even better).
-         -  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
-            -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).  
-      -  The white cable TV cables use a simple "splitter" to distribute that service around to rooms.
+ -  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks thoughout our units via cables in the walls.
+ -  The thinner Ethernet (data) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
+     -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E. (Sometimes CAT 6 - even better.)<br><br> 
+ -  Ethernet (data) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
+     -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
+     -  A similar looking but electrically different mini patch panel is used for Ethernet and Voice respectively.
+-  Ethernet patch panels have cables from the wall plates permanently connected to sets of eight jacks on that panel.
+   -  They require short "Patch" cables that run from the Patch Panel to a Hub or Switch.
+   -  Switches are more modern and better for many reasons compare to "HUB's.
+-  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
+   -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).  
+   -  Our white cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  Our little silver splitters just dangle there - one cable in and many cables out to the rooms.
-      -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang there unused.
-         - The fellow that took the pictures hooked his own antenna and splitter up.  Check out the gadget with the blue Light.
+   -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang  there unused.
 
+#### Here is an annotated picture of typical Mini Patch Panels in our Distribution Cabinets
+ <img src="./I-P-Anno.png">
+ 
 * * *
 
 #### Here are pictures of the two kinds of jack plates most of us have on various walls.	 
