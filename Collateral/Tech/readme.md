@@ -20,7 +20,7 @@
 	</tr>
 </table>
 
-   -  Inside the low voltage distribution panel, a few simple devices spread services to wall jacks thoughout our units.
+   -  Inside the low voltage distribution panel, a few simple devices spread services to wall jacks thoughout our units via cables in the walls.
       -  Data (Ethernet) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
          -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
          -  The thinner vata (Ethernet) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
