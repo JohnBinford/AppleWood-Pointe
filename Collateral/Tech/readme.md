@@ -143,7 +143,7 @@
      -  We need a ethernet compatible hub, router, or switch and short ethernet cables to jumper various jacks together.
   -  The bottom two boxes represent the mini patch panels for our unit's telephone system.
      -  All of the cables that run to various wall plates in rooms are already connected.
-        -  The authors bottom mini patch panel was not hooked up, but the short jumper depicted between them!  It had to be fixed.  
+        -  The authors bottom mini patch panel was not hooked up, the missing short jumper is depicted between them on this diagram!  It had to be fixed.  
 <img src="./U-309-Panel-Overview.JPG">
 
 * * *
