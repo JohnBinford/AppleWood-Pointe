@@ -73,6 +73,7 @@
 -  Only the Ethernet data system and voice systems use patching gadgets with locations numbered on them accordingly. <br> <br>
 -  The Cable TV and unused antenna cables follow the same numbering system, but don't have mini patch panels.  They use splitters or sometimes amplified splitters.
    -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
+   -  **If you have both types of wall plates, the number of TV or Antenna cables will be less than Ethernet data jacks.**
 
  * * *
 
@@ -126,3 +127,14 @@
 
 #### There are no legends for Cable TV and Antenna (Not labeled on every wall plate.)
 #### You need to look up a location on the data or voice legends and then check the labels on the cables themselves.
+
+* * *
+
+### Here is a diagram of the 4 mini patch panels in a typical AWP distribution cabinet.
+- Some units may have only one of each type if they did not add any wall plates during the sales process.
+  -  The top two boxes dipict the mini patch panels for Ethernet data.
+     -  We need a ethernet compatible hub, router, or switch and short ethernet cables to jumper various jacks together.
+  -  The bottom two boxes represent the mini patch panels for our unit's telephone system.
+     -  All of the cables that run to various wall plates in rooms are already connected.
+        -  The authors bottom mini patch panel was not hooked up, but the short jumper depicted between them!  It had to be fixed.  
+<img src="./U-309-Panel-Overview.JPG">
