@@ -28,13 +28,13 @@
             -  They are called "Coaxial Cables" due to their cross section and radial symmetry (Think Bullseye or Target).  
       -  The white Cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  The splitter just dangles there - one cable in and many cables out to the rooms.
-      -  The "antenna" cables (Usually the thick black ones.) are not connected - You will notive no "spliter", they just hang there unused.
+      -  The "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang there unused.
          - The fellow that took the pictures hooked his own antenna and splitter up.  Check out the gadget with the blue Light.
 
 * * *
 
 #### Here are pictures of the two kinds of jack plates most of us have on various walls.	 
--  An appropriate cable runs back to the panel for each "port" on these jack-plates.
+-  An appropriate cable runs back to the panel for each "port" or connector on these wall plates.
 <table>
 	<tr>
 		<th>Spectrum calls these "TV"</th>
@@ -57,16 +57,20 @@
 -  **To avoid crawling around, Spectrum provided two good legends that map wall plate names to cable numbers.**
 -  Here's how Spectrum created names for wall plate locations.  (This took a while to figure out!)
     -  *Spectrun uses the terms "TV" and "Data" to **name the plate type** as shown above.*
-       -  TV plates have four "ports", Data plates have two.
+       -  "Data" plates have two square "ports", "TV" plates add two silver "F" connectors.
+          -  Don't know why the are called "F" connectors - it's just a standard by some committee.  
        -  On the legend, the physical location and the plate type are combined into a location name.
     -  "Living Room TV" on the legend tells us which wall plate in the living room it refers to.
-    -  "Living Room Data" on the legend tells us that another (slightly different) wall plate is nearby.
-    -  Spectrum's legends might be more verbose.  "Living Room TV Left" and "Living Room Data Right" are examples of two nearby wall plate locations.
+    -  "Living Room Data" on the legend tells us about another (different type) wall plate.
+    -  Spectrum's legends might be more verbose.
+       -  "Living Room TV Left" and "Living Room TV Right" are examples of two nearby wall plate locations.
+       -  "Living Room TV Left" and "Living Room Data Left" are examples of two nearby wall plate locations.
+       -  Their gibberish will coincide with the layout of your unit.<br> <br>
    -  The location names are in numbered boxes on the legends.
-   -  The box number (in the legend table) denotes both the plate number and it's cable numbers.
-      - All services will use that same number for a given wall plate.
--  Only the Data system and Voice systems use patch panels, locations numbered accordingly. <br> <br>
--  The Cable TV and (unused) antenna cables follow the same numbering system.
+   -  The box number (in the legend table) denotes both the plate number and the numbers written on the cables to it.
+      - All services will use that same cable number for a given wall plate.
+-  Only the Data system and Voice systems use patching gadgets, locations numbered accordingly. <br> <br>
+-  The Cable TV and (unused) antenna cables follow the same numbering system, but don't have patching gadgets.
    -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
    
 
