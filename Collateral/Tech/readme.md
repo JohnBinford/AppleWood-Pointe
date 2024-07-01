@@ -85,10 +85,12 @@
 		</td>
 		<td>
 -  Two mini patch panels for Data need two legend pieces. (More than 8 jacks)<br> <br>
-   -  In this case the ACUTAL feed is from WIFI !!!  (Nubmer 7 on the lower part of the legend.)<br>
+-  You make all the necessary connections short ethernet cables to the jacks on the mini patch panels to you router, hub, or switch.<br>
+   -  In this case the ACTUAL feed is from WIFI, rather than from the "secret room"!<br>
+      -  It's number 7 on the lower part of the legend.) <br>
       -  A short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
       -  Your documentor speculates that this saves the cost of the equipment required in the "secret room" to supoprt a bunch of feeders, even though the cable goes down there.!<br>
-      -  he also speculates that it might be easier to manage through the WIFI control gadgets.<br> <br>
+      -  He also speculates that it might be easier to manage through the WIFI control gadgets.<br> <br>
 -  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
    -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
 		</td>
@@ -103,12 +105,14 @@
 	</tr>	
 	<tr> 
 		<td>
-			<img src="./Data-Legend.jpg">
+			<img src="./Voice-Legend.jpg">
 		</td>
 		<td>
 -  Two mini patch panels for Phones (Voice) need two legend pieces. (More than 8 jacks)<br> 
-   -  In this case the feed connects to a special area (called a punch down).  (Nubmer 7 on the lower part of the legend.)<br>
-      -  Reason unknown, a short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
+- For Voice, everything
+   -  In this case the feed from "secret room" connects to a special area (called a punch down).  (Nubmer 4 on the lower left part of the legend.)<br>
+      -  Since the 1920's telephone engineers called the place where their wire from the pole connected to your home's wire to the telephone on the wall.
+      -  Reason unknown, .<br>
       -  The developer did not hook up the direct feeder from the "secret room" downstairs, even though the cable goes down there.!<br>
 -  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
    -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
