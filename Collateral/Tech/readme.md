@@ -2,7 +2,7 @@
 -  There are five "wires" comming from a "secret room" in the building that bring those services to a distribution panel in our laundry rooms.
    -  High voltage is distributed through a "fuse box", Low voltage uses a "distribution cabinet"
       -  The special technicians that hooked up our services are called "Low Voltage Techs".     
-   -  Engineers like to use the word "cable" for wires that don't carry high voltate electrical power.
+   -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
 #### Here is a picture of that cabinet (usually in our laundry rooms), along with what's inside.
 <table>
