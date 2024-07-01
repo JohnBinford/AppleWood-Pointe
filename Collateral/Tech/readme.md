@@ -118,3 +118,6 @@
 		</td>
 	</tr>
 </table>
+
+#### There are no legends for Cable TV and Antenna (Not labeled on every wall plate.)
+#### You need to look up a location on the data or voice legends and then check the labels on the cables themselves.
