@@ -35,7 +35,7 @@
 * * *
 
 #### Here are pictures of the two kinds of jack plates most of us have on various walls.	 
--  An appropriate cable runs back to the distribution panel for each "port" or connector on these wall plates.
+-  An appropriate cable runs back to the distribution cabinet for each "port" or connector on these wall plates.
 <table>
 	<tr>
 		<th>Spectrum calls these "TV"</th>
