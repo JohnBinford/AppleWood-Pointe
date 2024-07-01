@@ -149,4 +149,4 @@
 
 #### Here is a picture of a Distribution Cabinet with Patch Panels iside (From a Resident).
 -  Spectrum did not not hook up our antenna cables so this resident purchased his own antenna and splitter.
-<img src="./E-Panel-1.png"
+<img src="./E-Panel-1.png">
