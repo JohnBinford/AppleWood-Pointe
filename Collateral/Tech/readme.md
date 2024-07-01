@@ -60,7 +60,7 @@
 
 -  The technicians that installed our low voltage systems did an excellent job, labeling and organizing things consistently.
    -  Unfortunately, it's hard to be usefully verbose when writing on a cable, so an organizational legend is necessary.  
--  Each jack-plate is numbered, and the ports are labeled by by Spectrum for the service they provide.
+-  Each wall plate is numbered, and the ports are labeled by by Spectrum for the service they provide.
    -  You could just note the number, and connect up cables in the panel from that.<br> <br>
 -  **To avoid crawling around, Spectrum provided two good legends that map wall plate names to cable numbers.**
 -  Here's how Spectrum created names for wall plate locations.  (This took a while to figure out!)
@@ -79,7 +79,7 @@
       - All services will use the same cable number for a given wall plate.  Different cable type tell them apart.
 -  Only the Ethernet data system and voice systems use patching gadgets with locations numbered on them accordingly. <br> <br>
 -  The Cable TV and unused antenna cables follow the same numbering system, but don't have mini patch panels.  They use splitters or sometimes amplified splitters.
-   -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
+   -  You get the number off your wall plate or infer from the legend on the door, and read a label stuck to the black or white cable.
    -  **If you have both types of wall plates, the number of TV or Antenna cables will be less than Ethernet data jacks.**
 
  * * *
