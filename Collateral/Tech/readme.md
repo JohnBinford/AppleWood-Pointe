@@ -8,14 +8,14 @@
 <table>
 	<tr>
 		<th>Low Voltage Distribution Cabinet</th>
-		<th>The "Guts" inside</th>
+		<th>The "Guts" Inside (Ideal Panel from Model) </th>
 	</tr>	
 	<tr> 
 		<td>
 			<img src="./Panel-2.jpg">
 		</td>
 		<td>
-			<img src="./Panel-1.jpg">
+			<img src="./Ideal-Panel.jpg">
 		</td>
 	</tr>
 </table>
