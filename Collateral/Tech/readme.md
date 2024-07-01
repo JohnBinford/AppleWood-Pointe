@@ -147,7 +147,7 @@
 
 * * *
 
-#### Here is a picture of a Distribution Cabinet with Patch Panels iside (From a Resident).
+#### Here is a picture of a Distribution Cabinet with Patch Panels inside (From a Resident).
 -  Spectrum did not not hook up our antenna cables so this resident purchased his own antenna and splitter.
 -  Note the white tape labels the black TV and the scribbled numbers on white antenna (coaxial cables)!
 <img src="./E-Panel-1.png">
