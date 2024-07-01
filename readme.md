@@ -3,6 +3,8 @@
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
 ### Newest News!
+-  Johnathan Binford's alter ego - Eric S - is working on documentation for TV and Internet.
+   -  [Click here to see a draft.](./Collateral/Tech/readme.md)
 -  The shop is ready for light duty!
 -  Some members wants to look at some old stuff,  [Here's a link to the OLD Website.](./readme-OLD.md)
 
