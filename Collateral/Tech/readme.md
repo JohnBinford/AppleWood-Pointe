@@ -5,6 +5,7 @@
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
 #### Here is a picture of the Distribution Cabinet (usually in our laundry rooms), along with what's inside.
+-  BTW... You can click on most of the pictures for a bigger view!
 <table>
 	<tr>
 		<th>Low Voltage Distribution Cabinet</th>
