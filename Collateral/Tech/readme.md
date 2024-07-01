@@ -20,19 +20,21 @@
 	</tr>
 </table>
 
-   -  Inside the low voltage panel, a few simple devices spread those services to wall jacks thoughout our units.
+   -  Inside the low voltage panel, a few simple devices spread services to wall jacks thoughout our units.
       -  Data (Ethernet) cables and Voice (Phone) cables connect to colorful gadgets that allow easier hookup.
          -  Some people call these gadgets "Patch Panels".
          -  The thinner Data (Ethernet) cables by convention are usually blue,  the thin Voice (phone) cables are usually white.
          -  TV and Antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
+            -  They are called "Coaxial Cables" due to their cross section and radial symmetry (Think Bullseye or Target).  
       -  The white Cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  The splitter just dangles there - one cable in and many cables out to the rooms.
-      -  The "antenna" cables (Usually the thick black ones.) are not connected - Note no "spliter", they jsut hang there.   	 
+      -  The "antenna" cables (Usually the thick black ones.) are not connected - Note no "spliter", they just hang there unused.
+         - The fellow that took the pictures hooked his own antenna and splitter up.  Check out the gadget with the blue Light.
 
 * * *
 
 #### Here are pictures of the two kinds of jack plates most of us have on various walls.	 
--  An appropriate wire runs back to the panel for each "port" on these jack-plates.
+-  An appropriate cable runs back to the panel for each "port" on these jack-plates.
 <table>
 	<tr>
 		<th>Spectrum calls these "TV"</th>
@@ -49,15 +51,23 @@
 </table>
 
 -  The technicians that installed our low voltage systems did an excellent job, labeling and organizing things consistently.
+   -  Unfortunately, one person labeled the cables and another labeled the wall plates, so it varies in its consistency.  
 -  Note that each jack-plate is numbered, and the ports are labeled by by Spectrum for the service they provide.
--  Here's the confusing bit.
-    -  *Spectrun uses the terms "TV" and "Data" to name the plate, even though the port types overlap.*
-       -  Both the Voice legend and the Data legend use these terms to find a jack plate.
-       -  Only the Data system and telephone system use patch panels, so only they need numbered legends.  
-    -  "Living Room TV" on the legend tells us which wall plate it refers to.
-    -  "Living Room Data" on the legend tells us that another (slightly different) wall place is nearby.
+-  **Spectrum provided two good legends that map wall plate names to cable numbers.**
+-  Here's the slightly confusing bit.
+    -  *Spectrun uses the terms "TV" and "Data" to **name the plate type** as shown above.*
+       -  TV plates have four "ports", Data plates have two.
+       -  On the legend, the physical location and the plate type are combined into a location name.
+    -  "Living Room TV" on the legend tells us which wall plate in the living room it refers to.
+    -  "Living Room Data" on the legend tells us that another (slightly different) wall plate is nearby.
     -  Spectrum's legends might be more verbose.  "Living Room TV Left" and "Living Room Data Right" are examples of two nearby wall plate locations.
--  The TV and (unused) antenna cables follow the same numbering.  You get the number off your jack plate, and read a label stuck to the black or white cable.
+-  **Learning the verbose legend entries makes it so we don't have to crawl around to find the numbers.**
+   -  The location names are in numbered boxes on the legends.
+   -  The box number (in the legend table) denotes both the plate number and it's cable numbers.
+      - The cable numbers for all services will use that same number for a given wall plate.
+-  Only the Data system and Voice systems use patch panels, locations numbered accordinly. 
+-  The TV and (unused) antenna cables follow the same numbering.
+   -  You get the number off your jack plate or infer from the legend on the door, and read a label stuck to the black or white cable.
    
 
 
