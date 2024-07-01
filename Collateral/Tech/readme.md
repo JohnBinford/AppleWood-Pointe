@@ -1,5 +1,5 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
--  There are five "wires" comming from a "secret room" (Called a Lan Closet or Cable Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.
+-  There are five "wires" coming from a "secret room" (Called a Lan Closet or Splicing Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.
    -  High voltage is distributed through a "fuse box", low voltage uses a "Distribution Cabinet" or "Distribution Panel".
       -  The technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
@@ -20,7 +20,7 @@
 	</tr>
 </table>
 
- -  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks thoughout our units via cables in the walls.
+ -  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks throughout our units via cables in the walls.
  -  The thinner Ethernet (data) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
      -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E. (Sometimes CAT 6 - even better.)<br><br> 
  -  Ethernet (data) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
@@ -33,7 +33,7 @@
    -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).  
    -  Our white cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  Our little silver splitters just dangle there - one cable in and many cables out to the rooms.
-   -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang  there unused.
+   -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "splitter", they just hang  there unused.
 
 #### Here is an annotated picture of typical Mini Patch Panels in our Distribution Cabinets
  <img src="./I-P-Anno.png">
@@ -94,12 +94,12 @@
 			<img src="./Data-Legend.jpg">
 		</td>
 		<td>
--  In this exmaple, two mini patch panels for Ethernet Data need two legend pieces. (More than 8 jacks)<br> <br>
+-  In this example, two mini patch panels for Ethernet Data need two legend pieces. (More than 8 jacks)<br> <br>
 -  You make all the necessary connections short ethernet cables to the jacks on the data style mini patch panels to you router, hub, or switch.<br>
-   -  In this case the ACTUAL feed is from WIFI, rather than from the "secret room"!<br>
+   -  In this case the ACTUAL feed is from WIFI, rather than from the Lan Closet!<br>
       -  It's number 7 on the lower part of the legend.) <br>
       -  A short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
-      -  Your documentor speculates that this saves the cost of the equipment required in the "secret room" to supoprt a bunch of feeders, even though the cable goes down there.!<br>
+      -  Your documenter speculates that this saves the cost of the equipment required in the Lan CLoset to supoprt a bunch of feeders, even though the cable goes down there.!<br>
       -  He also speculates that it might be easier to manage through the WIFI control gadgets.<br> <br>
 -  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
    -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
@@ -121,7 +121,7 @@
 		</td>
 		<td>
 -  In this example, Two mini patch panels for phones (Voice) need two legend pieces. (More than 8 jacks)<br> 
--  For Voice, everything - including the feed from "secret room" - connects to a special connector (called a punch down) located on its special mini patch panel.  The feed is noted as number 4 on the lower left part of the legend, even though there is only one "feed" cable, Spectrum documented it as being number 4<br>
+-  For Voice, everything - including the feed from Lan Closet or Splicing Chanber - connects to a special connector (called a punch down) located on its special mini patch panel.  The feed is noted as number 4 on the lower left part of the legend, even though there is only one "feed" cable, Spectrum documented it as being number 4<br>
       -  Since the 1920's telephone engineers called the place where their wire from the pole connected to your home's wire to the telephone on the wall "The Demarcation".  That custom remains as an easy way to note the in's and out's of voice cabling. <br><br>
 -  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
    -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
@@ -138,7 +138,7 @@
 
 ### Here is a diagram of the 4 mini patch panels in a typical AWP distribution cabinet.
 - Some units may have only one of each type if they did not add any wall plates during the sales process.
-  -  The top two boxes dipict the mini patch panels for Ethernet data.
+  -  The top two boxes depict the mini patch panels for Ethernet data.
      -  We need a ethernet compatible hub, router, or switch and short ethernet cables to jumper various jacks together.
   -  The bottom two boxes represent the mini patch panels for our unit's telephone system.
      -  All of the cables that run to various wall plates in rooms are already connected.
