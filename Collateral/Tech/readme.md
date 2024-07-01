@@ -28,7 +28,7 @@
          -  TV and Antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
             -  They are called "Coaxial Cables" due to their cross section and radial symmetry (Think Bullseye or Target).  
       -  The white Cable TV cables use a simple "splitter" to distribute that service around to rooms.
-         -  The splitter just dangles there - one cable in and many cables out to the rooms.
+         -  The little silver splitter just dangles there - one cable in and many cables out to the rooms.
       -  The "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "spliter", they just hang there unused.
          - The fellow that took the pictures hooked his own antenna and splitter up.  Check out the gadget with the blue Light.
 
@@ -84,10 +84,11 @@
 			<img src="./Data-Legend.jpg">
 		</td>
 		<td>
--  Two mini patch panels for Data need two legend pieces. (More than 8 jacks)<br> 
+-  Two mini patch panels for Data need two legend pieces. (More than 8 jacks)<br> <br>
    -  In this case the ACUTAL feed is from WIFI !!!  (Nubmer 7 on the lower part of the legend.)<br>
-      -  Reason unknown, a short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
-      -  The developer did not hook up the direct feeder from the "secret room" downstairs, even though the cable goes down there.!<br>
+      -  A short cable in the wall from each unit's WIFI feeds the unit's Ethernet Data system.<br>
+      -  Your documentor speculates that this saves the cost of the equipment required in the "secret room" to supoprt a bunch of feeders, even though the cable goes down there.!<br>
+      -  he also speculates that it might be easier to manage through the WIFI control gadgets.<br> <br>
 -  Note the entries Upper 1 and 7, lower 2.  All refer the the living room as seen from the door.<br>
    -  Also note that the plate type for lower #2 is Data rather than TV.  In box 2, "Liv Data" is plate # 2 and cable #2.<br>
 		</td>
