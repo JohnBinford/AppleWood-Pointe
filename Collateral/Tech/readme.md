@@ -157,8 +157,8 @@
 
 #### Here is a picture of a typical WIFI Access Point.
 -  Most of us will find one of these in their coat closet near the front door.
--  An Ethernet cable runs from the top wall plate jack to the nearest Lan Closet
--  Another Ethernet cable runs through the walls into our distribution cabinets.  Labeled as "WIF".
+-  An Ethernet cable runs from the top wall plate jack to the nearest Lan Closet.  Labeled "IDF" - see notes below.
+-  Another Ethernet cable runs through the walls into our distribution cabinets.  Labeled as "WIFI".
 -  By using the short cable from the WIFI AP to our Distribution Closeet, they save the cost of gadgets downstairs to support the dedicated feeder that we MIGHT use for Ethernet.  The Ethernet signal is sorted out by software inside the WIFI Aaccess Point instead and just sent a short distance to us from the spare port on the AP.
 <img src="./AP-1.jpg">
 
