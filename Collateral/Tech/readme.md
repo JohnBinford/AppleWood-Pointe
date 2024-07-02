@@ -182,3 +182,4 @@
       -   Our electrical system is also very nice and well done.  (Another document.)
    -  Our IDF's are located in the second floor storage areas.  They contain Ethernet patch panels switches, Telephone splicing panels, security control gadgets,  door controls, fire controls etc.
       -  These gadgets collectively fan out their service's cables to individual units or to other gadgets throughout the building.  (Cameras, doors, fire alarms, etc.)
+   -  Sompe might argue that the Distribution Cabinets in our units are IDF's!   
