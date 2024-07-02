@@ -1,4 +1,21 @@
 ## We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
+### Our systems are very well designed and very organized. Most of us will (should?) only use WIFI. 
+
+-  Using WIFI only makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!<br><br>
+-  **Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.**
+   -  Your wired computer may not see your printer.
+   -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc) might be invisible to wired devices like computers or ethernet connected TV's. 
+-  **You will need your own wireless router hooked to your unit's ethernet system to make it all work together.**<br>
+-  The easiest way is to replace the Ethernet switch with your router.
+   -  Use the router's WIFI instead of AppleWood's while at home.
+   -  Connect your wired Ethernet devices to your routers extra ports.
+-  Technical information about Ethernet and WIFI is included below.  It will help you figure out where to hook your own router.
+-  IF you intend to used only WIFI, the rest of this document is probably TLDR: (Too Long, Don't Read)
+   -  If not - read on, or ask someone in the TECH Special Interest Group for help! (We are glad to do so.)
+
+* * *
+   
+### Our "wired" internet and cable TV are documented below.
 -  There are five "wires" coming from a "secret room" (Called a Lan Closet or Splicing Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.
    -  High voltage is locally distributed through a "fuse box", low voltage locally uses a "Distribution Cabinet" or "Distribution Panel".
       -  The technicians that hooked up our services are called "Low Voltage Techs".     
@@ -156,7 +173,8 @@
 * * *
 
 #### Here is a picture of a typical WIFI Access Point.
--  Most of us will find one of these in their coat closet near the front door.
+-  There are WIFI AP (Access Points) in each of our units, and many public areas.  Spectrum seems to manage it all from their headquarters via remote control.
+   -  Most of us will find an Access Point in their coat closet near the front door.
 -  An Ethernet cable runs from the top wall plate jack to the nearest Lan Closet.  Labeled "IDF" - see notes below.
 -  Another Ethernet cable runs through the walls into our distribution cabinets.  Labeled as "WIFI".
 -  By using the short cable from the WIFI AP to our Distribution Closeet, they save the cost of gadgets downstairs to support the dedicated feeder that we MIGHT use for Ethernet.  The Ethernet signal is sorted out by software inside the WIFI Aaccess Point instead and just sent a short distance to us from the spare port on the AP.
