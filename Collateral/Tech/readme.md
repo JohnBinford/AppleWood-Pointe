@@ -79,7 +79,7 @@
    -  Unfortunately, it's hard to be usefully verbose when writing on a cable, so an organizational legend is necessary.  
 -  Each wall plate is numbered, and the ports are labeled by by Spectrum for the service they provide.
    -  You could just note the number, and connect up cables in the panel from that.<br> <br>
--  **To avoid crawling around, Spectrum provided two good legends that map wall plate names to cable numbers.**
+-  **To avoid crawling around, Spectrum provided two good legends that map wall plate names to cable numbers.  They are located on the door to your Distribution Cabinet.**
 -  Here's how Spectrum created names for wall plate locations.  (This took a while to figure out!)
     -  *Spectrun used the terms "TV" and "Data" to **name the plate type** as shown above.*
        -  "Data" plates have two square "ports", "TV" plates add two silver "F" connectors.
