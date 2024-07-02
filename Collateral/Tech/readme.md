@@ -178,7 +178,7 @@
     -  Sometimes, each service has their own demarcation.  In either case we are legally responsible for our cables and gadgets, and they are responsible for theirs outside the demarc.
     -  There is a "no man's land" that both parties use.  It is ususally split into two parts, with each party having a key to their part.  (The grey telephone boxes on modern homes are Demarcs!)<br><br>
 -  The whole MDF / IDF thing is repeated inside the buildling.
-   -  Our MDF is in our Demarc.  There is not much stuff for our services in there, mostly electrical stuff. Most of the work for us is done in the IDF.
+   -  Our MDF is in our Demarc.  There is not much stuff for our services in there, mostly electrical stuff.  Most of the work for us is done in the IDF.
       -   Our electrical system is also very nice and well done.  (Another document.)
    -  Our IDF's are located in the second floor storage areas.  They contain Ethernet patch panels switches, Telephone splicing panels, security control gadgets,  door controls, fire controls etc.
       -  These gadgets collectively fan out their service's cables to individual units or to other gadgets throughout the building.  (Cameras, doors, fire alarms, etc.)
