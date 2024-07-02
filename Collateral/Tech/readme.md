@@ -164,18 +164,20 @@
 
 * * *
 
-#### A bigger Picture.  TLDR:  (Too Long, Don't Read.)
--  Various cables that provide our digital (internet) and analog (Television) services make many "hops" to get to the building and then to our individual units.
+#### A bigger Picture.  TLDR:  (Too Long, Don't Read - Really!)
+-  **Various cables that provide our digital (internet) and analog (Television) services make many "hops" to get to the building and then to our individual units.**
 
 -  Our Service Providers use bits of equipment spread around the local (and national) area to get their digital and analog "signals" to us.
 -  In their building or sometimes one of many local structures, the have a secure room that contains large racks of equipment used to fan out or distribute their cables around the general area.  This room is called an "MDF" or Main Distribution Frame.
-   -  The MDF is usually in a secure-locked room or other secure place dedicated to it
-   -  Depending on the industry or service, their MDF might be located in an underground vault (Power), a splicing chamber (Telephone), or just a little box buried somewhere (Cable and Internet).
+   -  The MDF is usually in a secure-locked room or other secure place dedicated to it.
+      -  Depending on the industry or service, their MDF might be located in an underground vault (Power), a splicing chamber (Telephone), or just a little box buried somewhere (Cable and Internet).<br><br>
 -  They have smaller locations closer to customers that further "fan" the signal to individual customers.  This room full of equipment is called an "IDF" or Independant Distribution Frame.  Sometimes, it's just a little buried "box". <br><br>
-   -  Big (armoured) cables from each provider's IDF to a local room called the "Demark" - short for demarcation.  Ours is located in a special secure room in our garage.
-      -  A "demarc" has various specialized connection panels and is usually the building's MDF.
-      -  The demarcation is the place where their cables and wires connect to our cables and wires.  Our MDF is located in our Demarc.
-      -  Sometimes, each service has their own demarcation.  We are legally responsible for ourcables and gadgets, and they are responsible for theirs outside the demarc.
+-  Big (armoured) cables from each provider's IDF come to a local room called the "Demark" - short for demarcation.  Ours is located in a special secure room in our garage.
+    -  A "demarc" has various specialized connection panels and is usually the building's MDF.
+    -  The demarc is the place where their cables and wires connect to our cables and wires.  Our MDF is located in our Demarc.
+    -  Sometimes, each service has their own demarcation.  In either case we are legally responsible for our cables and gadgets, and they are responsible for theirs outside the demarc.
+    -  There is a "no man's land" that both parties use.  It is ususally split into two parts, with each party having a key to their part.  (The grey telephone boxes on modern homes are the Demarcs!)<br><br>
 -  The whole MDF / IDF thing is repeated inside the buildling.
-   -  Our MDF is in our Demarc.
-   -  Our IDF's are located in the second floor storage areas.   
+   -  Our MDF is in our Demarc.  There is not much stuff for our services in there, mostly electrical stuff.  Our electrical system is also very nice and well done.  (Another document.)
+   -  Our IDF's are located in the second floor storage areas.  They contain Ethernet patch panels switches, Telephone splicing panels, security control gadgets, etc.
+      -  These gadgets collectively fan out their service's cables to individual units.
