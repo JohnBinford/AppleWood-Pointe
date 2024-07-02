@@ -4,7 +4,7 @@
 -  Using only WIFI makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!<br><br>
 -  **Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.**
    -  Your wired computer may not see your printer.
-   -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc) might be invisible to wired devices like computers or ethernet connected TV's. 
+   -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. 
 -  **You will need your own wireless router hooked to your unit's ethernet system to make it all work together.**
 -  The easiest way is to replace the Ethernet switch with your router.
    -  Use the router's WIFI instead of AppleWood's while at home.
