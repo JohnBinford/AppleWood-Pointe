@@ -43,7 +43,7 @@
 
  -  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks throughout our units via cables in the walls.
  -  The thinner Ethernet (data) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
-     -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E. (Sometimes CAT 6 - even better.)<br><br> 
+     -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E (sometimes CAT 6 - even better).<br><br> 
  -  Ethernet (data) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
      -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
      -  A similar looking but electrically different mini patch panel is used for Ethernet and Voice respectively.
