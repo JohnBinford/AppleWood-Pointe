@@ -7,9 +7,10 @@
    -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. 
 -  **You will need your own wireless router hooked to your unit's ethernet system to make it all work together.**
 -  The easiest way is to replace the Ethernet switch with your router.
+   -  The switch is usually located behind a plastic panel in your laundry room.     
    -  Use the router's WIFI instead of AppleWood's while at home.
    -  Connect your wired Ethernet devices to your routers extra ports.
--  Technical information about Ethernet and WIFI is included below.  It will help you figure out where to hook your own router.
+-  Technical information about Ethernet and WIFI is included below.  It will help you figure out how to hook up your own router.
 -  **IF you intend to used only WIFI, the rest of this document is probably TLDR: (Too Long, Don't Read)**
    -  If not - read on, or ask someone in the TECH Special Interest Group for help! (We are glad to do so.)
 
