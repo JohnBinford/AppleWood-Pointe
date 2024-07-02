@@ -168,7 +168,7 @@
 -  **Various cables that provide our digital (internet) and analog (Television) services make many "hops" to get to the building and then to our individual units.**
 
 -  Our Service Providers use bits of equipment spread around the local (and national) area to get their digital and analog "signals" to us.
--  In their building or sometimes one of many local structures, they have a secure room that contains large racks of equipment used to fan out or distribute their cables around the general area.  This room is called an "MDF" or Main Distribution Frame.
+-  In their main building or sometimes each of many regional or local structures, they have a secure room that contains large racks of equipment used to fan out or distribute their cables around the general area.  This room is called an "MDF" or Main Distribution Frame.
    -  The MDF is usually in a secure-locked room or other secure place dedicated to it.
       -  Depending on the industry or service, their MDF might be located in an underground vault (Power), a splicing chamber (Telephone), or just a little box buried somewhere (Cable and Internet).<br><br>
 -  They have smaller locations closer to customers that further "fan" the signal to individual customers.  This room full of equipment is called an "IDF" or Independant Distribution Frame.  Sometimes, it's just a little buried "box". <br><br>
