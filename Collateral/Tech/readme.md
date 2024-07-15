@@ -55,11 +55,11 @@
      -  Similar looking but electrically different mini patch panels are used for Ethernet and Voice respectively.
 -  Ethernet patch panels have cables from the wall plates permanently connected (on the back) to sets of eight jacks on the front of that panel.
    -  They require short "Patch" cables that run from the Patch Panel to a Hub or Switch.
-   -  Switches are more modern and better for many reasons compare to "HUB's.<br><br>
+      -  Switches are more modern and better for many reasons compare to "HUB's.<br><br>
 #### Cable TV -- The old fashioned "Cable Boxes" use these hook-ups.  (Not the Zumo boxes, a big old Cable box -- it has a hard disk inside, so it has its built-in DVR!)
 -  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
    -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).
-   -  The coaxial cables just hang there, and you must interconnect them with "splitters", a passive device the provides a one to many connection.
+   -  The coaxial cables just hang there. No nice patch panels.
    -  Our white cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  Our little silver splitters just dangle there - one cable in and many cables out to the rooms.
    -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "splitter", the cables just hang there unused.
