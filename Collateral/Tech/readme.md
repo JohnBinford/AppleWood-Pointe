@@ -6,7 +6,7 @@
 -  Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.
    -  Your wired computer may not see your printer.
    -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. <br><br>
--  **You will need your own wireless router hooked to your unit's ethernet system to make WIFI and card-wred Ethernet work together.**
+-  **You will need your own wireless router hooked to your unit's ethernet system to make WIFI and hard-wred Ethernet work together.**
 -  The easiest way is to replace the Ethernet switch with your own router.
    -  The switch is usually located behind a plastic panel in your laundry room.     
    -  Use the router's WIFI instead of AppleWood's while at home.
