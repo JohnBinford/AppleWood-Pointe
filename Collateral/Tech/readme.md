@@ -2,17 +2,17 @@
 #### Our systems are very well designed and very organized. Most of us will (should?) only use WIFI. 
 -  Cable and Antenna usuall don't require any activity from us, but are documented below if you need. <br><br>
 -  Internet is provided  to each unit by WIFI and Wired Ethernet.
--  Using only WIFI for Internet and gadgets makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!<br><br>
--  **Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.**
+-  **Using only WIFI for Internet and gadgets makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!**<br><br>
+-  Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.
    -  Your wired computer may not see your printer.
-   -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. 
+   -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. <br><br>
 -  **You will need your own wireless router hooked to your unit's ethernet system to make it all work together.**
 -  The easiest way is to replace the Ethernet switch with your own router.
    -  The switch is usually located behind a plastic panel in your laundry room.     
    -  Use the router's WIFI instead of AppleWood's while at home.
    -  Connect your wired Ethernet devices to your routers extra ports.
--  Physical information about Ethernet and WIFI is included below.  It will help you figure out how to hook up your own router.
--  **IF you intend to used only WIFI, the rest of this document is probably TLDR: (Too Long, Don't Read)**
+-  Physical information about Ethernet and WIFI is included below.  It will help you figure out how to hook up your own router.<br><br>
+-  **IF you intend to use only WIFI, the rest of this document is probably TLDR: (Too Long, Don't Read)**
    -  If not - read on, or ask someone in the TECH Special Interest Group for help! (We are glad to do so.)
 
 * * *
