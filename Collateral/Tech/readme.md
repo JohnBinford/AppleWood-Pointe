@@ -189,7 +189,7 @@
 -  An Ethernet cable for the WIFI AP runs from the wall plate jack to the nearest Lan Closet outside our units.
    -  Labeled "IDF" - see notes below.
 -  Another Ethernet cable runs through our unit's walls into our distribution cabinets.  Labeled as "WIFI".
-   -  Labeled "Panel" -- This short run through the walls is where our unit's Ethernet comes from.  (more info on tehat after the picture...
+   -  Labeled "Panel" -- This short run through the walls to our Distribution Panel in the laudry is where our unit's Ethernet comes from.  (more info on tehat after the picture...
 
 <img src="./AP-1.jpg">
 
