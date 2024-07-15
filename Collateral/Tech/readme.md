@@ -55,7 +55,7 @@
      -  Similar looking but electrically different mini patch panels are used for Ethernet and Voice respectively.
 -  Ethernet patch panels have cables from the wall plates permanently connected (on the back) to sets of eight jacks on the front of that panel.
    -  They require short "Patch" cables that run from the Patch Panel to a Hub or Switch.
-      -  Switches are more modern and better for many reasons compare to "HUB's.<br><br>
+      -  Switches are more modern and better for many reasons compared to "HUB's.<br><br>
 #### Cable TV -- The old fashioned "Cable Boxes" use these hook-ups.  (Not the Zumo boxes, a big old Cable box -- it has a hard disk inside, so it has its built-in DVR!)
 -  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
    -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).
@@ -178,7 +178,7 @@
 
 #### Here is a picture of a Distribution Cabinet with Patch Panels inside (From a Resident).
 -  Spectrum did not not hook up our antenna cables so this resident purchased his own antenna and splitter.
--  Note the white tape labels the black TV and the scribbled numbers on white antenna (coaxial cables)!
+-  Note the white tape labels the black TV cables and the scribbled numbers on the white antenna cables.!
 <img src="./E-Panel-1.png">
 
 * * *
@@ -186,11 +186,16 @@
 #### Here is a picture of a typical WIFI Access Point.
 -  There are WIFI AP (Access Points) in each of our units, and many public areas.  Spectrum seems to manage it all from their headquarters via remote control.
    -  Most of us will find an Access Point in their coat closet near the front door.
--  An Ethernet cable runs from the top wall plate jack to the nearest Lan Closet.  Labeled "IDF" - see notes below.
--  Another Ethernet cable runs through the walls into our distribution cabinets.  Labeled as "WIFI".
--  By using the short cable from the WIFI AP to our Distribution Closeet, they save the cost of gadgets downstairs to support the dedicated feeder that we MIGHT use for Ethernet.  The Ethernet signal is sorted out by software inside the WIFI Aaccess Point instead and just sent a short distance to us from the spare port on the AP.
+-  An Ethernet cable for the WIFI AP runs from the wall plate jack to the nearest Lan Closet outside our units.
+   -  Labeled "IDF" - see notes below.
+-  Another Ethernet cable runs through our unit's walls into our distribution cabinets.  Labeled as "WIFI".
+   -  Labeled "Panel" -- This short run through the walls is where our unit's Ethernet comes from.  (more info on tehat after the picture...
+
 <img src="./AP-1.jpg">
 
+####  Your author mentioned a dedicated"feeder" for ethernet from downstairs, it is not used.
+-  Instead, this short cable from the WIFI AP to our Distribution Closeet, they save the cost of gadgets downstairs to support the dedicated feeder that we MIGHT use for Ethernet.  The Ethernet signal is sorted out by software inside the WIFI Aaccess Point instead and just sent a short distance to us from the spare port on the AP.
+-  
 * * *
 
 #### A bigger Picture.  TLDR:  (Too Long, Don't Read - Really!)
