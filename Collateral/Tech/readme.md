@@ -9,7 +9,7 @@
    -  The switch is usually located behind a plastic panel in your laundry room.     
    -  Use the router's WIFI instead of AppleWood's while at home.
    -  Connect your wired Ethernet devices to your routers extra ports.
--  Technical information about Ethernet and WIFI is included below.  It will help you figure out how to hook up your own router.
+-  Physical information about Ethernet and WIFI is included below.  It will help you figure out how to hook up your own router.
 -  **IF you intend to used only WIFI, the rest of this document is probably TLDR: (Too Long, Don't Read)**
    -  If not - read on, or ask someone in the TECH Special Interest Group for help! (We are glad to do so.)
 
@@ -17,13 +17,19 @@
 * * * 
 
 ####  Seriously, the following information is for Nerds and us Techno Wannbe's.
--  **Our "wired" internet and cable TV are documented below.**
--  There are five "wires" coming from a "secret room" (Called a Lan Closet or Splicing Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.
-   -  BTW... High voltage is locally distributed through a "fuse box", low voltage locally uses a "Distribution Cabinet" or "Distribution Panel".  TV (Cable too) and Internet are Low Voltage!
+-  **Our "wired" phones, internet (WIFI and Ethernet), cable TV, and unconnected Antenna hook-ups are documented below.**
+  BTW... High voltage is locally distributed through a "fuse box", low voltage locally uses a "Distribution Cabinet" or "Distribution Panel".  TV (Cable too), phones, and Internet are Low Voltage!
       -  The technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
- -  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks throughout our units via cables in the walls.
+-  There are five "wires" coming from a "secret room" (Called a Lan Closet or Splicing Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.  
+   -  Wifi Feed.
+   -  Telephone Feed.
+   -  Cable TV Feed (Old fashioned CABLE, not Zumo streaming over the Internet!)
+   -  Ethernet Feed. (For the Data jacks on your walls.)
+   -  Antenna.  (Not labeled, looks like a cable jack 0 but not hooked up.)
+      -  **These are documented in more depth as you read below.**  
+-  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks throughout our units via cables in the walls.
  -  The thinner Ethernet (data) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
      -  True techno nerds call voice cables "CAT 3" and data cables (usually Ethernet) CAT 5E (sometimes CAT 6 - even better).
 #### Here is a picture of the Distribution Cabinet (usually in our laundry rooms), along with what's inside.
@@ -47,16 +53,16 @@
  -  Ethernet (data) cables and Voice (phone) cables connect to colorful gadgets that allow easier hookup.
      -  Some people call these gadgets "Patch Panels". Ours are "Mini" Patch Panels.
      -  Similar looking but electrically different mini patch panels are used for Ethernet and Voice respectively.
--  Ethernet patch panels have cables from the wall plates permanently connected to sets of eight jacks on that panel.
+-  Ethernet patch panels have cables from the wall plates permanently connected (on the back) to sets of eight jacks on the front of that panel.
    -  They require short "Patch" cables that run from the Patch Panel to a Hub or Switch.
    -  Switches are more modern and better for many reasons compare to "HUB's.<br><br>
+#### Cable TV -- The old fashioned "Cable Boxes" use these hook-ups.  (Not the Zumo boxes, a big old Cable box -- it has a hard disk inside, so it has its built-in DVR!)
 -  TV and antenna cables are usually bigger, rounder, and stiffer than data and voice cables.
    -  They are called "coaxial cables" due to their cross section and radial symmetry (Think bullseye or Target).
    -  The coaxial cables just hang there, and you must interconnect them with "splitters", a passive device the provides a one to many connection.
-#### Cable TV -- The old fashioned "Cable Boxes" use these hook-ups.  (Not the Zumo boxes, a big old Cable box -- it has a hard disk inside, so it has its built-in DVR!)
    -  Our white cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  Our little silver splitters just dangle there - one cable in and many cables out to the rooms.
-   -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "splitter", they just hang  there unused.
+   -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "splitter", the cables just hang there unused.
 
 #### Here is an annotated picture of typical Mini Patch Panels in our Distribution Cabinets
  <img src="./I-P-Anno.png">
