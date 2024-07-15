@@ -24,7 +24,7 @@
       -  The technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
--  There are five "wires" coming from a "secret room" (Called a Lan Closet or Splicing Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in a plastic wall cabinet our laundry rooms.  
+-  There are five cables coming from a "secret room" (Called a Lan Closet or Splicing Chamber) -somewhere in the building- that bring those services to a set of little distribution panels in the plastic wall cabinet each of our our laundry rooms (the Distribution cabinet).  
    -  Wifi Feed.
    -  Telephone Feed.
    -  Cable TV Feed (Old fashioned CABLE, not Zumo streaming over the Internet!)
