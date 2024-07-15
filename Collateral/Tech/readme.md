@@ -29,7 +29,7 @@
    -  Telephone Feed.
    -  Cable TV Feed (Old fashioned CABLE, not Zumo streaming over the Internet!)
    -  Ethernet Feed. (For the Data jacks on your walls.)
-   -  Antenna.  (Not labeled, looks like a cable jack 0 but not hooked up.)
+   -  Antenna.  (Not labeled, looks like a cable jack, but not hooked up.)
       -  **These are documented in more depth as you read below.**  
 -  Inside our low voltage distribution cabinets, a few simple devices spread services to wall jacks throughout our units via cables in the walls.
  -  The thinner Ethernet (data) cables by convention are usually blue,  the thin voice (phone) cables are usually white.
