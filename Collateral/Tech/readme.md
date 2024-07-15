@@ -1,6 +1,8 @@
 ### We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
 #### Our systems are very well designed and very organized. Most of us will (should?) only use WIFI. 
--  Using only WIFI makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!<br><br>
+-  Cable and Antenna usuall don't require any activity from us, but are documented below if you need. <br><br>
+-  Internet is provided  to each unit by WIFI and Wired Ethernet.
+-  Using only WIFI for Internet and gadgets makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!<br><br>
 -  **Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.**
    -  Your wired computer may not see your printer.
    -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. 
