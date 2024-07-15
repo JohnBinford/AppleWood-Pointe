@@ -20,7 +20,7 @@
 
 ####  Seriously, the following information is for Nerds and us Techno Wannbe's.
 -  **Our "wired" phones, Internet (WIFI and Ethernet), cable TV, and unconnected antenna hook-ups are documented below.**
-  BTW... High voltage is locally distributed through a "fuse box", low voltage locally uses a "Distribution Cabinet" or "Distribution Panel".  TV (Cable too), phones, and Internet are Low Voltage!
+  BTW... High voltage is locally distributed through a "fuse box", low voltage locally uses a "Distribution Cabinet" or "Distribution Panel".  TV, cable, phones, and Internet are Low Voltage!
       -  The technicians that hooked up our services are called "Low Voltage Techs".     
    -  Engineers like to use the word "cable" for wires that don't carry high voltage electrical power.
       -  We will use the term "cable" from now on, so we seem "technical" too!
