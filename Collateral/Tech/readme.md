@@ -1,6 +1,6 @@
 ### We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
 #### Our systems are very well designed and very organized. Most of us will (should?) only use WIFI. 
--  Cable and Antenna usuall don't require any activity from us, but are documented below if you need. <br><br>
+-  Cable and Antenna usually don't require any activity from us, but are documented below if you need. <br><br>
 -  Internet is provided  to each unit by WIFI and Wired Ethernet.
 -  **Using only WIFI for Internet and gadgets makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!**<br><br>
 -  Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.
