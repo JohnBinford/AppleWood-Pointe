@@ -191,14 +191,14 @@
 -  An Ethernet cable for the WIFI AP runs from the wall plate jack to the nearest Lan Closet outside our units.
    -  Labeled "IDF" - see notes below.
 -  Another Ethernet cable runs through our unit's walls into our distribution cabinets.  Labeled as "WIFI".
-   -  Labeled "Panel" -- This short run through the walls to our Distribution Panel in the laundry is where our unit's Ethernet comes from.  (more info on tehat after the picture...
-   -  The picture is correct, they installed them upside-down so we could not fiddle witht he wires easily.
+   -  Labeled "Panel" -- This short run through the walls to our Distribution Panel in the laundry is where our unit's Ethernet comes from.  (more info on tehat after the picture...<br>
+   -  The picture is correct, they installed them upside-down so we could not fiddle with the wires easily.
 
 <img src="./AP-1.jpg">
 
 ####  Your author mentioned a dedicated"feeder" for ethernet from downstairs, it is not used.
 -  Instead, this short cable from the WIFI AP to our Distribution Closeet, they save the cost of gadgets downstairs to support the dedicated feeder that we MIGHT use for Ethernet.  The Ethernet signal is sorted out by software inside the WIFI Aaccess Point instead and just sent a short distance to us from the spare port on the AP.
--  
+  
 * * *
 
 #### A bigger Picture.  TLDR:  (Too Long, Don't Read - Really!)
@@ -213,7 +213,7 @@
     -  A "demarc" has various specialized connection panels and is usually the building's MDF.
     -  The demarc is the place where their cables and wires connect to our cables and wires.  Our MDF is located in our Demarc.
     -  Sometimes, each service has their own demarcation.  In either case we are legally responsible for our cables and gadgets, and they are responsible for theirs outside the demarc.
-    -  There is a "no man's land" that both parties use.  It is ususally split into two parts, with each party having a key to their part.  (The grey telephone boxes on modern homes are Demarcs!)<br><br>
+    -  There is a "no man's land" providing gadget that both parties use.  It is ususally split into two parts, with each party having a key to their part.  (The grey telephone boxes on modern homes are Demarcs!)<br><br>
 -  The whole MDF / IDF thing is repeated inside the buildling.
    -  Our MDF is in our Demarc.  There is not much stuff for our services in there, mostly electrical stuff.  Most of the work for us is done in the IDF.
       -   Our electrical system is also very nice and well done.  (Another document.)
