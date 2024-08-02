@@ -192,6 +192,7 @@
    -  Labeled "IDF" - see notes below.
 -  Another Ethernet cable runs through our unit's walls into our distribution cabinets.  Labeled as "WIFI".
    -  Labeled "Panel" -- This short run through the walls to our Distribution Panel in the laundry is where our unit's Ethernet comes from.  (more info on tehat after the picture...
+   -  The picture is correct, they installed them upside-down so we could not fiddle witht he wires easily.
 
 <img src="./AP-1.jpg">
 
