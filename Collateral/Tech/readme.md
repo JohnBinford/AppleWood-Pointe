@@ -64,6 +64,7 @@
    -  The coaxial cables just hang there. No nice patch panels.
    -  Our white cable TV cables use a simple "splitter" to distribute that service around to rooms.
          -  Our little silver splitters just dangle there - one cable in and many cables out to the rooms.
+         -  Note that a fwe units may have black cable TV cables due to distance from the cable room.
    -  Our "antenna" cables (Usually the thick black ones.) are not connected - You will notice no "splitter", the cables just hang there unused.
 
 #### Here is an annotated picture of typical Mini Patch Panels in our Distribution Cabinets
@@ -180,7 +181,7 @@
 
 #### Here is a picture of a Distribution Cabinet with Patch Panels inside (From a Resident).
 -  Spectrum did not not hook up our antenna cables so this resident purchased his own antenna and splitter.
--  Note the white tape labels the black TV cables and the scribbled numbers on the white antenna cables.!
+-  Note the white tape labels on the black TV cables and the scribbled numbers on the white antenna cables.!
 <img src="./E-Panel-1.png">
 
 * * *
