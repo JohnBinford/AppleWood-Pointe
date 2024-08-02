@@ -1,14 +1,14 @@
-### We have Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet fed to our units.
-#### Our systems are very well designed and very organized. Most of us will (should?) only use WIFI. 
--  Cable and Antenna usually don't require any activity from us, but are documented below if you need. <br><br>
--  Internet is provided  to each unit by WIFI and Wired Ethernet.
+### We have five "systems" that provide "Information Services" to our bulding.
+-  Cable TV, Antenna Hookups, Telephone, WIFI, and Ethernet enter in the garage and are fed to our units.<br>
+-  Cable TV, Phones, and Antennas usually don't require any activity from us, but are documented below if you need. <br>
+#### Our two Internet systems (WIFI and Ethernet) are well designed.  That said, most of us will (should?) only use WIFI. 
 -  **Using only WIFI for Internet and gadgets makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!**<br><br>
 -  Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.
    -  Your wired computer may not see your printer.
    -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. <br><br>
 -  **You will need your own wireless router hooked to your unit's ethernet system to make WIFI and hard-wred Ethernet work together.**
 -  The easiest way is to replace the Ethernet switch with your own router.
-   -  The switch is usually located behind a plastic panel in your laundry room.     
+   -  The building provided switch is usually located behind a plastic panel in your laundry room.     
    -  Use the router's WIFI instead of AppleWood's while at home.
    -  Connect your wired Ethernet devices to your routers extra ports.
 -  Physical information about Ethernet and WIFI is included below.  It will help you figure out how to hook up your own router.<br><br>
