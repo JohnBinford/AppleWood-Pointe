@@ -2,14 +2,14 @@
 
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
-### Newest News!
+### Two moths old News!
 -  The shop is ready for duty!
 -  Johnathan Binford's alter ego - Eric S - is working on documentation for TV and Internet.
    -  [Click here to see a draft.](./Collateral/Tech/readme.md)
 -  The "Gang of Four" is getting ready to mount an air filter to the ceiling <br>(The last tast on our list!)
 -  Some members wants to look at some old stuff,  [Here's a link to the OLD Website.](./readme-OLD.md)
 
-### Pretty New News!
+### Pretty OLD News!
 
 -  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
    -  We now have everything that was offered by our group over the last year or so. <br>
@@ -28,7 +28,7 @@
 
 * * *
 
-### News!
+### OLD News!
 
 #### Short Version:
 -  The shop is ready for light duty!
@@ -82,7 +82,7 @@ We will do a general open house if Sarah likes the idea!
 
 * * *
 * * *
-### OLD News
+### REALLY OLD News
 - Our provisional leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
   - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
   - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
