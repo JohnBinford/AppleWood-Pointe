@@ -248,7 +248,7 @@ We will do a general open house if Sarah likes the idea!
    </tr>
    <tr>
        <td valign="top">
-       <a href=".Collateral/Shop-Pictures/4.jpg">
+       <a href="./Collateral/Shop-Pictures/4.jpg">
        <img src="./Collateral/Shop-Pictures/Thumbnails/4-T.jpg">
        </a>
        </td>
