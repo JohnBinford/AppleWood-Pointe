@@ -26,7 +26,7 @@
 ***     
 
 #### Recent Shop Pictures
--  As usual, Double-Click the pictures to see an HD version.
+-  As usual, Click the pictures to see an HD version.
 -  Use your browsers "Back arrow" to get back here!
 <table>
 <tr>
