@@ -28,7 +28,7 @@
 
 #### Recent Shop Pictures
 -  As usual, Click the pictures to see an HD version.
--  Use your browsers "Back arrow" to get back here!
+-  Use your browsers "Back Arrow" to return to the main page (here)!
 <table>
 <tr>
 <td valign="top">
