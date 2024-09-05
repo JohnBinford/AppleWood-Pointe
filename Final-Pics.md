@@ -57,18 +57,14 @@
 <img src="./Collateral/Final/Thumbnails/Tool-Bench-T.jpg">
 </a>
 </td>
-<td valign="top">
-<a href="./Collateral/Final/Cab-Lathe.jpg">
-<img src="./Collateral/Final/Thumbnails/Cab-Lathe-T.jpg">
-</a>
+</tr>
+<tr>
 </td>
 <td valign="top">
 <a href="./Collateral/Final/Clamps-V.jpg">
 <img src="./Collateral/Final/Thumbnails/Clamps-V-T.jpg">
 </a>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="./Collateral/Final/Shelf-2-V.jpg">
 <img src="./Collateral/Final/Thumbnails/Shelf-2-T.jpg">
@@ -80,5 +76,9 @@
 </a>
 </td>
 </tr>
-  
+<tr><td valign="top">
+<a href="./Collateral/Final/Cab-Lathe.jpg">
+<img src="./Collateral/Final/Thumbnails/Cab-Lathe-T.jpg">
+</a>
+</td></tr>  
 <table>
