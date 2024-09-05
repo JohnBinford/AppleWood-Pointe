@@ -18,7 +18,6 @@
 </a>
 </td>
 </tr>
-
 <tr>
 <td valign="top">
 <a href="./Collateral/Final/Cab-Lathe.jpg>"
@@ -36,7 +35,6 @@
 </a>
 </td>
 </tr>
-
 <tr>
 <td valign="top">
 <a href="./Collateral/Final/Cab-Saws.jpg>"
@@ -46,11 +44,6 @@
 <td valign="top">
 <a href="./Collateral/Final/Filter-Cord.jpg>"
 <img src="./Collateral/Final/Thumbnails/Filter-Cord.jpg>"
-</a>
-</td>
-td valign="top">
-<a href="./Collateral/Final/Front-Row.jpg>"
-<img src="./Collateral/Final/Thumbnails/Front-Row.jpg>"
 </a>
 </td>
 <td valign="top">
@@ -93,4 +86,5 @@ td valign="top">
 </a>
 </td>
 </tr>
-</table>
+  
+<table>
