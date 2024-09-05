@@ -123,6 +123,8 @@
 -  The "Gang of Four" is getting ready to mount an air filter to the ceiling <br>(The last tast on our list!)
 -  Some members wants to look at some old stuff,  [Here's a link to the OLD Website.](./readme-OLD.md)
 
+***
+
 ### Pretty OLD News!
 
 -  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
