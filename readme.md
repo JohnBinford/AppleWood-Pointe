@@ -20,7 +20,7 @@
          
 ### More New News!
 -  An Air Filtration System, A Ceiling Mounted Power Cord, and Two new Cabinets (with lights!) were recently installed.
-   -  These are the last chores the volunteer group had planned.
+   -  These are the last chores the volunteer group has planned.
    -  We still need to cull a few redundant tools, and sort things a bit but things are done for now.
  
 ***     
@@ -109,6 +109,9 @@
 </a>
 </td></tr>  
 <table>
+
+***
+***
    
 ### Two moths old News!
 -  The shop is ready for duty!
