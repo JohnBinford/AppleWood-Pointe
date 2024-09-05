@@ -2,6 +2,22 @@
 
 ## Welcome to the Applewood Pointe Workshop Special Interest Group!
 
+***
+
+### News!  Workshop User's Meeting and Mini Tour Scheduled.
+
+-  **September 11**
+-  **10:00 AM**
+-  **Great Room -- Followed by a trip to the shop.**
+-  We hope to introduce the show to the remaining building's residents, and...
+   -  Discuss what benefits the shop offers, and a few limitations.  (No Spray Painting - for example.)
+   -  How to get training, help, or encouragement.
+      -  A couple of machines have unique setup and safety procedures.  (Even if youve used a similar one in the past.)  
+  
+-  An Air Filtration System, A Ceiling Mounted Power Cord, and Two new Cabinets (with lights!) were recently installed.
+   -  These are the last chores the volunteer group had planned.
+   -  We still need to cull a few redundant tools, and sort things a bit but things are done for now.
+     
 
 #### Recent Shop Pictures
 <table>
