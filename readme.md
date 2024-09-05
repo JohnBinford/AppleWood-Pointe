@@ -115,7 +115,7 @@
 ***
 ***
    
-### Two moths old News!
+### Four Months Old News!
 -  The shop is ready for duty!
 -  Johnathan Binford's alter ego - Eric S - is working on documentation for TV and Internet.
    -  [Click here to see a draft.](./Collateral/Tech/readme.md)
