@@ -2,9 +2,9 @@
 - PDF documents are good becuase they usually print to scale.
   - If you want to use your fancy Applewood Pointe Ruler, Use the PDF's.
 #### Note!
-- Some Browsers have  NO INLINE viewer for PDF Documents, or have "security settings" that prevent inline viewing (in your browser's window) - from certain websites. So you must download them blind sometimes.  
-  - John B. has three computers that show the PDF, but his favorite does not!
-- Just click one of the links below.
+
+- Just Right-Click one of the links below.
+- You can also "Left-Click" (regular click for many of us...) to open a download window.
   - You will see a new preview page. 
     - If you see a "spinning" circle in the middle of the page or an empty looking page instead of a preview, ignore it and continue.
   - Click the DOWNLOAD "box" on the right.
@@ -15,7 +15,8 @@
 <br>
 <br>
 
-<table>
+-  Right-Click and choose download or "Download As" to get a document...
+  <table>
    <tr>
     <td>
       All Shop Manual Documents in one ZIP file.
