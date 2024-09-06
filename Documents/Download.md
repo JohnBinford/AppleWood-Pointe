@@ -2,20 +2,21 @@
 - PDF documents are good becuase they usually print to scale.
   - If you want to use your fancy Applewood Pointe Ruler, Use the PDF's.
 #### Note!
-
 - Just Right-Click one of the links below.
-- You can also "Left-Click" (regular click for many of us...) to open a download window.
+- If you have an old browser, this works too.
+  - You can also "Left-Click" (regular click for many of us...) to open a download window.
   - You will see a new preview page. 
     - If you see a "spinning" circle in the middle of the page or an empty looking page instead of a preview, ignore it and continue.
   - Click the DOWNLOAD "box" on the right.
     - Wait for the documents to download (you won't get a message, just pay attention please).
     - Use your browser's "back" arrow to return to this page when your are done downloading.
       - With my browser, it does not seem to hurt to backup too soon.  YMMV
+        
 #### The Draft documents become effective after the Resident Board is established, etc.
 <br>
 <br>
 
--  Right-Click and choose download or "Download As" to get a document...
+-  Right-Click and choose "Save Link" or "Save Link As" to get a document...
   <table>
    <tr>
     <td>
