@@ -277,8 +277,6 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to Apple Valley Planning Document.](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
 
-[Link to the WEIS webams - now with TimeLapse!](https://nbphotos.weisbuilders.com/2022projects/221609/)
-
 [Link to Pictures from the Maple Grove Shop.](./Other-Shops/Maple-Grove/readme.md)
 
 [Link to Pictures from the Eagan Shop.](./Other-Shops/Eagan/readme.md)
@@ -301,11 +299,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)<br>
     
-[Link to Stacy's very nice Flickr collection of construction pictures.](https://www.flickr.com/photos/26824342@N00/sets/72177720299873393)<br>
-
 [Link to picture of shop's block wall installation.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)<br>
-
-[Link to  the (so far) unused online discussion  (Good Examples!...](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Discussion.md)
  
 * * * 
 
