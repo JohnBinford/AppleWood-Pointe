@@ -1,8 +1,14 @@
 ## Documentation for the Workshop
 - PDF documents are good becuase they usually print to scale.
   - If you want to use your fancy Applewood Pointe Ruler, Use the PDF's.
+
+        
+#### The Draft documents become effective after the Resident Board is established, etc.
+<br>
+<br>
+
 #### Note!
-- Just Right-Click one of the links below.
+- Just Right-Click one of the links below.  (Choose "save" or "save as".)
 - If you have an old browser, this works too.
   - You can also "Left-Click" (regular click for many of us...) to open a download window.
   - You will see a new preview page. 
@@ -11,12 +17,7 @@
     - Wait for the documents to download (you won't get a message, just pay attention please).
     - Use your browser's "back" arrow to return to this page when your are done downloading.
       - With my browser, it does not seem to hurt to backup too soon.  YMMV
-        
-#### The Draft documents become effective after the Resident Board is established, etc.
-<br>
-<br>
-
--  Click to download.  See not above!
+      - 
   <table>
    <tr>
     <td>
