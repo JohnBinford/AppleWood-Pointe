@@ -153,7 +153,7 @@
 * * *
 * * *
 
-### REALLY OLD but still pertinenet News
+### REALLY OLD but still pertinent News
 - Our provisional leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
   - Sara is anxious to work with our group and we all beleive that she has a positive effect on our co-op.  And carries her constructive attitude to the shop too!
   - We established that while nearly everyone will have access to the shop, there are some considerations that must be addressed.
