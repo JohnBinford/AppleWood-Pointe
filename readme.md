@@ -244,9 +244,7 @@
 ## Our provisional leaders (busybodies) maintain that confidentially kept list of about 33 co-op members.
 - This 33 have expressed interest since last year.
   - We'd love to add your name if you are new to the shop.
-- Please email johnathan.binford@gmail.com for a copy of the list.
-  - Thanks to all for keeping our email list up to date.
-  - Please email johnathan.binford@gmail.com with any updates. 
+- Please email johnathan.binford@gmail.com for a copy of the list or for updates.
 
 * * *
 * * * 
