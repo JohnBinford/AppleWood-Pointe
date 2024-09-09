@@ -124,7 +124,7 @@
 
 ***
 
-### Pretty OLD News!
+### Pretty Old News!
 
 -  Jim W. and Larry C. recently moved in, and donated some nice additions to our shop.
    -  We now have everything that was offered by our group over the last year or so. <br>
