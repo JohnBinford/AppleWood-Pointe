@@ -16,7 +16,7 @@
 <br>
 <br>
 
--  Right-Click and choose "Save Link" or "Save Link As" to get a document...
+-  Click to download.  See not above!
   <table>
    <tr>
     <td>
