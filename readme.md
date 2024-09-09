@@ -140,79 +140,35 @@
    -  Matt is helping us to be sure that any drilling we do won't harm the building <br>
    Once we get his OK, we will proceed. <br>
 -  Please contact Johnathan.binford @ gmail.com for training on the big dangerous (for the untrained) stuff
--  [Link to newest shop photos, including the new bench!](./Collateral/NewPics/Shop-Tools.md)
+-  [Link to somer older shop photos.](./Collateral/NewPics/Shop-Tools.md)
 
 * * *
 
-### OLD News!
-
-#### Short Version:
--  The shop is ready for light duty!
--  The "Gang of Four" (The shop's provisional busybodies and worker bees - Linelle, Jack, Ralph, and Eric) has worked almost daily for the post month and a half to get to this point. <br> Eric hurt some ribs and was out for two weeks - He thanks the other three fellows for taking up the slack.
--  The larger group of those interested in the shop (the people on our mailing list) advised that we need to cautious about stuff that can hurt us. <br>
-    -  We agreed that an education and/or introduction is necessary for their use.
-    - Example.  Eric had his own Delta band saw for thirty years, but the blade tensioner on the PowerMatic saw worked differently, so he needed a bit of help. <br>
-   (Even a bandsaw has a few "startup procedures"!)
-- For Your Safety..
-  -  Make sure you are knowledgeable prior to tool/equipment use.
-  - Check with other users for correct & safe operation.
-- Please email johnathan.binford@gmail.com to arrange a visit, tour, or help with a project.
-- Eric S, Jack W, Linelle J, or Ralph L are also very happy to give a tour, familiarize with tools, or help get started with a project.
-* * *
-#### Long Version:   TL:DR ?
--  Steel cabinets, shelves, and large tool chests were donated and placed in the shop's storage room.
-   - The cabinets were mounted permanently to the walls by the "Gang". This "hard labor" took about a week!
-     -  Lumber, mansonry bits, and hardware were purchased.
-        - A few "face plates" 1 by 8 by 6 were necessary to give clearance for the mansonry bolts behind the shelves. <br> These were bolted to the block walls with steel expanding anchors.
-        - The factory mounting brackets were then screwed to the face plates.  (Many Screws!)
-          -  Using the intermediate face plates also allowed precise leveling so things would look good!    
-     -  [Click here to see a picture of the completed but empty store room..](./Collateral/Store-Room.jpg)  <br>
-     -  [Click here to see a picture of the filled store room..](./Collateral/Storage-12.jpg)  <br>
-     -  [Click here to see another picture of the filled store room..](./Collateral/Storage-13.jpg)  <br>
-     (Use your browsers "back" button or arrow to continue reading...) <br> <br>
--  Ralph, Jack, and Linelle spent another three weeks with various chores.
-   -  Assembling the floor standing machines that were donated. <br> (Our shop is VERY well equipped with machines that John does not know how to run!)
-   -  Arranging those machines so we could think about where they should really go to efficiently use our space.
-      -  Here are some links to some pictures of everything all lined up!
-         -  (Yup, use that browser's back button for any going back...)
-      -  [Link to more shop photos, including the floor-standing machines!](./Collateral/NewPics/Shop-Tools.md)
-   -  Organizing and then stowing hand help tools in our new cabinets.  <br> (Hats off to Ralph for his sorting and labeling skills!)
-      -  Manual handtools are in the rolling tool cabinets.
-      -  Power Hand tools are in the wall and floor cabinets.  <br> <br>
--  The various donors of our collection all thought that "someone else" would bring small hand tools like screwdrivers, etc.
-   -  John had to purchase a hammer and some drill bits for the cabinet mounting project!
-   -  Thankfully Monroe L. noted our deficiency and purchased a nice collection of hand tools and donated them!!!! <br>
-      - John Beyer also donated a nice set of (new in the box) power tools.  Thanks!  <br> <br>
--  We hope to soon offer specific training on idividual machines.<br>
-We will do a general open house if Sarah likes the idea!
-   - Sarah will announce in her newsletter, and John will email "when and where" to our mailing list as well. <br> <br>
--  We are creating more space for our casual shop users (like John) by clearing a bench and shelving a few small machines.
--  A updated - provisionary "Workshop User's Manual" is nearly complete and will be posted here, with a hardcopy or two in our files.
--  Ralph has organized our manuals and other papers in a nice file cabinet in the store room.  Thanks Ralph! <br> <br>
--  Guidelines for happy cooperative-style sharing...
+ ### Let John Binford know if you have any ideas for making our nice workshop welcoming, useful, and safe? 
+-  *Guidelines for happy cooperative-style sharing...*
    -  Connect a dust collector to the machines that have an outlet.
    -  Please sweep up your dust otherwise.
    -  Clean up your own mess, and any other you might find if you can.
    -  Use the sign-out sheet (above the yellow cabinet) to borrow tools.
- ### Let John Binford know if you have any ideas for making our nice workshop welcoming, useful, and safe.  <br>
 
 * * *
 * * *
-### REALLY OLD News
+
+### REALLY OLD but still pertinenet News
 - Our provisional leaders (Eric, Linelle, Jack, and Ralph) met with Sara to talk about the workshop.
-  - Sara is anxious to work with our group and we all beleive that she will have a positive effect on our co-op and will carry her constructive attitude to the shop too!
-  - We established that while everyone should have access to the shop, there are some considerations that must be addressed.
-    - Our nice new shop will have some (Big - Dangerous) power tools that require experience, training, or both.
-  - Please be careful when visiting our nice shop.  The shop really won't be useful for a while. Your patience is appreciated as our volunteers get things ready!
-    - We are organizing tools, furniture, and other items.
-    - We will need to purchase a few safety related items.  (For example, a fireproof oily rag container.)
-    - We might have a bit of contruction associated with our new dust collection systems. (See our nice present below!)
-      - Some members have donated profesional-grade cabinets and shelving, some of which require hanging on the walls. 
-- With Sara's support, our group leaders and known members will establish guidelines and practices that will keep our shop safe and useful.
-    - To that end, we will try to follow the preliminary Shop Manual that some of our leaders provided last year.
+  - Sara is anxious to work with our group and we all beleive that she has a positive effect on our co-op.  And carries her constructive attitude to the shop too!
+  - We established that while nearly everyone will have access to the shop, there are some considerations that must be addressed.
+    - Our nice new shop has some (Big - Dangerous) power tools that require experience, training, or both.
+  - Please be careful when visiting our nice shop.  
+    - We nearly finished organizing tools, furniture, and other items.
+    - We have to purchase a few safety related items.  (For example, a fireproof oily rag container.)
+    - We might have finished a bit of contruction associated with our new dust collection systems. (See our nice present below!)
+      - Some members have donated profesional-grade cabinets and shelving, some of which required hanging on the walls. 
+- With Sara's support, our group leaders and known members have established guidelines and practices that will keep our shop safe and useful.
+    - To that end, we will try to follow the updated preliminary Shop Manual that some of our leaders provided last year.
     - That manual (with input from all, and revisions) will eventually become the co-op's official Shop Manual.
     - The provisional manual is on this website - [Link to the PDF Documents Collection.](./Documents/Download.md)
-    - The gang also talked about ventilation and painting.
+    - The gang has talked about ventilation and painting.
       - There was discussion about Spray painting (hard to cope with), and brush painting.
       - The group decided to stick with brush painting only - for now.  A spray booth, filtration, and other items are required by various entities. 
 - Weis gave our shop a nice present!
@@ -223,13 +179,7 @@ We will do a general open house if Sarah likes the idea!
 
 * * *
 
-- John finally closed on his unit, so was able to do more than peek through the windows.
-- Here are a few pictures.
-- Seems like we will need a key to the storage area!
-- Bonus,  it's ventilated, so with a bit of filtering we should be able to deal with fumes.
-  - John has not yeat traced where the outlet is...
-
-####  Recent Shop-Pictures
+####  Really Old Shop-Pictures
 
 <table>
    <tr>
@@ -271,11 +221,11 @@ We will do a general open house if Sarah likes the idea!
 * * *
 * * *
 
-## A picture and a bit of information about our CraftsPersons could help us get to know each other!
+### A picture and a bit of information about our CraftsPersons could help us get to know each other!
 -  We have a page for workshop users!
 -  [Link to the Profile Page!](./Collateral/Profiles.md)
 
-###  Suggested information for your personal profile.
+#### Suggested information for your personal profile.
 - See [Link to Eric's Profile](./CraftsMen/Eric-S/Profile.md) for examples.
 - A picture of you, or a well known avatar for workmanship.
 - Some background information. 
@@ -302,12 +252,7 @@ We will do a general open house if Sarah likes the idea!
 * * *
 * * * 
 
-## Questions, Ideas, and Website Contributions can be sent to johnathan.binford@gmail.com .
-- Interim Moderator Eric S. will gather pictures and information, and then post it all here for easy viewing.
-
-* * *
-* * *
-
+### Review
 ## Our Provisional Applewood Pointe of Apple Valley Workshop Manual is Complete! 
 1. Initially, until ownership transfers to the resident Board of Directors (see item 3), <br>
 we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES (IF they provided one).
@@ -318,10 +263,8 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 - [Link to the PDF Documents Collection.](./Documents/Download.md)
   - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
-
-***
-  
-### Old Links
+ 
+### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
 [Link to Eric's Letter from the first luncheon.](./Collateral/JohnBinford-1.md)
