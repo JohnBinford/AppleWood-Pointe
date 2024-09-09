@@ -30,7 +30,7 @@
     <td>
       Draft Shop Users Manual
     </td>
-    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/APAV100122WorkshopUsersManDft.pdf"</a> 
+    <td> <a download href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Manual.pdf"</a> 
      Click to Download the Draft Shop Users Manual
     </td>
   </tr>
@@ -66,14 +66,6 @@
    </td>
    <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Collateral/Plans/Shop.pdf"</a> 
     Click to Download the Dimensioned AWP Shop Drawing with Dimensions
-   </td>
-  </tr>
-    <tr>
-   <td>
-   PDF of Selling your Home Checklist 
-   </td>
-   <td> <a href="https://github.com/JohnBinford/AppleWood-Pointe/blob/main/Documents/Countdown to Selling You Home prior to APAV Move.pdf"</a> 
-    Click to Download the Selling you Home Checklist.
    </td>
   </tr>
   </table>
