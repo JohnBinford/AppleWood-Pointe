@@ -121,7 +121,6 @@
 -  Johnathan Binford's alter ego - Eric S - is working on documentation for TV and Internet.
    -  [Click here to see a draft.](./Collateral/Tech/readme.md)
 -  The "Gang of Four" is getting ready to mount an air filter to the ceiling <br>(The last tast on our list!)
--  Some members wants to look at some old stuff,  [Here's a link to the OLD Website.](./readme-OLD.md)
 
 ***
 
@@ -287,9 +286,9 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 
 [Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)<br>
 
-[Link to Online Manual.](./Documents/Manual.md)<br>
+[Link to a Sample Online Manual.](./Documents/Manual.md)<br>
 
-[Link to Online Waiver.](./Documents/Waiver.md)
+[Link to a Sample Online Waiver.](./Documents/Waiver.md)
     
 [Link to the PDF Documents Collection.](./Documents/Download.md)
 
