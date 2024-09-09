@@ -13,7 +13,8 @@
   - You can also "Left-Click" (regular click for many of us...) to open a download window.
   - You will see a new preview page. 
     - If you see a "spinning" circle in the middle of the page or an empty looking page instead of a preview, ignore it and continue.
-  - Click the DOWNLOAD "box" on the right.
+  - Click the DOWNLOAD "box" on the right.  (It looks like a little tray with a down-pointing arrow.)
+    -  It says "download raw file" when you hover. 
     - Wait for the documents to download (you won't get a message, just pay attention please).
     - Use your browser's "back" arrow to return to this page when your are done downloading.
       - With my browser, it does not seem to hurt to backup too soon.  YMMV
