@@ -8,9 +8,8 @@
 <br>
 
 #### Note!
-- Just Right-Click one of the links below.  (Choose "save" or "save as".)
-- If you have an old browser, this works too.
-  - You can also "Left-Click" (regular click for many of us...) to open a download window.
+- Don't Right-Click one of the links below.  (This free webserver is wierd.)
+- You just "Left-Click" (regular click for many of us...) to open a download window.
   - You will see a new preview page. 
     - If you see a "spinning" circle in the middle of the page or an empty looking page instead of a preview, ignore it and continue.
   - Click the DOWNLOAD "box" on the right.  (It looks like a little tray with a down-pointing arrow.)
