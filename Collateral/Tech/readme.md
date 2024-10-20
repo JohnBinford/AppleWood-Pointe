@@ -3,7 +3,7 @@
 -  Cable TV, Phones, and Antennas usually don't require any activity from us, but are documented below if you need. <br>
 #### Our two Internet systems (WIFI and Ethernet) are well designed.  That said, most of us will (should?) only use WIFI. 
 -  **Using only WIFI for Internet and gadgets makes things very simple.  Connect your gadgets and go.  Usually things will "just work"!**<br><br>
--  Since our WIFI and wired Ethernet Internet systems do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.
+-  Since our WIFI and wired Ethernet Internet systems *sometimes* do not talk to each other, there are complications you might notice if you use a combination of wired and wireless gadgets.
    -  Your wired computer may not see your printer.
    -  Your IOT devices (Internet of Things - Gadgets like wireless speakers, home control systems, etc.) might be invisible to wired devices like computers or ethernet connected TV's. <br><br>
 -  **You will need your own wireless router hooked to your unit's ethernet system to make WIFI and hard-wred Ethernet work together.**
