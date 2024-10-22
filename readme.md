@@ -26,8 +26,8 @@ An Open House for the Workshop recently occurred.
    -  Ralph covered some operational tidbits like funding (None - just donations -- we have a box!).
    -  We adjourned and went downstairs, where Ralph, Linelle, and Jack showed things off and had nice chats with various members.
 <br>
-We have a small documents collection,  the Powerpoint shown at the gathering will be there.
-   -   [Link to the PDF Documents Collection.](./Documents/Download.md)
+Please email johnathan.binford@gmail.com  (Not on website to preserv secutiry and privacy.)
+
 
 
 ### Sorta New News!
