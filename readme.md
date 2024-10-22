@@ -26,7 +26,9 @@ An Open House for the Workshop recently occurred.
    -  Ralph covered some operational tidbits like funding (None - just donations -- we have a box!).
    -  We adjourned and went downstairs, where Ralph, Linelle, and Jack showed things off and had nice chats with various members.
 <br>
-Please email johnathan.binford@gmail.com  (Not kept on this website to preserve security and privacy.)
+To get a copy of the Open House Powerpoint, pelaes email John Binford as below. <br>
+ <a href="mailto:johnathan.binford@gmail.com">  JohnBinford@gmail.com </a> <br>
+(Not kept on this website to preserve security and privacy.)
 
 
 
