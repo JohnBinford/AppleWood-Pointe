@@ -1,9 +1,35 @@
 # Applewood Pointe Workshop
 
-## Welcome to the Applewood Pointe Workshop Special Interest Group!
+## Welcome to the Applewood Pointe Workshop Special Interest Group "Blog"!
 
 ***
-         
+### Recent News!
+
+An Open House for the Workshop recently occurred. 
+-  A short presentation was made by John Binford's proxy Eric outlining a few simple points about the shop before tours of the workshop began.
+   -  Our worker bee busybodies were introduced.  We refer to that group as "The Gnag of Four".  <br>
+   Hopefullyl we all know Linelle, Jack, Ralph, and Eric (AKA John Binford.)
+   -  Help is gladly available for any project - simple to complex -, contact the Gang members to get started.
+   -  Mentoring is also availible.
+   -  Safety best practices were discussed.  (You are your own keeper!)
+   -  Since many at the Great Room gthering were unfamiliar with our SIG's history, we briefly outlined some of the work that was done to get our fine shop in order.
+   -  We still maintain a Shop email list.  In the spirit of privacy, contact the gang for a copy.
+   -  Our Co-op oriented goals for the shop were outlined...
+      -  Available to all.
+      -  Fun to use.
+      -  Functional for the Pro's, with good facilities and useful tools for beginners.
+      -  Well equipped!
+      -  Safe.
+   -  Our draft Shop User's Manual and other documentation are available from this website.  Along with drawings and other generally useful information.
+   -  We stessed safety, and limitations of use in the spirit of safety.
+   -  Jack talked a bit about the deatils of running a safe shop.  (Training available and sometimes required.)
+   -  Ralph covered some operational tidbits like funding (None - just donations -- we have a box!).
+   -  We adjourned and went downstairs, where Ralph, Linelle, and Jack showed things off and had nice chats with various members.
+<br>
+We have a small documents collection,  the Powerpoint shown at the gathering will be there.
+   -   [Link to the PDF Documents Collection.](./Documents/Download.md)
+
+
 ### Sorta New News!
 -  An air filtration system, a ceiling mounted power cord reel, and two new cabinets (with lights!) were recently installed.
    -  These are the last chores the volunteer group has planned.
