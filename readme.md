@@ -30,7 +30,7 @@ To get a copy of the Open House Powerpoint, pelaes email John Binford as below. 
  <a href="mailto:johnathan.binford@gmail.com">  JohnBinford@gmail.com </a> <br>
 (Not kept on this website to preserve security and privacy.)
 
-
+***
 
 ### Sorta New News!
 -  An air filtration system, a ceiling mounted power cord reel, and two new cabinets (with lights!) were recently installed.
