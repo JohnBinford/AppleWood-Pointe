@@ -35,6 +35,7 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 
 ### Sorta New News!
 -  An air filtration system, a ceiling mounted power cord reel, and two new cabinets (with lights!) were recently installed.
+   -  Based on the advice of a resident expert in Industrail Infrastructure,  We obtained some ceiling-rated anchors, and also installed a "back up set" as a just in case.  With a good backup we will notice any issues with things moving around up there!
    -  These are the last chores the volunteer group has planned.
    -  We still need to cull a few redundant tools and sort things a bit but chores are done for now.
  
