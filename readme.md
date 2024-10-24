@@ -1,15 +1,16 @@
 # Applewood Pointe Workshop
 
-## Welcome to the Applewood Pointe Workshop Special Interest Group "Blog"!
+## Welcome to the Applewood Pointe Workshop Special Interest Group "Blog".
 
 ***
+
 ### Recent News!
 
 An Open House for the Workshop recently occurred. 
--  A short presentation was made by John Binford's proxy Eric outlining a few simple points about the shop before tours of the workshop began.
-   -  Our worker bee busybodies were introduced.  We refer to that group as "The Gnag of Four".  <br>
-   Hopefullyl we all know Linelle, Jack, Ralph, and Eric (AKA John Binford.)
-   -  Help is gladly available for any project - simple to complex -, contact the Gang members to get started.
+-  A short presentation was made by John Binford's proxy - Eric S. outlining a few simple points about the shop before tours of the workshop began.
+   -  Our worker bee busybodies were introduced.  We refer to that group as "The Gang of Four".  <br>
+   Hopefully we all know Linelle, Jack, Ralph, and Eric (AKA John Binford.)
+   -  Help is gladly available for any project - simple to complex, contact the Gang members to get started.
    -  Mentoring is also availible.
    -  Safety best practices were discussed.  (You are your own keeper!)
    -  Since many at the Great Room gthering were unfamiliar with our SIG's history, we briefly outlined some of the work that was done to get our fine shop in order.
