@@ -4,8 +4,8 @@
 
 ***
 
-## Reminder about our Workshop Guidelines (Workshop Users Guide / Manual)
-
+#### Reminder about our Workshop Guidelines (Workshop Users Guide / Manual) <br>
+[Link to a Sample Online Manual.](./Documents/Manual.md)
 
 
 ### Recent News!
