@@ -4,6 +4,10 @@
 
 ***
 
+## Reminder about our Workshop Guidelines (Workshop Users Guide / Manual)
+
+
+
 ### Recent News!
 
 An Open House for the Workshop recently occurred. 
