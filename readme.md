@@ -5,16 +5,18 @@
 ***
 
 #### Reminder about our Workshop Guidelines (Workshop Users Manual) <br>
-[Link to our Draft Online Manual.](./Documents/Manual.md)
+-  [Link to our Draft Online Manual.](./Documents/Manual.md)
+-  A "Pretty" version is available in the Documents folder, or by the link at the bottom of this page.
+
 
 ***
 #### Ralph L. recently produced a nice report of the WorkShop's highlights.
-[Link to our Draft 2024 Report.](./Collateral/2024-Report.md)
+-  [Link to our Draft 2024 Report.](./Collateral/2024-Report.md)
 
 #### Although we can't find a specific requirement in the AVAP bylaws, there was some talk about the need for a workshop charter, or at least any Official Committee that might serve the workshop.
 -  Here are a couple of EXAMPLES that we might use a as a basis if we need a charter.<br>
-[Here is a link to a sample that could be the basis for our own document.](./Collateral/GPT-Charter-Sample.md) <br>
-[Another sample here .](./Collateral/GPT-Charter-Sample1.md) <br>
+-  [Here is a link to a sample that could be the basis for our own document.](./Collateral/GPT-Charter-Sample.md) <br>
+-  [Another sample here .](./Collateral/GPT-Charter-Sample1.md) <br>
 - Thanks to Ralph for finding a creative way to make these.
 ***
 
