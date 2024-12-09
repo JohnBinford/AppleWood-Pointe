@@ -12,7 +12,7 @@ The Workshop Committee is a volunteer committee of Applewood Pointe of Apple Val
 -  Adhoc members are advisory only and are not considered voting Committee members.<br>
 #### III. Committee Authority and Responsibilities
 The Committee will:
--  A. Corporate Governance
+-  Corporate Governance
   1.	Maintain the Workshop and its tools and equipment;<br>
   2.	Serve as the direct channel of communication between the Group of Four, the Workshop Users, and the Board;
   3.	Oversee the Workshop function as approved by the Committee, including appointment and removal of the Chair of the committee, annual performance evaluation, and Workshop budget;
@@ -22,9 +22,9 @@ The Committee will:
   7.	Review the Workshop’s policies and recommend new policies and appropriate revisions to current policies to the Board; also review Corporation management’s compliance with such policies and report results to the Board;
   8.	At least annually, report its activities and findings to the Board;
   9.	Operate under a charter and review annually for adequacy and recommend any necessary changes for approval to the Board;
-  10.	Accomplish additional tasks as charged by the Chair of the Board or as may be required under applicable law. <br> <br>
-In carrying out its responsibilities, the Committee's policies and procedures should remain flexible in order to react to changing conditions and to ensure that the Workshop practices are in accordance with all requirements and are of the highest quality.<br>
--  B. Nominating
+  10.	Accomplish additional tasks as charged by the Chair of the Board or as may be required under applicable law. <br>
+  11.  In carrying out its responsibilities, the Committee's policies and procedures should remain flexible in order to react to changing conditions and to ensure that the Workshop practices are in accordance with all requirements and are of the highest quality.<br>
+-  Nominating
 	1.	Review Committee candidates’ qualifications;
 	2.	Annually prepare a slate of individuals to be considered for election to the Committee
 	3.	Upon the resignation or removal of Committee member, recommend a candidate to fill the vacancy to the Board if required. <br>   
