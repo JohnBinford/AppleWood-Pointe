@@ -8,6 +8,13 @@
 [Link to a Sample Online Manual.](./Documents/Manual.md)
 
 ***
+#### Ralph L. recently produced a nice report of the WorkShop's highlights.
+[Link to a Sample Online Manual.](./Documents/2024Report.md)
+
+#### Although we can't find a specific requirement in the AVAP bylaws, there was some talk about the need for a workshop charter, or at least any Official Committee that might serve the workshop.
+[Here is a link to a SAMPLE that could be the basis for our own document.](./Documents/GPTCharter.md)
+[Another SAMPLE here .](./Documents/GPT-Charter1.md.md)
+***
 
 ### Recent News!
 
