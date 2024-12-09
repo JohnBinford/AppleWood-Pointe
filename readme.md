@@ -10,7 +10,7 @@
 
 
 ***
-#### Ralph L. recently produced a nice report of the WorkShop's highlights.
+#### Ralph L. recently produced a nice report of the WorkShop's 2024 highlights.
 -  [Link to our Draft 2024 Report.](./Collateral/2024-Report.md)
 
 #### Although we can't find a specific requirement in the AVAP bylaws, there was some talk about the need for a workshop charter, or at least for any Official Committee that might serve the workshop.
