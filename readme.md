@@ -12,8 +12,8 @@
 [Link to our Draft 2024 Report.](./Collateral/2024-Report.md)
 
 #### Although we can't find a specific requirement in the AVAP bylaws, there was some talk about the need for a workshop charter, or at least any Official Committee that might serve the workshop.
-[Here is a link to a SAMPLE that could be the basis for our own document.](./Collateral/GPT-Sample1-Charter.md)
-[Another SAMPLE here .](./Collateral/GPT-Sample-Charter1.md.md)
+[Here is a link to a SAMPLE that could be the basis for our own document.](./Collateral/GPT-Charter-Sample.md) <br>
+[Another SAMPLE here .](./Collateral/GPT-Charter-Sample1.md.md)
 ***
 
 ### Recent News!
