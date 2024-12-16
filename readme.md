@@ -23,7 +23,7 @@
 ### A reminder that the workshop is for everyone.  Please check out the "Recent News" report (below) for details.<br>
 ### Recent News!
 
-An Open House for the Workshop recently occurred. 
+An Open House for the Workshop occurred and couple of months ago.  (The Information is still relevant!)
 -  A short presentation was made by John Binford's proxy - Eric S. outlining a few simple points about the shop before tours of the workshop began.
    -  Our worker bee busybodies were introduced.  We refer to that group as "The Gang of Four".  <br>
    Hopefully we all know Linelle, Jack, Ralph, and Eric (AKA John Binford.)
