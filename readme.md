@@ -15,8 +15,8 @@
 
 #### Although we can't find a specific requirement in the AVAP bylaws (or any laws), there was some talk about the need for a workshop charter, or at least for any Official Committee that might serve the workshop.
 -  Here are a couple of EXAMPLES that we might use a as a basis if we need a charter.<br>
--  [Here is a link to a sample that could be the basis for our own document.](./Collateral/GPT-Charter-Sample.md) <br>
--  [Another sample here .](./Collateral/GPT-Charter-Sample1.md) <br>
+   -  [Here is a link to a sample that could be the basis for our own document.](./Collateral/GPT-Charter-Sample.md) <br>
+   -  [Another sample here .](./Collateral/GPT-Charter-Sample1.md) <br>
 - Thanks to Ralph for finding a creative way to make these.
 ***
 
