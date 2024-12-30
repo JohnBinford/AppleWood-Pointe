@@ -49,13 +49,6 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 (Not kept on this website to preserve security and privacy.)
 
 ***
-
-### Sorta New News!
--  An air filtration system, a ceiling mounted power cord reel, and two new cabinets (with lights!) were recently installed.
-   -  Based on the advice of a resident expert in Industrail Infrastructure,  We obtained some ceiling-rated anchors, and also installed a "back up set" as a just in case.  With a good backup we will notice any issues with things moving around up there!
-   -  These are the last chores the volunteer group has planned.
-   -  We still need to cull a few redundant tools and sort things a bit but chores are done for now.
- 
 ***     
 
 #### Recent Shop Pictures
@@ -146,6 +139,7 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 <table>
 
 ***
+
 ### Links
 - The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
@@ -189,10 +183,12 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 ### Interesting Items, but not really news!
 
 -  Pictures of some interesting pipes in the arric when construction was in process.
--  [Click here to take a peek.](./Collateral/pipes.md)
+-  [Click here to take a peek.](./Collateral/Pipes.md)
 -  Johnathan Binford's alter ego - Eric S - is working on documentation for TV and Internet.
    -  [Click here to see a draft.](./Collateral/Tech/readme.md)
 -  The "Gang of Four" is getting ready to mount an air filter to the ceiling <br>(The last tast on our list!)
+-  Back in last 2021, about 18 of us met at one of the AWP "Free Lunches" and started talking about the shop.
+   -  [Click here to see the first page of this website back then.](./Collateral/newguy.md)
 
 ***
 
@@ -320,20 +316,6 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 
 * * *
 * * * 
-
-### Review
-## Our Provisional Applewood Pointe of Apple Valley Workshop Manual is Complete! 
-1. Initially, until ownership transfers to the resident Board of Directors (see item 3), <br>
-we must abide by the builder provided Applewood Point of Apple Valley's single page SHOP SAFETY RULES (IF they provided one).
-2. No other Workshop policies or manuals may be used until handover.<br>
-3. Once the resident Board of Directors has been established,<br>
-our group's more comprehensive Workshop Users Manual may be adopted.
-  - Compiled with input from us Workshop Users, we believe this more comprehensive Workshop Users Manual - developed based upon our needs, concerns, and recommendations better meets our Workshop User needs. This draft, to be revisited for final review when the above takes place, will be kept held on our Workshop Website:  www.github.com/johnbinford/Applewood-Pointe 
-
-- [Link to the PDF Documents Collection.](./Documents/Download.md)
-  - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
- 
-
 
 #### About John Binford
 - Note about the use of "John Binford" for this website and email.
