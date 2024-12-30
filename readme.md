@@ -145,6 +145,8 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 
 [Link to Eric's Letter from the first luncheon.](./Collateral/JohnBinford-1.md)
 
+[Link to to pictures of various tools that our 32 members offered.](./Collateral/Large-Tools.md)
+
 [Link to Schematic of Garage.](./Collateral/Garage-H.jpg)
 
 [Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
