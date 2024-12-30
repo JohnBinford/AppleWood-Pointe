@@ -146,10 +146,50 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 <table>
 
 ***
-***
-   
-### Four Months Old News!
--  The shop is ready for duty!
+### Links
+- The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
+
+[Link to Eric's Letter from the first luncheon.](./Collateral/JohnBinford-1.md)
+
+[Link to Schematic of Garage.](./Collateral/Garage-H.jpg)
+
+[Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
+
+[Link to new Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
+
+[Link to Apple Valley Planning Document.](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
+
+[Link to Pictures from the Maple Grove Shop.](./Other-Shops/Maple-Grove/readme.md)
+
+[Link to Pictures from the Eagan Shop.](./Other-Shops/Eagan/readme.md)
+
+[Link to Pictures from the Eden Prarie Shop.](./Other-Shops/Eden-Prarie/readme.md)
+
+[Link to Pictures from the GreenHouse Shop.](./Other-Shops/GreenHouse/readme.md)
+
+[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)<br>
+
+[Link to a Sample Online Manual.](./Documents/Manual.md)<br>
+
+[Link to a Sample Online Waiver.](./Documents/Waiver.md)
+    
+[Link to the PDF Documents Collection.](./Documents/Download.md)
+
+[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)<br>
+
+[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)<br>
+
+[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)<br>
+    
+[Link to picture of shop's block wall installation.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)<br>
+ 
+* * * 
+* * * 
+
+### Interesting Items, but not really news!
+
+-  Pictures of some interesting pipes in the arric when construction was in process.
+-  [Click here to take a peek.](./Collateral/pipes.md)
 -  Johnathan Binford's alter ego - Eric S - is working on documentation for TV and Internet.
    -  [Click here to see a draft.](./Collateral/Tech/readme.md)
 -  The "Gang of Four" is getting ready to mount an air filter to the ceiling <br>(The last tast on our list!)
@@ -293,44 +333,7 @@ our group's more comprehensive Workshop Users Manual may be adopted.
 - [Link to the PDF Documents Collection.](./Documents/Download.md)
   - (Some browsers might then show a "spinning" icon - if yours does, <br>just click the download button on the right.)
  
-### Links
-- The "Back" button on your browser is the best wasy to backup from links (Throughout this Repository).
 
-[Link to Eric's Letter from the first luncheon.](./Collateral/JohnBinford-1.md)
-
-[Link to Schematic of Garage.](./Collateral/Garage-H.jpg)
-
-[Link to new Dimensioned Drawing of Shop.](./Collateral/Shop-11-06-22.jpg)
-
-[Link to new Simplified Drawing of Shop.](./Collateral/Plans/Shop.JPG)
-
-[Link to Apple Valley Planning Document.](https://documents.applevalleymn.gov/WebLink/DocView.aspx?id=512623&dbid=0&repo=lf-city)
-
-[Link to Pictures from the Maple Grove Shop.](./Other-Shops/Maple-Grove/readme.md)
-
-[Link to Pictures from the Eagan Shop.](./Other-Shops/Eagan/readme.md)
-
-[Link to Pictures from the Eden Prarie Shop.](./Other-Shops/Eden-Prarie/readme.md)
-
-[Link to Pictures from the GreenHouse Shop.](./Other-Shops/GreenHouse/readme.md)
-
-[Link to Pictures from the Valley West and Southtown Shops](./Other-Shops/Valley-South/readme.md)<br>
-
-[Link to a Sample Online Manual.](./Documents/Manual.md)<br>
-
-[Link to a Sample Online Waiver.](./Documents/Waiver.md)
-    
-[Link to the PDF Documents Collection.](./Documents/Download.md)
-
-[Link to Aerial View (Drawing).](./Collateral/Aerial-1.png)<br>
-
-[Link to Topographical View (Drawing).](./Collateral/Aerial-Topo.png)<br>
-
-[Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)<br>
-    
-[Link to picture of shop's block wall installation.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)<br>
- 
-* * * 
 
 #### About John Binford
 - Note about the use of "John Binford" for this website and email.
