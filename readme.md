@@ -178,6 +178,8 @@ To get a copy of the Open House Powerpoint, please email John Binford as below. 
 [Link to Building Elevations (Drawing).](./Collateral/Building-Elevations.png)<br>
     
 [Link to picture of shop's block wall installation.](https://github.com/JohnBinford/AppleWood-Pointe/blob/main/readme.md#heres-a-picture-of-the-blockwork-that-has-been-done-for-the-shop)<br>
+
+[Link to Workshop Zoom Meetings if Scheduled.](https://us05web.zoom.us/j/6927735312?pwd=7BbqoQFQjwNASJ02KZDNbs7vVUugrR.1)
  
 * * * 
 * * * 
